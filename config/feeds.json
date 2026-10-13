@@ -294,11 +294,11 @@
     },
     {
       "id": "gnews-20",
-      "name": "Google News: (KDP OR \"Kindle Direct Publishing\" OR Draft2Digital) (fees OR royalties OR policy)",
+      "name": "Google News: (KDP OR \"Kindle Direct Publishing\" OR Draft2Digital) (fees OR royalties OR policy) -Iraq -Kurdistan -PUK -Barzani -Talabani -Keurig",
       "type": "google_news",
       "group": "Books & publishing",
-      "query": "(KDP OR \"Kindle Direct Publishing\" OR Draft2Digital) (fees OR royalties OR policy)",
-      "url": "https://news.google.com/rss/search?q=%28KDP%20OR%20%22Kindle%20Direct%20Publishing%22%20OR%20Draft2Digital%29%20%28fees%20OR%20royalties%20OR%20policy%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+      "query": "(KDP OR \"Kindle Direct Publishing\" OR Draft2Digital) (fees OR royalties OR policy) -Iraq -Kurdistan -PUK -Barzani -Talabani -Keurig",
+      "url": "https://news.google.com/rss/search?q=%28KDP%20OR%20%22Kindle%20Direct%20Publishing%22%20OR%20Draft2Digital%29%20%28fees%20OR%20royalties%20OR%20policy%29%20-Iraq%20-Kurdistan%20-PUK%20-Barzani%20-Talabani%20-Keurig%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
     },
     {
       "id": "gnews-21",
