@@ -11,5 +11,7 @@ Digest schema:
 ```json
 {"date":"YYYY-MM-DD","intro":"optional",
  "must_reads":[{"title":"","url":"","source":"","published":"ISO8601","why":"Why it matters for Geniuslink: ..."}],
- "sections":[{"name":"Amazon & retailer programs","items":[{"title":"","url":"","source":"","published":"ISO8601","summary":"optional"}]}]}
+ "sections":[{"name":"Amazon & retailer programs","items":[{"title":"","url":"","source":"","published":"ISO8601","summary":"optional","paywall":false,"also":{"source":"","url":"","paywall":true}}]}]}
 ```
+
+Optional item fields: `paywall` (true = main link is paywalled, shown as "(paywall)"); `also` (secondary reference, e.g. the paywalled original when a free version is the main link). Same-day rebuilds reuse .secrets/today-password.txt; set IW_NEW_PASSWORD=1 to force a new one.

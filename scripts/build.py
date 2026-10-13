@@ -39,6 +39,9 @@ def item_li(i, extra=''):
     meta = ' · '.join(x for x in [esc(i.get('source')), fmt_time(i.get('published', ''))] if x)
     note = f'<p class="why">{esc(i["why"])}</p>' if i.get('why') else ''
     summ = f'<p class="sum">{esc(i["summary"])}</p>' if i.get('summary') else ''
+    if i.get('paywall'): meta += ' · <span class="pw">(paywall)</span>'
+    if i.get('also'):
+        a = i['also']; meta += f' · (also: <a href="{esc(a["url"])}" target="_blank" rel="noopener noreferrer">{esc(a["source"])}</a>{" – paywall" if a.get("paywall", True) else ""})'
     return (f'<li{extra}><a href="{esc(i["url"])}" target="_blank" rel="noopener noreferrer">{esc(i["title"])}</a>'
             f'<div class="meta">{meta}</div>{summ}{note}</li>')
 
@@ -49,7 +52,7 @@ nav{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}nav a{font-size:.8rem;back
 section{background:#fff;border-radius:10px;padding:4px 16px 8px;margin:16px 0;box-shadow:0 1px 2px rgba(0,0,0,.06)}
 h2{font-size:1.05rem;margin:14px 0 6px;color:#243b53}h2 .n{color:#9aa5b1;font-weight:400}ul{list-style:none;padding:0;margin:0}
 li{padding:10px 0;border-top:1px solid #eef0f2}li:first-child{border-top:0}li a{color:#1d4ed8;text-decoration:none;font-weight:600}li a:hover{text-decoration:underline}
-.meta{font-size:.8rem;color:#7b8794}.why{margin:4px 0 0;font-size:.9rem;color:#3e4c59;border-left:3px solid #93c5fd;padding-left:8px}.sum{margin:4px 0 0;font-size:.9rem;color:#52606d}
+.meta{font-size:.8rem;color:#7b8794}.why{margin:4px 0 0;font-size:.9rem;color:#3e4c59;border-left:3px solid #93c5fd;padding-left:8px}.pw{color:#b45309}.sum{margin:4px 0 0;font-size:.9rem;color:#52606d}
 .top{background:#eff6ff}footer{font-size:.8rem;color:#9aa5b1;text-align:center;margin-top:24px}footer a{color:#7b8794}'''
 
 def page(title, body):
@@ -107,10 +110,14 @@ def index():
 
 if __name__ == '__main__':
     src, mode = render()
-    pw = new_password()
     sec = ROOT / '.secrets'; sec.mkdir(mode=0o700, exist_ok=True)
-    pf = sec / 'today-password.txt'; pf.write_text(pw + '\n'); os.chmod(pf, 0o600)
-    (sec / 'today-password-date.txt').write_text(DATE + '\n')
+    pf = sec / 'today-password.txt'; df = sec / 'today-password-date.txt'
+    # same-day rebuilds reuse the existing password (set IW_NEW_PASSWORD=1 to force a new one)
+    if pf.exists() and df.exists() and df.read_text().strip() == DATE and os.environ.get('IW_NEW_PASSWORD') != '1':
+        pw = pf.read_text().strip()
+    else:
+        pw = new_password()
+        pf.write_text(pw + '\n'); os.chmod(pf, 0o600); df.write_text(DATE + '\n')
     encrypt(src, pw)
     index()
     print(f'built {DATE} ({mode}); encrypted page docs/{DATE}.html; password written to .secrets/today-password.txt')

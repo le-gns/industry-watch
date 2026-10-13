@@ -3,39 +3,49 @@
  "intro": "Prime Day deal spam, Iraqi KDP politics and off-topic items filtered out.",
  "must_reads": [
   {
-   "title": "Meta’s TikTok Link Ban Could Hobble Media Buyers’ Creator Campaigns",
-   "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
-   "source": "Adweek",
+   "title": "Meta Just Blocked TikTok Links in Ads Across Seven Markets",
+   "url": "https://www.ecomcrew.com/meta-just-blocked-tiktok-links-in-ads-across-seven-markets/",
+   "source": "EcomCrew",
    "published": "2026-10-13T05:03:11+00:00",
-   "why": "Why it matters for Geniuslink: social platforms restricting outbound links directly threaten creator affiliate traffic — a key pitch for smart, resilient links."
+   "why": "Shows the growing tension between platforms: Meta now blocks ads that link to TikTok in seven countries. That matters for Geniuslink because our links work on any platform, and creators will look for ways around these blocks.",
+   "also": {
+    "source": "Adweek",
+    "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
+    "paywall": true
+   }
   },
   {
    "title": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices",
    "url": "https://gritdaily.com/phia-stuffing-scandal-exposes-affiliate-practices/",
    "source": "Grit Daily News",
    "published": "2026-10-12T20:12:08+00:00",
-   "why": "Why it matters for Geniuslink: cookie-stuffing scandals push brands and networks toward stricter attribution, making clean, transparent link tracking a selling point."
+   "why": "A reminder that affiliate fraud hurts trust in the whole industry. That matters for Geniuslink because brands and creators will ask more questions about how links track clicks."
   },
   {
-   "title": "Google AI Overviews Take Clicks and Credit Without Making Searchers Happier, Study Finds",
-   "url": "https://www.forbes.com/advisor/business/ai/google-ai-overview-study-results/",
-   "source": "Forbes",
+   "title": "Google AI Overviews Cut Clicks Without Lifting Satisfaction",
+   "url": "https://serpjournal.com/articles/google-ai-overviews-cut-clicks-without-lifting-searcher-satisfaction-bb5f8258",
+   "source": "SERP Journal",
    "published": "2026-10-12T14:56:57+00:00",
-   "why": "Why it matters for Geniuslink: AI Overviews eroding clicks squeeze publisher/affiliate traffic, raising the value of every remaining click."
+   "why": "A study finds Google's AI answers cut clicks to websites by about 40%. That matters for Geniuslink because our customers get less search traffic, so each click counts more.",
+   "also": {
+    "source": "Forbes",
+    "url": "https://www.forbes.com/advisor/business/ai/google-ai-overview-study-results/",
+    "paywall": true
+   }
   },
   {
    "title": "Priceline Faces Possible FTC Action Over Affiliate Hotel Advertising",
    "url": "https://www.affiversemedia.com/priceline-ftc-affiliate-hotel-advertising/",
    "source": "Affiverse Media",
    "published": "2026-10-13T09:43:29+00:00",
-   "why": "Why it matters for Geniuslink: possible FTC action on affiliate advertising signals rising regulatory scrutiny of affiliate disclosures and links."
+   "why": "Regulators are looking harder at how affiliate ads are shown. That matters for Geniuslink because rules on affiliate links and disclosure affect our customers."
   },
   {
    "title": "Are any Canadians in the AIP branching out with Walmart?",
    "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x43wf8/are_any_canadians_in_the_aip_branching_out_with/",
    "source": "r/Amazon_Influencer",
    "published": "2026-10-12T14:50:23+00:00",
-   "why": "Why it matters for Geniuslink: Amazon Influencers diversifying to Walmart is exactly the multi-retailer linking use case Geniuslink serves."
+   "why": "Amazon Influencers are starting to promote Walmart too. That matters for Geniuslink because creators who sell through more than one store need links that handle several retailers."
   }
  ],
  "sections": [
@@ -59,12 +69,6 @@
      "url": "https://www.thedrum.com/opinion/kiri-masters-should-retail-media-get-back-to-what-it-does-best-1",
      "source": "The Drum",
      "published": "2026-10-12T11:09:58+00:00"
-    },
-    {
-     "title": "Amazon Brings Regional Targeting and Unified Measurement to Prime Video",
-     "url": "https://www.affiversemedia.com/amazon-prime-video-regional-ad-targeting-measurement/",
-     "source": "Affiverse Media",
-     "published": "2026-10-12T07:00:00+00:00"
     }
    ]
   },
@@ -124,12 +128,6 @@
      "url": "https://www.mondaq.com/uk/advertising-marketing-branding/1851764/new-ai-powered-legal-and-operations-platform-launched-for-the-creator-economy-video",
      "source": "Mondaq",
      "published": "2026-10-12T09:12:20+00:00"
-    },
-    {
-     "title": "Social Commerce: 5 Proven Ways Smart Brands Sell",
-     "url": "https://www.globalbrandsmagazine.com/social-commerce-shift/",
-     "source": "Global Brands Magazine",
-     "published": "2026-10-12T10:00:30+00:00"
     }
    ]
   },
@@ -232,16 +230,15 @@
      "published": "2026-10-13T05:00:39+00:00"
     },
     {
-     "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
-     "url": "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic",
-     "source": "The Information",
-     "published": "2026-10-12T17:31:53+00:00"
-    },
-    {
-     "title": "Reach Says Google’s AI Shift Is Squeezing Digital Revenue",
-     "url": "https://finimize.com/content/reach-says-googles-ai-shift-is-squeezing-digital-revenue",
-     "source": "Finimize",
-     "published": "2026-10-13T00:40:37+00:00"
+     "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic",
+     "url": "https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai",
+     "source": "Axios",
+     "published": "2026-10-12T17:31:53+00:00",
+     "also": {
+      "source": "The Information",
+      "url": "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic",
+      "paywall": true
+     }
     },
     {
      "title": "Daily Mirror publisher Reach hit by Google traffic slump",
