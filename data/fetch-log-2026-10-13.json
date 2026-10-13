@@ -1,8 +1,8 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T11:06:38.504354+00:00",
+ "generated_at": "2026-10-13T11:07:36.577353+00:00",
  "lookback_hours": 30,
- "item_count": 169,
+ "item_count": 157,
  "google_news_links": 93,
  "google_news_resolved": 93,
  "feeds_ok": 70,
@@ -593,7 +593,7 @@
    "type": "reddit",
    "url": "https://www.reddit.com/r/KindlePublishing/new/.rss",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "id": "reddit-r-pubtips",
@@ -662,8 +662,8 @@
    "type": "reddit",
    "url": "https://www.reddit.com/search.rss?q=%22amazon%20associates%22%20commission&sort=new&t=week",
    "ok": true,
-   "items_in_feed": 25,
-   "items_kept": 2
+   "items_in_feed": 3,
+   "items_kept": 0
   },
   {
    "id": "reddit-search-06",
@@ -672,7 +672,7 @@
    "type": "reddit",
    "url": "https://www.reddit.com/search.rss?q=%22link%20in%20bio%22%20affiliate&sort=new&t=week",
    "ok": true,
-   "items_in_feed": 7,
+   "items_in_feed": 2,
    "items_kept": 0
   },
   {
@@ -712,8 +712,8 @@
    "type": "reddit",
    "url": "https://www.reddit.com/search.rss?q=%22amazon%20affiliate%22%20localization%20OR%20%22wrong%20country%22&sort=new&t=week",
    "ok": true,
-   "items_in_feed": 23,
-   "items_kept": 1
+   "items_in_feed": 1,
+   "items_kept": 0
   },
   {
    "id": "reddit-search-11",
@@ -722,8 +722,8 @@
    "type": "reddit",
    "url": "https://www.reddit.com/search.rss?q=%22affiliate%20link%22%20deep%20link%20app&sort=new&t=week",
    "ok": true,
-   "items_in_feed": 25,
-   "items_kept": 15
+   "items_in_feed": 3,
+   "items_kept": 0
   },
   {
    "id": "reddit-search-12",

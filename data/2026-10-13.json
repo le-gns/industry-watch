@@ -1,8 +1,8 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T11:06:38.504354+00:00",
+ "generated_at": "2026-10-13T11:07:36.577353+00:00",
  "lookback_hours": 30,
- "item_count": 169,
+ "item_count": 157,
  "google_news_links": 93,
  "google_news_resolved": 93,
  "feeds_ok": 70,
@@ -43,30 +43,6 @@
    ]
   },
   {
-   "title": "Best Owala deal: Owala FreeSip Twist water bottles drop below Prime Day prices",
-   "url": "https://mashable.com/life/oct-12-owala-freesip-twist-water-bottle-deal",
-   "source": "Mashable",
-   "group": "Amazon & retailer programs",
-   "feed_id": "gnews-22",
-   "published": "2026-10-12T15:21:58+00:00",
-   "snippet": "",
-   "matched_keywords": [
-    "prime day"
-   ]
-  },
-  {
-   "title": "$90 AirPods Pro are live at Amazon — save over $100 with this stunning October Prime Day Apple deal",
-   "url": "https://mashable.com/tech/oct-6-october-prime-day-apple-airpods-pro-deal",
-   "source": "Mashable",
-   "group": "Amazon & retailer programs",
-   "feed_id": "gnews-22",
-   "published": "2026-10-12T17:17:26+00:00",
-   "snippet": "",
-   "matched_keywords": [
-    "prime day"
-   ]
-  },
-  {
    "title": "Best October Prime Day TV deals: Get 65-inch TVs under $500",
    "url": "https://mashable.com/tech/best-october-prime-day-tv-deals-live-2026",
    "source": "Mashable",
@@ -85,18 +61,6 @@
    "group": "Amazon & retailer programs",
    "feed_id": "gnews-22",
    "published": "2026-10-12T18:27:58+00:00",
-   "snippet": "",
-   "matched_keywords": [
-    "prime day"
-   ]
-  },
-  {
-   "title": "The Sandisk 1TB Extreme Portable SSD gets price cut on October Prime Day: Save $90 with record low",
-   "url": "https://mashable.com/tech/oct-6-october-prime-day-sandisk-1tb-extreme-portable-ssd-deal",
-   "source": "Mashable",
-   "group": "Amazon & retailer programs",
-   "feed_id": "gnews-22",
-   "published": "2026-10-12T18:47:14+00:00",
    "snippet": "",
    "matched_keywords": [
     "prime day"
@@ -171,6 +135,18 @@
    ]
   },
   {
+   "title": "Best 65-inch TV deals ahead of Prime Day: New savings on 2026 TCL TVs and Fire TVs",
+   "url": "https://mashable.com/tech/best-early-prime-day-65-inch-tv-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
    "title": "65-inch TVs are getting the Prime Day treatment: Shop our top deals on TCL, Hisense, Samsung, and more",
    "url": "https://mashable.com/tech/best-early-october-prime-day-65-inch-tv-deals-2026",
    "source": "Mashable",
@@ -185,30 +161,6 @@
   {
    "title": "Best iPad mini deal: Apple's iPad mini drops to $499.99 on Prime Day",
    "url": "https://mashable.com/tech/prime-day-deal-2026-apple-ipad-mini-a17-pro",
-   "source": "Mashable",
-   "group": "Amazon & retailer programs",
-   "feed_id": "gnews-22",
-   "published": "2026-10-12T22:00:00+00:00",
-   "snippet": "",
-   "matched_keywords": [
-    "prime day"
-   ]
-  },
-  {
-   "title": "Best October Prime Day TV deal: Save $558 on Samsung 85-Inch QN70F 4K Mini-LED Smart TV",
-   "url": "https://mashable.com/tech/oct-6-october-prime-day-samsung-85-inch-qn70f-tv-deal",
-   "source": "Mashable",
-   "group": "Amazon & retailer programs",
-   "feed_id": "gnews-22",
-   "published": "2026-10-12T22:00:00+00:00",
-   "snippet": "",
-   "matched_keywords": [
-    "prime day"
-   ]
-  },
-  {
-   "title": "Best 65-inch TV deals ahead of Prime Day: New savings on 2026 TCL TVs and Fire TVs",
-   "url": "https://mashable.com/tech/best-early-prime-day-65-inch-tv-deals-2026",
    "source": "Mashable",
    "group": "Amazon & retailer programs",
    "feed_id": "gnews-22",
@@ -495,12 +447,36 @@
    ]
   },
   {
+   "title": "Best October Prime Day Dyson deals 2026: Airwrap, V15 Detect, HushJet air purifier",
+   "url": "https://mashable.com/tech/best-october-prime-day-dyson-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T05:46:17+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
    "title": "Sony headphones are hitting record lows on October Prime Day: Shop XM6, XM5, and budget headphones",
    "url": "https://mashable.com/tech/best-october-prime-day-sony-headphones-deals-2026",
    "source": "Mashable",
    "group": "Amazon & retailer programs",
    "feed_id": "gnews-22",
    "published": "2026-10-13T06:55:46+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Prime Day MacBook deal is still live: Last chance to get $200 off the new 13-inch M5 MacBook Air",
+   "url": "https://mashable.com/tech/oct-8-apple-macbook-air-m5-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T07:38:48+00:00",
    "snippet": "",
    "matched_keywords": [
     "prime day"
@@ -531,6 +507,18 @@
    ]
   },
   {
+   "title": "The DJI Neo is down to $139 at Amazon — score the record-low price on October Prime Day",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-dji-neo-drone-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T08:00:22+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
    "title": "Best Amazon Prime Day board game deals: Our favorite games are on sale",
    "url": "https://mashable.com/entertainment/best-october-prime-day-board-game-deals-2026",
    "source": "Mashable",
@@ -543,12 +531,24 @@
    ]
   },
   {
-   "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
-   "url": "https://mashable.com/tech/best-october-prime-day-3d-printer-deals-2026",
+   "title": "Prime Day MacBook deals guide 2026: Save up to $850 on Amazon vs. Apple",
+   "url": "https://mashable.com/tech/best-prime-day-macbook-deals-last-chance-2026",
    "source": "Mashable",
    "group": "Amazon & retailer programs",
    "feed_id": "gnews-22",
-   "published": "2026-10-13T10:16:36+00:00",
+   "published": "2026-10-13T09:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day Nintendo Switch deals: Console bundles, game deals, more",
+   "url": "https://mashable.com/entertainment/best-october-prime-day-nintendo-switch-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T10:05:30+00:00",
    "snippet": "",
    "matched_keywords": [
     "prime day"
@@ -1581,56 +1581,6 @@
    ]
   },
   {
-   "title": "[Best Buy] Hisense - 75\" Class U7 MiniLED QLED UHD 4K HDR Glare-Free Smart Google TV with Gemini (2026) — $997.99 (23% off, usually $1,296.02) · Lowest price ever",
-   "url": "https://www.reddit.com/r/HolidayRestockR/comments/1x4akom/best_buy_hisense_75_class_u7_miniled_qled_uhd_4k/",
-   "source": "r/HolidayRestockR",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T18:57:56+00:00",
-   "snippet": "Hisense - 75\" Class U7 MiniLED QLED UHD 4K HDR Glare-Free Smart Google TV with Gemini (2026) $997.99 at Best Buy · usually $1,296.02 · 23% off (save $298.03) Lowest price we have ever recorded for it 4.9★ from 41 reviews Price history and more deals Price checked Oct 12, 2:24 PM ET. Prices change fa",
-   "matched_keywords": [
-    "affiliate",
-    "gemini"
-   ]
-  },
-  {
-   "title": "Update: a Reddit comment turned into 42 character captions and folder batch import, plus free automatic license delivery",
-   "url": "https://www.reddit.com/r/buildinpublic/comments/1x4aodn/update_a_reddit_comment_turned_into_42_character/",
-   "source": "r/buildinpublic",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T19:01:25+00:00",
-   "snippet": "VoxScribe is a Windows app for offline dictation and .srt captions. The core is free and open source (MIT), and an optional Pro tier costs $14 once. There are no affiliate links in this post. A commenter on Reddit said creators pay for time saved, not accuracy in the abstract: batch a folder overnig",
-   "matched_keywords": [
-    "affiliate"
-   ]
-  },
-  {
-   "title": "We built buono, a free app that compares book prices (new and used) across UK and European shops",
-   "url": "https://www.reddit.com/r/TheBadLemon/comments/1x4auyw/we_built_buono_a_free_app_that_compares_book/",
-   "source": "r/TheBadLemon",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T19:07:46+00:00",
-   "snippet": "Hi all, this is the buono corner of the sub. buono is our own app, so please read this as us talking about our own thing. What it does Scan a book's barcode, or search by title, author or ISBN. buono shows new and used prices for that exact edition from bookshops and marketplaces in the UK, Italy, F",
-   "matched_keywords": [
-    "author",
-    "bol.com"
-   ]
-  },
-  {
-   "title": "Get $30 Quest Cash with your Quest 3 or 3S! Code: MXR",
-   "url": "https://www.reddit.com/r/MetaQuest_Referrals/comments/1x4b916/get_30_quest_cash_with_your_quest_3_or_3s_code_mxr/",
-   "source": "r/MetaQuest_Referrals",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T19:22:32+00:00",
-   "snippet": "Use my affiliate link for 10% off almost any game! If a game you need is missing from the list, let me know and I'll grab you a link! Or, use code \"MXR\" on most games, apps, and add-ons for 10% off! Note: ad blockers may cause the pop up to claim the discount not to show. $30 Quest Cash When Buying ",
-   "matched_keywords": [
-    "affiliate"
-   ]
-  },
-  {
    "title": "The eBook is now permafree via Draft2Digital",
    "url": "https://www.reddit.com/r/FoughtDisorder/comments/1x4bi4p/the_ebook_is_now_permafree_via_draft2digital/",
    "source": "r/FoughtDisorder",
@@ -1657,19 +1607,6 @@
    ]
   },
   {
-   "title": "Can i survive 500 days living underground in whiskerwood? Days 324-359",
-   "url": "https://www.reddit.com/r/u_Pravculear/comments/1x4bt5i/can_i_survive_500_days_living_underground_in/",
-   "source": "r/u_Pravculear",
-   "group": "Reddit",
-   "feed_id": "reddit-search-10",
-   "published": "2026-10-12T19:43:28+00:00",
-   "snippet": "Game: https://store.steampowered.com/app/2489330/Whiskerwood/ support me on kofi: https://ko-fi.com/pravculear general amazon affiliate link: https://amzn.to/3MXOR4x if you want a pc: https://www.jawa.gg/sp/151058/pravculears-computers Keywords: whiskerwood,hooded horse,gaming,gaming community,indie",
-   "matched_keywords": [
-    "affiliate",
-    "amazon affiliate"
-   ]
-  },
-  {
    "title": "Will AdSense Release My Payment if My Tax Form Is Still “In Review”?",
    "url": "https://www.reddit.com/r/NewTubers/comments/1x4bvue/will_adsense_release_my_payment_if_my_tax_form_is/",
    "source": "r/NewTubers",
@@ -1689,18 +1626,6 @@
    "feed_id": "reddit-r-affiliatemarketing",
    "published": "2026-10-12T20:22:58+00:00",
    "snippet": "I’ve been looking into affiliate programs lately and ngl, a lot of lists just repeat the same few names. I ended up digging around a bit more and put together a shortlist across a few different niches. Gaming Godlike Host - game server hosting, with up to 90% of the first purchase or up to 30% recur",
-   "matched_keywords": [
-    "affiliate"
-   ]
-  },
-  {
-   "title": "[Plugin Boutique] V10F by Audio Blast $72.00 (40% OFF)",
-   "url": "https://www.reddit.com/r/audioware/comments/1x4d24s/plugin_boutique_v10f_by_audio_blast_7200_40_off/",
-   "source": "r/audioware",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T20:31:00+00:00",
-   "snippet": "Transparency: Use the Affiliate link to support our sub at no extra cost or if you prefer, use the Non-Affiliate link. Affiliate Link: https://www.pluginboutique.com/product/1-Instruments/4-Synth/18050-V10F?a_aid=65285a1a3c976 Non-Affiliate Link: https://www.pluginboutique.com/product/1-Instruments/",
    "matched_keywords": [
     "affiliate"
    ]
@@ -1742,18 +1667,6 @@
    ]
   },
   {
-   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Mega Evolution—Perfect Order Booster Bundle, 6 Booster Pack - $39.95",
-   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4hakg/amazon_pokemon_restock_alert_pokemon_tcg_mega/",
-   "source": "r/pokemonrestockr",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-12T23:30:32+00:00",
-   "snippet": "Pokemon TCG: Mega Evolution—Perfect Order Booster Bundle, 6 Booster Pack was just restocked at amazon for $39.95! As of 10/12/2026, 7:30 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitte",
-   "matched_keywords": [
-    "affiliate"
-   ]
-  },
-  {
    "title": "Can I watch my own videos?",
    "url": "https://www.reddit.com/r/NewTubers/comments/1x4hv0v/can_i_watch_my_own_videos/",
    "source": "r/NewTubers",
@@ -1778,18 +1691,6 @@
    ]
   },
   {
-   "title": "WALMART POKEMON RESTOCK ALERT: Collectible Pokemon Sword & Shield - Shining Fates Elite Trainer Box Trading Card Game - $49.98",
-   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4jyxt/walmart_pokemon_restock_alert_collectible_pokemon/",
-   "source": "r/pokemonrestockr",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-13T01:38:45+00:00",
-   "snippet": "Collectible Pokemon Sword & Shield - Shining Fates Elite Trainer Box Trading Card Game was just restocked at walmart for $49.98! As of 10/12/2026, 9:38 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app Restoc",
-   "matched_keywords": [
-    "affiliate"
-   ]
-  },
-  {
    "title": "Ebook blocked by KDP",
    "url": "https://www.reddit.com/r/selfpublish/comments/1x4lvgb/ebook_blocked_by_kdp/",
    "source": "r/selfpublish",
@@ -1799,18 +1700,6 @@
    "snippet": "Woke up early Oct 11th to find my ebook had been blocked by Amazon's Kindle Content Review Team. The Kindle Content Team email said: Hello, We haven't received a reply to our previous message regarding the following book(s), so we will not be making the book(s) available for sale on Amazon: (my book",
    "matched_keywords": [
     "kdp"
-   ]
-  },
-  {
-   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Mega Evolution—Pitch Black Booster Bundle - $34.95",
-   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4mnni/amazon_pokemon_restock_alert_pokemon_tcg_mega/",
-   "source": "r/pokemonrestockr",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-13T03:54:53+00:00",
-   "snippet": "Pokemon TCG: Mega Evolution—Pitch Black Booster Bundle was just restocked at amazon for $34.95! As of 10/12/2026, 11:54 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitted by /u/RestockR-",
-   "matched_keywords": [
-    "affiliate"
    ]
   },
   {
@@ -1835,18 +1724,6 @@
    "snippet": "I have a main Google Account and one Brand Account under it. I want to create a second Brand Account under the same main but YouTube blocks me and says \"build channel history.\" Which history do I need to build on my main channel or on my existing Brand Account? I don't want to use my main account be",
    "matched_keywords": [
     "youtube"
-   ]
-  },
-  {
-   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Sword & Shield Silver Tempest Elite Trainer Box - $174.77",
-   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4pe18/amazon_pokemon_restock_alert_pokemon_tcg_sword/",
-   "source": "r/pokemonrestockr",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-13T06:32:43+00:00",
-   "snippet": "Pokemon TCG: Sword & Shield Silver Tempest Elite Trainer Box was just restocked at amazon for $174.77! As of 10/13/2026, 2:32 AM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitted by /u/Res",
-   "matched_keywords": [
-    "affiliate"
    ]
   },
   {
@@ -1898,19 +1775,6 @@
    ]
   },
   {
-   "title": "DC Collected Edition Deals [October 13 2026]",
-   "url": "https://www.reddit.com/r/UK_GraphicNovel_Deals/comments/1x4rbk2/dc_collected_edition_deals_october_13_2026/",
-   "source": "r/UK_GraphicNovel_Deals",
-   "group": "Reddit",
-   "feed_id": "reddit-search-05",
-   "published": "2026-10-13T08:39:41+00:00",
-   "snippet": "This post contains affiliate links. If you buy through these links, I may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Thanks for your support. SciFier Discount Code Alert: All Scifier deals are priced 8% off in the post and so, please use the d",
-   "matched_keywords": [
-    "affiliate",
-    "commission"
-   ]
-  },
-  {
    "title": "help stuck shorts views yt shorts",
    "url": "https://www.reddit.com/r/NewTubers/comments/1x4re61/help_stuck_shorts_views_yt_shorts/",
    "source": "r/NewTubers",
@@ -1920,18 +1784,6 @@
    "snippet": "There is a very sudden drop in My YouTube, videos, YouTube shorts views and if anyone knows what can be the reason so can you help me? submitted by /u/Fun-Roast-Factory [link] [comments]",
    "matched_keywords": [
     "youtube"
-   ]
-  },
-  {
-   "title": "👋 Welcome to r/GeminiArgon | Community Guidelines, Scope, and Discussion Norms",
-   "url": "https://www.reddit.com/r/GeminiArgon/comments/1x4sej3/welcome_to_rgeminiargon_community_guidelines/",
-   "source": "r/GeminiArgon",
-   "group": "Reddit",
-   "feed_id": "reddit-search-11",
-   "published": "2026-10-13T09:49:58+00:00",
-   "snippet": "r/GeminiArgon is a technical forum dedicated exclusively to Google’s Gemini 4 Argon architecture. As this architecture shifts operational boundaries in long-horizon reasoning, deep software synthesis, and autonomous agent trajectories, this space is established to facilitate high-signal collaboratio",
-   "matched_keywords": [
-    "gemini"
    ]
   },
   {
