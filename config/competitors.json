@@ -1,0 +1,1303 @@
+{
+ "version": 1,
+ "source_doc": "https://docs.google.com/document/d/15m05ILayYX1U6_yoEHIrSAJ81cr3JgEJSeJKGgexpKo/edit (Geniuslink Friends & Opportunities, Fall 2024; 'Competitors' section only)",
+ "lookback_hours": 30,
+ "max_items_per_feed": 25,
+ "x_import": "data/competitors-x-YYYY-MM-DD.json (written by the agent via the X connector; optional)",
+ "rejected_handles": {
+  "x": {
+   "GetLasso": "different company (proximity marketing)",
+   "usebutton": "moved to @button",
+   "AmznInfluencer": "empty account",
+   "rebrandly": "personal account",
+   "prettylinks": "personal account",
+   "books2read": "personal account",
+   "shorby": "personal account",
+   "markable_ai": "empty",
+   "linktwin": "personal account",
+   "dubdotco": "suspended",
+   "howl": "suspended",
+   "hoobe": "suspended"
+  },
+  "youtube": {
+   "@Bitly": "unrelated channel",
+   "@linktree": "unrelated",
+   "@beacons": "unrelated",
+   "@ShopMy": "personal",
+   "@AmazonInfluencerProgram": "personal",
+   "@Linkfire": "unrelated",
+   "@Sovrn": "unclear",
+   "@joinmavely": "unclear",
+   "@Rebrandly": "empty/unclear"
+  }
+ },
+ "no_public_feed": "LinkedIn (no public feed); blogs without RSS: URLgenius, Button, Geo Targetly, Joylink, Affilizz, Bitly, Rebrandly, Dub, JotURL, Mavely, LTK, ShopMy, Linktree, Beacons, Later, lnk.bio, hoo.be, Skimlinks (empty feed)",
+ "competitors": [
+  {
+   "id": "lasso",
+   "name": "Lasso",
+   "doc_category": "Widgets",
+   "priority": true,
+   "doc_note": "",
+   "urls": [
+    "https://getlasso.co/"
+   ],
+   "x_handle": "LassoWP",
+   "youtube_channel_id": "UCjFH5J5t8mR-MHb09UGdAVQ",
+   "match_terms": [
+    "lasso"
+   ]
+  },
+  {
+   "id": "urlgenius",
+   "name": "URLgenius",
+   "doc_category": "Mobile Deep Linking",
+   "priority": true,
+   "doc_note": "",
+   "urls": [
+    "https://urlgeni.us/"
+   ],
+   "x_handle": "URLgenius",
+   "youtube_channel_id": "UCY2P7sq5lcClJCixJ4M1DDg",
+   "match_terms": [
+    "urlgenius"
+   ]
+  },
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "doc_category": "Mobile Deep Linking",
+   "priority": true,
+   "doc_note": "",
+   "urls": [
+    "https://www.usebutton.com/"
+   ],
+   "x_handle": "button",
+   "youtube_channel_id": "UCHCEhHGu5DM3j1UvslmpsLA",
+   "match_terms": [
+    "button",
+    "posttap"
+   ]
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "doc_category": "Geo-targeting / Amazon focused",
+   "priority": true,
+   "doc_note": "OneLink listed under Geo-targeting and Amazon focused",
+   "urls": [
+    "https://affiliate-program.amazon.com/",
+    "https://www.aboutamazon.com/"
+   ],
+   "x_handle": "AmazonAssociate",
+   "youtube_channel_id": "UC3mLuRZXTgqmshSrngJ5eog",
+   "match_terms": [
+    "onelink",
+    "amazon associates",
+    "associates program",
+    "amazon influencer",
+    "influencer program",
+    "creator connections",
+    "amazon storefront",
+    "amazon affiliate"
+   ]
+  },
+  {
+   "id": "geotargetly",
+   "name": "Geo Targetly",
+   "doc_category": "Geo-targeting",
+   "priority": false,
+   "doc_note": "Lee: geo-browse screenshot tool seemed unreliable",
+   "urls": [
+    "https://geotargetly.com/"
+   ],
+   "x_handle": "GeoTargetly",
+   "youtube_channel_id": "UCZSwFeddD5rv06ilY4Ri-pA",
+   "match_terms": [
+    "geo targetly",
+    "geotargetly"
+   ]
+  },
+  {
+   "id": "joylink",
+   "name": "Joylink",
+   "doc_category": "Geo-targeting / Amazon focused / Mobile Deep Linking",
+   "priority": false,
+   "doc_note": "Brand new; gaining ground with FB deal creators",
+   "urls": [
+    "https://joylink.io/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "joylink"
+   ]
+  },
+  {
+   "id": "affilizz",
+   "name": "Affilizz",
+   "doc_category": "Product matching",
+   "priority": false,
+   "doc_note": "Frenemy",
+   "urls": [
+    "https://affilizz.com/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "affilizz"
+   ]
+  },
+  {
+   "id": "squirrel",
+   "name": "Squirrel",
+   "doc_category": "Product matching",
+   "priority": false,
+   "doc_note": "Frenemy",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "squirrel"
+   ]
+  },
+  {
+   "id": "sovrn",
+   "name": "Sovrn Compare / Sovrn Commerce",
+   "doc_category": "Product matching",
+   "priority": false,
+   "doc_note": "fka Monetizer 101",
+   "urls": [
+    "https://www.sovrn.com/"
+   ],
+   "x_handle": "SOVRN",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "sovrn"
+   ]
+  },
+  {
+   "id": "pricespider",
+   "name": "PriceSpider",
+   "doc_category": "Product matching",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://www.pricespider.com/"
+   ],
+   "x_handle": "PriceSpider",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "pricespider"
+   ]
+  },
+  {
+   "id": "skimlinks",
+   "name": "Skimlinks",
+   "doc_category": "Auto-affiliate / Monetization",
+   "priority": false,
+   "doc_note": "Frenemy",
+   "urls": [
+    "https://skimlinks.com/"
+   ],
+   "x_handle": "Skimlinks",
+   "youtube_channel_id": "UCqgk3-7nKDGzkOhEb5p1X5g",
+   "match_terms": [
+    "skimlinks"
+   ]
+  },
+  {
+   "id": "viglink",
+   "name": "VigLink (Sovrn Commerce)",
+   "doc_category": "Auto-affiliate / Monetization",
+   "priority": false,
+   "doc_note": "Less of a frenemy",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "viglink"
+   ]
+  },
+  {
+   "id": "nucleus",
+   "name": "Nucleus Links / Affinity / Vive",
+   "doc_category": "Auto-affiliate / Monetization",
+   "priority": false,
+   "doc_note": "LOTS of different things",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "nucleus links"
+   ]
+  },
+  {
+   "id": "aawp",
+   "name": "AAWP",
+   "doc_category": "Widgets",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://getaawp.com/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "aawp"
+   ]
+  },
+  {
+   "id": "amalinks",
+   "name": "AmaLinks Pro",
+   "doc_category": "Widgets",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://amalinkspro.com/"
+   ],
+   "x_handle": "AmaLinksPro",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "amalinks"
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "doc_category": "Widgets",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://blog.youtube/"
+   ],
+   "x_handle": "YouTubeCreators",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "youtube shopping",
+    "youtube"
+   ]
+  },
+  {
+   "id": "gizzmo",
+   "name": "Gizzmo.ai",
+   "doc_category": "Widgets",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://gizzmo.ai/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "gizzmo"
+   ]
+  },
+  {
+   "id": "hyphen",
+   "name": "Hyphen Social / Content Connections",
+   "doc_category": "Seller Network Aggregator",
+   "priority": false,
+   "doc_note": "Jesse: keep a close eye on these guys. hyphensocial.com now redirects to wayward.com",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "hyphen",
+    "content connections"
+   ]
+  },
+  {
+   "id": "flovidy",
+   "name": "Flovidy",
+   "doc_category": "Amazon focused",
+   "priority": false,
+   "doc_note": "Need to pay more attention to this one",
+   "urls": [
+    "https://flovidy.com/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "flovidy"
+   ]
+  },
+  {
+   "id": "landingcube",
+   "name": "Landing Cube",
+   "doc_category": "Amazon focused",
+   "priority": false,
+   "doc_note": "Jesse: don't know them, explore further",
+   "urls": [
+    "https://landingcube.com/"
+   ],
+   "x_handle": "LandingCube",
+   "youtube_channel_id": "UCK16iiCi9HjZroTmpHwtTRQ",
+   "match_terms": [
+    "landingcube",
+    "landing cube"
+   ]
+  },
+  {
+   "id": "creatorboost",
+   "name": "CreatorBoost / Newsfilliate",
+   "doc_category": "Amazon focused",
+   "priority": false,
+   "doc_note": "App on Kit.com app store and Chrome plugin",
+   "urls": [
+    "https://creatorboost.ai/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "creatorboost",
+    "newsfilliate"
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "doc_category": "Books",
+   "priority": false,
+   "doc_note": "Draft2Digital's universal book links",
+   "urls": [
+    "https://books2read.com/"
+   ],
+   "x_handle": "Draft2Digital",
+   "youtube_channel_id": "UCCxkNFCpyAoQV5eAKbZwZHg",
+   "match_terms": [
+    "books2read",
+    "draft2digital",
+    "universal book link"
+   ]
+  },
+  {
+   "id": "authorhelper",
+   "name": "AuthorHelper",
+   "doc_category": "Books",
+   "priority": false,
+   "doc_note": "",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "authorhelper"
+   ]
+  },
+  {
+   "id": "boooklink",
+   "name": "Boook.link",
+   "doc_category": "Books",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://boook.link/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "boook.link"
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "doc_category": "Books",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://www.goodreads.com/"
+   ],
+   "x_handle": "goodreads",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "goodreads"
+   ]
+  },
+  {
+   "id": "linktwin",
+   "name": "LinkTw.in",
+   "doc_category": "Mobile Deep Linking",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://linktw.in/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "linktwin",
+    "linktw.in"
+   ]
+  },
+  {
+   "id": "rebrandly",
+   "name": "Rebrandly",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "Geotargeting, device target",
+   "urls": [
+    "https://www.rebrandly.com/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "rebrandly"
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "Large enterprise brands",
+   "urls": [
+    "https://bitly.com/"
+   ],
+   "x_handle": "Bitly",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "bitly"
+   ]
+  },
+  {
+   "id": "linkfire",
+   "name": "Linkfire",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "Super music focused",
+   "urls": [
+    "https://www.linkfire.com/"
+   ],
+   "x_handle": "LinkFire",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "linkfire"
+   ]
+  },
+  {
+   "id": "dub",
+   "name": "Dub.co",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://dub.co/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": "UCxpEtItHR7Zb6X4VUAAgCOg",
+   "match_terms": [
+    "dub.co",
+    "dub partners"
+   ]
+  },
+  {
+   "id": "joturl",
+   "name": "JotURL",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://www.joturl.com/"
+   ],
+   "x_handle": "jotURL",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "joturl"
+   ]
+  },
+  {
+   "id": "prettylinks",
+   "name": "Pretty Links Pro",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://prettylinks.com/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "pretty links",
+    "pretty link"
+   ]
+  },
+  {
+   "id": "split",
+   "name": "Split",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "Frenemy (possible partnership)",
+   "urls": [
+    "https://www.split.co/"
+   ],
+   "x_handle": "split_co",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "split.co",
+    "split technologies"
+   ]
+  },
+  {
+   "id": "pxl",
+   "name": "pxl.to",
+   "doc_category": "Link Shortener",
+   "priority": false,
+   "doc_note": "Found on Reddit",
+   "urls": [
+    "https://www.pxl.to/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "pxl.to"
+   ]
+  },
+  {
+   "id": "mavely",
+   "name": "Mavely",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "Frenemy (owned by Later)",
+   "urls": [
+    "https://www.joinmavely.com/"
+   ],
+   "x_handle": "joinmavely",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "mavely"
+   ]
+  },
+  {
+   "id": "markable",
+   "name": "Markable.ai",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "Frenemy",
+   "urls": [
+    "https://markable.ai/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "markable"
+   ]
+  },
+  {
+   "id": "magiclinks",
+   "name": "MagicLinks",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "",
+   "urls": [],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "magiclinks"
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://www.shopltk.com/"
+   ],
+   "x_handle": "shopLTK",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "ltk",
+    "liketoknow"
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://shopmy.us/"
+   ],
+   "x_handle": "shopmy",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "shopmy"
+   ]
+  },
+  {
+   "id": "howl",
+   "name": "Howl",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "Frenemy?",
+   "urls": [
+    "https://www.howl.link/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "howl"
+   ]
+  },
+  {
+   "id": "shorby",
+   "name": "Shor.by",
+   "doc_category": "Influencer focused",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://shor.by/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "shorby",
+    "shor.by"
+   ]
+  },
+  {
+   "id": "beacons",
+   "name": "Beacons",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "Frenemy; link-in-bio not a true competitor YET",
+   "urls": [
+    "https://beacons.ai/"
+   ],
+   "x_handle": "beaconsai",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "beacons"
+   ]
+  },
+  {
+   "id": "linktree",
+   "name": "Linktree",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "Frenemy",
+   "urls": [
+    "https://linktr.ee/"
+   ],
+   "x_handle": "Linktree_",
+   "youtube_channel_id": null,
+   "match_terms": [
+    "linktree"
+   ]
+  },
+  {
+   "id": "liinks",
+   "name": "Liinks.co",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://liinks.co/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "liinks"
+   ]
+  },
+  {
+   "id": "later",
+   "name": "Later (Link in Bio)",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://later.com/link-in-bio/"
+   ],
+   "x_handle": "latermedia",
+   "youtube_channel_id": "UCqzYIYj-fRHV6bv16SpEhFQ",
+   "match_terms": [
+    "later.com",
+    "link in bio",
+    "mavely"
+   ]
+  },
+  {
+   "id": "lnkbio",
+   "name": "lnk.bio",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://lnk.bio/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "lnk.bio"
+   ]
+  },
+  {
+   "id": "hoobe",
+   "name": "hoo.be",
+   "doc_category": "Link In Bio",
+   "priority": false,
+   "doc_note": "",
+   "urls": [
+    "https://hoo.be/"
+   ],
+   "x_handle": null,
+   "youtube_channel_id": null,
+   "match_terms": [
+    "hoo.be"
+   ]
+  }
+ ],
+ "feeds": [
+  {
+   "id": "gn-lasso",
+   "competitor": "lasso",
+   "type": "google_news",
+   "query": "\"getlasso\" OR \"Lasso affiliate\" OR \"Lasso plugin\" OR \"Lasso Lite\"",
+   "url": "https://news.google.com/rss/search?q=%22getlasso%22%20OR%20%22Lasso%20affiliate%22%20OR%20%22Lasso%20plugin%22%20OR%20%22Lasso%20Lite%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "wire-lasso",
+   "competitor": "lasso",
+   "type": "google_news",
+   "query": "(\"getlasso\" OR \"Lasso affiliate\" OR \"Lasso plugin\" OR \"Lasso Lite\") (site:prnewswire.com OR site:businesswire.com OR site:globenewswire.com)",
+   "url": "https://news.google.com/rss/search?q=%28%22getlasso%22%20OR%20%22Lasso%20affiliate%22%20OR%20%22Lasso%20plugin%22%20OR%20%22Lasso%20Lite%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-lasso-0",
+   "competitor": "lasso",
+   "type": "rss",
+   "url": "https://getlasso.co/feed/"
+  },
+  {
+   "id": "yt-lasso",
+   "competitor": "lasso",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjFH5J5t8mR-MHb09UGdAVQ"
+  },
+  {
+   "id": "wp-simple-urls",
+   "competitor": "lasso",
+   "type": "wporg",
+   "slug": "simple-urls",
+   "url": "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request%5Bslug%5D=simple-urls"
+  },
+  {
+   "id": "reddit-lasso",
+   "competitor": "lasso",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22getlasso%22%20OR%20%22lasso%20plugin%22%20OR%20%22lasso%20affiliate%22&sort=new&t=week"
+  },
+  {
+   "id": "gn-urlgenius",
+   "competitor": "urlgenius",
+   "type": "google_news",
+   "query": "\"URLgenius\"",
+   "url": "https://news.google.com/rss/search?q=%22URLgenius%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "wire-urlgenius",
+   "competitor": "urlgenius",
+   "type": "google_news",
+   "query": "(\"URLgenius\") (site:prnewswire.com OR site:businesswire.com OR site:globenewswire.com)",
+   "url": "https://news.google.com/rss/search?q=%28%22URLgenius%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-urlgenius",
+   "competitor": "urlgenius",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY2P7sq5lcClJCixJ4M1DDg"
+  },
+  {
+   "id": "reddit-urlgenius",
+   "competitor": "urlgenius",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=urlgenius&sort=new&t=week"
+  },
+  {
+   "id": "gn-button",
+   "competitor": "button",
+   "type": "google_news",
+   "query": "\"usebutton\" OR \"Button mobile commerce\" OR \"Posttap\" OR \"Button commerce\"",
+   "url": "https://news.google.com/rss/search?q=%22usebutton%22%20OR%20%22Button%20mobile%20commerce%22%20OR%20%22Posttap%22%20OR%20%22Button%20commerce%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "wire-button",
+   "competitor": "button",
+   "type": "google_news",
+   "query": "(\"usebutton\" OR \"Button mobile commerce\" OR \"Posttap\" OR \"Button commerce\") (site:prnewswire.com OR site:businesswire.com OR site:globenewswire.com)",
+   "url": "https://news.google.com/rss/search?q=%28%22usebutton%22%20OR%20%22Button%20mobile%20commerce%22%20OR%20%22Posttap%22%20OR%20%22Button%20commerce%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-button",
+   "competitor": "button",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHCEhHGu5DM3j1UvslmpsLA"
+  },
+  {
+   "id": "reddit-button",
+   "competitor": "button",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22usebutton%22%20OR%20posttap&sort=new&t=week"
+  },
+  {
+   "id": "gn-amazon",
+   "competitor": "amazon",
+   "type": "google_news",
+   "query": "\"Amazon OneLink\" OR \"Amazon Associates\" OR \"Amazon Influencer Program\" OR \"Amazon Creator Connections\" OR \"Amazon storefront\" creators",
+   "url": "https://news.google.com/rss/search?q=%22Amazon%20OneLink%22%20OR%20%22Amazon%20Associates%22%20OR%20%22Amazon%20Influencer%20Program%22%20OR%20%22Amazon%20Creator%20Connections%22%20OR%20%22Amazon%20storefront%22%20creators%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "wire-amazon",
+   "competitor": "amazon",
+   "type": "google_news",
+   "query": "(\"Amazon OneLink\" OR \"Amazon Associates\" OR \"Amazon Influencer Program\" OR \"Amazon Creator Connections\" OR \"Amazon storefront\" creators) (site:prnewswire.com OR site:businesswire.com OR site:globenewswire.com)",
+   "url": "https://news.google.com/rss/search?q=%28%22Amazon%20OneLink%22%20OR%20%22Amazon%20Associates%22%20OR%20%22Amazon%20Influencer%20Program%22%20OR%20%22Amazon%20Creator%20Connections%22%20OR%20%22Amazon%20storefront%22%20creators%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-amazon-0",
+   "competitor": "amazon",
+   "type": "rss",
+   "url": "https://www.aboutamazon.com/rss/feed.rss"
+  },
+  {
+   "id": "yt-amazon",
+   "competitor": "amazon",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3mLuRZXTgqmshSrngJ5eog"
+  },
+  {
+   "id": "reddit-amazon",
+   "competitor": "amazon",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20onelink%22%20OR%20%22amazon%20associates%22%20OR%20%22amazon%20influencer%20program%22%20OR%20%22creator%20connections%22&sort=new&t=week"
+  },
+  {
+   "id": "gn-geotargetly",
+   "competitor": "geotargetly",
+   "type": "google_news",
+   "query": "\"Geo Targetly\" OR geotargetly",
+   "url": "https://news.google.com/rss/search?q=%22Geo%20Targetly%22%20OR%20geotargetly%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-geotargetly",
+   "competitor": "geotargetly",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZSwFeddD5rv06ilY4Ri-pA"
+  },
+  {
+   "id": "gn-joylink",
+   "competitor": "joylink",
+   "type": "google_news",
+   "query": "\"joylink.io\" OR (\"Joylink\" affiliate)",
+   "url": "https://news.google.com/rss/search?q=%22joylink.io%22%20OR%20%28%22Joylink%22%20affiliate%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-affilizz",
+   "competitor": "affilizz",
+   "type": "google_news",
+   "query": "\"Affilizz\"",
+   "url": "https://news.google.com/rss/search?q=%22Affilizz%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-squirrel",
+   "competitor": "squirrel",
+   "type": "google_news",
+   "query": "\"Squirrel\" (\"price comparison\" OR \"affiliate widget\")",
+   "url": "https://news.google.com/rss/search?q=%22Squirrel%22%20%28%22price%20comparison%22%20OR%20%22affiliate%20widget%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-sovrn",
+   "competitor": "sovrn",
+   "type": "google_news",
+   "query": "\"Sovrn\"",
+   "url": "https://news.google.com/rss/search?q=%22Sovrn%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-sovrn-0",
+   "competitor": "sovrn",
+   "type": "rss",
+   "url": "https://www.sovrn.com/feed/"
+  },
+  {
+   "id": "gn-pricespider",
+   "competitor": "pricespider",
+   "type": "google_news",
+   "query": "\"PriceSpider\"",
+   "url": "https://news.google.com/rss/search?q=%22PriceSpider%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-pricespider-0",
+   "competitor": "pricespider",
+   "type": "rss",
+   "url": "https://www.pricespider.com/feed/"
+  },
+  {
+   "id": "gn-skimlinks",
+   "competitor": "skimlinks",
+   "type": "google_news",
+   "query": "\"Skimlinks\"",
+   "url": "https://news.google.com/rss/search?q=%22Skimlinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-skimlinks",
+   "competitor": "skimlinks",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqgk3-7nKDGzkOhEb5p1X5g"
+  },
+  {
+   "id": "gn-viglink",
+   "competitor": "viglink",
+   "type": "google_news",
+   "query": "\"VigLink\"",
+   "url": "https://news.google.com/rss/search?q=%22VigLink%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-nucleus",
+   "competitor": "nucleus",
+   "type": "google_news",
+   "query": "\"Nucleus Links\"",
+   "url": "https://news.google.com/rss/search?q=%22Nucleus%20Links%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-aawp",
+   "competitor": "aawp",
+   "type": "google_news",
+   "query": "\"AAWP\" Amazon",
+   "url": "https://news.google.com/rss/search?q=%22AAWP%22%20Amazon%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-aawp-0",
+   "competitor": "aawp",
+   "type": "rss",
+   "url": "https://getaawp.com/feed/"
+  },
+  {
+   "id": "gn-amalinks",
+   "competitor": "amalinks",
+   "type": "google_news",
+   "query": "\"AmaLinks Pro\"",
+   "url": "https://news.google.com/rss/search?q=%22AmaLinks%20Pro%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-ytshopping",
+   "competitor": "ytshopping",
+   "type": "google_news",
+   "query": "\"YouTube Shopping\"",
+   "url": "https://news.google.com/rss/search?q=%22YouTube%20Shopping%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-ytshopping-0",
+   "competitor": "ytshopping",
+   "type": "rss",
+   "url": "https://blog.youtube/rss/"
+  },
+  {
+   "id": "gn-gizzmo",
+   "competitor": "gizzmo",
+   "type": "google_news",
+   "query": "\"Gizzmo\" affiliate",
+   "url": "https://news.google.com/rss/search?q=%22Gizzmo%22%20affiliate%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-hyphen",
+   "competitor": "hyphen",
+   "type": "google_news",
+   "query": "\"Hyphen Social\" OR (\"Content Connections\" Amazon)",
+   "url": "https://news.google.com/rss/search?q=%22Hyphen%20Social%22%20OR%20%28%22Content%20Connections%22%20Amazon%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-flovidy",
+   "competitor": "flovidy",
+   "type": "google_news",
+   "query": "\"Flovidy\"",
+   "url": "https://news.google.com/rss/search?q=%22Flovidy%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-landingcube",
+   "competitor": "landingcube",
+   "type": "google_news",
+   "query": "\"LandingCube\" OR \"Landing Cube\"",
+   "url": "https://news.google.com/rss/search?q=%22LandingCube%22%20OR%20%22Landing%20Cube%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-landingcube-0",
+   "competitor": "landingcube",
+   "type": "rss",
+   "url": "https://landingcube.com/feed/"
+  },
+  {
+   "id": "yt-landingcube",
+   "competitor": "landingcube",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK16iiCi9HjZroTmpHwtTRQ"
+  },
+  {
+   "id": "gn-creatorboost",
+   "competitor": "creatorboost",
+   "type": "google_news",
+   "query": "\"CreatorBoost\" OR \"Newsfilliate\"",
+   "url": "https://news.google.com/rss/search?q=%22CreatorBoost%22%20OR%20%22Newsfilliate%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-books2read",
+   "competitor": "books2read",
+   "type": "google_news",
+   "query": "\"Books2Read\" OR (\"Draft2Digital\" links)",
+   "url": "https://news.google.com/rss/search?q=%22Books2Read%22%20OR%20%28%22Draft2Digital%22%20links%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-books2read",
+   "competitor": "books2read",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCxkNFCpyAoQV5eAKbZwZHg"
+  },
+  {
+   "id": "gn-authorhelper",
+   "competitor": "authorhelper",
+   "type": "google_news",
+   "query": "\"AuthorHelper\"",
+   "url": "https://news.google.com/rss/search?q=%22AuthorHelper%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-boooklink",
+   "competitor": "boooklink",
+   "type": "google_news",
+   "query": "\"Boook.link\"",
+   "url": "https://news.google.com/rss/search?q=%22Boook.link%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-goodreads",
+   "competitor": "goodreads",
+   "type": "google_news",
+   "query": "\"Goodreads\" (launches OR feature OR update OR app OR Amazon)",
+   "url": "https://news.google.com/rss/search?q=%22Goodreads%22%20%28launches%20OR%20feature%20OR%20update%20OR%20app%20OR%20Amazon%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-linktwin",
+   "competitor": "linktwin",
+   "type": "google_news",
+   "query": "\"LinkTwin\" OR \"linktw.in\"",
+   "url": "https://news.google.com/rss/search?q=%22LinkTwin%22%20OR%20%22linktw.in%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-rebrandly",
+   "competitor": "rebrandly",
+   "type": "google_news",
+   "query": "\"Rebrandly\"",
+   "url": "https://news.google.com/rss/search?q=%22Rebrandly%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-bitly",
+   "competitor": "bitly",
+   "type": "google_news",
+   "query": "\"Bitly\"",
+   "url": "https://news.google.com/rss/search?q=%22Bitly%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-linkfire",
+   "competitor": "linkfire",
+   "type": "google_news",
+   "query": "\"Linkfire\"",
+   "url": "https://news.google.com/rss/search?q=%22Linkfire%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-linkfire-0",
+   "competitor": "linkfire",
+   "type": "rss",
+   "url": "https://www.linkfire.com/blog/rss.xml"
+  },
+  {
+   "id": "gn-dub",
+   "competitor": "dub",
+   "type": "google_news",
+   "query": "\"Dub.co\" OR \"Dub Partners\"",
+   "url": "https://news.google.com/rss/search?q=%22Dub.co%22%20OR%20%22Dub%20Partners%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-dub",
+   "competitor": "dub",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxpEtItHR7Zb6X4VUAAgCOg"
+  },
+  {
+   "id": "gn-joturl",
+   "competitor": "joturl",
+   "type": "google_news",
+   "query": "\"JotURL\"",
+   "url": "https://news.google.com/rss/search?q=%22JotURL%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-prettylinks",
+   "competitor": "prettylinks",
+   "type": "google_news",
+   "query": "\"Pretty Links\"",
+   "url": "https://news.google.com/rss/search?q=%22Pretty%20Links%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "rss-prettylinks-0",
+   "competitor": "prettylinks",
+   "type": "rss",
+   "url": "https://prettylinks.com/feed/"
+  },
+  {
+   "id": "wp-pretty-link",
+   "competitor": "prettylinks",
+   "type": "wporg",
+   "slug": "pretty-link",
+   "url": "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request%5Bslug%5D=pretty-link"
+  },
+  {
+   "id": "gn-split",
+   "competitor": "split",
+   "type": "google_news",
+   "query": "\"split.co\" OR \"Split Technologies\"",
+   "url": "https://news.google.com/rss/search?q=%22split.co%22%20OR%20%22Split%20Technologies%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-pxl",
+   "competitor": "pxl",
+   "type": "google_news",
+   "query": "\"pxl.to\"",
+   "url": "https://news.google.com/rss/search?q=%22pxl.to%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-mavely",
+   "competitor": "mavely",
+   "type": "google_news",
+   "query": "\"Mavely\"",
+   "url": "https://news.google.com/rss/search?q=%22Mavely%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-markable",
+   "competitor": "markable",
+   "type": "google_news",
+   "query": "\"Markable.ai\" OR \"Markable AI\"",
+   "url": "https://news.google.com/rss/search?q=%22Markable.ai%22%20OR%20%22Markable%20AI%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-magiclinks",
+   "competitor": "magiclinks",
+   "type": "google_news",
+   "query": "\"MagicLinks\"",
+   "url": "https://news.google.com/rss/search?q=%22MagicLinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-ltk",
+   "competitor": "ltk",
+   "type": "google_news",
+   "query": "\"LTK\" (creators OR influencer OR shopltk)",
+   "url": "https://news.google.com/rss/search?q=%22LTK%22%20%28creators%20OR%20influencer%20OR%20shopltk%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-shopmy",
+   "competitor": "shopmy",
+   "type": "google_news",
+   "query": "\"ShopMy\"",
+   "url": "https://news.google.com/rss/search?q=%22ShopMy%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-howl",
+   "competitor": "howl",
+   "type": "google_news",
+   "query": "\"Howl\" (creators OR affiliate OR \"planet howl\")",
+   "url": "https://news.google.com/rss/search?q=%22Howl%22%20%28creators%20OR%20affiliate%20OR%20%22planet%20howl%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-shorby",
+   "competitor": "shorby",
+   "type": "google_news",
+   "query": "\"Shorby\" OR \"Shor.by\"",
+   "url": "https://news.google.com/rss/search?q=%22Shorby%22%20OR%20%22Shor.by%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-beacons",
+   "competitor": "beacons",
+   "type": "google_news",
+   "query": "\"Beacons.ai\" OR (\"Beacons\" creator link in bio)",
+   "url": "https://news.google.com/rss/search?q=%22Beacons.ai%22%20OR%20%28%22Beacons%22%20creator%20link%20in%20bio%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-linktree",
+   "competitor": "linktree",
+   "type": "google_news",
+   "query": "\"Linktree\"",
+   "url": "https://news.google.com/rss/search?q=%22Linktree%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-liinks",
+   "competitor": "liinks",
+   "type": "google_news",
+   "query": "\"Liinks\"",
+   "url": "https://news.google.com/rss/search?q=%22Liinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-later",
+   "competitor": "later",
+   "type": "google_news",
+   "query": "\"Later\" (\"link in bio\" OR creators OR Mavely)",
+   "url": "https://news.google.com/rss/search?q=%22Later%22%20%28%22link%20in%20bio%22%20OR%20creators%20OR%20Mavely%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "yt-later",
+   "competitor": "later",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzYIYj-fRHV6bv16SpEhFQ"
+  },
+  {
+   "id": "gn-lnkbio",
+   "competitor": "lnkbio",
+   "type": "google_news",
+   "query": "\"lnk.bio\"",
+   "url": "https://news.google.com/rss/search?q=%22lnk.bio%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "gn-hoobe",
+   "competitor": "hoobe",
+   "type": "google_news",
+   "query": "\"hoo.be\"",
+   "url": "https://news.google.com/rss/search?q=%22hoo.be%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "id": "reddit-shorteners",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22rebrandly%22%20OR%20%22bitly%22%20OR%20%22dub.co%22%20OR%20%22joturl%22%20OR%20%22pretty%20links%22%20OR%20%22linktwin%22%20OR%20%22pxl.to%22%20OR%20%22linkfire%22&sort=new&t=week"
+  },
+  {
+   "id": "reddit-amazon-tools",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22flovidy%22%20OR%20%22landingcube%22%20OR%20%22joylink%22%20OR%20%22geotargetly%22%20OR%20%22amalinks%22%20OR%20%22aawp%22%20OR%20%22creatorboost%22&sort=new&t=week"
+  },
+  {
+   "id": "reddit-monetization",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22skimlinks%22%20OR%20%22sovrn%22%20OR%20%22viglink%22%20OR%20%22affilizz%22%20OR%20%22pricespider%22&sort=new&t=week"
+  },
+  {
+   "id": "reddit-influencer",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22shopmy%22%20OR%20%22mavely%22%20OR%20%22magiclinks%22%20OR%20%22LTK%20app%22%20OR%20%22beacons.ai%22%20OR%20%22linktree%22%20OR%20%22lnk.bio%22%20OR%20%22hoo.be%22&sort=new&t=week"
+  },
+  {
+   "id": "reddit-books",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22books2read%22%20OR%20%22boook.link%22%20OR%20%22authorhelper%22%20OR%20%22universal%20book%20link%22&sort=new&t=week"
+  }
+ ],
+ "reddit_exclude": [
+  "deal alert",
+  "% off]",
+  "[for hire]",
+  "cashback",
+  "ca$hback"
+ ],
+ "match_rule": "google_news/reddit items must contain one of the competitor's match_terms in title+snippet (google_news priority feeds exempt except amazon); grouped reddit feeds are assigned to whichever competitor matches"
+}

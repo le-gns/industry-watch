@@ -1,0 +1,159 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T14:30:29.465247+00:00",
+ "item_count": 15,
+ "feeds_ok": 82,
+ "feeds_failed": 0,
+ "items": [
+  {
+   "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+   "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-12T16:29:00+00:00",
+   "snippet": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region."
+  },
+  {
+   "title": "Bet some Amazon associates could get some serious time in here",
+   "url": "https://www.reddit.com/r/AmazonFC/comments/1x4vne9/bet_some_amazon_associates_could_get_some_serious/",
+   "source": "r/AmazonFC",
+   "competitor": "amazon",
+   "feed_id": "reddit-amazon",
+   "type": "reddit",
+   "published": "2026-10-13T12:45:13+00:00",
+   "snippet": "submitted by /u/Wackylew to r/AmazonFC [link] [comments]"
+  },
+  {
+   "title": "Which of these guys provided the most background music to youtube shorts?",
+   "url": "https://www.reddit.com/r/youtube/comments/1x4v1o1/which_of_these_guys_provided_the_most_background/",
+   "source": "r/youtube",
+   "competitor": "ytshopping",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-13T12:16:01+00:00",
+   "snippet": "Like Da Vinci and Michaelangelo submitted by /u/kindofsus38 to r/youtube [link] [comments]"
+  },
+  {
+   "title": "7 Simple Steps to Start Building Your Personal Brand from Scratch",
+   "url": "https://x.com/Draft2Digital/status/2109630274573107387",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-10-12T13:00:27+00:00",
+   "snippet": "7 Simple Steps to Start Building Your Personal Brand from Scratch"
+  },
+  {
+   "title": "12th Monstober!",
+   "url": "https://www.reddit.com/r/u_Elizabethnharris/comments/1x49npd/12th_monstober/",
+   "source": "r/u_Elizabethnharris",
+   "competitor": "books2read",
+   "feed_id": "reddit-books",
+   "type": "reddit",
+   "published": "2026-10-12T18:24:33+00:00",
+   "snippet": "12th Monstober Authors... Temptation lays in wait for all of us. It lurks and hides, just waiting to entice us. Sneaky and alluring, who can resist? Ask AJ Mullican who brings you not one, not two but three tantalising males. Tizahmi brings you a huntress who seeks a target that might be too much fo"
+  },
+  {
+   "title": "The eBook is now permafree via Draft2Digital",
+   "url": "https://www.reddit.com/r/FoughtDisorder/comments/1x4bi4p/the_ebook_is_now_permafree_via_draft2digital/",
+   "source": "r/FoughtDisorder",
+   "competitor": "books2read",
+   "feed_id": "reddit-books",
+   "type": "reddit",
+   "published": "2026-10-12T19:32:07+00:00",
+   "snippet": "Hi guys Fought Disorder is currently £6.99 on Amazon, Apple, Kobo, etc. as a digital download. I'd like to make digital versions free, so that the book can reach more potential readers. Starting with the versions distributed by Draft2Digital, these are now permafree. It may take a few days for the o"
+  },
+  {
+   "title": "Reply to a user feature request (heart books like Letterboxd): \"We are listening and look forward to sharing updates here as our work progresses.\"",
+   "url": "https://x.com/goodreads/status/2109776238046785631",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-10-12T22:40:27+00:00",
+   "snippet": "Reply to a user feature request (heart books like Letterboxd): \"We are listening and look forward to sharing updates here as our work progresses.\""
+  },
+  {
+   "title": "Goodreads Recommends 3 Audiobooks Reba Can’t Stop Listening To Right Now",
+   "url": "https://www.womansworld.com/entertainment/books/goodreads-recommends-audiobooks-reba-is-listening-to-right-now",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-12T23:00:53+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Goodreads' Top 15 Most Read Historical Fiction Books Of 2026 (So Far), Ranked By Reviews",
+   "url": "https://www.women.com/2283388/goodreads-15-most-read-historical-fiction-books-published-2026-ranked-reviews/",
+   "source": "Women.com",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-12T23:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bestselling Romantasy Author’s Newest Book of Short Stories Ranked a ‘Most Read Book’ by Goodreads",
+   "url": "https://parade.com/books/bestselling-romantasy-authors-newest-book-of-short-stories-ranked-a-most-read-book-by-goodreads",
+   "source": "Parade Magazine",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-13T05:34:21+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Short link. Smart link. Deep link. Dynamic QR Code. Here’s how to tell which ones you actually need for your next campaign",
+   "url": "https://x.com/Bitly/status/2109648543166116052",
+   "source": "X @Bitly",
+   "competitor": "bitly",
+   "feed_id": "x-Bitly",
+   "type": "social",
+   "published": "2026-10-12T14:13:02+00:00",
+   "snippet": "Short link. Smart link. Deep link. Dynamic QR Code. Here’s how to tell which ones you actually need for your next campaign"
+  },
+  {
+   "title": "ShopMy Creator Referral Link",
+   "url": "https://www.reddit.com/r/ShopMy/comments/1x4wumu/shopmy_creator_referral_link/",
+   "source": "r/ShopMy",
+   "competitor": "shopmy",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-13T13:37:11+00:00",
+   "snippet": "If you would like to join ShopMy and get accepted as a creator to earn money, please consider using my referral link: https://shopmy.us/join/vintageoctober Thank you! submitted by /u/checkeredaquarius to r/ShopMy [link] [comments]"
+  },
+  {
+   "title": "Anyone tried or heard of Unil.ink?",
+   "url": "https://www.reddit.com/r/LovedByCreators/comments/1x4w0pn/anyone_tried_or_heard_of_unilink/",
+   "source": "r/LovedByCreators",
+   "competitor": "beacons",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-13T13:01:39+00:00",
+   "snippet": "This was recommended to me by Ai as a better alternative to Beacons.ai. I was wondering if anyone had heard of it. It is not as popular as the latter. submitted by /u/ObsidianGeek to r/LovedByCreators [link] [comments]"
+  },
+  {
+   "title": "Novelas",
+   "url": "https://www.reddit.com/r/u_Available_Still7523/comments/1x4t3w5/novelas/",
+   "source": "r/u_Available_Still7523",
+   "competitor": "linktree",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-13T10:32:09+00:00",
+   "snippet": "Novelas: Link: https://drive.google.com/file/d/1BWlPgWvQcGwKBD40-O7oeiJo4htz7mo0/view?usp=drivesdk ━━━━━━━━ - Roque Santeiro (1985) - América (2005) - O Outro Lado do Paraíso (2017) - A Favorita (2008) - Corpo Dourado (1998) ━━━━━━━━ https://linktr.ee/wonderdrivefilmeseseries?utm\\_source=linktree\\_p"
+  },
+  {
+   "title": "'Off The Record' CASTING CALL – 9 ROLES",
+   "url": "https://www.reddit.com/r/CASTING/comments/1x4xyb3/off_the_record_casting_call_9_roles/",
+   "source": "r/CASTING",
+   "competitor": "linktree",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-13T14:20:55+00:00",
+   "snippet": "Hey everyone, We are searching for our core cast for a new teen series centered around music, sport, and outdoor adventure! No professional acting experience or agent required. We are casting 9 characters (Teens 14–20 and an Adult Manager 25–40). Full details on the characters, self-tape rules, and "
+  }
+ ]
+}

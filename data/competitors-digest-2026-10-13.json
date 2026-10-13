@@ -1,0 +1,361 @@
+{
+ "date": "2026-10-13",
+ "summary": [
+  "Quiet day for the priority four: no news, press releases, blog posts, X posts or Reddit threads from Lasso, URLgenius, Button or Amazon's link tools in the last ~30 hours.",
+  "Bitly posted on X about telling apart short links, smart links, deep links and dynamic QR codes. It's a sign that shorteners are moving into 'smart link' language.",
+  "On Reddit, a creator said an AI chatbot pointed them to a lesser-known link-in-bio tool (Unil.ink) as an alternative to Beacons.",
+  "No new plugin releases: Lasso Lite (v160, 8 Oct) and Pretty Links (v4.0.16, 6 Oct) are unchanged on WordPress.org."
+ ],
+ "competitors": [
+  {
+   "id": "lasso",
+   "name": "Lasso",
+   "priority": true,
+   "category": "Widgets",
+   "note": "Product check: Lasso Lite on WordPress.org is at version 160 (last updated 8 Oct 2026, ~4,000 active installs). No change in the last day.",
+   "items": []
+  },
+  {
+   "id": "urlgenius",
+   "name": "URLgenius",
+   "priority": true,
+   "category": "Mobile Deep Linking",
+   "items": []
+  },
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "category": "Mobile Deep Linking",
+   "items": []
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "category": "Geo-targeting / Amazon focused",
+   "items": []
+  },
+  {
+   "id": "geotargetly",
+   "name": "Geo Targetly",
+   "priority": false,
+   "category": "Geo-targeting",
+   "items": []
+  },
+  {
+   "id": "joylink",
+   "name": "Joylink",
+   "priority": false,
+   "category": "Geo-targeting / Amazon focused / Mobile Deep Linking",
+   "items": []
+  },
+  {
+   "id": "affilizz",
+   "name": "Affilizz",
+   "priority": false,
+   "category": "Product matching",
+   "items": []
+  },
+  {
+   "id": "squirrel",
+   "name": "Squirrel",
+   "priority": false,
+   "category": "Product matching",
+   "items": []
+  },
+  {
+   "id": "sovrn",
+   "name": "Sovrn Compare / Sovrn Commerce",
+   "priority": false,
+   "category": "Product matching",
+   "items": []
+  },
+  {
+   "id": "pricespider",
+   "name": "PriceSpider",
+   "priority": false,
+   "category": "Product matching",
+   "items": []
+  },
+  {
+   "id": "skimlinks",
+   "name": "Skimlinks",
+   "priority": false,
+   "category": "Auto-affiliate / Monetization",
+   "items": []
+  },
+  {
+   "id": "viglink",
+   "name": "VigLink (Sovrn Commerce)",
+   "priority": false,
+   "category": "Auto-affiliate / Monetization",
+   "items": []
+  },
+  {
+   "id": "nucleus",
+   "name": "Nucleus Links / Affinity / Vive",
+   "priority": false,
+   "category": "Auto-affiliate / Monetization",
+   "items": []
+  },
+  {
+   "id": "aawp",
+   "name": "AAWP",
+   "priority": false,
+   "category": "Widgets",
+   "items": []
+  },
+  {
+   "id": "amalinks",
+   "name": "AmaLinks Pro",
+   "priority": false,
+   "category": "Widgets",
+   "items": []
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "category": "Widgets",
+   "items": []
+  },
+  {
+   "id": "gizzmo",
+   "name": "Gizzmo.ai",
+   "priority": false,
+   "category": "Widgets",
+   "items": []
+  },
+  {
+   "id": "hyphen",
+   "name": "Hyphen Social / Content Connections",
+   "priority": false,
+   "category": "Seller Network Aggregator",
+   "note": "Note: hyphensocial.com now redirects to wayward.com (Wayward is listed under Friends/Seller Networks in Lee's doc).",
+   "items": []
+  },
+  {
+   "id": "flovidy",
+   "name": "Flovidy",
+   "priority": false,
+   "category": "Amazon focused",
+   "items": []
+  },
+  {
+   "id": "landingcube",
+   "name": "Landing Cube",
+   "priority": false,
+   "category": "Amazon focused",
+   "items": []
+  },
+  {
+   "id": "creatorboost",
+   "name": "CreatorBoost / Newsfilliate",
+   "priority": false,
+   "category": "Amazon focused",
+   "items": []
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "category": "Books",
+   "items": []
+  },
+  {
+   "id": "authorhelper",
+   "name": "AuthorHelper",
+   "priority": false,
+   "category": "Books",
+   "items": []
+  },
+  {
+   "id": "boooklink",
+   "name": "Boook.link",
+   "priority": false,
+   "category": "Books",
+   "items": []
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "category": "Books",
+   "items": []
+  },
+  {
+   "id": "linktwin",
+   "name": "LinkTw.in",
+   "priority": false,
+   "category": "Mobile Deep Linking",
+   "items": []
+  },
+  {
+   "id": "rebrandly",
+   "name": "Rebrandly",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": [
+    {
+     "title": "Short link. Smart link. Deep link. Dynamic QR Code. Here’s how to tell which ones you actually need for your next campaign",
+     "url": "https://x.com/Bitly/status/2109648543166116052",
+     "source": "X @Bitly",
+     "published": "2026-10-12T14:13:02+00:00",
+     "type": "social",
+     "why": "Bitly now talks about short links, smart links and deep links as one toolkit. That matters for Geniuslink because the line between a shortener and a smart link is getting blurry for buyers."
+    }
+   ]
+  },
+  {
+   "id": "linkfire",
+   "name": "Linkfire",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "dub",
+   "name": "Dub.co",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "joturl",
+   "name": "JotURL",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "prettylinks",
+   "name": "Pretty Links Pro",
+   "priority": false,
+   "category": "Link Shortener",
+   "note": "Product check: Pretty Links on WordPress.org is at version 4.0.16 (last updated 6 Oct 2026). No change in the last day.",
+   "items": []
+  },
+  {
+   "id": "split",
+   "name": "Split",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "pxl",
+   "name": "pxl.to",
+   "priority": false,
+   "category": "Link Shortener",
+   "items": []
+  },
+  {
+   "id": "mavely",
+   "name": "Mavely",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "markable",
+   "name": "Markable.ai",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "magiclinks",
+   "name": "MagicLinks",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "howl",
+   "name": "Howl",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "shorby",
+   "name": "Shor.by",
+   "priority": false,
+   "category": "Influencer focused",
+   "items": []
+  },
+  {
+   "id": "beacons",
+   "name": "Beacons",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": [
+    {
+     "title": "Anyone tried or heard of Unil.ink?",
+     "url": "https://www.reddit.com/r/LovedByCreators/comments/1x4w0pn/anyone_tried_or_heard_of_unilink/",
+     "source": "r/LovedByCreators",
+     "published": "2026-10-13T13:01:39+00:00",
+     "type": "reddit",
+     "why": "A creator says an AI chatbot recommended a little-known tool (Unil.ink) over Beacons. That matters for Geniuslink because AI assistants are starting to shape which link tools creators try."
+    }
+   ]
+  },
+  {
+   "id": "linktree",
+   "name": "Linktree",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": []
+  },
+  {
+   "id": "liinks",
+   "name": "Liinks.co",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": []
+  },
+  {
+   "id": "later",
+   "name": "Later (Link in Bio)",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": []
+  },
+  {
+   "id": "lnkbio",
+   "name": "lnk.bio",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": []
+  },
+  {
+   "id": "hoobe",
+   "name": "hoo.be",
+   "priority": false,
+   "category": "Link In Bio",
+   "items": []
+  }
+ ]
+}
