@@ -1,8 +1,8 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T14:30:29.465247+00:00",
- "item_count": 15,
- "feeds_ok": 82,
+ "generated_at": "2026-10-13T15:40:53.745329+00:00",
+ "item_count": 18,
+ "feeds_ok": 103,
  "feeds_failed": 0,
  "feeds": [
   {
@@ -613,7 +613,7 @@
    "type": "google_news",
    "url": "https://news.google.com/rss/search?q=%22ShopMy%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items_in_feed": 2,
+   "items_in_feed": 1,
    "items_kept": 0
   },
   {
@@ -667,7 +667,7 @@
    "type": "google_news",
    "url": "https://news.google.com/rss/search?q=%22Later%22%20%28%22link%20in%20bio%22%20OR%20creators%20OR%20Mavely%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "items_in_feed": 27,
+   "items_in_feed": 28,
    "items_kept": 0
   },
   {
@@ -741,6 +741,195 @@
    "ok": true,
    "items_in_feed": 18,
    "items_kept": 2
+  },
+  {
+   "id": "li-lasso",
+   "competitor": "lasso",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/lasso-affiliate/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-button",
+   "competitor": "button",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/usebutton/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-geotargetly",
+   "competitor": "geotargetly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/geo-targetly/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-affilizz",
+   "competitor": "affilizz",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/affilizz/",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "li-skimlinks",
+   "competitor": "skimlinks",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/skimlinks/",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 1
+  },
+  {
+   "id": "li-amalinks",
+   "competitor": "amalinks",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/amalinks-pro/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-ytshopping",
+   "competitor": "ytshopping",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/youtube/",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "li-landingcube",
+   "competitor": "landingcube",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/landingcube/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-creatorboost",
+   "competitor": "creatorboost",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/creatorboost-ai/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-books2read",
+   "competitor": "books2read",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/draft2digital/",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 0
+  },
+  {
+   "id": "li-goodreads",
+   "competitor": "goodreads",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/goodreads-com/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-rebrandly",
+   "competitor": "rebrandly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/rebrandly/",
+   "ok": true,
+   "items_in_feed": 9,
+   "items_kept": 0
+  },
+  {
+   "id": "li-bitly",
+   "competitor": "bitly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/bitly/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-linkfire",
+   "competitor": "linkfire",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/linkfire/",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "li-dub",
+   "competitor": "dub",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/dubinc/",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "li-pxl",
+   "competitor": "pxl",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/pxl-to/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-ltk",
+   "competitor": "ltk",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/shopltk/",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 0
+  },
+  {
+   "id": "li-howl",
+   "competitor": "howl",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/planethowl/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-beacons",
+   "competitor": "beacons",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/beacons-ai/",
+   "ok": true,
+   "items_in_feed": 9,
+   "items_kept": 0
+  },
+  {
+   "id": "li-linktree",
+   "competitor": "linktree",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/linktree/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-lnkbio",
+   "competitor": "lnkbio",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/lnk-bio/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
   },
   {
    "id": "x-import",

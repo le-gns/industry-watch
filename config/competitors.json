@@ -46,7 +46,13 @@
    "youtube_channel_id": "UCjFH5J5t8mR-MHb09UGdAVQ",
    "match_terms": [
     "lasso"
-   ]
+   ],
+   "linkedin_candidates": [
+    "getlasso",
+    "lasso-affiliate"
+   ],
+   "linkedin_slug": "lasso-affiliate",
+   "linkedin_note": "verified: Lasso (getlasso.co), 0 public posts"
   },
   {
    "id": "urlgenius",
@@ -61,7 +67,12 @@
    "youtube_channel_id": "UCY2P7sq5lcClJCixJ4M1DDg",
    "match_terms": [
     "urlgenius"
-   ]
+   ],
+   "linkedin_candidates": [
+    "urlgenius"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "urlgeni-us: HTTP Error 404: Not Found"
   },
   {
    "id": "button",
@@ -77,7 +88,13 @@
    "match_terms": [
     "button",
     "posttap"
-   ]
+   ],
+   "linkedin_candidates": [
+    "usebutton",
+    "button-inc"
+   ],
+   "linkedin_slug": "usebutton",
+   "linkedin_note": "verified: Button (usebutton.com), 8 public posts"
   },
   {
    "id": "amazon",
@@ -100,7 +117,13 @@
     "creator connections",
     "amazon storefront",
     "amazon affiliate"
-   ]
+   ],
+   "linkedin_candidates": [
+    "amazon"
+   ],
+   "linkedin_slug": null,
+   "domain": "amazon.com",
+   "linkedin_note": "amazon-com: HTTP Error 404: Not Found"
   },
   {
    "id": "geotargetly",
@@ -116,7 +139,13 @@
    "match_terms": [
     "geo targetly",
     "geotargetly"
-   ]
+   ],
+   "linkedin_candidates": [
+    "geo-targetly",
+    "geotargetly"
+   ],
+   "linkedin_slug": "geo-targetly",
+   "linkedin_note": "verified: Geo Targetly (geotargetly.com), 10 public posts"
   },
   {
    "id": "joylink",
@@ -131,7 +160,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "joylink"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "joylink-io: HTTP Error 404: Not Found"
   },
   {
    "id": "affilizz",
@@ -146,7 +178,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "affilizz"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "affilizz",
+   "linkedin_note": "verified: Affilizz (affilizz.com), 1 public posts"
   },
   {
    "id": "squirrel",
@@ -159,7 +194,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "squirrel"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "squirrel: org=GEMS Capital Group site=getsquirrel.com (no match)"
   },
   {
    "id": "sovrn",
@@ -174,7 +212,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "sovrn"
-   ]
+   ],
+   "linkedin_candidates": [
+    "sovrn"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "sovrn-com: HTTP Error 404: Not Found"
   },
   {
    "id": "pricespider",
@@ -189,7 +232,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "pricespider"
-   ]
+   ],
+   "linkedin_candidates": [
+    "pricespider"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "pricespider-com: HTTP Error 404: Not Found"
   },
   {
    "id": "skimlinks",
@@ -204,7 +252,12 @@
    "youtube_channel_id": "UCqgk3-7nKDGzkOhEb5p1X5g",
    "match_terms": [
     "skimlinks"
-   ]
+   ],
+   "linkedin_candidates": [
+    "skimlinks"
+   ],
+   "linkedin_slug": "skimlinks",
+   "linkedin_note": "verified: Skimlinks (skimlinks.com), 4 public posts"
   },
   {
    "id": "viglink",
@@ -217,7 +270,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "viglink"
-   ]
+   ],
+   "linkedin_candidates": [
+    "viglink"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "viglink: org=Sovrn (Formerly Viglink) site=viglink.com (no match)"
   },
   {
    "id": "nucleus",
@@ -230,7 +288,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "nucleus links"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "nucleus-links: HTTP Error 404: Not Found"
   },
   {
    "id": "aawp",
@@ -245,7 +306,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "aawp"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "getaawp-com: HTTP Error 404: Not Found"
   },
   {
    "id": "amalinks",
@@ -260,7 +324,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "amalinks"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "amalinks-pro",
+   "linkedin_note": "verified: AmaLinks Pro (amalinkspro.com), 0 public posts"
   },
   {
    "id": "ytshopping",
@@ -276,7 +343,13 @@
    "match_terms": [
     "youtube shopping",
     "youtube"
-   ]
+   ],
+   "linkedin_candidates": [
+    "youtube"
+   ],
+   "linkedin_slug": "youtube",
+   "domain": "youtube.com",
+   "linkedin_note": "verified: YouTube (youtube.com), 4 public posts"
   },
   {
    "id": "gizzmo",
@@ -291,7 +364,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "gizzmo"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "gizzmo-ai: HTTP Error 404: Not Found"
   },
   {
    "id": "hyphen",
@@ -305,7 +381,10 @@
    "match_terms": [
     "hyphen",
     "content connections"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "hyphen-social: org=Hyphen Social site= (no match)"
   },
   {
    "id": "flovidy",
@@ -320,7 +399,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "flovidy"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "flovidy-com: HTTP Error 404: Not Found"
   },
   {
    "id": "landingcube",
@@ -336,7 +418,10 @@
    "match_terms": [
     "landingcube",
     "landing cube"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "landingcube",
+   "linkedin_note": "verified: LandingCube (landingcube.com), 10 public posts"
   },
   {
    "id": "creatorboost",
@@ -352,7 +437,10 @@
    "match_terms": [
     "creatorboost",
     "newsfilliate"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "creatorboost-ai",
+   "linkedin_note": "verified: CreatorBoost.ai (creatorboost.ai), 8 public posts"
   },
   {
    "id": "books2read",
@@ -369,7 +457,13 @@
     "books2read",
     "draft2digital",
     "universal book link"
-   ]
+   ],
+   "linkedin_candidates": [
+    "draft2digital"
+   ],
+   "linkedin_slug": "draft2digital",
+   "domain": "draft2digital.com",
+   "linkedin_note": "verified: Draft2Digital (draft2digital.com), 6 public posts"
   },
   {
    "id": "authorhelper",
@@ -382,7 +476,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "authorhelper"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "authorhelper: HTTP Error 404: Not Found"
   },
   {
    "id": "boooklink",
@@ -397,7 +494,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "boook.link"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "boook-link: HTTP Error 404: Not Found"
   },
   {
    "id": "goodreads",
@@ -412,7 +512,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "goodreads"
-   ]
+   ],
+   "linkedin_candidates": [
+    "goodreads"
+   ],
+   "linkedin_slug": "goodreads-com",
+   "linkedin_note": "verified: Goodreads (goodreads.com), 10 public posts"
   },
   {
    "id": "linktwin",
@@ -428,7 +533,10 @@
    "match_terms": [
     "linktwin",
     "linktw.in"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "linktw-in: HTTP Error 404: Not Found"
   },
   {
    "id": "rebrandly",
@@ -443,7 +551,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "rebrandly"
-   ]
+   ],
+   "linkedin_candidates": [
+    "rebrandly"
+   ],
+   "linkedin_slug": "rebrandly",
+   "linkedin_note": "verified: Rebrandly (rebrandly.com), 9 public posts"
   },
   {
    "id": "bitly",
@@ -458,7 +571,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "bitly"
-   ]
+   ],
+   "linkedin_candidates": [
+    "bitly"
+   ],
+   "linkedin_slug": "bitly",
+   "linkedin_note": "verified: Bitly (bitly.com), 10 public posts"
   },
   {
    "id": "linkfire",
@@ -473,7 +591,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "linkfire"
-   ]
+   ],
+   "linkedin_candidates": [
+    "linkfire"
+   ],
+   "linkedin_slug": "linkfire",
+   "linkedin_note": "verified: Linkfire (linkfire.com), 1 public posts"
   },
   {
    "id": "dub",
@@ -489,7 +612,13 @@
    "match_terms": [
     "dub.co",
     "dub partners"
-   ]
+   ],
+   "linkedin_candidates": [
+    "dubinc",
+    "dub-co"
+   ],
+   "linkedin_slug": "dubinc",
+   "linkedin_note": "verified: Dub.co (dub.co), 3 public posts"
   },
   {
    "id": "joturl",
@@ -504,7 +633,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "joturl"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "joturl-com: HTTP Error 404: Not Found"
   },
   {
    "id": "prettylinks",
@@ -520,7 +652,10 @@
    "match_terms": [
     "pretty links",
     "pretty link"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "prettylinks-com: HTTP Error 404: Not Found"
   },
   {
    "id": "split",
@@ -536,7 +671,10 @@
    "match_terms": [
     "split.co",
     "split technologies"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "split-co: HTTP Error 404: Not Found"
   },
   {
    "id": "pxl",
@@ -551,7 +689,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "pxl.to"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "pxl-to",
+   "linkedin_note": "verified: Pxl – Short Links, QR Codes and Microsites (pxl.to), 0 public posts"
   },
   {
    "id": "mavely",
@@ -566,7 +707,13 @@
    "youtube_channel_id": null,
    "match_terms": [
     "mavely"
-   ]
+   ],
+   "linkedin_candidates": [
+    "mavely",
+    "joinmavely"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "joinmavely-com: HTTP Error 404: Not Found"
   },
   {
    "id": "markable",
@@ -581,7 +728,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "markable"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "markable-ai: HTTP Error 404: Not Found"
   },
   {
    "id": "magiclinks",
@@ -594,7 +744,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "magiclinks"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "magiclinks: org=MagicLinks site=magiclinks.com (no match)"
   },
   {
    "id": "ltk",
@@ -610,7 +763,13 @@
    "match_terms": [
     "ltk",
     "liketoknow"
-   ]
+   ],
+   "linkedin_candidates": [
+    "shopltk",
+    "rewardstyle"
+   ],
+   "linkedin_slug": "shopltk",
+   "linkedin_note": "verified: LTK (company.shopltk.com), 7 public posts"
   },
   {
    "id": "shopmy",
@@ -625,7 +784,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "shopmy"
-   ]
+   ],
+   "linkedin_candidates": [
+    "shopmy"
+   ],
+   "linkedin_slug": null,
+   "linkedin_note": "shopmy-us: HTTP Error 404: Not Found"
   },
   {
    "id": "howl",
@@ -640,7 +804,13 @@
    "youtube_channel_id": null,
    "match_terms": [
     "howl"
-   ]
+   ],
+   "linkedin_candidates": [
+    "planethowl",
+    "howl"
+   ],
+   "linkedin_slug": "planethowl",
+   "linkedin_note": "verified: Howl (howl.link), 0 public posts"
   },
   {
    "id": "shorby",
@@ -656,7 +826,10 @@
    "match_terms": [
     "shorby",
     "shor.by"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "shor-by: HTTP Error 404: Not Found"
   },
   {
    "id": "beacons",
@@ -671,7 +844,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "beacons"
-   ]
+   ],
+   "linkedin_candidates": [
+    "beacons-ai"
+   ],
+   "linkedin_slug": "beacons-ai",
+   "linkedin_note": "verified: Beacons AI (beacons.ai), 9 public posts"
   },
   {
    "id": "linktree",
@@ -686,7 +864,12 @@
    "youtube_channel_id": null,
    "match_terms": [
     "linktree"
-   ]
+   ],
+   "linkedin_candidates": [
+    "linktree"
+   ],
+   "linkedin_slug": "linktree",
+   "linkedin_note": "verified: Linktree (linktr.ee), 10 public posts"
   },
   {
    "id": "liinks",
@@ -701,7 +884,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "liinks"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "liinks-co: HTTP Error 404: Not Found"
   },
   {
    "id": "later",
@@ -718,7 +904,14 @@
     "later.com",
     "link in bio",
     "mavely"
-   ]
+   ],
+   "linkedin_candidates": [
+    "latermedia",
+    "later-com"
+   ],
+   "linkedin_slug": null,
+   "domain": "later.com",
+   "linkedin_note": "later: redirected to https://www.linkedin.com/s"
   },
   {
    "id": "lnkbio",
@@ -733,7 +926,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "lnk.bio"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": "lnk-bio",
+   "linkedin_note": "verified: Lnk.Bio (lnk.bio), 10 public posts"
   },
   {
    "id": "hoobe",
@@ -748,7 +944,10 @@
    "youtube_channel_id": null,
    "match_terms": [
     "hoo.be"
-   ]
+   ],
+   "linkedin_candidates": [],
+   "linkedin_slug": null,
+   "linkedin_note": "hoo-be: HTTP Error 404: Not Found"
   }
  ],
  "feeds": [
@@ -1299,5 +1498,31 @@
   "cashback",
   "ca$hback"
  ],
- "match_rule": "google_news/reddit items must contain one of the competitor's match_terms in title+snippet (google_news priority feeds exempt except amazon); grouped reddit feeds are assigned to whichever competitor matches"
+ "match_rule": "google_news/reddit items must contain one of the competitor's match_terms in title+snippet (google_news priority feeds exempt except amazon); grouped reddit feeds are assigned to whichever competitor matches",
+ "x_ids": {
+  "LassoWP": "1385284949390004228",
+  "URLgenius": "2333457564",
+  "button": "2548749559",
+  "AmazonAssociate": "19795597",
+  "amazonnews": "818902172347678720",
+  "GeoTargetly": "955613029424513024",
+  "SOVRN": "51133031",
+  "Skimlinks": "17676022",
+  "PriceSpider": "14547818",
+  "Bitly": "15234886",
+  "LinkFire": "425946539",
+  "jotURL": "274168344",
+  "split_co": "3221885603",
+  "joinmavely": "20922628",
+  "shopLTK": "242186783",
+  "shopmy": "34643078",
+  "Linktree_": "843588781294858240",
+  "beaconsai": "968366765305745409",
+  "latermedia": "2201968256",
+  "goodreads": "15898172",
+  "Draft2Digital": "1250966834",
+  "LandingCube": "1030477070814535680",
+  "YouTubeCreators": "239760107",
+  "AmaLinksPro": "954006557083291648"
+ }
 }

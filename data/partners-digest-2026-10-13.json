@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-13",
+ "summary": [
+  "impact.com published a case study saying tech publisher Minty made $120m in revenue through its platform.",
+  "Partnerize and CJ are both promoting talks at PI LIVE Europe on proving which partners really add sales. Partnerize says AI shopping needs the same 'should this click count?' checks that ad clicks got.",
+  "On Reddit, a poster said Bookshop.org's affiliate setup is too complicated and asked about selling ebooks directly.",
+  "No affiliate or creator program news from the big retailers (Walmart, Best Buy, Target, Apple, Kobo, Barnes & Noble) today."
+ ],
+ "partners": [
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "items": [
+    {
+     "title": "How tech publisher Minty turns invisible shoppers into $120m in revenue through impact.com",
+     "url": "https://impact.com/partnerships/minty-case-study/",
+     "source": "impact.com",
+     "published": "2026-10-13T10:34:56+00:00",
+     "type": "blog",
+     "why": "impact.com says a tech publisher made $120m in revenue through its platform. That matters for Geniuslink because big networks keep pitching publishers on doing more of their tracking in-house."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "How do you know if a partner is actually driving incremental value? Join CJ's Claudia Argomenti, QVC, Dell and Capital One at PI Live for a practical discussion…",
+     "url": "https://www.linkedin.com/posts/commission-junction_affiliatemarketing-piliveeur26-incrementality-activity-7515720515559518209-eHmx",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-13T10:30:06.243000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Before digital advertising allocated billions to impressions and clicks, the industry built a trust layer to answer one question: Should this event count at all…",
+     "url": "https://www.linkedin.com/posts/partnerize_digital-advertising-built-a-verification-activity-7515764962934308864-QuDD",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-10-13T13:26:43.323000+00:00",
+     "type": "social",
+     "why": "Partnerize argues AI shopping needs a 'should this count?' check, like ad clicks once did. That matters for Geniuslink because how clicks and sales from AI tools get credited is still being worked out."
+    }
+   ]
+  },
+  {
+   "id": "bookshop",
+   "name": "Bookshop.org",
+   "items": [
+    {
+     "title": "Online Distributors and Storefronts",
+     "url": "https://www.reddit.com/r/booksellers/comments/1x4tvfp/online_distributors_and_storefronts/",
+     "source": "r/booksellers",
+     "published": "2026-10-13T11:15:00+00:00",
+     "type": "reddit",
+     "why": "A Reddit poster wants to stop selling ebooks through Bookshop.org affiliate links and run their own store. A small sign that some sellers find the affiliate setup too complicated."
+    }
+   ]
+  }
+ ]
+}

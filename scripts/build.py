@@ -52,7 +52,7 @@ nav{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}nav a{font-size:.8rem;back
 section{background:#fff;border-radius:10px;padding:4px 16px 8px;margin:16px 0;box-shadow:0 1px 2px rgba(0,0,0,.06)}
 h2{font-size:1.05rem;margin:14px 0 6px;color:#243b53}h2 .n{color:#9aa5b1;font-weight:400}ul{list-style:none;padding:0;margin:0}
 li{padding:10px 0;border-top:1px solid #eef0f2}li:first-child{border-top:0}li a{color:#1d4ed8;text-decoration:none;font-weight:600}li a:hover{text-decoration:underline}
-.meta{font-size:.8rem;color:#7b8794}.why{margin:4px 0 0;font-size:.9rem;color:#3e4c59;border-left:3px solid #93c5fd;padding-left:8px}.pw{color:#b45309}.sum{margin:4px 0 0;font-size:.9rem;color:#52606d}
+.meta{font-size:.8rem;color:#7b8794}.why{margin:4px 0 0;font-size:.9rem;color:#3e4c59;border-left:3px solid #93c5fd;padding-left:8px}.pw{color:#b45309}.w{font-size:1.35rem;margin:28px 0 8px;padding-top:8px;border-top:2px solid #1d4ed8}h3{font-size:1.05rem;margin:14px 0 4px}.quiet{font-size:.9rem;color:#52606d}.sum{margin:4px 0 0;font-size:.9rem;color:#52606d}
 .top{background:#eff6ff}footer{font-size:.8rem;color:#9aa5b1;text-align:center;margin-top:24px}footer a{color:#7b8794}'''
 
 def page(title, body):
@@ -62,12 +62,77 @@ def page(title, body):
 
 def slug(s): return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')
 
+def ukey(u):
+    u = re.sub(r'^https?://(www\.)?', '', (u or '').lower()).split('#')[0].split('?')[0]
+    return u.rstrip('/')
+
+WTYPE = {'news': 'News', 'wire': 'Press release', 'blog': 'Blog', 'social': 'Social', 'reddit': 'Reddit', 'product': 'Product change'}
+
+def watch_keys():
+    ks = set()
+    for kind in ('competitors', 'partners'):
+        dp = ROOT / f'data/{kind}-digest-{DATE}.json'
+        if dp.exists():
+            for g in json.loads(dp.read_text()).get(kind, []): ks |= {ukey(i['url']) for i in g.get('items', [])}
+    return ks
+
+def watch_sections(parts):
+    """Append Competitor Watch, Partners Watch and 'No results found' from
+    data/competitors-digest-DATE.json and data/partners-digest-DATE.json (if present).
+    Dedupe: an item in Competitors or Partners is removed from Industry Watch; Competitors beat Partners."""
+    watches = []
+    for kind, key, title, cfgf in (('competitors', 'competitors', 'Competitor Watch', 'config/competitors.json'),
+                                   ('partners', 'partners', 'Partners Watch', 'config/partners.json')):
+        dp = ROOT / f'data/{kind}-digest-{DATE}.json'; cp = ROOT / cfgf
+        if not dp.exists() or not cp.exists(): continue
+        d = json.loads(dp.read_text()); ents = json.loads(cp.read_text())[key]
+        watches.append((kind, title, d, d.get(key, []), ents))
+    if not watches: return parts
+    taken = set(); quiet = {}
+    blocks = []
+    for kind, title, d, groups, ents in watches:
+        groups = sorted(groups, key=lambda g: not g.get('priority'))
+        out = []
+        for g in groups:
+            its = [i for i in g.get('items', []) if ukey(i['url']) not in taken]
+            for i in its: taken.add(ukey(i['url']))
+            if its: out.append((g, its))
+        active = {g['id'] for g, _ in out}
+        quiet[kind] = [e['name'] for e in ents if e['id'] not in active]
+        blocks.append((kind, title, d, out))
+    # dedupe Industry Watch sections already rendered: rebuild them without taken URLs
+    parts = [''.join(parts)]
+    nav = '<nav>' + '<a href="#industry-watch">Industry Watch</a>' + ''.join(f'<a href="#{kind}-watch">{t}</a>' for kind, t, _, o in blocks if o) + '<a href="#no-results">No results</a></nav>'
+    parts.insert(0, '')
+    for kind, title, d, out in blocks:
+        if not out: continue
+        s = f'<section class="watch" id="{kind}-watch"><h2 class="w">{title}</h2>'
+        if d.get('summary'): s += '<div class="top"><ul>' + ''.join(f'<li>{esc(b)}</li>' for b in d['summary']) + '</ul></div>'
+        for g, its in out:
+            tag = ' <span class="n">priority</span>' if g.get('priority') else ''
+            s += f'<section id="{kind}-{g["id"]}"><h3>{esc(g["name"])}{tag}</h3><ul>'
+            for i in its:
+                i = dict(i); t = WTYPE.get(i.get('type'))
+                if t: i['source'] = f'{t} · {i.get("source", "")}'
+                s += item_li(i)
+            s += '</ul></section>'
+        parts.append(s + '</section>')
+    nr = '<section class="watch" id="no-results"><h2 class="w">No results found</h2>'
+    for kind, label in (('competitors', 'Competitors'), ('partners', 'Partners')):
+        if kind in quiet: nr += f'<h3>{label}</h3><p class="quiet">{esc(", ".join(quiet[kind]))}</p>'
+    parts.append(nr + '</section>')
+    return [parts[1].replace('</header>', '</header>' + nav, 1)] + parts[2:]
+
 def render():
     nice = dt.date.fromisoformat(DATE).strftime('%A %-d %B %Y')
     dpath, rpath = ROOT / f'data/digest-{DATE}.json', ROOT / f'data/{DATE}.json'
     parts = [f'<header><h1>Industry Watch</h1><p class="d">{nice}</p></header>']
     if dpath.exists():
         d = json.loads(dpath.read_text()); mode = 'digest'
+        wk = watch_keys()
+        d['must_reads'] = [i for i in d.get('must_reads', []) if ukey(i['url']) not in wk]
+        for sec in d.get('sections', []): sec['items'] = [i for i in sec.get('items', []) if ukey(i['url']) not in wk]
+        parts.append('<h2 class="w" id="industry-watch">Industry Watch</h2>')
         if d.get('intro'): parts.append(f'<p>{esc(d["intro"])}</p>')
         secs = d.get('sections', [])
         parts.append('<nav>' + '<a href="#must-reads">Must reads</a>' + ''.join(f'<a href="#{slug(s["name"])}">{esc(s["name"])}</a>' for s in secs if s.get('items')) + '</nav>')
@@ -85,6 +150,7 @@ def render():
                 parts.append(f'<section id="{slug(g)}"><h2>{esc(g)} <span class="n">{len(its)}</span></h2><ul>' + ''.join(item_li(i) for i in its) + '</ul></section>')
     else:
         sys.exit(f'No data/digest-{DATE}.json or data/{DATE}.json; run collect.py first')
+    parts = watch_sections(parts)
     out = ROOT / f'build/{DATE}.html'; out.parent.mkdir(exist_ok=True)
     out.write_text(page(f'Industry Watch · {DATE}', ''.join(parts)))
     return out, mode
@@ -107,6 +173,14 @@ def index():
     body = f'<header><h1>Industry Watch</h1><p class="d">Archive. Each day has its own password.</p></header><section><ul>{lis}</ul></section>'
     (ROOT / 'docs/index.html').write_text(page('Industry Watch', body).replace('<footer>Industry Watch · <a href="./">archive</a></footer>', ''))
     (ROOT / 'docs/.nojekyll').write_text('')
+    # retired separate Competitor Watch pages: keep URLs alive as redirects to the main daily page
+    cd = ROOT / 'docs/competitors'
+    if cd.exists():
+        stub = lambda to: (f'<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex,nofollow">'
+                           f'<meta http-equiv="refresh" content="0; url={to}"><link rel="canonical" href="{to}">'
+                           f'<title>Moved</title><p>Competitor Watch is now part of the daily page: <a href="{to}">{to}</a></p>')
+        for f in cd.glob('????-??-??.html'): f.write_text(stub(f'../{f.stem}.html#competitors-watch'))
+        (cd / 'index.html').write_text(stub('../'))
 
 if __name__ == '__main__':
     src, mode = render()

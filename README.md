@@ -16,13 +16,31 @@ Digest schema:
 
 Optional item fields: `paywall` (true = main link is paywalled, shown as "(paywall)"); `also` (secondary reference, e.g. the paywalled original when a free version is the main link). Same-day rebuilds reuse .secrets/today-password.txt; set IW_NEW_PASSWORD=1 to force a new one.
 
-## Competitor Watch (docs/competitors/)
-- `config/competitors.json`: competitors from Lee's Google Doc 15m05ILayYX1U6_yoEHIrSAJ81cr3JgEJSeJKGgexpKo ("Competitors" section), verified handles, feeds (google_news, wire, rss, youtube, reddit, wporg), match_terms.
-- X posts: the agent reads the verified handles with the X connector (get_users_posts, start_time = now-30h) and writes `data/competitors-x-DATE.json` (`{"posts":[{"handle","competitor","created_at","url","text"}]}`) before collecting.
-- `scripts/collect_competitors.py DATE` -> `data/competitors-DATE.json`, fetch log, `state/competitors-seen.json`, `state/competitors-wporg.json`.
-- Agent writes `data/competitors-digest-DATE.json`:
+## One daily page: Industry Watch + Competitor Watch + Partners Watch
+`docs/YYYY-MM-DD.html` has, in order: Industry Watch, Competitor Watch (only competitors with results),
+Partners Watch (only partners with results), and "No results found" (comma lists of quiet Competitors and Partners).
+Each Watch has its own top summary bullets. Old `docs/competitors/*` URLs are redirect stubs to the main page.
+Dedupe: an item in Competitors or Partners is removed from Industry Watch; Competitors beat Partners.
+
+Configs:
+- `config/competitors.json`: from Lee's Google Doc 15m05ILayYX1U6_yoEHIrSAJ81cr3JgEJSeJKGgexpKo ("Competitors" section).
+- `config/partners.json`: from geniuslink.com/integrations/supported + help center Affiliate Networks. Amazon, Skimlinks,
+  Sovrn and Howl are covered under Competitors only. Retailer items must mention the retailer AND an affiliate/creator word.
+- Both: verified X handles + ids (`x_ids`), `linkedin_slug` (verified via the page's Organization website), match_terms.
+- LinkedIn: `scripts/linkedin.py` reads the logged-out public company page (ld+json, ~10 latest posts). No login, no bridge.
+  Best effort; it can be rate-limited (429/999). Re-check slugs occasionally with `scripts/linkedin_verify.py` (`--force` to redo all).
+
+Digest files (agent-written; empty groups are simply omitted):
 ```json
-{"date":"","summary":["3-5 plain bullets"],"competitors":[{"id":"","name":"","priority":true,"category":"","note":"optional","items":[{"title":"","url":"","source":"","published":"","type":"news|wire|blog|social|reddit|product","why":"optional","also":{"source":"","url":"","paywall":true}}]}]}
+// data/competitors-digest-DATE.json  (use "partners" as the key in data/partners-digest-DATE.json)
+{"date":"","summary":["3-5 plain bullets"],"competitors":[{"id":"","name":"","priority":true,"items":[{"title":"","url":"","source":"","published":"","type":"news|wire|blog|social|reddit|product","why":"optional","also":{"source":"","url":"","paywall":true},"paywall":false}]}]}
 ```
-  Empty items render as "No news". Priority four (Lasso, URLgenius, Button, Amazon) sort first.
-- `scripts/publish_competitors.sh [--skip-collect] DATE`: run AFTER `scripts/publish.sh` (reuses the same daily password).
+
+### Daily steps
+1. `python3 scripts/collect.py DATE` (Industry Watch raw)
+2. X posts (agent, X connector `get_users_posts`, start_time = now-30h) for `x_ids` in each config ->
+   `data/competitors-x-DATE.json` and `data/partners-x-DATE.json` (`{"posts":[{"handle","competitor"|"partner","created_at","url","text"}]}`; write `{"posts":[]}` if none).
+3. `python3 scripts/collect_competitors.py DATE` and `python3 scripts/collect_competitors.py --partners DATE` (each ~1-2 min incl. LinkedIn)
+4. Curate `data/digest-DATE.json`, `data/competitors-digest-DATE.json`, `data/partners-digest-DATE.json`.
+5. `scripts/publish.sh --skip-collect DATE` (builds the single page; new password on the first build of the day,
+   same-day rebuilds reuse `.secrets/today-password.txt`), then verify the live page and DM Lee the link + password.
