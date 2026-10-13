@@ -1,0 +1,1970 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T11:06:38.504354+00:00",
+ "lookback_hours": 30,
+ "item_count": 169,
+ "google_news_links": 93,
+ "google_news_resolved": 93,
+ "feeds_ok": 70,
+ "feeds_failed": 3,
+ "items": [
+  {
+   "title": "Marketplace Quadrant Beauty & Care 2026",
+   "url": "https://marketplace-universe.com/beauty-and-care/",
+   "source": "Marketplace Universe",
+   "group": "Amazon & retailer programs",
+   "feed_id": "src-marketplace-universe",
+   "published": "2026-10-12T07:34:16+00:00",
+   "snippet": "The 37 platforms in the Marketplace Quadrant Beauty & Care 2026 reflect a category in motion: specialist marketplaces launching, generalists pushing in, and TikTok Shop rewriting the rules faster than anyone else. Der Beitrag Marketplace Quadrant Beauty & Care 2026 erschien zuerst auf Marketplace Un",
+   "matched_keywords": [
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Kiri Masters: Should retail media get back to what it does best?",
+   "url": "https://www.thedrum.com/opinion/kiri-masters-should-retail-media-get-back-to-what-it-does-best-1",
+   "source": "The Drum",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-05",
+   "published": "2026-10-12T11:09:58+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "25+ October Prime Day noise-cancelling headphone deals ending soon: Record-low prices on top brands",
+   "url": "https://mashable.com/tech/best-october-prime-day-noise-cancelling-headphones-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T15:21:24+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Owala deal: Owala FreeSip Twist water bottles drop below Prime Day prices",
+   "url": "https://mashable.com/life/oct-12-owala-freesip-twist-water-bottle-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T15:21:58+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "$90 AirPods Pro are live at Amazon — save over $100 with this stunning October Prime Day Apple deal",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-apple-airpods-pro-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T17:17:26+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day TV deals: Get 65-inch TVs under $500",
+   "url": "https://mashable.com/tech/best-october-prime-day-tv-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T18:07:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The DJI Mini 3 drone is down to its best-ever price on October Prime Day — save $150 right now",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-dji-mini-3-drone-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T18:27:58+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The Sandisk 1TB Extreme Portable SSD gets price cut on October Prime Day: Save $90 with record low",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-sandisk-1tb-extreme-portable-ssd-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T18:47:14+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Birds are the dinosaurs that survived the mass-extinction event 66 millions years ago",
+   "url": "https://www.wbur.org/hereandnow/2026/10/12/birds-dinosaur-extinction",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-12T19:08:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Review Economy is Running on Fumes",
+   "url": "https://www.readthepeak.com/p/the-review-economy-is-running-on-fumes",
+   "source": "https://www.readthepeak.com/",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-12T19:28:13+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Prime Day Kindle deals still live 2026: My expert picks",
+   "url": "https://mashable.com/tech/best-october-prime-day-kindle-deals-still-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T19:31:04+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Notes on solitude: Author Kiran Desai reflects on 'The Loneliness of Sonia and Sunny'",
+   "url": "https://www.wbur.org/hereandnow/2026/10/12/the-loneliness-sonia-and-sunny",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-12T20:47:58+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "author"
+   ]
+  },
+  {
+   "title": "Best Prime Day TV deals 2026: Shop TCL, Samsung, Hisense, and more before the sale ends tonight",
+   "url": "https://mashable.com/tech/best-prime-day-tv-deals-last-chance-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Apple's iPads are on sale for Prime Day — shop iPads for less than $300",
+   "url": "https://mashable.com/tech/best-prime-day-ipad-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "65-inch TVs are getting the Prime Day treatment: Shop our top deals on TCL, Hisense, Samsung, and more",
+   "url": "https://mashable.com/tech/best-early-october-prime-day-65-inch-tv-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best iPad mini deal: Apple's iPad mini drops to $499.99 on Prime Day",
+   "url": "https://mashable.com/tech/prime-day-deal-2026-apple-ipad-mini-a17-pro",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day TV deal: Save $558 on Samsung 85-Inch QN70F 4K Mini-LED Smart TV",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-samsung-85-inch-qn70f-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best 65-inch TV deals ahead of Prime Day: New savings on 2026 TCL TVs and Fire TVs",
+   "url": "https://mashable.com/tech/best-early-prime-day-65-inch-tv-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "I think the best Prime Day TV deal just landed: Get a QLED TV for under $150",
+   "url": "https://mashable.com/tech/oct-7-amazon-prime-day-toshiba-qled-fire-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:00:56+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best live Prime Day outdoor deals: Anker power stations, Yeti coolers, and LifeStraws are among our top picks",
+   "url": "https://mashable.com/life/best-october-prime-day-outdoor-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:01:48+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Newegg adds Google UCP checkout integration",
+   "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
+   "source": "Digital Commerce 360",
+   "group": "Amazon & retailer programs",
+   "feed_id": "src-digital-commerce-360",
+   "published": "2026-10-12T22:15:02+00:00",
+   "snippet": "Newegg Commerce Inc. expanded its participation in agentic commerce channels, announcing that it has integrated Google’s Universal Commerce Protocol (UCP) for online checkout. The consumer electronics retailer follows other big names, including Wayfair, Walmart, Macy’s and other merchants, that have",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Samsung Frame TVs are hitting all-time lows on October Prime Day — save up $600",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-samsung-frame-tv-deals",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T22:15:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day Apple Watch deal: Save $50 on Apple Watch Series 12",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-apple-watch-series-12-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:07:30+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day Apple Watch deals 2026: Save $49 on the new Series 12",
+   "url": "https://mashable.com/tech/best-october-prime-day-apple-watch-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:07:31+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day iPad deals 2026",
+   "url": "https://mashable.com/tech/best-october-prime-day-ipad-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:07:32+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best power tool deals for October Prime Day: Get money off DeWalt batteries, Craftsman toolkits, and more",
+   "url": "https://mashable.com/tech/best-october-prime-day-power-tools-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:27:24+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "30+ of the best Anker deals still live on October Prime Day: Save on power banks, speakers, earbuds, and more",
+   "url": "https://mashable.com/tech/best-october-amazon-october-prime-day-anker-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:33:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day headphones deals under $100: Shop Apple, Sony, JLab, Soundcore",
+   "url": "https://mashable.com/tech/best-october-prime-day-headphones-under-100-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:45:40+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "This rare Yeti cooler discount may be the top Prime Day deal so far",
+   "url": "https://mashable.com/life/oct-6-october-prime-day-yeti-limited-edition-tundra-45-cooler-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-12T23:50:06+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best October Prime Day Owala deals: The TikTok-viral Owala FreeSip water bottle is on sale",
+   "url": "https://mashable.com/life/best-october-prime-day-owala-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T00:02:18+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "10+ October Prime Day power station deals: We found the best deals on Jackery, Anker, and Bluetti",
+   "url": "https://mashable.com/tech/best-october-prime-day-power-station-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T00:13:38+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "October Prime Day Lego deals under $100: Star Wars, Project Hail Mary, Botanicals, and more",
+   "url": "https://mashable.com/life/best-october-prime-day-lego-under-100-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T01:00:42+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best last chance October Prime Day Pokémon deals 2026: 30th Celebration ETB, Nintendo Switch, Lego",
+   "url": "https://mashable.com/life/best-october-prime-day-pokemon-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T01:21:04+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Last chance October Prime Day Lego deals 2026: Shop Lego Star Wars, Lego Project Hail Mary before they sell out",
+   "url": "https://mashable.com/life/best-october-prime-day-lego-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T01:30:30+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day headphones deals 2026: Bose, Apple, Sony, and more",
+   "url": "https://mashable.com/tech/best-october-prime-day-headphones-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T01:44:13+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day gaming deals 2026: Shop PS5, Xbox, Nintendo Switch, and more",
+   "url": "https://mashable.com/tech/best-october-prime-day-gaming-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T02:54:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day trading card deals 2026: Pokémon, Magic The Gathering, One Piece, and more",
+   "url": "https://mashable.com/life/best-october-prime-day-trading-card-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T03:45:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "This Owala water bottle matches the burgundy iPhone and is under $20 on Prime Day",
+   "url": "https://mashable.com/life/oct-7-october-prime-day-owala-freesip-twist-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T04:11:09+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day home improvement deals: A $149 DeWalt kit and more, ending soon",
+   "url": "https://mashable.com/life/best-october-prime-day-home-improvement-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T04:13:23+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best Prime Day deals under $50: Our favorite budget deals on earbuds, outdoor gear, beauty, and lots more",
+   "url": "https://mashable.com/tech/best-october-prime-day-under-50-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T04:44:15+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best October Prime Day fitness tracker and smartwatch deals 2026: Shop Fitbit, Garmin, and more",
+   "url": "https://mashable.com/tech/best-october-prime-day-fitness-trackers-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T04:48:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Sony headphones are hitting record lows on October Prime Day: Shop XM6, XM5, and budget headphones",
+   "url": "https://mashable.com/tech/best-october-prime-day-sony-headphones-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T06:55:46+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Loads of Amazon device deals are live for October Prime Day: Fire TVs, Echo speakers, and more",
+   "url": "https://mashable.com/tech/best-october-prime-day-amazon-device-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T07:44:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The 20+ best Prime Day deals on MicroSDs, SSDs, and hard drives: Our top picks to beat RAMageddon",
+   "url": "https://mashable.com/tech/best-october-prime-day-ssd-live-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T07:47:14+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Amazon Prime Day board game deals: Our favorite games are on sale",
+   "url": "https://mashable.com/entertainment/best-october-prime-day-board-game-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T08:29:03+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more",
+   "url": "https://mashable.com/tech/best-october-prime-day-3d-printer-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-13T10:16:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Meghan Markle Met Malala. So I Opened the Books.",
+   "url": "https://youtu.be/yBC_O4a2j_M?is=VTaYRA9uENKIuxh1",
+   "source": "YouTube",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-12T13:00:40+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Florida: Santa Rosa lifts evacuation orders but urges residents not to return to Navarre Beach yet",
+   "url": "https://en.cibercuba.com/noticias/2026-10-12-u1-e135253-s27061-nid342717-florida-santa-rosa-levanta-ordenes-evacuacion-pide",
+   "source": "CiberCuba",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-12T20:04:26+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Digipreneur Network is now live!",
+   "url": "http://www.guardian.co.tt/business/the-digipreneur-network-is-now-live-6.2.2684485.093e3008ba",
+   "source": "Trinidad Guardian",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-12T05:24:17+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "What 20,000 creators told us about unleashing Europe’s potential",
+   "url": "https://blog.youtube/news-and-events/europe-creator-consultation-creative-capital-report/",
+   "source": "YouTube Official Blog",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-youtube-official-blog",
+   "published": "2026-10-12T07:00:00+00:00",
+   "snippet": "Europe’s creator economy contributes over €8.4 billion to the EU’s GDP – but creators often feel left out of decision making. In “Creative Capital,” our new report on Eu…",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Meesho Stock Rises as Festive Sales Begin: What 75% Order Growth Says About India’s Shopping Trend",
+   "url": "https://www.analyticsinsight.net/amp/story/news/meesho-stock-rises-as-festive-sales-begin-what-75-order-growth-says-about-indias-shopping-trend",
+   "source": "Analytics Insight",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-12T08:41:14+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "New AI-Powered Legal And Operations Platform Launched For The Creator Economy (Video)",
+   "url": "https://www.mondaq.com/uk/advertising-marketing-branding/1851764/new-ai-powered-legal-and-operations-platform-launched-for-the-creator-economy-video",
+   "source": "Mondaq",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-12T09:12:20+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Social Commerce: 5 Proven Ways Smart Brands Sell",
+   "url": "https://www.globalbrandsmagazine.com/social-commerce-shift/",
+   "source": "Global Brands Magazine",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-12T10:00:30+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "social commerce"
+   ]
+  },
+  {
+   "title": "Druski Takes Equity Stake in Commerce Company Gopuff",
+   "url": "https://www.netinfluencer.com/druski-takes-equity-stake-in-commerce-company-gopuff/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-12T12:46:51+00:00",
+   "snippet": "Druski, the comedian Rolling Stone named the most influential creator of 2026, has entered an equity and multi-year strategic partnership with instant commerce company Gopuff. Under the deal, Druski will work with Gopuff to launch exclusive products and consumer experiences built around his audience",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Sony Pictures Hires YouTube Veteran to Lead Screen Gems’ Pivot to Digital-Native Filmmakers",
+   "url": "https://www.netinfluencer.com/sony-pictures-hires-youtube-veteran-to-lead-screen-gems-pivot-to-digital-native-filmmakers/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-12T12:56:18+00:00",
+   "snippet": "Sony Pictures has named Fede Goldenberg, who spent 15 years at YouTube overseeing film and TV content partnerships, to run Screen Gems, the genre label behind “Resident Evil” and “Underworld,” as the studio expands the division to develop theatrical films from digital-native creators, according to T",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Majority of Americans Trust Independent News Creators as Much as Journalists, Study Finds",
+   "url": "https://www.netinfluencer.com/majority-of-americans-trust-independent-news-creators-as-much-as-journalists-study-finds/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-12T13:02:23+00:00",
+   "snippet": "Six in 10 Americans say they trust a well-known independent news creator as much as a well-known professional journalist on political topics, according to a new survey from Syracuse University’s Center for the Creator Economy (CCE). The findings, published in October 2026 as the center’s first “Flas",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "The Digital Dept. Built a Fashion Week Creator Experience Without the Fashion Week Budget",
+   "url": "https://www.netinfluencer.com/the-digital-dept-built-a-fashion-week-creator-experience-without-the-fashion-week-budget/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-12T13:06:42+00:00",
+   "snippet": "New York Fashion Week (NYFW) prices many brands out of the cultural moment. Influencer Marketing company The Digital Dept. has spent three years building an event model for the ones left outside. BRANDEdit, The Digital Dept.’s in-house experiential program, ran its third NYC Fashion Week Experience ",
+   "matched_keywords": [
+    "creator",
+    "influencer"
+   ]
+  },
+  {
+   "title": "The 10 Fastest-Growing UK Instagram Accounts of September 2026",
+   "url": "https://www.netinfluencer.com/the-10-fastest-growing-uk-instagram-accounts-of-september-2026/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-12T13:12:03+00:00",
+   "snippet": "Florence Pugh’s Venice Film Festival run, complete with a viral Aperol Spritz workout clip, outpaced the growth of players at two of Europe’s biggest football clubs. Barcelona’s big-money winger Anthony Gordon and Bayern’s Michael Olise both opened the 2026/27 season with standout performances, whil",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Dangbei N3 Max review: the projector with an unbeatable value for money",
+   "url": "https://korben.info/en/dangbei-n3-max-review-unbeatable-value-projector.html",
+   "source": "Korben",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-10-12T15:15:03+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Sony Makes Huge Creator Film Move 🎬",
+   "url": "https://news.thepublishpress.com/p/sony-makes-huge-creator-film-move",
+   "source": "The Publish Press",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-12T16:32:35+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How Brands Can Build on Holiday Shopping to Inspire Lasting Loyalty",
+   "url": "https://www.adweek.com/commerce/how-brands-can-build-on-holiday-shopping-to-inspire-lasting-loyalty/",
+   "source": "Adweek",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-adweek",
+   "published": "2026-10-12T17:47:14+00:00",
+   "snippet": "This post was created in partnership with Roundel Holiday shopping allows brands to surprise and delight consumers. And there’s a huge opportunity to turn those seasonal moments into lasting relationships. […]",
+   "matched_keywords": [
+    "roundel"
+   ]
+  },
+  {
+   "title": "Meta’s TikTok Link Ban Could Hobble Media Buyers’ Creator Campaigns",
+   "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
+   "source": "Adweek",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-adweek",
+   "published": "2026-10-13T05:03:11+00:00",
+   "snippet": "Blocking a rival makes sense, buyers say, but stopping brands from linking to TikTok is another matter.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Alberta Tech's most important creator tool might be curiosity",
+   "url": "https://mashable.com/life/alberta-tech-creator-tools-essentials",
+   "source": "Mashable",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-13T09:00:33+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "«Creator Tank»: When Startups Pitch for Reach, Not Money",
+   "url": "https://www.organisator.ch/en/marketing/2026-10-13/creator-tank-wenn-start-ups-nicht-um-geld-sondern-um-reichweite-pitchen/",
+   "source": "www.organisator.ch",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-13T09:09:09+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "The Complete Guide to Launching an Online Casino in LATAM (2026)",
+   "url": "https://bmmagazine.co.uk/business/the-complete-guide-to-launching-an-online-casino-in-latam-2026/",
+   "source": "Business Matters",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-12T06:20:32+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Currys Opens TikTok Shop With Weekly LIVE and Affiliate Management",
+   "url": "https://www.affiversemedia.com/currys-tiktok-shop-affiliate-management/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-12T07:00:00+00:00",
+   "snippet": "UK technology retailer Currys has launched a TikTok Shop trial with a selected range of audio, health and beauty, coffee and seasonal products. THG Commerce will manage strategy, trading, shop...",
+   "matched_keywords": [
+    "affiliate",
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Amazon Brings Regional Targeting and Unified Measurement to Prime Video",
+   "url": "https://www.affiversemedia.com/amazon-prime-video-regional-ad-targeting-measurement/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-12T07:00:00+00:00",
+   "snippet": "Amazon Ads is bringing regional targeting and location-based creative into its UK advertising offer, while preparing to add Prime Video to unified television campaign measurement in 2027. The developments, outlined...",
+   "matched_keywords": []
+  },
+  {
+   "title": "A Landmark Communique: Offer18 Acquires Offershub",
+   "url": "https://businessconnectindia.in/offer18-acquires-offershub/",
+   "source": "Business Connect India",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-12T07:17:41+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "This Week in M&A Issue #258",
+   "url": "https://empireflippers.com/this-week-in-ma-issue-258/",
+   "source": "Empire Flippers",
+   "group": "Affiliate industry",
+   "feed_id": "src-empire-flippers",
+   "published": "2026-10-12T08:37:38+00:00",
+   "snippet": "Hello out there! Today’s trend of the week is “winter prep”. ❄️ Winter is coming, and consumers are prepping accordingly. According to Shopify’s sales data shared with Retail Brew, demand for firewood jumped 129%, while orders for radiators and space heaters increased 120% and 118%, respectively. Sn",
+   "matched_keywords": []
+  },
+  {
+   "title": "AI Visibility, Is That a Thing?",
+   "url": "https://hellopartner.com/ai-visibility-is-that-a-thing/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-12T09:30:26+00:00",
+   "snippet": "Let me start by stating the obvious. AI visibility is a real thing. The question is what it is worth, and to whom. Three facts are worth agreeing on before we perhaps disagree on everything else. First, some partners are losing traffic. For some partners, almost 50% of the clicks",
+   "matched_keywords": []
+  },
+  {
+   "title": "Where Should Platforms Draw the Line on AI-Generated Creator Content?",
+   "url": "https://hellopartner.com/where-should-platforms-draw-the-line-on-ai-generated-creator-content/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-12T11:20:53+00:00",
+   "snippet": "\"The winning model is using AI to scale authentic creators rather than trying to manufacture authenticity.\"",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How This Golf Training Brand Fixed Its Subpar Attribution",
+   "url": "https://www.adexchanger.com/measurement/how-this-golf-training-brand-fixed-its-subpar-attribution/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-12T12:00:13+00:00",
+   "snippet": "Shane Jackson didn’t set out to be a marketer. A former golf pro and All-American golfer, he bought PureOne Golf, a struggling golf training-aid company in Scottsdale, Arizona, in November 2024. What he got was less a business than a pile of parts: some inventory, a trademark and a website that, by ",
+   "matched_keywords": []
+  },
+  {
+   "title": "TV Budgets Are Following The Wrong Scorecard",
+   "url": "https://www.adexchanger.com/content-studio/tv-budgets-are-following-the-wrong-scorecard/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-12T12:00:30+00:00",
+   "snippet": "The last decade saw television audiences steadily shift from linear toward streaming. The fact that advertising budgets followed isn’t too surprising. If more people are watching streaming, more TV advertising dollars should move there, too, right? But that logic rests on an oversimplification. “The",
+   "matched_keywords": []
+  },
+  {
+   "title": "AI’s Here, But What’s the Framework For Making Sense of Its Mess?",
+   "url": "https://hellopartner.com/ais-here-but-whats-the-framework-for-making-sense-of-its-mess/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-12T13:44:00+00:00",
+   "snippet": "You’ve seen the traffic drop, lost the journey visibility, and you’re wondering where AI citation leaves you. We’re bringing together the people who are probing for answers and building out the solutions.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten TV Launching in U.S., Japan, Middle East (Exclusive)",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/rakuten-tv-launching-in-us-japan-mid-east-1236727647/",
+   "source": "The Hollywood Reporter",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T14:00:59+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Rakuten TV expands international enterprise business",
+   "url": "https://www.advanced-television.com/2026/10/12/rakuten-tv-expands-international-enterprise-business/",
+   "source": "Advanced Television",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T14:56:30+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Registration Is Open for iGB Affiliate Barcelona: The World's Largest iGaming Affiliate Community",
+   "url": "https://www.isa-guide.de/english-news/registration-is-open-for-igb-affiliate-barcelona-the-worlds-largest-igaming-affiliate-community/",
+   "source": "ISA-Guide",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-12T16:14:55+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Greater EMC Chamber aims to boost voter turnout through new initiative",
+   "url": "https://communityimpact.com/new-caney-porter/election/greater-emc-chamber-aims-to-boost-voter-turnout-through-new-initiative/",
+   "source": "Community Impact",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T18:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten TV Expands Enterprise Service to the U.S., Middle East, Japan",
+   "url": "https://www.mediaplaynews.com/rakuten-tv-expands-enterprise-service-to-the-us-middle-east-japan/",
+   "source": "Media Play News",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T18:41:37+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "'Big Short' Michael Burry Sees Opportunity In Beaten-Down Lululemon: 'Bad Management Is A Value Investor’s Best Friend'",
+   "url": "https://stocktwits.com/news-articles/markets/equity/big-short-michael-burry-sees-opportunity-in-beaten-down-lululemon-bad-management-is-a-value-investor-s-best-friend/cZ1G3nsR7Qg",
+   "source": "Stocktwits",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T18:46:09+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Phia Cookie Stuffing Scandal Exposes Affiliate Practices",
+   "url": "https://gritdaily.com/phia-stuffing-scandal-exposes-affiliate-practices/",
+   "source": "Grit Daily News",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-12T20:12:08+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate",
+    "cookie stuffing"
+   ]
+  },
+  {
+   "title": "Best 3PL Fulfillment Services for Beauty Brands in 2026",
+   "url": "https://bigeasymagazine.com/2026/10/12/best-3pl-fulfillment-services-for-beauty-brands-in-2026/",
+   "source": "Big Easy Magazine",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-12T22:23:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten TV expands FAST through distinct market models",
+   "url": "https://www.contentgrip.com/rakuten-tv-fast-expansion/",
+   "source": "ContentGrip",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T01:08:28+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "[Starting Today at 3 PM] Matsuya's \"Gyumeshi\" Sees 20 Yen Price Hike! Regular Size Now 480 Yen, Matching Sukiya",
+   "url": "https://ascii.jp/en/elem/000/004/441/4441894/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T01:30:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta Jumps into Frontier AI Model Race, Outperforming Opus 5.5 and Astra in Benchmarks",
+   "url": "https://ascii.jp/en/elem/000/004/441/4441895/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T02:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week",
+   "url": "https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-13T04:01:00+00:00",
+   "snippet": "Advertising Week New York saw more ad tech M&A, plus, the rise of the \"universal buying platform.\"",
+   "matched_keywords": []
+  },
+  {
+   "title": "Media buys and mega partnerships: How the creator economy is splitting in two",
+   "url": "https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-13T04:01:00+00:00",
+   "snippet": "There’s a growing bifurcation in the creator economy. While the Alix Earle’s and Mr Beast’s of the world take on the role of agencies, nano and micro creators have become media buys. “Brands are increasingly approaching the space just like they would traditional channels with a media mix that reflec",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How many people does it take to run an agency? According to Bad Mktg, just two if you’re using AI",
+   "url": "https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-13T04:01:00+00:00",
+   "snippet": "BaD Mktg is just two employees and a lot of AI to run the business and ideate. The secret to its success? The experience of the people leading the ideation.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google Is Feeding Bad Data To Rival Scrapers; YouTube (Still) Can’t Pick A Side",
+   "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-13102026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-13T04:03:02+00:00",
+   "snippet": "Google is targeting scrapers; YouTube insists it's not trying to replace traditional TV; and publishers are wary of agentic media buying. The post Google Is Feeding Bad Data To Rival Scrapers; YouTube (Still) Can’t Pick A Side appeared first on AdExchanger .",
+   "matched_keywords": [
+    "agentic",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Dear Performance CTV Companies: Please Stop. You’re Hurting Us",
+   "url": "https://www.adexchanger.com/on-tv-and-video/dear-performance-ctv-companies-please-stop-youre-hurting-us/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-13T04:35:34+00:00",
+   "snippet": "Dear performance CTV companies, Please stop calling everything performance CTV. By all means, measure outcomes. Optimize toward sales. Make television more accountable. I’m all for it. But if the product is basically a pixel, an attribution window and a CPA column, that doesn’t mean we’ve transforme",
+   "matched_keywords": []
+  },
+  {
+   "title": "Making AI Pay Its Way, With Cloudflare",
+   "url": "https://www.adexchanger.com/adexchanger-talks/making-ai-pay-its-way-with-cloudflare/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-13T05:00:39+00:00",
+   "snippet": "For every human reader they send back to publishers, AI bots scrape thousands of pages, according to Cloudflare. Yikes. That’s not what publishers agreed to when they started letting search engines crawl their sites in exchange for traffic, says Lara Cohen, VP of strategic partnerships for media, cr",
+   "matched_keywords": []
+  },
+  {
+   "title": "NVIDIA's 64GB DGX Spark Debuts at ~¥790,000, More Expensive Than 128GB Version's Launch Price",
+   "url": "https://ascii.jp/en/elem/000/004/442/4442134/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T06:45:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "A Spate of Data Breaches: Are Smartphone Apps Becoming Attack Entry Points? NICT Issues Warning",
+   "url": "https://ascii.jp/en/elem/000/004/442/4442152/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T07:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten Mobile Notifies Users of Potential Data Leak, Including Past Subscribers",
+   "url": "https://ascii.jp/en/elem/000/004/442/4442187/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-13T07:20:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Meet Starling, The Startup That Says It’s More Than Just Another CTV SSP",
+   "url": "https://www.adexchanger.com/tv/meet-starling-the-startup-that-says-its-more-than-just-another-ctv-ssp/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-13T09:00:10+00:00",
+   "snippet": "Starling recently launched as a connected TV SSP and wants to capitalize on the opportunity to address a major pain point facing CTV marketers: the lack of show-level data. The post Meet Starling, The Startup That Says It’s More Than Just Another CTV SSP appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Priceline Faces Possible FTC Action Over Affiliate Hotel Advertising",
+   "url": "https://www.affiversemedia.com/priceline-ftc-affiliate-hotel-advertising/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-13T09:43:29+00:00",
+   "snippet": "Priceline faces possible Federal Trade Commission action over alleged practices involving a B2B affiliate, according to a disclosure by parent company Booking Holdings. The concerns cover disclosures, fees, customer support...",
+   "matched_keywords": [
+    "affiliate",
+    "commission"
+   ]
+  },
+  {
+   "title": "CNN takes All Access abroad to turn global reach into paying subscribers",
+   "url": "https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-13T10:01:00+00:00",
+   "snippet": "CNN is bringing its All Access subscription service to the U.K. and Canada as part of a broader push to turn its international audience into paying subscribers.",
+   "matched_keywords": []
+  },
+  {
+   "title": "How tech publisher Minty turns invisible shoppers into $120m in revenue through impact.com",
+   "url": "https://impact.com/partnerships/minty-case-study/",
+   "source": "impact.com",
+   "group": "Affiliate industry",
+   "feed_id": "src-impact-com",
+   "published": "2026-10-13T10:34:56+00:00",
+   "snippet": "Anonymous shoppers who leave a site without buying rarely get a second chance to convert. Minty built its Proactive Commerce model to close that gap, activating through impact.com's Universal Tracking Tag with no new dev work. The payoff is more than $120m in revenue for brands that were originally ",
+   "matched_keywords": [
+    "impact.com"
+   ]
+  },
+  {
+   "title": "Meta's Muse agent puts well-known merchants first as it gains ad accounts",
+   "url": "https://ppc.land/metas-muse-agent-puts-well-known-merchants-first-as-it-gains-ad-accounts/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T05:35:33+00:00",
+   "snippet": "Meta's Muse shopping agent must rank well-known merchants first and now reaches ad accounts, as agents, verifiers and footnotes shape the day's marketing news.",
+   "matched_keywords": [
+    "shopping agent"
+   ]
+  },
+  {
+   "title": "Zeta Global to buy Senso, the startup behind its AI search product",
+   "url": "https://ppc.land/zeta-global-to-buy-senso-the-startup-behind-its-ai-search-product/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T06:34:13+00:00",
+   "snippet": "Senso's technology already helps power Zeta's tool for tracking brands in ChatGPT, Gemini and Claude. No price was given. What does owning the supplier change?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Google offers up to $382,000 for a lead to make Discover an AI concierge",
+   "url": "https://ppc.land/google-offers-up-to-382-000-for-a-lead-to-make-discover-an-ai-concierge/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-12T06:42:50+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why Ulta Beauty thinks AI makes the store experience matter more",
+   "url": "https://www.thedrum.com/news/the-best-marketers-to-the-agents-how-ulta-beauty-is-preparing-for-agentic-commerce",
+   "source": "The Drum",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-12T09:18:42+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Explaining YouTube Data API",
+   "url": "https://ppc.land/youtube-data-api/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T11:27:52+00:00",
+   "snippet": "The YouTube Data API is Google's official interface for reading and managing YouTube videos, channels, playlists and comments, governed by quotas and terms.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Explaining Digital Omnibus",
+   "url": "https://ppc.land/digital-omnibus/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T11:31:23+00:00",
+   "snippet": "Digital Omnibus: the European Commission's November 2025 package amending the GDPR, ePrivacy cookie rules, Data Act and AI Act to cut business compliance costs.",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Social Commerce: The New Product Discovery Engine",
+   "url": "https://www.kingsresearch.com/blog/social-commerce-product-discovery",
+   "source": "Kings Research",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-12T13:53:49+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "social commerce"
+   ]
+  },
+  {
+   "title": "OpenAI’s Plan To Revive Sora",
+   "url": "https://www.theinformation.com/articles/openais-plan-revive-sora",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-12T14:00:37+00:00",
+   "snippet": "Remember OpenAI’s video model Sora and all the great Sam Altman memes that came from it? Earlier this year, the ChatGPT-maker canned both the model and the TikTok-like app it powered as part of broader culling of server-intensive “side projects” even as rivals xAI and Google forged ahead with their ",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Google AI Overviews Take Clicks and Credit Without Making Searchers Happier, Study Finds",
+   "url": "https://www.forbes.com/advisor/business/ai/google-ai-overview-study-results/",
+   "source": "Forbes",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-12T14:56:57+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "Explaining online travel agency",
+   "url": "https://ppc.land/online-travel-agency/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T15:24:00+00:00",
+   "snippet": "Online travel agency: a website or app that sells hotel rooms, flights and other travel from many suppliers for a commission or margin, such as Booking.com.",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Explaining AI Studio",
+   "url": "https://ppc.land/ai-studio/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T15:46:38+00:00",
+   "snippet": "AI Studio is Google's free web tool for testing Gemini models, getting API keys and building apps; Meta also used the same name for its AI character builder.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
+   "url": "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-12T17:31:53+00:00",
+   "snippet": "Meta Platforms unveiled two new AI models, Muse Wonder and Muse Wonder Full, on Monday as it seeks to strengthen its position in the competitive AI race. CEO Mark Zuckerberg announced the models on Threads, describing them as significantly larger and more advanced than the company’s most recent ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Explaining product feed",
+   "url": "https://ppc.land/product-feed/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-12T17:45:57+00:00",
+   "snippet": "A product feed is a structured file listing what a retailer sells, with prices, images and stock, sent to shopping ads, marketplaces and AI shopping agents.",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "NEAR’s cross-chain infrastructure aims to connect blockchains for AI commerce",
+   "url": "https://en.cryptonomist.ch/2026/10/12/near-cross-chain-infrastructure/",
+   "source": "The Cryptonomist",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-12T17:58:24+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Reach Says Google’s AI Shift Is Squeezing Digital Revenue",
+   "url": "https://finimize.com/content/reach-says-googles-ai-shift-is-squeezing-digital-revenue",
+   "source": "Finimize",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-13T00:40:37+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "AI in practice: Monetisation strategy",
+   "url": "https://www.inpublishing.co.uk/articles/ai-in-practice-monetisation-strategy-26982",
+   "source": "InPublishing",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-13T05:18:32+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Explaining celebrity",
+   "url": "https://ppc.land/celebrity/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T05:29:24+00:00",
+   "snippet": "Celebrity is the top influencer tier, which the ANA defines as accounts above 1 million followers, hired for reach and fame rather than niche trust or low cost.",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "Explaining micro",
+   "url": "https://ppc.land/micro/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T05:31:24+00:00",
+   "snippet": "Micro is the influencer tier for creators with about 10,000 to 100,000 followers, the second of four sizes in the ANA scheme, between nano and macro creators.",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "Explaining Shopping Graph",
+   "url": "https://ppc.land/shopping-graph/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T05:44:38+00:00",
+   "snippet": "The Shopping Graph is Google's machine-learning data set of products, sellers, prices, reviews and stock that feeds Shopping, Search, Lens, AI Mode and Gemini.",
+   "matched_keywords": [
+    "ai mode",
+    "gemini"
+   ]
+  },
+  {
+   "title": "Explaining free listings",
+   "url": "https://ppc.land/free-listings/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T05:50:58+00:00",
+   "snippet": "Free listings are unpaid product results Google builds from Merchant Center data on Search, Shopping and YouTube. How they work, and why Europe has lost them.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "NTT Docomo Ventures invests in AI commerce platform Loops AI",
+   "url": "https://www.telecompaper.com/news/ntt-docomo-ventures-invests-in-ai-commerce-platform-loops-ai--1585443",
+   "source": "Telecompaper",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-13T05:51:31+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Life after SEO: How newsrooms are adapting to the AI search shift",
+   "url": "https://reutersinstitute.politics.ox.ac.uk/news/life-after-seo-how-newsrooms-are-adapting-ai-search-shift",
+   "source": "reutersinstitute.politics.ox.ac.uk",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-13T06:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Daily Mirror publisher Reach hit by Google traffic slump",
+   "url": "https://www.channelnewsasia.com/business/daily-mirror-publisher-reach-hit-google-traffic-slump-6455276?cid=cna_flip_070214",
+   "source": "CNA",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-13T07:27:04+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Explaining AI referral traffic",
+   "url": "https://ppc.land/ai-referral-traffic/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T10:33:42+00:00",
+   "snippet": "AI referral traffic is website visits that arrive when a user clicks a link inside a chatbot answer, such as ChatGPT, Gemini or Perplexity. Small, fast-growing.",
+   "matched_keywords": [
+    "gemini",
+    "perplexity"
+   ]
+  },
+  {
+   "title": "Explaining LLM",
+   "url": "https://ppc.land/llm/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-13T10:35:41+00:00",
+   "snippet": "An LLM, or large language model, is a neural network trained on vast text to predict the next token, the engine behind ChatGPT, Gemini, Claude and AI search.",
+   "matched_keywords": [
+    "gemini",
+    "llm"
+   ]
+  },
+  {
+   "title": "KDP Says Relations Strong With Iraq's Major Political Blocs",
+   "url": "https://www.kurdistan24.net/en/story/945522/kdp-says-relations-strong-with-iraqs-major-political-blocs",
+   "source": "Kurdistan24",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T07:33:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Shafaq News..MERI 2026: Talabani urges KRG to rethink Baghdad policy",
+   "url": "https://shafaq.com/en/Kurdistan/MERI-2026-Talabani-urges-KRG-to-rethink-Baghdad-policy",
+   "source": "شفق نيوز",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T08:53:12+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Shafaq News..MERI 2026: Talabani urges KDP alliance to shape Iraq’s future",
+   "url": "https://shafaq.com/en/Kurdistan/MERI-2026-Talabani-urges-KDP-alliance-to-shape-Iraq-s-future",
+   "source": "شفق نيوز",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T10:03:14+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "What’s Buzzing?: 2026 Trending BookTok YA Books",
+   "url": "https://bookriot.com/2026-trending-booktook-ya-books/",
+   "source": "Book Riot",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-12T10:28:32+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "booktok"
+   ]
+  },
+  {
+   "title": "PUK leader Talabani says KDP, PUK can ‘manage Iraq together’ if united",
+   "url": "https://thenewregion.com/posts/6785",
+   "source": "The New Region",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T11:27:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "KDP, PUK expected to hold ‘serious’ gov't formation meeting next month: KIU",
+   "url": "https://thenewregion.com/posts/6787",
+   "source": "The New Region",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T13:42:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Keurig Dr Pepper Inc. (KDP) Stock Price, News, Quote & History",
+   "url": "https://ca.finance.yahoo.com/quote/KDP/",
+   "source": "Yahoo! Finance Canada",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T15:06:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Iraq’s 2027 draft budget remains open to change, says KDP lawmaker",
+   "url": "https://thenewregion.com/posts/6790",
+   "source": "The New Region",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-12T16:13:04+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Shafaq News..Iraq adviser: US deals prevented strikes, blockade",
+   "url": "https://shafaq.com/amp/en/Iraq/Iraq-adviser-US-deals-prevented-strikes-blockade",
+   "source": "شفق نيوز",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-13T08:45:27+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "What Books did You Start or Finish Reading this Week?: October 12, 2026",
+   "url": "https://www.reddit.com/r/books/comments/1x3xuep/what_books_did_you_start_or_finish_reading_this/",
+   "source": "r/books",
+   "group": "Reddit",
+   "feed_id": "reddit-r-books",
+   "published": "2026-10-12T10:00:08+00:00",
+   "snippet": "Hi everyone! What are you reading? What have you recently finished reading? What do you think of it? We want to know! We're displaying the books found in this thread in the book strip at the top of the page. If you want the books you're reading included, use the formatting below. Formatting your boo",
+   "matched_keywords": [
+    "author"
+   ]
+  },
+  {
+   "title": "Are any Canadians in the AIP branching out with Walmart?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x43wf8/are_any_canadians_in_the_aip_branching_out_with/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-10-12T14:50:23+00:00",
+   "snippet": "Hi, I have been in the AIP for 2.5 years and now am thinking about branching out with Walmart. I use OINK pro and it looks pretty easy to send applicable videos to Walmart if approved, though I suspect it might only be for the US Walmart. Any other Canadians trying this? submitted by /u/NurseTrish71",
+   "matched_keywords": []
+  },
+  {
+   "title": "Title: Pulsetic Shut Down Its Affiliate Program, Denied My Earnings, Then Refused Payment - Affiliate Accountability?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x45puu/title_pulsetic_shut_down_its_affiliate_program/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-12T15:59:54+00:00",
+   "snippet": "I wanted to share my recent experience with Pulsetic because it highlights a bigger problem in affiliate marketing. I discovered that Pulsetic had shut down its affiliate program months ago, and its affiliate dashboard was no longer accessible. When I contacted support about my $7 unpaid balance, th",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Making YouTube Videos Through Film Criticism",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x48bdv/making_youtube_videos_through_film_criticism/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T17:35:19+00:00",
+   "snippet": "I've been making videos/movie reviews for many years now. I took a break for a long time to focus on work, while also saving up for new camera and lighting gear through the process. After feeling comfortable with my quality, I decided two years ago to make an attempt again at building an audience. I",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "12th Monstober!",
+   "url": "https://www.reddit.com/r/u_Elizabethnharris/comments/1x49npd/12th_monstober/",
+   "source": "r/u_Elizabethnharris",
+   "group": "Reddit",
+   "feed_id": "reddit-search-12",
+   "published": "2026-10-12T18:24:33+00:00",
+   "snippet": "12th Monstober Authors... Temptation lays in wait for all of us. It lurks and hides, just waiting to entice us. Sneaky and alluring, who can resist? Ask AJ Mullican who brings you not one, not two but three tantalising males. Tizahmi brings you a huntress who seeks a target that might be too much fo",
+   "matched_keywords": [
+    "books2read"
+   ]
+  },
+  {
+   "title": "[Best Buy] Hisense - 75\" Class U7 MiniLED QLED UHD 4K HDR Glare-Free Smart Google TV with Gemini (2026) — $997.99 (23% off, usually $1,296.02) · Lowest price ever",
+   "url": "https://www.reddit.com/r/HolidayRestockR/comments/1x4akom/best_buy_hisense_75_class_u7_miniled_qled_uhd_4k/",
+   "source": "r/HolidayRestockR",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T18:57:56+00:00",
+   "snippet": "Hisense - 75\" Class U7 MiniLED QLED UHD 4K HDR Glare-Free Smart Google TV with Gemini (2026) $997.99 at Best Buy · usually $1,296.02 · 23% off (save $298.03) Lowest price we have ever recorded for it 4.9★ from 41 reviews Price history and more deals Price checked Oct 12, 2:24 PM ET. Prices change fa",
+   "matched_keywords": [
+    "affiliate",
+    "gemini"
+   ]
+  },
+  {
+   "title": "Update: a Reddit comment turned into 42 character captions and folder batch import, plus free automatic license delivery",
+   "url": "https://www.reddit.com/r/buildinpublic/comments/1x4aodn/update_a_reddit_comment_turned_into_42_character/",
+   "source": "r/buildinpublic",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T19:01:25+00:00",
+   "snippet": "VoxScribe is a Windows app for offline dictation and .srt captions. The core is free and open source (MIT), and an optional Pro tier costs $14 once. There are no affiliate links in this post. A commenter on Reddit said creators pay for time saved, not accuracy in the abstract: batch a folder overnig",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "We built buono, a free app that compares book prices (new and used) across UK and European shops",
+   "url": "https://www.reddit.com/r/TheBadLemon/comments/1x4auyw/we_built_buono_a_free_app_that_compares_book/",
+   "source": "r/TheBadLemon",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T19:07:46+00:00",
+   "snippet": "Hi all, this is the buono corner of the sub. buono is our own app, so please read this as us talking about our own thing. What it does Scan a book's barcode, or search by title, author or ISBN. buono shows new and used prices for that exact edition from bookshops and marketplaces in the UK, Italy, F",
+   "matched_keywords": [
+    "author",
+    "bol.com"
+   ]
+  },
+  {
+   "title": "Get $30 Quest Cash with your Quest 3 or 3S! Code: MXR",
+   "url": "https://www.reddit.com/r/MetaQuest_Referrals/comments/1x4b916/get_30_quest_cash_with_your_quest_3_or_3s_code_mxr/",
+   "source": "r/MetaQuest_Referrals",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T19:22:32+00:00",
+   "snippet": "Use my affiliate link for 10% off almost any game! If a game you need is missing from the list, let me know and I'll grab you a link! Or, use code \"MXR\" on most games, apps, and add-ons for 10% off! Note: ad blockers may cause the pop up to claim the discount not to show. $30 Quest Cash When Buying ",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "The eBook is now permafree via Draft2Digital",
+   "url": "https://www.reddit.com/r/FoughtDisorder/comments/1x4bi4p/the_ebook_is_now_permafree_via_draft2digital/",
+   "source": "r/FoughtDisorder",
+   "group": "Reddit",
+   "feed_id": "reddit-search-12",
+   "published": "2026-10-12T19:32:07+00:00",
+   "snippet": "Hi guys Fought Disorder is currently £6.99 on Amazon, Apple, Kobo, etc. as a digital download. I'd like to make digital versions free, so that the book can reach more potential readers. Starting with the versions distributed by Draft2Digital, these are now permafree. It may take a few days for the o",
+   "matched_keywords": [
+    "books2read",
+    "draft2digital",
+    "kobo"
+   ]
+  },
+  {
+   "title": "Why is my CTR 0% but I am still getting views from suggested?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4biy2/why_is_my_ctr_0_but_i_am_still_getting_views_from/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T19:32:59+00:00",
+   "snippet": "In the advanced mode of analytics, I am looking at impressions/CTR/views per traffic source, and my suggested is showing up as 9/0%/5. I am brand new to YouTube but have heard CTR is everything, so I am wondering why this would show up as 0%. Are people viewing the video just through the preview and",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Can i survive 500 days living underground in whiskerwood? Days 324-359",
+   "url": "https://www.reddit.com/r/u_Pravculear/comments/1x4bt5i/can_i_survive_500_days_living_underground_in/",
+   "source": "r/u_Pravculear",
+   "group": "Reddit",
+   "feed_id": "reddit-search-10",
+   "published": "2026-10-12T19:43:28+00:00",
+   "snippet": "Game: https://store.steampowered.com/app/2489330/Whiskerwood/ support me on kofi: https://ko-fi.com/pravculear general amazon affiliate link: https://amzn.to/3MXOR4x if you want a pc: https://www.jawa.gg/sp/151058/pravculears-computers Keywords: whiskerwood,hooded horse,gaming,gaming community,indie",
+   "matched_keywords": [
+    "affiliate",
+    "amazon affiliate"
+   ]
+  },
+  {
+   "title": "Will AdSense Release My Payment if My Tax Form Is Still “In Review”?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4bvue/will_adsense_release_my_payment_if_my_tax_form_is/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T19:46:15+00:00",
+   "snippet": "Hi everyone, My AdSense for YouTube tax form (W-8BEN) is currently showing “In Review.” Balance: Above $100 Bank account: Added Payment holds: None showing Tax form: In Review My question: If my tax form is still under review on October 21, will Google release my payment as usual, or will it be dela",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "A list of high paying affiliate programs",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x4curm/a_list_of_high_paying_affiliate_programs/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-12T20:22:58+00:00",
+   "snippet": "I’ve been looking into affiliate programs lately and ngl, a lot of lists just repeat the same few names. I ended up digging around a bit more and put together a shortlist across a few different niches. Gaming Godlike Host - game server hosting, with up to 90% of the first purchase or up to 30% recur",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "[Plugin Boutique] V10F by Audio Blast $72.00 (40% OFF)",
+   "url": "https://www.reddit.com/r/audioware/comments/1x4d24s/plugin_boutique_v10f_by_audio_blast_7200_40_off/",
+   "source": "r/audioware",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T20:31:00+00:00",
+   "snippet": "Transparency: Use the Affiliate link to support our sub at no extra cost or if you prefer, use the Non-Affiliate link. Affiliate Link: https://www.pluginboutique.com/product/1-Instruments/4-Synth/18050-V10F?a_aid=65285a1a3c976 Non-Affiliate Link: https://www.pluginboutique.com/product/1-Instruments/",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "The cheater is back once again",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x4d3tm/the_cheater_is_back_once_again/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-10-12T20:32:46+00:00",
+   "snippet": "https://www.amazon.com/shop/davidwatkings1 His last 4 accounts got suspended and he's made another and began uploading again. Old accounts: Jia Rex Approved TMI Reviews Pro Media Value Excellence TLDR Reviews Report: https://affiliate-program.amazon.com/contact?ac-ms-src=ac-nav submitted by /u/Veloc",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Colega de faculdade criou um canal no mesmo periodo que eu criei e postou primeiro",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4e3lz/colega_de_faculdade_criou_um_canal_no_mesmo/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T21:11:17+00:00",
+   "snippet": "Atualmente, estou desenvolvendo um canal no Youtube, já estava em processo de edição de vídeos e tudo mais. Porém, um colega da faculdade postou em um grupo nosso que criou um canal e já fez a postagem do primeiro vídeo. Não estou vendo como uma competição, mas eu tinha intuito de fazer o mesmo no g",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Does putting your twitch handle in a youtube short tank views?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4h2t3/does_putting_your_twitch_handle_in_a_youtube/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T23:20:23+00:00",
+   "snippet": "So, I never added my twitch handle to my youtube shorts but after about 3 weeks I noticed none of that traffic was funneling to my twitch. So, I thought well maybe putting it into the short in the bottom would be good since people don't have to take extra steps (clicking on my profile) to figure out",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Mega Evolution—Perfect Order Booster Bundle, 6 Booster Pack - $39.95",
+   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4hakg/amazon_pokemon_restock_alert_pokemon_tcg_mega/",
+   "source": "r/pokemonrestockr",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-12T23:30:32+00:00",
+   "snippet": "Pokemon TCG: Mega Evolution—Perfect Order Booster Bundle, 6 Booster Pack was just restocked at amazon for $39.95! As of 10/12/2026, 7:30 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitte",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Can I watch my own videos?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4hv0v/can_i_watch_my_own_videos/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-12T23:57:20+00:00",
+   "snippet": "Sorry for the beginner questions, but, after uploading a video, can I just click and watch it? And, if I have an affiliate link, can I just comment the link, and pin it ? submitted by /u/MasterGanja420 [link] [comments]",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "If you could give 5 tips on your first month starting out, what would they be?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4jwma/if_you_could_give_5_tips_on_your_first_month/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T01:35:31+00:00",
+   "snippet": "Hey everyone I’ve just started on YouTube and currently in my first week, for the more experienced users I have a simple question, if you could go back and start again what would your 5 biggest starting out tips you could give? Thanks! submitted by /u/Striking_Ad_3550 [link] [comments]",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "WALMART POKEMON RESTOCK ALERT: Collectible Pokemon Sword & Shield - Shining Fates Elite Trainer Box Trading Card Game - $49.98",
+   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4jyxt/walmart_pokemon_restock_alert_collectible_pokemon/",
+   "source": "r/pokemonrestockr",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-13T01:38:45+00:00",
+   "snippet": "Collectible Pokemon Sword & Shield - Shining Fates Elite Trainer Box Trading Card Game was just restocked at walmart for $49.98! As of 10/12/2026, 9:38 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app Restoc",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Ebook blocked by KDP",
+   "url": "https://www.reddit.com/r/selfpublish/comments/1x4lvgb/ebook_blocked_by_kdp/",
+   "source": "r/selfpublish",
+   "group": "Reddit",
+   "feed_id": "reddit-r-selfpublish",
+   "published": "2026-10-13T03:13:20+00:00",
+   "snippet": "Woke up early Oct 11th to find my ebook had been blocked by Amazon's Kindle Content Review Team. The Kindle Content Team email said: Hello, We haven't received a reply to our previous message regarding the following book(s), so we will not be making the book(s) available for sale on Amazon: (my book",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Mega Evolution—Pitch Black Booster Bundle - $34.95",
+   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4mnni/amazon_pokemon_restock_alert_pokemon_tcg_mega/",
+   "source": "r/pokemonrestockr",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-13T03:54:53+00:00",
+   "snippet": "Pokemon TCG: Mega Evolution—Pitch Black Booster Bundle was just restocked at amazon for $34.95! As of 10/12/2026, 11:54 PM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitted by /u/RestockR-",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Do I need to remonetize my first channel before applying with my second?",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4nsll/do_i_need_to_remonetize_my_first_channel_before/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T04:57:22+00:00",
+   "snippet": "My original channel got suspended from YPP for reused content. I started posting new, original content on my second channel under the same Gmail, and that channel now meets the monetization requirements. Do I need to get the first channel back into YPP before applying with the second, or just wait u",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Can't create a new Brand channel",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4omcx/cant_create_a_new_brand_channel/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T05:45:40+00:00",
+   "snippet": "I have a main Google Account and one Brand Account under it. I want to create a second Brand Account under the same main but YouTube blocks me and says \"build channel history.\" Which history do I need to build on my main channel or on my existing Brand Account? I don't want to use my main account be",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "AMAZON POKEMON RESTOCK ALERT: Pokemon TCG: Sword & Shield Silver Tempest Elite Trainer Box - $174.77",
+   "url": "https://www.reddit.com/r/pokemonrestockr/comments/1x4pe18/amazon_pokemon_restock_alert_pokemon_tcg_sword/",
+   "source": "r/pokemonrestockr",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-13T06:32:43+00:00",
+   "snippet": "Pokemon TCG: Sword & Shield Silver Tempest Elite Trainer Box was just restocked at amazon for $174.77! As of 10/13/2026, 2:32 AM Affiliate links may be used. Want faster alerts? Reddit's API can cause delays. Auto-Open Product pages with RestockR , or use our iOS app RestockR X ] submitted by /u/Res",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "I spent years being scared to post on YouTube. Today I hit 500 subscribers.",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4qgim/i_spent_years_being_scared_to_post_on_youtube/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T07:41:19+00:00",
+   "snippet": "I’ve always been interested in computer science and technology, but my life took a different route. My JEE rank wasn’t good enough to get computer science, so I ended up studying mechanical engineering at a tier-2 college. I didn’t get a good job after that, went on to do an MBA, and eventually star",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Advice for someone self-publishing their first book on Amazon KDP? And how can you get it into physical bookstores afterwards?",
+   "url": "https://www.reddit.com/r/selfpublish/comments/1x4qp10/advice_for_someone_selfpublishing_their_first/",
+   "source": "r/selfpublish",
+   "group": "Reddit",
+   "feed_id": "reddit-r-selfpublish",
+   "published": "2026-10-13T07:57:39+00:00",
+   "snippet": "Hi everyone! I'm working on my first book and seriously considering self-publishing it through Amazon KDP. This is my first time going through the whole process, so I'd love to hear from people who have already done it, especially in Spain. What do you wish you'd known before publishing your first b",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "How can I get more US viewers on my animal ranking Shorts channel",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4r36b/how_can_i_get_more_us_viewers_on_my_animal/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T08:23:47+00:00",
+   "snippet": "Hey everyone, I recently started a YouTube Shorts channel where I post animal ranking videos. I’ve noticed that most of my audience comes from countries like the Philippines and Indonesia, with some viewers from the US. I’d really like to make the US my main audience, but I’m not sure what I should ",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Looking for advice on growing my YouTube channel",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4r8c1/looking_for_advice_on_growing_my_youtube_channel/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T08:33:43+00:00",
+   "snippet": "Hey everyone! I recently started working on my YouTube channel, where I’m focusing primarily on gaming content, PS5 gameplay, gaming Shorts, funny moments, highlights, and memorable in-game experiences. I’m still experimenting with content formats, editing, captions, titles, and hooks to figure out ",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "DC Collected Edition Deals [October 13 2026]",
+   "url": "https://www.reddit.com/r/UK_GraphicNovel_Deals/comments/1x4rbk2/dc_collected_edition_deals_october_13_2026/",
+   "source": "r/UK_GraphicNovel_Deals",
+   "group": "Reddit",
+   "feed_id": "reddit-search-05",
+   "published": "2026-10-13T08:39:41+00:00",
+   "snippet": "This post contains affiliate links. If you buy through these links, I may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Thanks for your support. SciFier Discount Code Alert: All Scifier deals are priced 8% off in the post and so, please use the d",
+   "matched_keywords": [
+    "affiliate",
+    "commission"
+   ]
+  },
+  {
+   "title": "help stuck shorts views yt shorts",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4re61/help_stuck_shorts_views_yt_shorts/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T08:44:30+00:00",
+   "snippet": "There is a very sudden drop in My YouTube, videos, YouTube shorts views and if anyone knows what can be the reason so can you help me? submitted by /u/Fun-Roast-Factory [link] [comments]",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "👋 Welcome to r/GeminiArgon | Community Guidelines, Scope, and Discussion Norms",
+   "url": "https://www.reddit.com/r/GeminiArgon/comments/1x4sej3/welcome_to_rgeminiargon_community_guidelines/",
+   "source": "r/GeminiArgon",
+   "group": "Reddit",
+   "feed_id": "reddit-search-11",
+   "published": "2026-10-13T09:49:58+00:00",
+   "snippet": "r/GeminiArgon is a technical forum dedicated exclusively to Google’s Gemini 4 Argon architecture. As this architecture shifts operational boundaries in long-horizon reasoning, deep software synthesis, and autonomous agent trajectories, this space is established to facilitate high-signal collaboratio",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "My friends don't understand why im excited over small milestones",
+   "url": "https://www.reddit.com/r/NewTubers/comments/1x4suf9/my_friends_dont_understand_why_im_excited_over/",
+   "source": "r/NewTubers",
+   "group": "Reddit",
+   "feed_id": "reddit-r-newtubers",
+   "published": "2026-10-13T10:16:50+00:00",
+   "snippet": "So Ive been streaming for about a month and also set up a youtube channel not long ago, because my account is so new and I had 0 following, I decided I could take the time to experiment with different styles of content before commiting to one thing I posted some full length VODs with minor edits at ",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "The RTX 5090 Was Already Discontinued (For Gamers)",
+   "url": "https://youtu.be/_YmFfIc500w?is=wiD5a1_H3nwSvZLU",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-12T10:00:09+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Riverford celebrate 40th anniversary with cookbook",
+   "url": "https://www.fruitnet.com/fresh-produce-journal/riverford-celebrate-40th-anniversary-with-cookbook/272961.article",
+   "source": "Fruitnet",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-12T10:16:51+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}
