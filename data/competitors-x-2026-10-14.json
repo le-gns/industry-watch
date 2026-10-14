@@ -1,0 +1,39 @@
+{
+ "date": "2026-10-14",
+ "fetched_via": "x connector get_users_posts, start_time 2026-10-13T01:10Z",
+ "handles_checked": [
+  "LassoWP",
+  "URLgenius",
+  "button",
+  "AmazonAssociate",
+  "amazonnews",
+  "GeoTargetly",
+  "SOVRN",
+  "Skimlinks",
+  "PriceSpider",
+  "Bitly",
+  "LinkFire",
+  "jotURL",
+  "split_co",
+  "joinmavely",
+  "shopLTK",
+  "shopmy",
+  "Linktree_",
+  "beaconsai",
+  "latermedia",
+  "goodreads",
+  "Draft2Digital",
+  "LandingCube",
+  "YouTubeCreators",
+  "AmaLinksPro"
+ ],
+ "posts": [
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-10-14T00:42:17+00:00",
+   "url": "https://x.com/goodreads/status/2110169285754601873",
+   "text": "@soul_into_hades We greatly appreciate you taking the time to reach out and share this feedback and information with us. Customer feedback like yours is very important in helping us continue to improve our services and devices, as well as your Amazon experience. Let us know if we can assist with"
+  }
+ ]
+}

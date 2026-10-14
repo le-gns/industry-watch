@@ -1,0 +1,57 @@
+{
+ "date": "2026-10-14",
+ "summary": [
+  "Quiet day for the priority four: nothing new from Lasso, URLgenius or Button in news, blogs, X, LinkedIn or Reddit in the last ~30 hours. The only Amazon item was a Reddit thread about Associates paying commission on the whole cart.",
+  "Bitly is now the most-cited link shortener in AI answers (11.7% citation share across 218 tracked prompts), after an agency spent a year building up its Reddit presence.",
+  "LTK hosted CMOs and founders in London with Business of Fashion to talk about scaling creator marketing, a sign it is courting UK brands."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "What’s the most random thing you’ve earned an Amazon Associates commission on?",
+     "url": "https://www.reddit.com/r/AffiliateMarket/comments/1x51af1/whats_the_most_random_thing_youve_earned_an/",
+     "source": "r/AffiliateMarket",
+     "published": "2026-10-13T16:27:11+00:00",
+     "type": "reddit",
+     "paywall": false,
+     "why": "Creators are swapping stories about Amazon paying on everything in the cart, not just the product they linked. It shows how much affiliates' Amazon earnings depend on cart-wide credit, so any change to that rule would be felt widely."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Foundation Marketing Boosts Bitly’s Visibility in AI Search",
+     "url": "https://www.martechcube.com/foundation-marketing-boosts-bitlys-visibility-in-ai-search/",
+     "source": "MarTech Cube",
+     "published": "2026-10-13T20:03:35+00:00",
+     "type": "wire",
+     "paywall": false,
+     "why": "Bitly worked on being the brand AI assistants recommend, and it shows. As more buyers ask AI which link tool to use, Reddit threads and other community posts shape the answer."
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK and Business of Fashion host brand leaders in Mayfair on scaling creator marketing",
+     "url": "https://www.linkedin.com/posts/shopltk_last-week-ltk-hosted-the-second-installment-activity-7515878807413825537-ja52",
+     "source": "LinkedIn · LTK",
+     "published": "2026-10-13T20:59:05.962000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

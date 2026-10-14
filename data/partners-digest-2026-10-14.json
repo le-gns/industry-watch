@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-14",
+ "summary": [
+  "CJ's Kelly Harman wrote in Martech Record that trusted recommendations create value that the payment between two partners doesn't capture.",
+  "Rakuten Advertising helped set up a partnership between Livelo, Latin America's biggest loyalty program, and Shein in Brazil.",
+  "Rakuten and EMARKETER ran a webinar on incrementality and media-mix modelling for affiliate programs.",
+  "No affiliate or creator program news from the big retailers (Walmart, Best Buy, Target, Apple Books, Kobo, Barnes & Noble) today."
+ ],
+ "partners": [
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ's Kelly Harman in Martech Record: trusted recommendations have effects the partner payment doesn't capture",
+     "url": "https://www.linkedin.com/posts/commission-junction_affiliate-connectedcommerce-performancemarketing-activity-7515869702741716992-waom",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-13T20:22:55.238000+00:00",
+     "type": "social",
+     "paywall": false,
+     "why": "CJ is arguing that influence before the final click deserves credit. Networks are pushing the same point as AI answers lean on affiliate content."
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Advertising connects Livelo (Latin America's largest loyalty program) with Shein in Brazil",
+     "url": "https://pt.linkedin.com/posts/rakutenadvertising_affiliatemarketing-performance-rakutenadvertising-activity-7515836136628518912-WG3F",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-13T18:09:32.454000+00:00",
+     "type": "social",
+     "paywall": false
+    },
+    {
+     "title": "Rakuten Advertising and EMARKETER webinar: incrementality and MMM in affiliate performance",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_partnership-performance-in-perspective-activity-7515862440941785088-sFW5",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-13T19:54:03.891000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

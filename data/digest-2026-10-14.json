@@ -1,0 +1,206 @@
+{
+ "date": "2026-10-14",
+ "intro": "A lighter news day. Prime Day deal posts, betting-affiliate news, gadget launches, paywalled OpenAI gossip and older stories that resurfaced (YouTube's 2027 monetization rules, Amazon's commission cuts from May, Reach's Google traffic hit) were left out.",
+ "must_reads": [
+  {
+   "title": "YouTube rolls out AI search chatbot to all US users",
+   "url": "https://www.socialmediatoday.com/news/youtube-rolls-out-ai-search-chatbot-to-all-us-users/832923/",
+   "source": "Social Media Today",
+   "published": "2026-10-13T21:08:25+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: YouTube now answers searches with an AI chat for every US user. More discovery is happening inside AI answers on each platform, so the links creators share have to work wherever the shopper ends up."
+  },
+  {
+   "title": "Shopify opens its catalog up to more AI agents",
+   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "source": "The Verge",
+   "published": "2026-10-13T20:23:23+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: any AI agent can now browse and buy from Shopify's billion-plus listings, with checkout handled inside the chat. If agents do the buying, fewer purchases start with a person clicking a link, and the question of who gets credit for the sale gets harder."
+  },
+  {
+   "title": "So your ads are on ChatGPT. Now what?",
+   "url": "https://affiliateleaders.com/nick-beck-your-ads-on-chatgpt-now-what/",
+   "source": "Affiliate Leaders",
+   "published": "",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: the piece cites CJ research that up to 91% of what ChatGPT reads about big brands' products is affiliate-style content. Affiliate content is feeding AI answers, but the payment model still only rewards the final click."
+  },
+  {
+   "title": "Future of TV Briefing: TikTok Shop success = small creators + more videos",
+   "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/",
+   "source": "Digiday",
+   "published": "2026-10-14T04:01:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Digiday says TikTok Shop sales are coming from lots of small creators posting more videos, not a few big names. Commerce keeps spreading across many smaller creators and platforms at once."
+  },
+  {
+   "title": "Everyone is rejecting cookies now. How to get paid?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x544k9/everyone_is_rejecting_cookies_now_how_to_get_paid/",
+   "source": "r/Affiliatemarketing",
+   "published": "2026-10-13T18:10:25+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: a niche-site owner says clicks to merchants still come in but conversions have collapsed, and blames cookie rejection. Small affiliates feel tracking gaps first, which shows how fragile click-to-sale attribution is getting."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "He is stealing your videos, Top creator",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x5dsk7/he_is_stealing_your_videos_top_creator/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-14T00:50:41+00:00",
+     "paywall": false,
+     "summary": "An Amazon Influencer says a storefront is reposting other creators' TikTok and YouTube videos with the audio stripped, and asks if it breaks Amazon's rules."
+    },
+    {
+     "title": "Amazon UK Uploading Error - Anybody Else?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x5esl4/amazon_uk_uploading_error_anybody_else/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-14T01:40:06+00:00",
+     "paywall": false,
+     "summary": "Creators report errors uploading videos to Amazon UK's influencer program."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Facebook is giving users more control over their algorithm",
+     "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+     "source": "TechCrunch",
+     "published": "2026-10-13T18:05:24+00:00",
+     "paywall": false,
+     "summary": "Meta is bringing its AI 'Your Algorithm' feed controls from Instagram to Facebook."
+    },
+    {
+     "title": "Goalhanger Launches Creator-Led Media Model With Marina Hyde’s ‘Always On’",
+     "url": "https://www.netinfluencer.com/goalhanger-launches-creator-led-media-model-with-marina-hydes-always-on/",
+     "source": "Net Influencer",
+     "published": "2026-10-13T12:17:23+00:00",
+     "paywall": false,
+     "summary": "Podcast company Goalhanger launched 'Goalhanger X' to build full media businesses around single creators, starting with Marina Hyde."
+    },
+    {
+     "title": "A student launched an eyelash-serum brand from her mother's kitchen and generated more than £100,000 duri",
+     "url": "https://timesofindia.indiatimes.com/world/uk/a-student-launched-an-eyelash-serum-brand-from-her-mothers-kitchen-and-generated-more-than-100000-during-one-12-hour-livestream/articleshow/134914196.cms",
+     "source": "The Times of India",
+     "published": "2026-10-13T12:20:00+00:00",
+     "paywall": false,
+     "summary": "A UK student says her eyelash-serum brand sold more than £100,000 in one 12-hour livestream, another sign of live shopping's pull."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Rightlander Launches Partner Intelligence to Map Affiliate Networks",
+     "url": "https://15m.com/news/rightlander-launches-partner-intelligence-to-map-affiliate-networks/",
+     "source": "15M",
+     "published": "",
+     "paywall": false,
+     "summary": "New compliance tool that uses AI agents to link affiliate sites, social profiles and sub-networks and flag changes in how partners promote brands."
+    },
+    {
+     "title": "Brand hijacking via Performance Max: how affiliates steal brand clicks and get caught",
+     "url": "https://motherofads.com/industry/brand-hijacking-via-performance-max-how-affiliates-steal-brand-clicks-and-get-caught/",
+     "source": "Mother of Ads",
+     "published": "",
+     "paywall": false,
+     "summary": "Explainer on affiliates using Google's automated Performance Max campaigns to bid on brand names, and how programs catch it by following redirect chains."
+    },
+    {
+     "title": "Paf and Meta Plan License Checks for Gambling Ads and Affiliates",
+     "url": "https://www.affiversemedia.com/paf-meta-gambling-ad-license-affiliate-checks/",
+     "source": "Affiverse Media",
+     "published": "2026-10-13T11:24:09+00:00",
+     "paywall": false,
+     "summary": "Gambling operator Paf and Meta are piloting license checks in Switzerland that look at operator and affiliate website URLs before ads run."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Gemini app tasks mode works while users are away, for $19.99 and up",
+     "url": "https://ppc.land/gemini-app-tasks-mode-works-while-users-are-away-for-19-99-and-up/",
+     "source": "PPC Land",
+     "published": "2026-10-13T20:48:17+00:00",
+     "paywall": false,
+     "summary": "Google's Gemini app now runs tasks while users are away, with Shopify among 40+ connected apps, for paid plans from $19.99."
+    },
+    {
+     "title": "Winning in the Answer Era",
+     "url": "https://hellopartner.com/winning-in-the-answer-era/",
+     "source": "Hello Partner",
+     "published": "2026-10-13T12:45:01+00:00",
+     "paywall": false,
+     "summary": "Hello Partner argues AI is changing advertising's job: as discovery becomes conversational, more influence shifts to trusted recommendations."
+    },
+    {
+     "title": "Ikea’s CMO sees LLMs as the newest place a brand has to hold its line",
+     "url": "https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/",
+     "source": "Digiday",
+     "published": "2026-10-14T04:01:00+00:00",
+     "paywall": false,
+     "summary": "Ikea's CMO on treating chatbots as one more place a brand has to stay consistent."
+    },
+    {
+     "title": "Google changed its content guidance. Don’t expect a reset.",
+     "url": "https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/",
+     "source": "MarTech",
+     "published": "2026-10-13T13:24:21+00:00",
+     "paywall": false,
+     "summary": "MarTech on Google's updated content guidance and why publishers who lost traffic shouldn't expect a recovery."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "KDP virtual voice audiobooks: how to check if your ebook qualifies",
+     "url": "https://publishersuccess.com/ai-for-publishers/kdp-virtual-voice-audiobook-check/",
+     "source": "Publisher Success",
+     "published": "",
+     "paywall": false,
+     "summary": "Amazon's invite-only KDP beta turns live Kindle ebooks into AI-narrated Audible audiobooks for free, US store only for now."
+    },
+    {
+     "title": "Three months later - the data",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x5d8qv/three_months_later_the_data/",
+     "source": "r/selfpublish",
+     "published": "2026-10-14T00:23:44+00:00",
+     "paywall": false,
+     "summary": "A KDP debut author shares three months of sales and ad-spend data, and how hard it was to turn a profit."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Paid 5K to a creator with 200K followers, got zero sales",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x4v2vy/paid_5k_to_a_creator_with_200k_followers_got_zero/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-13T12:17:42+00:00",
+     "paywall": false,
+     "summary": "A brand paid a 200K-follower creator $5K and got zero sales. The thread digs into fake engagement and why follower counts don't predict sales."
+    },
+    {
+     "title": "What’s the strangest product you’ve ever earned an affiliate commission on?",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x50zuk/whats_the_strangest_product_youve_ever_earned_an/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-13T16:16:19+00:00",
+     "paywall": false,
+     "summary": "Affiliates swap stories of earning commission on items they never linked, since many programs pay on the whole cart."
+    }
+   ]
+  }
+ ]
+}
