@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-15",
+ "summary": [
+  "Rakuten Advertising confirmed its Rakuten Optimism event returns April 26–28, 2027, in Phoenix.",
+  "Partnerize sponsored a luxury fashion affiliate marketing evening in Milan and tagged its post with the 'zero-click economy', showing networks are talking openly about AI answers cutting clicks.",
+  "impact.com posted guides on how brands pay influencers beyond flat fees and commission, and on starting an affiliate programme in Singapore."
+ ],
+ "partners": [
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Optimism returns April 26–28, 2027, at the Arizona Biltmore, Phoenix",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_rakutenoptimism-partnermarketing-digitaladvertising-activity-7516168026187034624-Vb-U",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-14T16:08:21+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Partnerize at the Luxury Fashion Affiliate Marketing Aperitivo in Milan",
+     "url": "https://www.linkedin.com/posts/partnerize_partnerize-vantagepoint-zeroclickeconomy-activity-7516128318451113985-8GiQ",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-10-14T13:30:34+00:00",
+     "type": "social",
+     "paywall": false,
+     "why": "A network using 'zero-click economy' in its own posts is a sign the affiliate industry now treats AI answers that skip the click as a real shift."
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "impact.com",
+   "items": [
+    {
+     "title": "How do brands pay influencers? A decision tree for matching compensation to goals",
+     "url": "https://impact.com/influencer/how-do-brands-pay-influencers/",
+     "source": "impact.com",
+     "published": "2026-10-14T08:35:00+00:00",
+     "type": "blog",
+     "paywall": false
+    },
+    {
+     "title": "Affiliate marketing in Singapore for 2026: a beginner's guide for brands",
+     "url": "https://impact.com/affiliate/affiliate-marketing-singapore/",
+     "source": "impact.com",
+     "published": "2026-10-14T12:26:00+00:00",
+     "type": "blog",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "date": "2026-10-15",
+ "fetched_via": "x connector get_users_posts, start_time 2026-10-14T01:12Z, excluding replies/retweets",
+ "handles_checked": [
+  "LassoWP",
+  "URLgenius",
+  "button",
+  "AmazonAssociate",
+  "amazonnews",
+  "GeoTargetly",
+  "SOVRN",
+  "Skimlinks",
+  "PriceSpider",
+  "Bitly",
+  "LinkFire",
+  "jotURL",
+  "split_co",
+  "joinmavely",
+  "shopLTK",
+  "shopmy",
+  "Linktree_",
+  "beaconsai",
+  "latermedia",
+  "goodreads",
+  "Draft2Digital",
+  "LandingCube",
+  "YouTubeCreators",
+  "AmaLinksPro"
+ ],
+ "posts": [
+  {
+   "handle": "Bitly",
+   "competitor": "bitly",
+   "created_at": "2026-10-14T19:31:02+00:00",
+   "url": "https://x.com/Bitly/status/2110453344527376499",
+   "text": "Nobody said your QR Code had to be boring. Our 2026 QR Code Trends Report found 17,000+ colors used on Codes in H1 2026. Blue's the favorite outside black and white, and 2 in 5 Codes now carry a custom logo."
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-10-14T17:53:06+00:00",
+   "url": "https://x.com/goodreads/status/2110428699480949066",
+   "text": "Hint: The days are getting shorter. The nights are getting... \"darker\""
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-10-14T19:51:00+00:00",
+   "url": "https://x.com/YouTubeCreators/status/2110458369530060923",
+   "text": "replying to a thoughtful comment with a dedicated Shorts video makes your subscribers feel valued. building that deeper connection turns casual viewers into a community."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-15",
+ "summary": [
+  "A US Amazon Associates member says Amazon texted them that global earnings are being folded into a single Storefront automatically, without the old OneLink setup steps (tax info is still needed per country). This is one Reddit report, not an official announcement yet.",
+  "YouTube Shopping's affiliate programme launched in France, letting creators tag products in videos, Shorts and live streams. YouTube says it has over 1.3 million creators signed up worldwide.",
+  "Button's CRO spoke at Adweek House about tighter budgets making shoppers more deliberate before the holidays, using Prime Big Deal Days as the example.",
+  "Bitly published a 2026 QR Code Trends Report. Nothing new from Lasso or URLgenius."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon Creators Global Storefront earnings update",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x60sby/amazon_creators_global_storefront_earnings_update/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-14T19:33:00+00:00",
+     "type": "reddit",
+     "paywall": false,
+     "why": "If Amazon is merging international earnings into one Storefront without OneLink, it's trying to make cross-country selling simpler from inside its own tools. It's a signal worth confirming, since international link routing is a core reason people use link tools."
+    },
+    {
+     "title": "Creator Connections campaigns keep getting fully claimed before I can accept them",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x5x15y/creator_connections_campaigns_keep_getting_fully/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-14T17:12:00+00:00",
+     "type": "reddit",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "items": [
+    {
+     "title": "Button CRO Lauren Newman at #ADWEEKHouse: \"It's Not You, It's My Budget\"",
+     "url": "https://www.linkedin.com/posts/usebutton_adweekhouse-activity-7516125527879933952-NSqx",
+     "source": "LinkedIn · Button",
+     "published": "2026-10-14T13:19:28+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube launches its YouTube Shopping affiliate programme in France",
+     "url": "https://us.fashionnetwork.com/news/Youtube-launches-its-youtube-shopping-affiliate-programme-in-france,1875964.html",
+     "source": "FashionNetwork USA",
+     "published": "2026-10-14T17:38:00+00:00",
+     "type": "news",
+     "paywall": false,
+     "why": "Another country where creators can earn from product tags inside YouTube itself. Platforms keep building their own shopping links, so creators end up with a separate setup for each one."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Bitly's 2026 QR Code Trends Report: 17,000+ colours used in H1, 2 in 5 codes carry a logo",
+     "url": "https://www.linkedin.com/posts/bitly_nobody-said-your-qr-code-had-to-be-boring-activity-7516193870016040961-aT-H",
+     "source": "LinkedIn · Bitly",
+     "published": "2026-10-14T17:51:00+00:00",
+     "type": "social",
+     "paywall": false,
+     "also": {
+      "source": "X @Bitly",
+      "url": "https://x.com/Bitly/status/2110453344527376499",
+      "paywall": false
+     }
+    }
+   ]
+  }
+ ]
+}
