@@ -1,0 +1,112 @@
+{
+ "date": "2026-10-16",
+ "summary": [
+  "Digiday reports Ruggable is shifting budget from Meta ads into ShopMy creators, with its CMO saying it doesn't need bottom-of-funnel affiliate networks while ShopMy converts so well.",
+  "Dub added AI screening of partner program applications, letting brands write rules like 'reject partners who plan to promote us via coupon sites'.",
+  "Amazon confirmed Q3 earnings on October 29, and one Amazon Influencer says creator rewards haven't updated since the start of the month.",
+  "Smaller updates came from YouTube Shopping (an APAC campaign), LTK (15 years) and Lnk.Bio (email signup forms). Nothing new from Lasso, URLgenius or Button."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon Influencer: creator rewards not updating since the start of the month",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x73k92/creator_rewards_not_updating_since_start_of_month/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-16T01:38:13+00:00",
+     "type": "reddit",
+     "paywall": false,
+     "why": "One creator says their monthly rewards progress has shown 'not enough data' all month. It's a single report, but payout visibility is something creators watch closely."
+    },
+    {
+     "title": "Amazon will share its Q3 2026 earnings on October 29",
+     "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q3-2026-report",
+     "source": "aboutamazon.com",
+     "published": "2026-10-15T20:14:12+00:00",
+     "type": "blog",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "Ruggable\u2019s new ad spend strategy shifts focus to ShopMy creators",
+     "url": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/",
+     "source": "Digiday",
+     "published": "2026-10-16T04:04:16+00:00",
+     "type": "news",
+     "paywall": false,
+     "why": "Ruggable moved about 10% of its spend from Meta ads into creators and TV, and its CMO said it doesn't need bottom-of-funnel affiliate networks because ShopMy works so well for sales. Brands are starting to treat creator storefront platforms as their main affiliate channel."
+    }
+   ]
+  },
+  {
+   "id": "dub",
+   "name": "Dub.co",
+   "priority": false,
+   "items": [
+    {
+     "title": "Dub can now auto-screen partner program applications using plain-English rules",
+     "url": "https://www.linkedin.com/posts/dubinc_you-can-now-automatically-screen-program-activity-7516548692812685312-qfQ8",
+     "source": "LinkedIn \u00b7 Dub.co",
+     "published": "2026-10-15T17:20:59.087000+00:00",
+     "type": "social",
+     "paywall": false,
+     "why": "Dub keeps adding affiliate program management features to what started as a link tool."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube Shopping rolls out 16 films across six markets in APAC campaign",
+     "url": "https://www.marketing-interactive.com/youtube-shopping-rolls-out-16-films-across-six-markets-in-apac-campaign",
+     "source": "Marketing-Interactive",
+     "published": "2026-10-15T05:21:13+00:00",
+     "type": "news",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK marks 15 years of creator-led shopping",
+     "url": "https://www.linkedin.com/posts/shopltk_15-years-ago-shopping-looked-very-different-activity-7516569221842051072-0qSF",
+     "source": "LinkedIn \u00b7 LTK",
+     "published": "2026-10-15T18:42:33.589000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "lnkbio",
+   "name": "lnk.bio",
+   "priority": false,
+   "items": [
+    {
+     "title": "Lnk.Bio adds embedded Sender.net email signup forms to link-in-bio pages",
+     "url": "https://www.linkedin.com/posts/lnkbio_embed-sender-signup-forms-on-your-lnkbio-activity-7516408300322676736-Ykxg",
+     "source": "LinkedIn \u00b7 Lnk.Bio",
+     "published": "2026-10-15T08:03:06.909000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

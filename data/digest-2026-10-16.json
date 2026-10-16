@@ -1,0 +1,216 @@
+{
+ "date": "2026-10-16",
+ "intro": "A fairly busy day for AI shopping and attribution: Google's Universal Cart went live, ChatGPT links lost their tracking tags, and Meta will open product pages inside its apps from October 28. Prime Day leftover deals, Rakuten TV and finance news, ad-tech debates and Reddit deal and self-promo posts were left out. No Geniuslink, geni.us or Booklinker mentions could be confirmed today.",
+ "must_reads": [
+  {
+   "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+   "source": "TechCrunch",
+   "published": "2026-10-15T14:29:33+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Google now lets US shoppers save products from many retailers into one cart in Search and Gemini, with Walmart, Target, Nike and Sephora on board at launch. More of the path from finding a product to buying it is moving inside Google, which means fewer clicks pass through the links creators and publishers share."
+  },
+  {
+   "title": "OpenAI removes UTM parameters from ChatGPT results",
+   "url": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
+   "source": "Search Engine Roundtable",
+   "published": "2026-10-14T11:05:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: since about October 9, many links in ChatGPT's new answers no longer carry the utm_source=chatgpt.com tag, so those visits show up as 'direct' in analytics. It's a reminder that how a click gets credited depends on choices each platform makes, and those choices can change overnight.",
+   "also": {
+    "source": "Profound data on missing tags",
+    "url": "https://www.tryprofound.com/blog/chatgpt-missing-utm-tags",
+    "paywall": false
+   }
+  },
+  {
+   "title": "Meta will turn on product browsing in existing ads on October 28",
+   "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+   "source": "PPC Land",
+   "published": "2026-10-15T20:11:03+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: from October 28, taps on running Facebook and Instagram ads may open a product page inside Meta's apps first instead of the advertiser's site, unless advertisers opt out. It's another sign of platforms trying to keep shoppers inside their own walls rather than sending them out through links."
+  },
+  {
+   "title": "Social commerce edges past SEO at The Independent for the first time",
+   "url": "https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/",
+   "source": "Digiday",
+   "published": "2026-10-16T04:01:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: at The Independent, money from shopping recommendations shared on social now slightly beats money from search traffic, for the first time. Publishers are earning more from links that live on social and in creator content, and less from Google search."
+  },
+  {
+   "title": "Phia's revenue fell 65-88% after it switched off cookie-stuffing features",
+   "url": "https://finance.biggo.com/news/512bdfc4a8d48d6a",
+   "source": "BigGo Finance",
+   "published": "2026-10-15T17:08:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: a recap of Bloomberg's investigation says the AI shopping extension Phia was overwriting other affiliates' referrals, and its daily revenue dropped sharply once that stopped. Following Honey, it keeps the spotlight on who really gets credit for an affiliate sale, and on extensions that take it."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "TikTok Shop UK Update Sets Out Separate Carousel Commission Rates",
+     "url": "https://www.affiversemedia.com/tiktok-shop-uk-carousel-commission-rates/",
+     "source": "Affiverse Media",
+     "published": "2026-10-15T10:48:53+00:00",
+     "paywall": false,
+     "summary": "TikTok Shop UK now lets sellers set a separate commission rate for photo carousel posts, apart from video and LIVE."
+    },
+    {
+     "title": "Why the Next Big Affiliate Partner is Another Brand",
+     "url": "https://hellopartner.com/why-the-next-big-affiliate-partner-is-another-brand/",
+     "source": "Hello Partner",
+     "published": "2026-10-15T10:30:00+00:00",
+     "paywall": false,
+     "summary": "Brands sending shoppers to other brands, and getting paid for it, is becoming its own affiliate partner type, as more partners compete to claim credit for the same sale."
+    },
+    {
+     "title": "Billion Dollar Boy Acquires Creator Authority in B2B Marketing Expansion",
+     "url": "https://www.affiversemedia.com/billion-dollar-boy-creator-authority-acquisition/",
+     "source": "Affiverse Media",
+     "published": "2026-10-15T10:55:41+00:00",
+     "paywall": false,
+     "summary": "The creator agency Billion Dollar Boy bought Creator Authority, a B2B creator marketing agency."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & platform link changes",
+   "items": [
+    {
+     "title": "LinkedIn adds new creator monetization options",
+     "url": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
+     "source": "Social Media Today",
+     "published": "2026-10-15T20:31:31+00:00",
+     "paywall": false,
+     "summary": "LinkedIn is adding more sponsorship options, better insights, and paid one-on-one consultations that creators can host in the app."
+    },
+    {
+     "title": "YouTube's creator boost lift claim rises to 30% from 20% on the same data",
+     "url": "https://ppc.land/youtubes-creator-boost-lift-claim-rises-to-30-from-20-on-the-same-data/",
+     "source": "PPC Land",
+     "published": "2026-10-15T18:39:04+00:00",
+     "paywall": false,
+     "summary": "YouTube now says creator partnerships lift results by 30%, up from the 20% it claimed in May, using the same data window."
+    },
+    {
+     "title": "Niche Creators Win Attention on YouTube While Scale Wins Views, Report Finds",
+     "url": "https://www.netinfluencer.com/niche-creators-win-attention-on-youtube-while-scale-wins-views-report-finds/",
+     "source": "Net Influencer",
+     "published": "2026-10-15T12:30:43+00:00",
+     "paywall": false,
+     "summary": "A TVision report says smaller niche YouTube channels hold viewers' attention better, while big channels win on raw views."
+    },
+    {
+     "title": "Meta Is Selling Ad Slots, TV-Style",
+     "url": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
+     "source": "AdExchanger",
+     "published": "2026-10-15T14:00:03+00:00",
+     "paywall": false,
+     "summary": "Meta's new Ads Super Burst lets advertisers book a 3 to 24 hour window across Facebook and Instagram, like a TV slot."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "TikTok launches AI-powered Shopping Assistant, reinforcing its commitment to agency-based commerce.",
+     "url": "https://grandeconsumo.com/en/tiktok-shopping-assistant-ia-agentic-commerce/",
+     "source": "Grande Consumo",
+     "published": "2026-10-15T12:09:52+00:00",
+     "paywall": false,
+     "summary": "TikTok launched a conversational Shopping Assistant that answers product, sizing and shipping questions and helps people buy in one chat."
+    },
+    {
+     "title": "OpenAI cuts ChatGPT ad prices and hires from Meta to court smaller advertisers",
+     "url": "https://aiweekly.co/alerts/the-information-openai-cuts-chatgpt-ad-prices-and-hires-from-meta-to-court",
+     "source": "AI Weekly",
+     "published": "2026-10-16T02:01:00+00:00",
+     "paywall": false,
+     "summary": "A free summary of The Information's report on OpenAI lowering ad rates and chasing small and midsize businesses.",
+     "also": {
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices",
+      "paywall": true
+     }
+    },
+    {
+     "title": "Google Adds Publisher Links to AI Search as Court Rules Traffic Crisis Needs Congress",
+     "url": "https://www.techtimes.com/articles/329119/20261015/google-adds-publisher-links-ai-search-court-rules-traffic-crisis-needs-congress.htm",
+     "source": "Tech Times",
+     "published": "2026-10-16T03:55:10+00:00",
+     "paywall": false,
+     "summary": "Google is making publisher links more visible in AI Overviews and AI Mode, after a judge dismissed publishers' antitrust claims over lost traffic."
+    },
+    {
+     "title": "Glance announces agentic commerce integration with PayPal",
+     "url": "https://www.tipranks.com/news/the-fly/glance-announces-agentic-commerce-integration-with-paypal-thefly-news",
+     "source": "TipRanks",
+     "published": "2026-10-15T16:13:07+00:00",
+     "paywall": false,
+     "summary": "Glance is adding PayPal so shoppers can pay inside its AI shopping experiences."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "YouTube is reportedly gearing up to offer audiobooks",
+     "url": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/",
+     "source": "Engadget",
+     "published": "2026-10-15T10:07:00+00:00",
+     "paywall": false,
+     "summary": "YouTube has reportedly been talking to publishers about an audiobook offering as early as 2027, possibly bundled with Premium. YouTube hasn't confirmed it.",
+     "also": {
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876",
+      "paywall": true
+     }
+    },
+    {
+     "title": "The Rise of the #BookTok Powerhouse, and How Creators Made It Happen",
+     "url": "https://hellopartner.com/the-rise-of-the-booktok-powerhouse-and-how-creators-made-it-happen/",
+     "source": "Hello Partner",
+     "published": "2026-10-15T08:41:46+00:00",
+     "paywall": false,
+     "summary": "How creators on TikTok turned #BookTok into a major driver of book sales."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Amazon ads for authors \u2014 are they still worth it?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x6hppk/amazon_ads_for_authors_are_they_still_worth_it/",
+     "source": "r/selfpublish",
+     "published": "2026-10-15T10:06:06+00:00",
+     "paywall": false,
+     "summary": "Authors debate whether Amazon ads only pay off once you have five or more books."
+    },
+    {
+     "title": "Are paid newsletters worth it for KDP Free Promo days (Memoir)?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x6wdy9/are_paid_newsletters_worth_it_for_kdp_free_promo/",
+     "source": "r/selfpublish",
+     "published": "2026-10-15T20:17:12+00:00",
+     "paywall": false,
+     "summary": "An author asks whether paid newsletter promos are worth it for KDP free promotion days."
+    },
+    {
+     "title": "What type of visuals actually convert on Pinterest/Amazon, or just on amazon and what should I be using?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x71gvs/what_type_of_visuals_actually_convert_on/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-15T23:57:22+00:00",
+     "paywall": false,
+     "summary": "A new affiliate asks what images convert best on Pinterest versus an Amazon Storefront."
+    }
+   ]
+  }
+ ]
+}

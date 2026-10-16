@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-16",
+ "summary": [
+  "A quiet day for partners.",
+  "Partnerize is framing performance marketing as 'machine-mediated commerce' ahead of PI LIVE Europe, and hosted a luxury affiliate event in London.",
+  "CJ's VP of AI Commerce will speak on a panel about measuring the business value of showing up in AI answers."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Partnerize to demo VantagePoint for 'machine-mediated commerce' at PI LIVE Europe",
+     "url": "https://www.linkedin.com/posts/partnerize_web-networking-activity-7516535902353973248-tCZ1",
+     "source": "LinkedIn \u00b7 Partnerize",
+     "published": "2026-10-15T16:30:09.604000+00:00",
+     "type": "social",
+     "paywall": false,
+     "why": "Affiliate networks are now pitching their tools around AI agents and assistants sitting between shoppers and brands."
+    },
+    {
+     "title": "Partnerize hosts The Luxe Edit for brands and publishers in London",
+     "url": "https://www.linkedin.com/posts/partnerize_partnerize-theluxeedit-affiliatemarketing-activity-7516505820520611840-_dbE",
+     "source": "LinkedIn \u00b7 Partnerize",
+     "published": "2026-10-15T14:30:37.535000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ's VP of AI Commerce joins an AIP Summit panel on measuring the value of AI visibility",
+     "url": "https://www.linkedin.com/posts/commission-junction_piliveeur26-aivisibility-geo-activity-7516452842468065281-4TqF",
+     "source": "LinkedIn \u00b7 CJ",
+     "published": "2026-10-15T11:00:06.583000+00:00",
+     "type": "social",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

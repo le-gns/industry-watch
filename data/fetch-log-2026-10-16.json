@@ -1,0 +1,738 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T07:15:43.471921+00:00",
+ "lookback_hours": 30,
+ "item_count": 118,
+ "google_news_links": 87,
+ "google_news_resolved": 87,
+ "feeds_ok": 69,
+ "feeds_failed": 4,
+ "feeds": [
+  {
+   "id": "gnews-01",
+   "name": "Google News: \"Amazon Associates\" (commission OR \"rate card\" OR \"operating agreement\" OR policy)",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Amazon%20Associates%22%20%28commission%20OR%20%22rate%20card%22%20OR%20%22operating%20agreement%22%20OR%20policy%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-02",
+   "name": "Google News: \"Amazon Influencer Program\" OR \"Amazon Creator Connections\"",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Amazon%20Influencer%20Program%22%20OR%20%22Amazon%20Creator%20Connections%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-03",
+   "name": "Google News: \"Global Earning\" Amazon OR \"OneLink\" Amazon -jobs",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Global%20Earning%22%20Amazon%20OR%20%22OneLink%22%20Amazon%20-jobs%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-04",
+   "name": "Google News: \"Walmart Creator\" OR \"Walmart affiliate program\"",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Walmart%20Creator%22%20OR%20%22Walmart%20affiliate%20program%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-05",
+   "name": "Google News: \"Best Buy\" (\"creator program\" OR \"affiliate program\")",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Best%20Buy%22%20%28%22creator%20program%22%20OR%20%22affiliate%20program%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-06",
+   "name": "Google News: (\"Barnes & Noble\" OR \"Apple Books\" OR Kobo) \"affiliate program\"",
+   "group": "Books & publishing",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22Barnes%20%26%20Noble%22%20OR%20%22Apple%20Books%22%20OR%20Kobo%29%20%22affiliate%20program%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-07",
+   "name": "Google News: \"affiliate program\" (shutting OR \"shut down\" OR discontinued OR \"commission cut\")",
+   "group": "Affiliate industry",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22affiliate%20program%22%20%28shutting%20OR%20%22shut%20down%22%20OR%20discontinued%20OR%20%22commission%20cut%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-08",
+   "name": "Google News: \"YouTube Shopping\" (affiliate OR Amazon)",
+   "group": "Creator economy & social platforms",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22YouTube%20Shopping%22%20%28affiliate%20OR%20Amazon%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 4
+  },
+  {
+   "id": "gnews-09",
+   "name": "Google News: Facebook OR Meta \"link posts\" (limit OR charge OR subscription)",
+   "group": "Creator economy & social platforms",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=Facebook%20OR%20Meta%20%22link%20posts%22%20%28limit%20OR%20charge%20OR%20subscription%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-10",
+   "name": "Google News: \"link in bio\" (Linktree OR Beacons OR Kit OR Lnk.bio) -\"my link in bio\"",
+   "group": "Competitors",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22link%20in%20bio%22%20%28Linktree%20OR%20Beacons%20OR%20Kit%20OR%20Lnk.bio%29%20-%22my%20link%20in%20bio%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-11",
+   "name": "Google News: JoyLink OR Youfiliate OR Flovidy OR \"URLgenius\"",
+   "group": "Competitors",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=JoyLink%20OR%20Youfiliate%20OR%20Flovidy%20OR%20%22URLgenius%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-12",
+   "name": "Google News: Lasso affiliate OR \"Linkly\" links OR Rebrandly OR \"Dub.co\"",
+   "group": "Competitors",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=Lasso%20affiliate%20OR%20%22Linkly%22%20links%20OR%20Rebrandly%20OR%20%22Dub.co%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-13",
+   "name": "Google News: Skimlinks OR \"Sovrn Commerce\" OR Levanta OR LTK OR ShopMy",
+   "group": "Competitors",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=Skimlinks%20OR%20%22Sovrn%20Commerce%22%20OR%20Levanta%20OR%20LTK%20OR%20ShopMy%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 9,
+   "items_kept": 7
+  },
+  {
+   "id": "gnews-14",
+   "name": "Google News: Geniuslink OR \"geni.us\" OR Booklinker OR \"Book Marketing Lab\"",
+   "group": "Geniuslink/brand mentions",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=Geniuslink%20OR%20%22geni.us%22%20OR%20Booklinker%20OR%20%22Book%20Marketing%20Lab%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 2
+  },
+  {
+   "id": "gnews-15",
+   "name": "Google News: \"agentic commerce\" (affiliate OR creators)",
+   "group": "AI search & shopping",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22agentic%20commerce%22%20%28affiliate%20OR%20creators%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 6
+  },
+  {
+   "id": "gnews-16",
+   "name": "Google News: \"AI Overviews\" (affiliate OR publishers) traffic",
+   "group": "AI search & shopping",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22AI%20Overviews%22%20%28affiliate%20OR%20publishers%29%20traffic%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 5
+  },
+  {
+   "id": "gnews-17",
+   "name": "Google News: \"affiliate marketing\" (fraud OR hijacking OR \"cookie stuffing\" OR misattribution)",
+   "group": "Affiliate industry",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22affiliate%20marketing%22%20%28fraud%20OR%20hijacking%20OR%20%22cookie%20stuffing%22%20OR%20misattribution%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 3
+  },
+  {
+   "id": "gnews-18",
+   "name": "Google News: impact.com OR Rakuten OR Partnerize OR Awin (acquisition OR alliance OR launches)",
+   "group": "Affiliate industry",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=impact.com%20OR%20Rakuten%20OR%20Partnerize%20OR%20Awin%20%28acquisition%20OR%20alliance%20OR%20launches%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 17,
+   "items_kept": 10
+  },
+  {
+   "id": "gnews-19",
+   "name": "Google News: \"creator economy\" (affiliate OR commerce) -crypto",
+   "group": "Creator economy & social platforms",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22creator%20economy%22%20%28affiliate%20OR%20commerce%29%20-crypto%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 16,
+   "items_kept": 10
+  },
+  {
+   "id": "gnews-20",
+   "name": "Google News: (KDP OR \"Kindle Direct Publishing\" OR Draft2Digital) (fees OR royalties OR policy) -Iraq -Kurdistan -PUK -Barzani -Talabani -Keurig",
+   "group": "Books & publishing",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28KDP%20OR%20%22Kindle%20Direct%20Publishing%22%20OR%20Draft2Digital%29%20%28fees%20OR%20royalties%20OR%20policy%29%20-Iraq%20-Kurdistan%20-PUK%20-Barzani%20-Talabani%20-Keurig%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 1
+  },
+  {
+   "id": "gnews-21",
+   "name": "Google News: \"book marketing\" OR BookTok (sales OR authors)",
+   "group": "Books & publishing",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22book%20marketing%22%20OR%20BookTok%20%28sales%20OR%20authors%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 1
+  },
+  {
+   "id": "gnews-22",
+   "name": "Google News: \"Prime Day\" (affiliate OR creators OR commission)",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Prime%20Day%22%20%28affiliate%20OR%20creators%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 67,
+   "items_kept": 37
+  },
+  {
+   "id": "gnews-23",
+   "name": "Google News: Amazon (bol.com OR Allegro OR Zalando) marketplace",
+   "group": "Amazon & retailer programs",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=Amazon%20%28bol.com%20OR%20Allegro%20OR%20Zalando%29%20marketplace%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-24",
+   "name": "Google News: \"smart links\" OR \"deep linking\" (affiliate OR creators) -\"Firebase Dynamic Links\"",
+   "group": "Competitors",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22smart%20links%22%20OR%20%22deep%20linking%22%20%28affiliate%20OR%20creators%29%20-%22Firebase%20Dynamic%20Links%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gnews-25",
+   "name": "Google News: \"amazon affiliate links\" (youtube OR tiktok OR instagram)",
+   "group": "Creator economy & social platforms",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22amazon%20affiliate%20links%22%20%28youtube%20OR%20tiktok%20OR%20instagram%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 1
+  },
+  {
+   "id": "src-marketplace-universe",
+   "name": "Marketplace Universe",
+   "group": "Amazon & retailer programs",
+   "type": "source",
+   "url": "https://marketplace-universe.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-empire-flippers",
+   "name": "Empire Flippers",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://empireflippers.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-performance-marketing-association",
+   "name": "Performance Marketing Association",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://thepma.org/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-impact-com",
+   "name": "impact.com",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://impact.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-hello-partner",
+   "name": "Hello Partner",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://hellopartner.com/feed/",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 3
+  },
+  {
+   "id": "src-social-media-today",
+   "name": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://www.socialmediatoday.com/feeds/news/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "src-cnbc",
+   "name": "CNBC",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+   "ok": true,
+   "items_in_feed": 30,
+   "items_kept": 0
+  },
+  {
+   "id": "src-affiverse-media",
+   "name": "Affiverse Media",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://affiversemedia.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 4
+  },
+  {
+   "id": "src-marketplace-pulse",
+   "name": "Marketplace Pulse",
+   "group": "Amazon & retailer programs",
+   "type": "source",
+   "url": "https://www.marketplacepulse.com/articles/recent.atom",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 0
+  },
+  {
+   "id": "src-avantlink",
+   "name": "AvantLink",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://avantlink.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-the-verge",
+   "name": "The Verge",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://theverge.com/rss.xml",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "src-geekwire",
+   "name": "GeekWire",
+   "group": "Amazon & retailer programs",
+   "type": "source",
+   "url": "https://geekwire.com/feed/",
+   "ok": true,
+   "items_in_feed": 35,
+   "items_kept": 0
+  },
+  {
+   "id": "src-about-amazon",
+   "name": "About Amazon",
+   "group": "Amazon & retailer programs",
+   "type": "source",
+   "url": "https://aboutamazon.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-techcrunch",
+   "name": "TechCrunch",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://techcrunch.com/feed/",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 1
+  },
+  {
+   "id": "src-adweek",
+   "name": "Adweek",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://adweek.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "src-the-information",
+   "name": "The Information",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://theinformation.com/feed",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 1
+  },
+  {
+   "id": "src-net-influencer",
+   "name": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://www.netinfluencer.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 7
+  },
+  {
+   "id": "src-youtube-official-blog",
+   "name": "YouTube Official Blog",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://blog.youtube/rss/",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 1
+  },
+  {
+   "id": "src-the-influencer-marketing-factory",
+   "name": "The Influencer Marketing Factory",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://theinfluencermarketingfactory.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-digiday",
+   "name": "Digiday",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://digiday.com/feed/",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 10
+  },
+  {
+   "id": "src-marketing-brew",
+   "name": "Marketing Brew",
+   "group": "Creator economy & social platforms",
+   "type": "source",
+   "url": "https://marketingbrew.com/feed.xml",
+   "ok": true,
+   "items_in_feed": 40,
+   "items_kept": 0
+  },
+  {
+   "id": "src-ppc-land",
+   "name": "PPC Land",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://ppc.land/feed/",
+   "ok": true,
+   "items_in_feed": 100,
+   "items_kept": 5
+  },
+  {
+   "id": "src-digital-commerce-360",
+   "name": "Digital Commerce 360",
+   "group": "Amazon & retailer programs",
+   "type": "source",
+   "url": "https://www.digitalcommerce360.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "src-growth-memo-kevin-indig",
+   "name": "Growth Memo (Kevin Indig)",
+   "group": "AI search & shopping",
+   "type": "source",
+   "url": "https://www.growth-memo.com/feed",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 0
+  },
+  {
+   "id": "src-adexchanger",
+   "name": "AdExchanger",
+   "group": "Affiliate industry",
+   "type": "source",
+   "url": "https://adexchanger.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 6
+  },
+  {
+   "id": "src-publishdrive",
+   "name": "PublishDrive",
+   "group": "Books & publishing",
+   "type": "source",
+   "url": "https://publishdrive.com/feed.xml",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-r-amazon_influencer",
+   "name": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 3
+  },
+  {
+   "id": "reddit-r-affiliatemarketing",
+   "name": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 2
+  },
+  {
+   "id": "reddit-r-amazonassociates",
+   "name": "r/AmazonAssociates",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/AmazonAssociates/new/.rss",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "id": "reddit-r-juststart",
+   "name": "r/juststart",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/juststart/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-r-newtubers",
+   "name": "r/NewTubers",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/NewTubers/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 8
+  },
+  {
+   "id": "reddit-r-content_creation",
+   "name": "r/content_creation",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/content_creation/new/.rss",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "id": "reddit-r-selfpublish",
+   "name": "r/selfpublish",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/selfpublish/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 4
+  },
+  {
+   "id": "reddit-r-kindlepublishing",
+   "name": "r/KindlePublishing",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/KindlePublishing/new/.rss",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  {
+   "id": "reddit-r-pubtips",
+   "name": "r/PubTips",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/PubTips/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 2
+  },
+  {
+   "id": "reddit-r-books",
+   "name": "r/books",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/books/new/.rss",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 1
+  },
+  {
+   "id": "reddit-search-01",
+   "name": "Reddit search: geniuslink OR \"geni.us\"",
+   "group": "Geniuslink/brand mentions",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=geniuslink%20OR%20%22geni.us%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 22,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-02",
+   "name": "Reddit search: booklinker OR \"book linker\"",
+   "group": "Geniuslink/brand mentions",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=booklinker%20OR%20%22book%20linker%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-03",
+   "name": "Reddit search: \"amazon global earning\" OR \"global storefronts\"",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20global%20earning%22%20OR%20%22global%20storefronts%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-04",
+   "name": "Reddit search: \"amazon onelink\"",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20onelink%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-05",
+   "name": "Reddit search: \"amazon associates\" commission",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20associates%22%20commission&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 1
+  },
+  {
+   "id": "reddit-search-06",
+   "name": "Reddit search: \"link in bio\" affiliate",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22link%20in%20bio%22%20affiliate&sort=new&t=week",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  {
+   "id": "reddit-search-07",
+   "name": "Reddit search: joylink OR youfiliate OR urlgenius",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=joylink%20OR%20youfiliate%20OR%20urlgenius&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 22,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-08",
+   "name": "Reddit search: \"walmart creator\"",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22walmart%20creator%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-09",
+   "name": "Reddit search: \"youtube shopping\" amazon",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22youtube%20shopping%22%20amazon&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-search-10",
+   "name": "Reddit search: \"amazon affiliate\" localization OR \"wrong country\"",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20affiliate%22%20localization%20OR%20%22wrong%20country%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 23,
+   "items_kept": 2
+  },
+  {
+   "id": "reddit-search-11",
+   "name": "Reddit search: \"affiliate link\" deep link app",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22affiliate%20link%22%20deep%20link%20app&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 10
+  },
+  {
+   "id": "reddit-search-12",
+   "name": "Reddit search: \"books2read\" OR \"universal book link\"",
+   "group": "Reddit",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22books2read%22%20OR%20%22universal%20book%20link%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 23,
+   "items_kept": 4
+  }
+ ]
+}
