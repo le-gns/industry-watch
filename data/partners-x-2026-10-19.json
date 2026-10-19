@@ -1,0 +1,17 @@
+{
+ "date": "2026-10-19",
+ "fetched_via": "x connector get_users_posts, start_time 2026-10-18T01:10Z, excluding replies/retweets",
+ "handles_checked": [
+  "impactdotcom",
+  "partnerize",
+  "eBayPartnerNet",
+  "rakutenadvert",
+  "WalmartCreator",
+  "AppleBooks",
+  "kobo",
+  "BNBuzz",
+  "booksamillion",
+  "wordery"
+ ],
+ "posts": []
+}

@@ -1,0 +1,39 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T07:11:44.340397+00:00",
+ "item_count": 3,
+ "feeds_ok": 105,
+ "feeds_failed": 2,
+ "items": [
+  {
+   "title": "[Official] KOMCA on the verge of settling five years' worth of Apple Music royalties: \"Payments to creators within the year\"",
+   "url": "https://www.starnewskorea.com/en/music/2026/10/19/2026101908135912272",
+   "source": "스타뉴스",
+   "competitor": "applemusic",
+   "feed_id": "gn-applemusic",
+   "type": "news",
+   "published": "2026-10-18T23:16:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Distributor for Ebooks and Paid Ebook Applications",
+   "url": "https://www.reddit.com/r/BookApplications/comments/1x90hkc/distributor_for_ebooks_and_paid_ebook_applications/",
+   "source": "r/BookApplications",
+   "competitor": "bookshop",
+   "feed_id": "reddit-books",
+   "type": "reddit",
+   "published": "2026-10-18T11:03:46+00:00",
+   "snippet": "Hello, BookApplications, I have a slightly unrelated question. I know a number of you are using public domain items to make experimental ebook applications. I started mine using ebooks from the Internet Archive, Gutenberg, Hathi Trust, and a few other places. This is partially because they are free."
+  },
+  {
+   "title": "All the 2026 Samsung Galaxy Content Creator Awards winners",
+   "url": "https://www.bizcommunity.com/article/all-the-2026-samsung-galaxy-content-creator-awards-winners-747152a",
+   "source": "Bizcommunity",
+   "competitor": "samsung",
+   "feed_id": "gn-samsung",
+   "type": "news",
+   "published": "2026-10-19T06:48:21+00:00",
+   "snippet": ""
+  }
+ ]
+}

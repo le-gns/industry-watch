@@ -1,0 +1,153 @@
+{
+ "date": "2026-10-19",
+ "intro": "A quiet weekend. The main stories are about who controls links and the content behind them: Meta's new business terms let it crawl websites linked from its apps from October 30, Google says it is putting links higher in its AI answers, and YouTube is testing AI answers at the top of search. Leftover Prime Day deal posts, finance pages, Reddit deal and restock posts and general ad-tech pieces were left out. No Geniuslink, geni.us or Booklinker mentions could be confirmed today.",
+ "must_reads": [
+  {
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions, despite language changes",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "source": "Nieman Lab",
+   "published": "2026-10-17T18:49:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: from October 30, any business using Facebook, Instagram or WhatsApp agrees to let Meta crawl the websites linked from its pages and posts. After pushback Meta dropped the word \"train\" and says robots.txt is still respected, but lawyers say the wording is still very broad. It shows platforms want the content behind links, not only the clicks, and that the rules for linking out are being set by each platform's terms.",
+   "also": {
+    "source": "The Verge: Meta removes language that may have allowed it to scrape news sites",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "paywall": false
+   }
+  },
+  {
+   "title": "Google pushes links higher in AI answers as Preferred Sources use rises 7x",
+   "url": "https://ppc.land/google-pushes-links-higher-in-ai-answers-as-preferred-sources-use-rises-7x/",
+   "source": "PPC Land",
+   "published": "2026-10-18T04:26:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Google is moving links earlier and making them bigger in AI Mode and AI Overviews, and is testing a box for 'official' sites and clickable creator names. It gave no click numbers, and creator names lead to a Google-hosted profile first, so it's still unclear whether these answers send more people out to creators' and publishers' own links.",
+   "also": {
+    "source": "Tech Business News",
+    "url": "https://www.techbusinessnews.com.au/news/google-pushes-website-links-higher-in-ai-search-as-publishers-fight-for-referral-traffic/",
+    "paywall": false
+   }
+  },
+  {
+   "title": "YouTube tests AI replies in searches",
+   "url": "https://www.socialmediatoday.com/news/youtube-tests-ai-replies-in-searches/833307/",
+   "source": "Social Media Today",
+   "published": "2026-10-18T20:40:58+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: some signed-in US desktop users now see an Ask YouTube AI answer above normal video results, especially for how-to questions. YouTube is a big place where people research products, so if an AI summary sits on top, fewer viewers may reach the creator videos and description links that recommend those products."
+  },
+  {
+   "title": "Google now pays 400 publications to feed AI features in Google News",
+   "url": "https://ppc.land/google-now-pays-400-publications-to-feed-ai-features-in-google-news/",
+   "source": "PPC Land",
+   "published": "2026-10-18T05:16:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Google now pays more than 400 news titles, including CNN, Axios, the FT and Forbes, for content that powers AI story summaries and audio briefings inside Google News. Payment terms are secret. It's another sign that AI features are being fed directly by content deals, while links and clicks become a smaller part of how publishers get paid."
+  },
+  {
+   "title": "The Verge switches up its audience team to prepare for Google Zero",
+   "url": "https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/",
+   "source": "Digiday",
+   "published": "2026-10-19T04:01:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: The Verge has rebuilt its audience team around newsletters, platform engagement and loyal direct readers rather than search traffic. Publishers are leaning on channels they own, which makes links shared in newsletters, communities and social posts a bigger part of how they reach and earn from readers."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Target bets on buzzy TikTok brands like Mellow Sleep to revamp its home category",
+     "url": "https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/",
+     "source": "Digiday (Modern Retail)",
+     "published": "2026-10-19T04:01:00+00:00",
+     "paywall": false,
+     "summary": "Mellow Sleep, the top-selling sleep brand on TikTok, launches in 550 Target stores from October 18 as Target tries to turn around falling home sales."
+    },
+    {
+     "title": "How Amazon turned its Thursday Night Football into a two-pronged pitch to capture ad dollars",
+     "url": "https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/",
+     "source": "Digiday",
+     "published": "2026-10-19T04:01:00+00:00",
+     "paywall": false,
+     "summary": "Amazon uses Prime Video's Thursday Night Football to sell both retail-linked and general ad budgets."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Meet Scott Mathson, who built Plink with just $100 in 2019; by 2025, his podcast-link service was processing 8.2 million requests a month",
+     "url": "https://m.economictimes.com/world/business/meet-scott-mathson-who-built-plink-with-just-100-in-2019-by-2025-his-podcast-link-service-was-processing-8-2-million-requests-a-month/articleshow/135031092.cms",
+     "source": "The Economic Times",
+     "published": "2026-10-18T15:34:00+00:00",
+     "paywall": false,
+     "summary": "Plink makes one smart link that opens a podcast in each listener's preferred app, a single-link idea close to Geniuslink's own."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Meta's new TOS dubbed a total POS; another nail in search traffic's coffin (includes: retailers weigh letting AI shopping agents in)",
+     "url": "https://www.adexchanger.com/daily-news-roundup/monday-19102026/",
+     "source": "AdExchanger",
+     "published": "2026-10-19T04:03:00+00:00",
+     "paywall": false,
+     "summary": "Roundup citing the Wall Street Journal: Amazon blocks outside AI shopping agents while Walmart and Target have licensing deals with AI companies, and sellers weigh extra sales against returns, chargebacks and fraud checks."
+    },
+    {
+     "title": "Google boosts news and link visibility in AI mode",
+     "url": "https://www.thedailystar.net/news/technology/artificial-intelligence/news/google-boosts-news-and-link-visibility-ai-mode-4300086",
+     "source": "The Daily Star",
+     "published": "2026-10-18T04:37:00+00:00",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Opinion | BookTok problems: consumerism, literary crisis and graphic content",
+     "url": "https://thecrimsonwhite.com/131408/opinion/opinion-booktok-problems-consumerism-literary-crisis-and-graphic-content/",
+     "source": "The Crimson White",
+     "published": "2026-10-19T02:11:00+00:00",
+     "paywall": false,
+     "summary": "A student opinion piece on how BookTok pushes buying over reading."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Who else is inundated with fake marketing / book club emails? And what do you do about it?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x949p5/who_else_is_inundated_with_fake_marketing_book/",
+     "source": "r/selfpublish",
+     "published": "2026-10-18T14:14:00+00:00",
+     "paywall": false,
+     "summary": "Authors report daily AI-written 'book club' and marketing emails that pretend to have read their books."
+    },
+    {
+     "title": "Draft2Digital for POD?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x9dmhc/draft2digital_for_pod/",
+     "source": "r/selfpublish",
+     "published": "2026-10-18T20:33:00+00:00",
+     "paywall": false,
+     "summary": "An author using KDP and IngramSpark asks whether Draft2Digital's print-on-demand adds anything."
+    },
+    {
+     "title": "Has anyone had VRO readers unsubscribe saying \"I never signed up for this mailing list\"?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1x8ra0q/has_anyone_had_vro_readers_unsubscribe_saying_i/",
+     "source": "r/selfpublish",
+     "published": "2026-10-18T01:57:00+00:00",
+     "paywall": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-19",
+ "summary": [
+  "A quiet weekend for competitors. Lasso, URLgenius, Button/Posttap and Amazon's tools had no real news (LinkedIn was rate-limited for Lasso, so its LinkedIn page wasn't checked).",
+  "YouTube Shopping keeps growing its affiliate programme in India, adding Amazon, AJIO, Meesho, Snapdeal and Tata CLiQ, with over 19 million videos tagged since launch.",
+  "Lnk.Bio is pitching itself as a workaround for Facebook's test that limits some Pages to two link posts a month unless they pay for Meta One."
+ ],
+ "competitors": [
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube wants a share of India's shopping carts. Will ad budgets follow?",
+     "url": "https://www.exchange4media.com/digital-news/youtube-wants-a-share-of-indias-shopping-carts-will-ad-budgets-follow-159258.html",
+     "source": "Exchange4Media",
+     "published": "2026-10-19T03:29:00+00:00",
+     "type": "news",
+     "paywall": false,
+     "why": "YouTube's affiliate programme in India now covers Amazon, Flipkart, Myntra, Nykaa and more. YouTube says over half of eligible Indian creators had enrolled by May and payouts grew more than 160% year on year. More of the path from a creator's video to a store now runs through the platform's own built-in affiliate links."
+    }
+   ]
+  },
+  {
+   "id": "lnkbio",
+   "name": "lnk.bio",
+   "priority": false,
+   "items": [
+    {
+     "title": "Facebook is limiting some Pages to just 2 posts with links per month unless you upgrade to Meta One. Workaround: add LnkBio to your Page",
+     "url": "https://www.linkedin.com/posts/lnkbio_facebook-page-link-limit-meta-one-pricing-activity-7517821524654030849-oEln",
+     "source": "Lnk.Bio",
+     "published": "2026-10-19T05:38:00+00:00",
+     "type": "social",
+     "why": "Link-in-bio tools are using Meta's paid link limits as a sales pitch. Meta's own rules exempt links to its apps, ads, and product and affiliate links in a business's Meta catalogue, so links that go off Meta are the ones being squeezed.",
+     "also": {
+      "source": "Social Media Today: Facebook Pages get charged for link posts",
+      "url": "https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/",
+      "paywall": false
+     }
+    }
+   ]
+  }
+ ]
+}
