@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-20",
+ "summary": [
+  "Lasso, URLgenius and Button/Posttap were quiet. Amazon says its Influencer Program in India has doubled to over 200,000 creators, and Indian creators can now tag Amazon products in YouTube and Pinterest content and earn commission.",
+  "YouTube Shopping is pushing its affiliate programme hard: AliExpress products can now be tagged by creators in the US, UK, Germany and Brazil, and YouTube is testing brand-funded bonus commissions and Shorts posting bonuses for invited creators.",
+  "LTK hosted a creator event in London with Tommy Hilfiger, and Bitly is talking up its link safety checks (over 2 billion links and QR codes a year).",
+  "On Reddit, a book-discovery site owner says Amazon Associates has closed their application three or four times because reviewers 'can't view the site', and a ShopMy creator is stuck connecting their Amazon affiliate links."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon Influencer Program doubles to 2 lakh creators; creator-led purchases jump 107%",
+     "url": "https://www.storyboard18.com/digital/amazon-influencer-program-doubles-to-2-lakh-creators-creator-led-purchases-jump-107-ws-lo-112922.htm",
+     "source": "Storyboard18",
+     "published": "2026-10-19T11:06:43+00:00",
+     "type": "news",
+     "paywall": false,
+     "why": "Amazon India says its Influencer Program has passed 200,000 creators (double last year), 30 million shoppers bought through creator programmes from January to September (up 107%), and eligible creators can now tag Amazon products in YouTube videos, Shorts, livestreams and Pinterest and earn commission. Amazon's own creator links are now reaching into other platforms rather than staying on Amazon.",
+     "also": {
+      "source": "About Amazon India: Amazon creators can earn through YouTube and Pinterest in India",
+      "url": "https://www.aboutamazon.in/news/retail/amazon-creators-youtube-pinterest-india",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Amazon Associates closed my application for the 3rd/4th time, saying they \u201ccan\u2019t view the site\u201d. The site works fine. JS rendering issue?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x9zkkl/amazon_associates_closed_my_application_for_the/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-19T15:14:01+00:00",
+     "type": "reddit",
+     "why": "The owner of a LitRPG book-discovery site says Associates keeps rejecting them because reviewers can't see the site, possibly because it relies on JavaScript. A small but real pain point for book sites trying to get into Amazon's programme."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "AliExpress and YouTube Announce Global Strategic Affiliate Partnership",
+     "url": "https://www.prnewswire.com/news-releases/aliexpress-and-youtube-announce-global-strategic-affiliate-partnership-302913625.html",
+     "source": "PR Newswire",
+     "published": "2026-10-20T06:56:00+00:00",
+     "type": "wire",
+     "paywall": false,
+     "why": "After launching in South Korea in March, creators in the US, UK, Germany and Brazil can now pick and tag AliExpress products in videos, Shorts and livestreams from YouTube Studio and earn commission. Another big retailer plugged straight into YouTube's built-in affiliate system.",
+     "also": {
+      "source": "AdExchanger daily roundup",
+      "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-20102026/",
+      "paywall": false
+     }
+    },
+    {
+     "title": "YouTube tests new Shorts incentives",
+     "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
+     "source": "Social Media Today",
+     "published": "2026-10-19T22:37:45+00:00",
+     "type": "news",
+     "paywall": false,
+     "why": "YouTube is testing 'exclusive offers' where brands pay bonus commission on top of the normal affiliate rate when creators tag their products, plus Shorts posting bonuses for invited creators in the US, UK, Germany, Brazil, Japan and South Korea, and better shopping analytics. YouTube is adding more reasons for creators to use its own product tags."
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK creators preview Tommy Hilfiger's new collection at a London event with co-founder Amber Venz Box",
+     "url": "https://www.linkedin.com/posts/shopltk_we-brought-ltk-creators-together-at-old-sessions-activity-7518025889708769280-lP_V",
+     "source": "LinkedIn \u00b7 LTK",
+     "published": "2026-10-19T19:10:50+00:00",
+     "type": "social",
+     "why": "LTK is building its UK creator community with in-person brand events."
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "amazon links",
+     "url": "https://www.reddit.com/r/ShopMy/comments/1xa1kch/amazon_links/",
+     "source": "r/ShopMy",
+     "published": "2026-10-19T16:28:48+00:00",
+     "type": "reddit",
+     "why": "A creator has tried several ways to connect their Amazon Associates account to ShopMy and is still getting an error. Linking Amazon through other creator tools remains confusing."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Bitly: every link and QR code is checked for known threats when created and again on each click",
+     "url": "https://www.linkedin.com/posts/bitly_you-click-a-lot-of-links-in-a-day-but-have-activity-7517980914618880000-H4jx",
+     "source": "LinkedIn \u00b7 Bitly",
+     "published": "2026-10-19T16:12:07+00:00",
+     "type": "social",
+     "why": "Bitly says over 2 billion links and QR codes are made with it each year and is pitching link safety as a selling point."
+    }
+   ]
+  }
+ ]
+}

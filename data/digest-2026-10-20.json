@@ -1,0 +1,145 @@
+{
+ "date": "2026-10-20",
+ "intro": "A steady Monday. The biggest themes are tracking and measurement getting harder (Apple explains why Safari now blocks email-based tracking IDs, and ChatGPT referrals are showing up as \"Direct\" in analytics), search sending fewer readers to publishers, and more retailers plugging affiliate tagging straight into social apps. Big YouTube and Amazon creator-programme news is in Competitor Watch below. Prime Day deal posts, finance pages, Reddit deal and restock posts and general ad-tech pieces were left out. No Geniuslink, geni.us or Booklinker mentions could be confirmed today.",
+ "must_reads": [
+  {
+   "title": "Apple finally explains its Safari block, and identity companies are in its sights",
+   "url": "https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/",
+   "source": "Digiday",
+   "published": "2026-10-20T04:01:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Apple says it is cutting off companies that turn the email address you type into a website into a tracking ID, and the block now covers Safari on iPhone, iPad, Mac and Vision Pro. LiveRamp, ID5 and The Trade Desk's UID 2.0 were among the first hit. It's another sign that browsers keep shrinking what can be tracked across sites, so measurement that relies on the click itself rather than following people around becomes more important."
+  },
+  {
+   "title": "Search drops to 12% of North American publisher pageviews, Chartbeat finds",
+   "url": "https://ppc.land/search-drops-to-12-of-north-american-publisher-pageviews-chartbeat-finds/",
+   "source": "PPC Land",
+   "published": "2026-10-19T21:23:05+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: search sent 12% of pageviews to North American news and media sites in Q3, down from 21% a year earlier, and fell in nine of ten regions. Chartbeat says total traffic is steady, so readers are arriving other ways. Publishers and affiliate sites that lived on Google traffic are leaning harder on social, newsletters and direct audiences, which is where their product links now need to work."
+  },
+  {
+   "title": "So Begins ChatGPT's Endless Ad Iterations; YouTube Affiliates With AliExpress",
+   "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-20102026/",
+   "source": "AdExchanger",
+   "published": "2026-10-20T04:03:05+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: ChatGPT's ads have gone from clearly boxed and labelled to plain text that looks like a normal answer. As AI assistants start selling placements, it gets harder for shoppers (and marketers) to tell a paid recommendation from an organic one, and the line between ads and affiliate-style recommendations in AI answers is still being drawn."
+  },
+  {
+   "title": "Myntra Rolls Out Instagram Affiliate Product Tags in India",
+   "url": "https://www.affiversemedia.com/myntra-instagram-affiliate-product-tags-india/",
+   "source": "Affiverse Media",
+   "published": "2026-10-19T09:50:11+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Myntra (part of Flipkart) now lets Indian creators tag its products directly in Instagram posts and Reels and earn commission, reporting over a million sign-ups in a month, after a similar Facebook launch. Retailers are wiring affiliate links straight into each social app one deal at a time, so a creator's links increasingly depend on which retailer has a deal with which platform."
+  },
+  {
+   "title": "Forbes looks to Google AI pilot for insights as publishers seek value beyond the click",
+   "url": "https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/",
+   "source": "Digiday",
+   "published": "2026-10-20T04:01:00+00:00",
+   "paywall": false,
+   "why": "Why it matters for Geniuslink: Forbes says its referrals are down about 45% year on year and has joined Google's paid News AI pilot, which now has over 400 publishers. Publishers are being paid for content used in AI summaries 'ahead of the click', which shows how much value is shifting from clicks to being cited."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "9 Holiday Margin Plays Worth Stealing",
+     "url": "https://channelx.world/2026/10/9-holiday-margin-plays-worth-stealing/",
+     "source": "Tamebay",
+     "published": "2026-10-19T09:00:00+00:00",
+     "summary": "Levanta and eight e-commerce experts on protecting holiday profit. The creator play: work out what a creator-acquired customer is worth over time before deciding how much commission you can afford, rather than defaulting to the lowest payout.",
+     "paywall": false
+    },
+    {
+     "title": "Why Attribution Matters in Affiliate Marketing for India's D2C Brands",
+     "url": "https://www.psuconnect.in/articles/why-attribution-matters-in-affiliate-marketing-for-indias-d2c-brands",
+     "source": "PSU Connect",
+     "published": "2026-10-19T15:52:00+00:00",
+     "summary": "A plain explainer on last-click versus data-driven credit, attribution windows and cross-device returns, and why an analytics report and an affiliate contract can disagree without either being wrong.",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Meta Adds Audio Links, Trending Insights and Reference Reels to Edits, Drops Series Linking",
+     "url": "https://www.netinfluencer.com/meta-adds-audio-links-trending-insights-and-reference-reels-to-edits-drops-series-linking/",
+     "source": "Net Influencer",
+     "published": "2026-10-19T12:28:50+00:00",
+     "summary": "Meta's Edits app adds clickable audio links and 'Trending' insights (for creators over 10,000 followers). Instagram is removing the ability to link Reels together in a series from October 28, a feature added only in August 2025.",
+     "paywall": false
+    },
+    {
+     "title": "Instagram chief says stronger AI slop prevention is needed",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
+     "source": "Social Media Today",
+     "published": "2026-10-19T22:02:00+00:00",
+     "summary": "Adam Mosseri says Instagram is actively working to combat AI copies of creators' content.",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup",
+     "url": "https://news.designrush.com/seo-news-update-recap-google-rankings-swing-chatgpt-hid-visits",
+     "source": "DesignRush",
+     "published": "2026-10-19T19:03:55+00:00",
+     "summary": "Some ChatGPT referrals are landing in 'Direct' in analytics reports, and Google's anti-scraping measures appear to be feeding bad data to rank trackers, so brands can see less about where AI and search visits really come from.",
+     "paywall": false
+    },
+    {
+     "title": "Skyfire, Forter Enrich Trusted Agentic Commerce Decisions at Checkout",
+     "url": "https://www.martechcube.com/skyfire-forter-enrich-trusted-agentic-commerce-decisions-at-checkout/",
+     "source": "MarTech Cube",
+     "published": "2026-10-19T18:18:28+00:00",
+     "summary": "Forter now accepts Skyfire's 'Know Your Agent' tokens so stores can let genuine AI shopping agents check out instead of blocking them as bots. Forter says agent-placed orders on its network have more than quadrupled since August.",
+     "paywall": false
+    },
+    {
+     "title": "Google shows Gemini fitting shoppers into outfits built from screenshots",
+     "url": "https://ppc.land/google-shows-gemini-fitting-shoppers-into-outfits-built-from-screenshots/",
+     "source": "PPC Land",
+     "published": "2026-10-19T19:18:43+00:00",
+     "summary": "A Google blog post shows a stylist using Gemini to place clothes from screenshots onto a client's photo. The try-on happens inside Gemini, with no link back to the shop's own listing.",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "NextPart AI Affiliate Program looks like a scam ($8,700 payout ignored)",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xajsi7/nextpart_ai_affiliate_program_looks_like_a_scam/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-20T05:32:57+00:00",
+     "summary": "An affiliate says an AI tool's programme has stopped responding with $8,700 owed. A reminder that payout trust is a big worry for affiliates."
+    },
+    {
+     "title": "Views not updating",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xa9y13/views_not_updating/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-19T21:39:23+00:00",
+     "summary": "An Amazon Influencer says their view count hasn't moved in three days while sales continue."
+    },
+    {
+     "title": "Do I need to mention that this is a paid partnership?",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1x9xzl7/do_i_need_to_mention_that_this_is_a_paid/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-19T14:12:48+00:00",
+     "summary": "A new affiliate asks about disclosure for an affiliate banner in videos that sends viewers to a bio link."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "date": "2026-10-20",
+ "summary": [
+  "The affiliate networks are focused on measurement: CJ is hosting a PI Live panel on incrementality testing with QVC, Dell and Cardlytics, and Rakuten won three Global Performance Marketing Awards, including Best Measurement & Incrementality Strategy with H&M.",
+  "Partnerize argues the click mattered because it was the infrastructure linking discovery to revenue, and asks what comes next as how people shop changes.",
+  "Rakuten's DealMaker Europe is returning to London. The retailers and bookstores were otherwise quiet (only general brand posts)."
+ ],
+ "partners": [
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Advertising wins three Global Performance Marketing Awards",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_gpma-performancemarketing-affiliatemarketing-activity-7518044369564659712-U9WC",
+     "source": "LinkedIn \u00b7 Rakuten Advertising",
+     "published": "2026-10-19T20:24:16+00:00",
+     "type": "social",
+     "why": "Golds with Emirates (Best Travel, Leisure & Experience Campaign), H&M (Best Measurement & Incrementality Strategy) and for its Detect compliance offering."
+    },
+    {
+     "title": "DealMaker Europe returns to Convene Sancroft, London",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_dmeuro27-dealmakereuro27-rakutenadvertising-activity-7517963003636649984-Vq_W",
+     "source": "LinkedIn \u00b7 Rakuten Advertising",
+     "published": "2026-10-19T15:00:57+00:00",
+     "type": "social",
+     "why": "Rakuten's brand and publisher networking event is coming back to London."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ at PI Live: QVC, Dell and Cardlytics on testing and incrementality",
+     "url": "https://www.linkedin.com/posts/commission-junction_affiliatemarketing-piliveeur26-incrementality-activity-7518098693858951168-DsvL",
+     "source": "LinkedIn \u00b7 CJ",
+     "published": "2026-10-20T00:00:08+00:00",
+     "type": "social",
+     "why": "Networks keep pushing measurement 'beyond traditional attribution', meaning proving a partner actually added sales rather than just getting the last click."
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Partnerize: the click built modern commerce because it was infrastructure",
+     "url": "https://www.linkedin.com/posts/partnerize_weve-seen-this-movie-before-what-comes-activity-7517939320088076288-4xxN",
+     "source": "LinkedIn \u00b7 Partnerize",
+     "published": "2026-10-19T13:26:50+00:00",
+     "type": "social",
+     "why": "A partner network openly asking what replaces the click as the link between discovery and sales, the same question behind today's AI search and publisher traffic stories."
+    }
+   ]
+  }
+ ]
+}

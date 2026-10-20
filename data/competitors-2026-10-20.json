@@ -1,0 +1,209 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T07:18:34.516242+00:00",
+ "item_count": 20,
+ "feeds_ok": 101,
+ "feeds_failed": 2,
+ "items": [
+  {
+   "title": "Amazon Influencer Program doubles to 2 lakh creators; creator-led purchases jump 107%",
+   "url": "https://www.storyboard18.com/digital/amazon-influencer-program-doubles-to-2-lakh-creators-creator-led-purchases-jump-107-ws-lo-112922.htm",
+   "source": "Storyboard18",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-10-19T11:06:43+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Amazon invests in nuclear energy project targeting nearly 1 gigawatt of carbon-free energy for Indiana",
+   "url": "https://www.aboutamazon.com/news/sustainability/amazon-nuclear-energy-indiana-x-energy-aep",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-19T12:30:08+00:00",
+   "snippet": "Amazon, X-energy, and AEP are collaborating to explore building small modular reactors in Indiana that would add carbon-free power to the regional grid."
+  },
+  {
+   "title": "⚡ [KITCHEN] Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker - $129.99 (List $219.99) - 41% off",
+   "url": "https://www.reddit.com/r/dealsonamazon/comments/1x9vwyu/kitchen_keurig_kduo_hot_iced_single_serve_carafe/",
+   "source": "r/dealsonamazon",
+   "competitor": "amazon",
+   "feed_id": "reddit-amazon",
+   "type": "reddit",
+   "published": "2026-10-19T12:44:58+00:00",
+   "snippet": "https://www.amazon.com/dp/B0D8LXRHQ8?tag=listworthy-rd-20 $129.99 (List $219.99) - 41% off, price as of 8:40 AM ET Oct 19 Affiliate disclosure: this is my Amazon Associates link, and I earn from qualifying purchases. submitted by /u/KillerApp22 to r/dealsonamazon [link] [comments]"
+  },
+  {
+   "title": "⚡ [KITCHEN] Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker - $129.99 (List $219.99) - 41% off",
+   "url": "https://www.reddit.com/r/ConvertingDeals/comments/1x9vxac/kitchen_keurig_kduo_hot_iced_single_serve_carafe/",
+   "source": "r/ConvertingDeals",
+   "competitor": "amazon",
+   "feed_id": "reddit-amazon",
+   "type": "reddit",
+   "published": "2026-10-19T12:45:22+00:00",
+   "snippet": "https://www.amazon.com/dp/B0D8LXRHQ8?tag=listworthy-rd-20 $129.99 (List $219.99) - 41% off, price as of 8:40 AM ET Oct 19 Affiliate disclosure: this is my Amazon Associates link, and I earn from qualifying purchases. submitted by /u/KillerApp22 to r/ConvertingDeals [link] [comments]"
+  },
+  {
+   "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed",
+   "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-19T13:00:10+00:00",
+   "snippet": "TorchNeuron lets developers run their existing AI code on AWS Trainium chips with virtually no changes, reducing the friction to adopting new hardware."
+  },
+  {
+   "title": "Watch the trailer for ‘Drive – The Pretenders,’ coming to Prime Video October 28",
+   "url": "https://www.aboutamazon.com/news/entertainment/drive-the-pretenders-prime-video",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-19T13:00:24+00:00",
+   "snippet": "The movie, inspired by the hit novel 'Drive,' follows a mechanic who fakes an engagement to a scandalous racing star—with a passion that could destroy them both."
+  },
+  {
+   "title": "Amazon Associates closed my application for the 3rd/4th time, saying they “can’t view the site”. The site works fine. JS rendering issue?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1x9zkkl/amazon_associates_closed_my_application_for_the/",
+   "source": "r/Amazon_Influencer",
+   "competitor": "amazon",
+   "feed_id": "reddit-amazon",
+   "type": "reddit",
+   "published": "2026-10-19T15:14:01+00:00",
+   "snippet": "Hi all, I’m hoping someone has run into this before. My Amazon Associates application has now been closed 3 or 4 times. Each time the reason is basically that the reviewer couldn’t access or view the site. As far as I can tell, the site is up and working: Site: a LitRPG / progression fantasy book di"
+  },
+  {
+   "title": "Amazon creators can earn through YouTube and Pinterest in India. Here’s how",
+   "url": "https://www.aboutamazon.in/news/retail/amazon-creators-youtube-pinterest-india",
+   "source": "About Amazon India",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-19T09:58:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Amazon expands Indian creators’ earning options on YouTube, Pinterest",
+   "url": "https://www.indianbroadcastingworld.com/amazon-expands-indian-creators-ea/",
+   "source": "Indian Broadcasting World",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-20T00:30:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube tests new Shorts incentives",
+   "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
+   "source": "Social Media Today",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-20T01:36:37+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Amazon expands creator monetization in India via YouTube and Pinterest",
+   "url": "https://www.adgully.com/post/22530/amazon-expands-creator-monetization-in-india-via-youtube-and-pinterest",
+   "source": "Adgully",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-20T04:10:20+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "If you are writing a fulfilling arc, your character has to overcome flaws and roadblocks in their growth. These obstacles stem from traumas and what your character fears. #writinglife #selfpubinsiders",
+   "url": "https://x.com/Draft2Digital/status/2112265277610050041",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-10-19T19:31:00+00:00",
+   "snippet": "If you are writing a fulfilling arc, your character has to overcome flaws and roadblocks in their growth. These obstacles stem from traumas and what your character fears. #writinglife #selfpubinsiders"
+  },
+  {
+   "title": "On Books2Read - Spicy Romance titled Untethered Hearts",
+   "url": "https://www.reddit.com/r/SpicyRomanceBooks/comments/1xa7fie/on_books2read_spicy_romance_titled_untethered/",
+   "source": "r/SpicyRomanceBooks",
+   "competitor": "books2read",
+   "feed_id": "reddit-books",
+   "type": "reddit",
+   "published": "2026-10-19T20:03:15+00:00",
+   "snippet": "A wife, bored of her marriage, seeks a seductress to entice her husband into an affair so that she has grounds to divorce him without feeling guilty. Once the seduction occurs, she feels remorseful and decides that she no longer wants to divorce her husband. She then tries to make amends with him bu"
+  },
+  {
+   "title": "Never not carrying a book ✌️",
+   "url": "https://x.com/goodreads/status/2112166894648119433",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-10-19T13:00:04+00:00",
+   "snippet": "Never not carrying a book ✌️"
+  },
+  {
+   "title": "7 New Fall Books Goodreads Readers Recommend for Halloween",
+   "url": "https://www.womansworld.com/entertainment/books/7-new-fall-books-to-read-before-halloween-according-to-goodreads",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-20T00:30:10+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "You click a lot of links in a day. But have you ever thought about what happens before you actually reach your destination? More than 2 billion links and QR Cod…",
+   "url": "https://www.linkedin.com/posts/bitly_you-click-a-lot-of-links-in-a-day-but-have-activity-7517980914618880000-H4jx",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-10-19T16:12:07.375000+00:00",
+   "snippet": "You click a lot of links in a day. But have you ever thought about what happens before you actually reach your destination? More than 2 billion links and QR Codes are created with Bitly every year—and we check each one for known threats the moment it’s created and again every time someone clicks or "
+  },
+  {
+   "title": "We brought LTK creators together at Old Sessions House in London for an afternoon with Tommy Hilfiger, alongside LTK co-founder and president Amber Venz Box. Dr…",
+   "url": "https://www.linkedin.com/posts/shopltk_we-brought-ltk-creators-together-at-old-sessions-activity-7518025889708769280-lP_V",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-10-19T19:10:50.271000+00:00",
+   "snippet": "We brought LTK creators together at Old Sessions House in London for an afternoon with Tommy Hilfiger, alongside LTK co-founder and president Amber Venz Box. Dressed head to toe in Tommy Hilfiger, the creators got an exclusive preview of the new collection launching later this month. The afternoon a"
+  },
+  {
+   "title": "Thinking About Joining ShopMy? Here’s My Referral Link!",
+   "url": "https://www.reddit.com/r/ShopMy/comments/1xafmja/thinking_about_joining_shopmy_heres_my_referral/",
+   "source": "r/ShopMy",
+   "competitor": "shopmy",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-20T01:53:31+00:00",
+   "snippet": "Hi all! If you’ve been thinking about joining ShopMy, here’s my referral link: https://shopmy.us/join/alysfavefinds submitted by /u/alyk0503 to r/ShopMy [link] [comments]"
+  },
+  {
+   "title": "My newest release about internet and media fatigue",
+   "url": "https://www.reddit.com/r/indiemusic/comments/1xaf0cz/my_newest_release_about_internet_and_media_fatigue/",
+   "source": "r/indiemusic",
+   "competitor": "beacons",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-20T01:24:12+00:00",
+   "snippet": "I put out a 2 track release last month titled SOS. I’m an artist/producer from South Australia who does everything at home, no AI involved in my music making. I like to float around genre but it’s all very rooted in electronic music. This project was about internet/media fatigue. Feel free to check "
+  },
+  {
+   "title": "[HIRING] a Senior Software Engineer, Security! in Linktree",
+   "url": "https://www.reddit.com/r/jobboardsearch/comments/1xaj52a/hiring_a_senior_software_engineer_security_in/",
+   "source": "r/jobboardsearch",
+   "competitor": "linktree",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-20T04:55:12+00:00",
+   "snippet": "Company: Linktree Location: Los Angeles, California, United States 📍 Date Posted: October 14, 2026 📅 Level: Senior 👵 Categories: #engineer #senior #fullstack #backend #frontend Apply & Description 👉 https://jobboardsearch.com/redirect?utm_source=reddit&utm_medium=bot&utm_id=jobboarsearch&utm_term=ww"
+  }
+ ]
+}

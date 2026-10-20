@@ -1,0 +1,940 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T07:18:34.516242+00:00",
+ "item_count": 20,
+ "feeds_ok": 101,
+ "feeds_failed": 2,
+ "feeds": [
+  {
+   "id": "gn-lasso",
+   "competitor": "lasso",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22getlasso%22%20OR%20%22Lasso%20affiliate%22%20OR%20%22Lasso%20plugin%22%20OR%20%22Lasso%20Lite%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-lasso",
+   "competitor": "lasso",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22getlasso%22%20OR%20%22Lasso%20affiliate%22%20OR%20%22Lasso%20plugin%22%20OR%20%22Lasso%20Lite%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-lasso-0",
+   "competitor": "lasso",
+   "type": "rss",
+   "url": "https://getlasso.co/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-lasso",
+   "competitor": "lasso",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjFH5J5t8mR-MHb09UGdAVQ",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "wp-simple-urls",
+   "competitor": "lasso",
+   "type": "wporg",
+   "url": "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request%5Bslug%5D=simple-urls",
+   "ok": true,
+   "plugin": {
+    "version": "160",
+    "last_updated": "2026-10-08 3:23pm GMT",
+    "active_installs": 4000,
+    "rating": 60
+   }
+  },
+  {
+   "id": "reddit-lasso",
+   "competitor": "lasso",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22getlasso%22%20OR%20%22lasso%20plugin%22%20OR%20%22lasso%20affiliate%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-urlgenius",
+   "competitor": "urlgenius",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22URLgenius%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-urlgenius",
+   "competitor": "urlgenius",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22URLgenius%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-urlgenius",
+   "competitor": "urlgenius",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY2P7sq5lcClJCixJ4M1DDg",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-urlgenius",
+   "competitor": "urlgenius",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=urlgenius&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-button",
+   "competitor": "button",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22usebutton%22%20OR%20%22Button%20mobile%20commerce%22%20OR%20%22Posttap%22%20OR%20%22Button%20commerce%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-button",
+   "competitor": "button",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22usebutton%22%20OR%20%22Button%20mobile%20commerce%22%20OR%20%22Posttap%22%20OR%20%22Button%20commerce%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-button",
+   "competitor": "button",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHCEhHGu5DM3j1UvslmpsLA",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-button",
+   "competitor": "button",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22usebutton%22%20OR%20posttap&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-amazon",
+   "competitor": "amazon",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Amazon%20OneLink%22%20OR%20%22Amazon%20Associates%22%20OR%20%22Amazon%20Influencer%20Program%22%20OR%20%22Amazon%20Creator%20Connections%22%20OR%20%22Amazon%20storefront%22%20creators%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 1
+  },
+  {
+   "id": "wire-amazon",
+   "competitor": "amazon",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22Amazon%20OneLink%22%20OR%20%22Amazon%20Associates%22%20OR%20%22Amazon%20Influencer%20Program%22%20OR%20%22Amazon%20Creator%20Connections%22%20OR%20%22Amazon%20storefront%22%20creators%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-amazon-0",
+   "competitor": "amazon",
+   "type": "rss",
+   "url": "https://www.aboutamazon.com/rss/feed.rss",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 4
+  },
+  {
+   "id": "yt-amazon",
+   "competitor": "amazon",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3mLuRZXTgqmshSrngJ5eog",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-amazon",
+   "competitor": "amazon",
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22amazon%20onelink%22%20OR%20%22amazon%20associates%22%20OR%20%22amazon%20influencer%20program%22%20OR%20%22creator%20connections%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 23,
+   "items_kept": 4
+  },
+  {
+   "id": "gn-geotargetly",
+   "competitor": "geotargetly",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Geo%20Targetly%22%20OR%20geotargetly%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-geotargetly",
+   "competitor": "geotargetly",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZSwFeddD5rv06ilY4Ri-pA",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-joylink",
+   "competitor": "joylink",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22joylink.io%22%20OR%20%28%22Joylink%22%20affiliate%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-affilizz",
+   "competitor": "affilizz",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Affilizz%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-squirrel",
+   "competitor": "squirrel",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Squirrel%22%20%28%22price%20comparison%22%20OR%20%22affiliate%20widget%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-sovrn",
+   "competitor": "sovrn",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Sovrn%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-sovrn-0",
+   "competitor": "sovrn",
+   "type": "rss",
+   "url": "https://www.sovrn.com/feed/",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-pricespider",
+   "competitor": "pricespider",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22PriceSpider%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-pricespider-0",
+   "competitor": "pricespider",
+   "type": "rss",
+   "url": "https://www.pricespider.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-skimlinks",
+   "competitor": "skimlinks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Skimlinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-skimlinks",
+   "competitor": "skimlinks",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqgk3-7nKDGzkOhEb5p1X5g",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-viglink",
+   "competitor": "viglink",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22VigLink%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-nucleus",
+   "competitor": "nucleus",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Nucleus%20Links%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-aawp",
+   "competitor": "aawp",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22AAWP%22%20Amazon%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-aawp-0",
+   "competitor": "aawp",
+   "type": "rss",
+   "url": "https://getaawp.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-amalinks",
+   "competitor": "amalinks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22AmaLinks%20Pro%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-ytshopping",
+   "competitor": "ytshopping",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22YouTube%20Shopping%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 5
+  },
+  {
+   "id": "rss-ytshopping-0",
+   "competitor": "ytshopping",
+   "type": "rss",
+   "url": "https://blog.youtube/rss/",
+   "ok": true,
+   "items_in_feed": 20,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-gizzmo",
+   "competitor": "gizzmo",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Gizzmo%22%20affiliate%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-hyphen",
+   "competitor": "hyphen",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Hyphen%20Social%22%20OR%20%28%22Content%20Connections%22%20Amazon%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-flovidy",
+   "competitor": "flovidy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Flovidy%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-landingcube",
+   "competitor": "landingcube",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22LandingCube%22%20OR%20%22Landing%20Cube%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-landingcube-0",
+   "competitor": "landingcube",
+   "type": "rss",
+   "url": "https://landingcube.com/feed/",
+   "ok": true,
+   "items_in_feed": 18,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-landingcube",
+   "competitor": "landingcube",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK16iiCi9HjZroTmpHwtTRQ",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-creatorboost",
+   "competitor": "creatorboost",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22CreatorBoost%22%20OR%20%22Newsfilliate%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-books2read",
+   "competitor": "books2read",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Books2Read%22%20OR%20%28%22Draft2Digital%22%20links%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-books2read",
+   "competitor": "books2read",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCxkNFCpyAoQV5eAKbZwZHg",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-authorhelper",
+   "competitor": "authorhelper",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22AuthorHelper%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-boooklink",
+   "competitor": "boooklink",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Boook.link%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-goodreads",
+   "competitor": "goodreads",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Goodreads%22%20%28launches%20OR%20feature%20OR%20update%20OR%20app%20OR%20Amazon%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 1
+  },
+  {
+   "id": "gn-linktwin",
+   "competitor": "linktwin",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22LinkTwin%22%20OR%20%22linktw.in%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-rebrandly",
+   "competitor": "rebrandly",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Rebrandly%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-bitly",
+   "competitor": "bitly",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Bitly%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-linkfire",
+   "competitor": "linkfire",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Linkfire%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-linkfire-0",
+   "competitor": "linkfire",
+   "type": "rss",
+   "url": "https://www.linkfire.com/blog/rss.xml",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-dub",
+   "competitor": "dub",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Dub.co%22%20OR%20%22Dub%20Partners%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-dub",
+   "competitor": "dub",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxpEtItHR7Zb6X4VUAAgCOg",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-joturl",
+   "competitor": "joturl",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22JotURL%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-prettylinks",
+   "competitor": "prettylinks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Pretty%20Links%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-prettylinks-0",
+   "competitor": "prettylinks",
+   "type": "rss",
+   "url": "https://prettylinks.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "wp-pretty-link",
+   "competitor": "prettylinks",
+   "type": "wporg",
+   "url": "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request%5Bslug%5D=pretty-link",
+   "ok": true,
+   "plugin": {
+    "version": "4.0.17",
+    "last_updated": "2026-10-15 12:21am GMT",
+    "active_installs": 200000,
+    "rating": 96
+   }
+  },
+  {
+   "id": "gn-split",
+   "competitor": "split",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22split.co%22%20OR%20%22Split%20Technologies%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-pxl",
+   "competitor": "pxl",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22pxl.to%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-mavely",
+   "competitor": "mavely",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Mavely%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-markable",
+   "competitor": "markable",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Markable.ai%22%20OR%20%22Markable%20AI%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-magiclinks",
+   "competitor": "magiclinks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22MagicLinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-ltk",
+   "competitor": "ltk",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22LTK%22%20%28creators%20OR%20influencer%20OR%20shopltk%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-shopmy",
+   "competitor": "shopmy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22ShopMy%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-howl",
+   "competitor": "howl",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Howl%22%20%28creators%20OR%20affiliate%20OR%20%22planet%20howl%22%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-shorby",
+   "competitor": "shorby",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Shorby%22%20OR%20%22Shor.by%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-beacons",
+   "competitor": "beacons",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Beacons.ai%22%20OR%20%28%22Beacons%22%20creator%20link%20in%20bio%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-linktree",
+   "competitor": "linktree",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Linktree%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-liinks",
+   "competitor": "liinks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Liinks%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-later",
+   "competitor": "later",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22Later%22%20%28%22link%20in%20bio%22%20OR%20creators%20OR%20Mavely%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 0
+  },
+  {
+   "id": "yt-later",
+   "competitor": "later",
+   "type": "youtube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzYIYj-fRHV6bv16SpEhFQ",
+   "ok": true,
+   "items_in_feed": 15,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-lnkbio",
+   "competitor": "lnkbio",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22lnk.bio%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-hoobe",
+   "competitor": "hoobe",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22hoo.be%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-shorteners",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22rebrandly%22%20OR%20%22bitly%22%20OR%20%22dub.co%22%20OR%20%22joturl%22%20OR%20%22pretty%20links%22%20OR%20%22linktwin%22%20OR%20%22pxl.to%22%20OR%20%22linkfire%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 24,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-amazon-tools",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22flovidy%22%20OR%20%22landingcube%22%20OR%20%22joylink%22%20OR%20%22geotargetly%22%20OR%20%22amalinks%22%20OR%20%22aawp%22%20OR%20%22creatorboost%22&sort=new&t=week",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  {
+   "id": "reddit-monetization",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22skimlinks%22%20OR%20%22sovrn%22%20OR%20%22viglink%22%20OR%20%22affilizz%22%20OR%20%22pricespider%22&sort=new&t=week",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  {
+   "id": "reddit-influencer",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22shopmy%22%20OR%20%22mavely%22%20OR%20%22magiclinks%22%20OR%20%22LTK%20app%22%20OR%20%22beacons.ai%22%20OR%20%22linktree%22%20OR%20%22lnk.bio%22%20OR%20%22hoo.be%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 3
+  },
+  {
+   "id": "reddit-books",
+   "competitor": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22books2read%22%20OR%20%22boook.link%22%20OR%20%22authorhelper%22%20OR%20%22universal%20book%20link%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 22,
+   "items_kept": 1
+  },
+  {
+   "id": "li-lasso",
+   "competitor": "lasso",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/lasso-affiliate/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-button",
+   "competitor": "button",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/usebutton/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-geotargetly",
+   "competitor": "geotargetly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/geo-targetly/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-affilizz",
+   "competitor": "affilizz",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/affilizz/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-skimlinks",
+   "competitor": "skimlinks",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/skimlinks/",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "li-amalinks",
+   "competitor": "amalinks",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/amalinks-pro/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-ytshopping",
+   "competitor": "ytshopping",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/youtube/",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "li-landingcube",
+   "competitor": "landingcube",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/landingcube/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-creatorboost",
+   "competitor": "creatorboost",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/creatorboost-ai/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-books2read",
+   "competitor": "books2read",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/draft2digital/",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 0
+  },
+  {
+   "id": "li-goodreads",
+   "competitor": "goodreads",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/goodreads-com/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-rebrandly",
+   "competitor": "rebrandly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/rebrandly/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-bitly",
+   "competitor": "bitly",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/bitly/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-linkfire",
+   "competitor": "linkfire",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/linkfire/",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "li-dub",
+   "competitor": "dub",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/dubinc/",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "li-pxl",
+   "competitor": "pxl",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/pxl-to/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-ltk",
+   "competitor": "ltk",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/shopltk/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 1
+  },
+  {
+   "id": "li-howl",
+   "competitor": "howl",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/planethowl/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-beacons",
+   "competitor": "beacons",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/beacons-ai/",
+   "ok": true,
+   "items_in_feed": 9,
+   "items_kept": 0
+  },
+  {
+   "id": "li-linktree",
+   "competitor": "linktree",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/linktree/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-lnkbio",
+   "competitor": "lnkbio",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/lnk-bio/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "x-import",
+   "type": "x",
+   "ok": true,
+   "url": "competitors-x-2026-10-20.json",
+   "items_kept": 2
+  }
+ ]
+}

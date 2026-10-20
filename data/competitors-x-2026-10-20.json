@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-20",
+ "fetched_via": "x connector get_users_posts, start_time 2026-10-19T01:17Z, excluding replies/retweets",
+ "handles_checked": [
+  "LassoWP",
+  "URLgenius",
+  "button",
+  "AmazonAssociate",
+  "amazonnews",
+  "GeoTargetly",
+  "SOVRN",
+  "Skimlinks",
+  "PriceSpider",
+  "Bitly",
+  "LinkFire",
+  "jotURL",
+  "split_co",
+  "joinmavely",
+  "shopLTK",
+  "shopmy",
+  "Linktree_",
+  "beaconsai",
+  "latermedia",
+  "goodreads",
+  "Draft2Digital",
+  "LandingCube",
+  "YouTubeCreators",
+  "AmaLinksPro"
+ ],
+ "posts": [
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-10-19T13:00:04+00:00",
+   "url": "https://x.com/goodreads/status/2112166894648119433",
+   "text": "Never not carrying a book ✌️"
+  },
+  {
+   "handle": "Draft2Digital",
+   "competitor": "books2read",
+   "created_at": "2026-10-19T19:31:00+00:00",
+   "url": "https://x.com/Draft2Digital/status/2112265277610050041",
+   "text": "If you are writing a fulfilling arc, your character has to overcome flaws and roadblocks in their growth. These obstacles stem from traumas and what your character fears. #writinglife #selfpubinsiders"
+  }
+ ]
+}
