@@ -1,0 +1,969 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T07:18:24.756133+00:00",
+ "item_count": 19,
+ "feeds_ok": 106,
+ "feeds_failed": 1,
+ "feeds": [
+  {
+   "id": "gn-impact",
+   "partner": "impact",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22impact.com%22%20OR%20%22impact%20radius%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-impact",
+   "partner": "impact",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22impact.com%22%20OR%20%22impact%20radius%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-impact-0",
+   "partner": "impact",
+   "type": "rss",
+   "url": "https://impact.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-cj",
+   "partner": "cj",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22cj%20affiliate%22%20OR%20%22commission%20junction%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-cj",
+   "partner": "cj",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22cj%20affiliate%22%20OR%20%22commission%20junction%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-rakuten",
+   "partner": "rakuten",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22rakuten%20advertising%22%20OR%20%22rakuten%20affiliate%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-rakuten",
+   "partner": "rakuten",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22rakuten%20advertising%22%20OR%20%22rakuten%20affiliate%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-awin",
+   "partner": "awin",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22awin%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 17,
+   "items_kept": 1
+  },
+  {
+   "id": "wire-awin",
+   "partner": "awin",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22awin%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-partnerize",
+   "partner": "partnerize",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22partnerize%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-partnerize",
+   "partner": "partnerize",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22partnerize%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-partnerize-0",
+   "partner": "partnerize",
+   "type": "rss",
+   "url": "https://partnerize.com/feed",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-epn",
+   "partner": "epn",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%22ebay%20partner%20network%22%20OR%20%22epn%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-epn",
+   "partner": "epn",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22ebay%20partner%20network%22%20OR%20%22epn%22%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-adorama",
+   "partner": "adorama",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22adorama%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-anker",
+   "partner": "anker",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22anker%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-applebooks",
+   "partner": "applebooks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22apple%20books%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-applebooks",
+   "partner": "applebooks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22apple%20books%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-applemusic",
+   "partner": "applemusic",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22apple%20music%22%20OR%20%22itunes%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 24,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-applemusic",
+   "partner": "applemusic",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22apple%20music%22%20OR%20%22itunes%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 100,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-backcountry",
+   "partner": "backcountry",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22backcountry.com%22%20OR%20%22backcountry%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 1
+  },
+  {
+   "id": "gn-bh",
+   "partner": "bh",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22b%26h%20photo%22%20OR%20%22b%26h%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-basspro",
+   "partner": "basspro",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22bass%20pro%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-bn",
+   "partner": "bn",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22barnes%20%26%20noble%22%20OR%20%22barnes%20and%20noble%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-bn",
+   "partner": "bn",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22barnes%20%26%20noble%22%20OR%20%22barnes%20and%20noble%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 69,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-bestbuy",
+   "partner": "bestbuy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22best%20buy%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 52,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-bestbuy",
+   "partner": "bestbuy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22best%20buy%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "rss-bestbuy-0",
+   "partner": "bestbuy",
+   "type": "rss",
+   "url": "https://corporate.bestbuy.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "gn-bloomingdales",
+   "partner": "bloomingdales",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22bloomingdale%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-bam",
+   "partner": "bam",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22books-a-million%22%20OR%20%22books%20a%20million%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-bookshop",
+   "partner": "bookshop",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22bookshop.org%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-chewy",
+   "partner": "chewy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22chewy%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-cocoeve",
+   "partner": "cocoeve",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22coco%20%26%20eve%22%20OR%20%22coco%20and%20eve%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-crutchfield",
+   "partner": "crutchfield",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22crutchfield%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-dermaflash",
+   "partner": "dermaflash",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22dermaflash%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-dicks",
+   "partner": "dicks",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22dick%27s%20sporting%20goods%22%20OR%20%22dick%27s%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-drbrandt",
+   "partner": "drbrandt",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22dr.%20brandt%22%20OR%20%22dr%20brandt%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-ebay",
+   "partner": "ebay",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22ebay%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 2
+  },
+  {
+   "id": "wire-ebay",
+   "partner": "ebay",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22ebay%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-eufy",
+   "partner": "eufy",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22eufy%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-gamestop",
+   "partner": "gamestop",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22gamestop%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-homedepot",
+   "partner": "homedepot",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22home%20depot%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 43,
+   "items_kept": 1
+  },
+  {
+   "id": "gn-hp",
+   "partner": "hp",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22hp%20store%22%20OR%20%22hp%20affiliate%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-iherb",
+   "partner": "iherb",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22iherb%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-kohls",
+   "partner": "kohls",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22kohl%27s%22%20OR%20%22kohls%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-kobo",
+   "partner": "kobo",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22kobo%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-kobo",
+   "partner": "kobo",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22kobo%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-lowes",
+   "partner": "lowes",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22lowe%27s%22%20OR%20%22lowes%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-macys",
+   "partner": "macys",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22macy%27s%22%20OR%20%22macys%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 13,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-max",
+   "partner": "max",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22hbo%20max%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 37,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-microsoft",
+   "partner": "microsoft",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22microsoft%20store%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-moment",
+   "partner": "moment",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22shopmoment%22%20OR%20%22moment%20camera%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-motorola",
+   "partner": "motorola",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22motorola%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-newegg",
+   "partner": "newegg",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22newegg%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 6,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-overstock",
+   "partner": "overstock",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22overstock%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-samsung",
+   "partner": "samsung",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22samsung%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 53,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-snooz",
+   "partner": "snooz",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22snooz%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-soundcore",
+   "partner": "soundcore",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22soundcore%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-stockx",
+   "partner": "stockx",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22stockx%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-target",
+   "partner": "target",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22target%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 13,
+   "items_kept": 2
+  },
+  {
+   "id": "wire-target",
+   "partner": "target",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22target%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 100,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-tigerdirect",
+   "partner": "tigerdirect",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22tigerdirect%22%20OR%20%22tiger%20direct%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-walmart",
+   "partner": "walmart",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22walmart%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 17,
+   "items_kept": 0
+  },
+  {
+   "id": "wire-walmart",
+   "partner": "walmart",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%28%22walmart%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%29%20%28site%3Aprnewswire.com%20OR%20site%3Abusinesswire.com%20OR%20site%3Aglobenewswire.com%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-wordery",
+   "partner": "wordery",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22wordery%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-wayfair",
+   "partner": "wayfair",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22wayfair%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 14,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-walgreens",
+   "partner": "walgreens",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22walgreens%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "gn-officedepot",
+   "partner": "officedepot",
+   "type": "google_news",
+   "url": "https://news.google.com/rss/search?q=%28%22office%20depot%22%29%20%28affiliate%20OR%20%22affiliate%20program%22%20OR%20creators%20OR%20creator%20OR%20influencer%20OR%20influencers%20OR%20commission%29%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-networks",
+   "partner": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%22impact.com%22%20OR%20%22cj%20affiliate%22%20OR%20%22rakuten%20advertising%22%20OR%20awin%20OR%20partnerize%20OR%20%22ebay%20partner%20network%22&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 22,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-retail-affiliate",
+   "partner": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%28%22walmart%20creator%22%20OR%20%22walmart%20affiliate%22%20OR%20%22best%20buy%20affiliate%22%20OR%20%22target%20affiliate%22%20OR%20%22target%20partners%22%20OR%20%22ebay%20affiliate%22%29&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "reddit-books",
+   "partner": null,
+   "type": "reddit",
+   "url": "https://www.reddit.com/search.rss?q=%28%22apple%20books%22%20OR%20kobo%20OR%20%22barnes%20%26%20noble%22%20OR%20bookshop.org%20OR%20%22books-a-million%22%29%20%28affiliate%20OR%20link%29&sort=new&t=week",
+   "ok": true,
+   "items_in_feed": 25,
+   "items_kept": 0
+  },
+  {
+   "id": "li-impact",
+   "partner": "impact",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/impact-com/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-cj",
+   "partner": "cj",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/commission-junction/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-rakuten",
+   "partner": "rakuten",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/rakutenadvertising/",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 3
+  },
+  {
+   "id": "li-partnerize",
+   "partner": "partnerize",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/partnerize/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-epn",
+   "partner": "epn",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/ebay-partner-network/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-adorama",
+   "partner": "adorama",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/adorama/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-applebooks",
+   "partner": "applebooks",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/apple/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-applemusic",
+   "partner": "applemusic",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/apple/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-basspro",
+   "partner": "basspro",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/bass-pro-shops/",
+   "ok": true,
+   "items_in_feed": 7,
+   "items_kept": 0
+  },
+  {
+   "id": "li-bn",
+   "partner": "bn",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/barnes-&-noble/",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "li-bestbuy",
+   "partner": "bestbuy",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/best-buy/",
+   "ok": false,
+   "error": "<urlopen error timed out>"
+  },
+  {
+   "id": "li-bloomingdales",
+   "partner": "bloomingdales",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/bloomingdales/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-bam",
+   "partner": "bam",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/books-a-million/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-chewy",
+   "partner": "chewy",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/chewy-com/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-cocoeve",
+   "partner": "cocoeve",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/coco-eve/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-dermaflash",
+   "partner": "dermaflash",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/dermaflash/",
+   "ok": true,
+   "items_in_feed": 3,
+   "items_kept": 0
+  },
+  {
+   "id": "li-eufy",
+   "partner": "eufy",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/eufy/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-gamestop",
+   "partner": "gamestop",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/gamestop/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-homedepot",
+   "partner": "homedepot",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/the-home-depot/",
+   "ok": true,
+   "items_in_feed": 5,
+   "items_kept": 0
+  },
+  {
+   "id": "li-hp",
+   "partner": "hp",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/hp/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-iherb",
+   "partner": "iherb",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/iherb/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-lowes",
+   "partner": "lowes",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/lowe's-home-improvement/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-microsoft",
+   "partner": "microsoft",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/microsoft/",
+   "ok": true,
+   "items_in_feed": 2,
+   "items_kept": 0
+  },
+  {
+   "id": "li-motorola",
+   "partner": "motorola",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/motorola-mobility/",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "li-newegg",
+   "partner": "newegg",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/newegg-com/",
+   "ok": true,
+   "items_in_feed": 9,
+   "items_kept": 1
+  },
+  {
+   "id": "li-overstock",
+   "partner": "overstock",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/overstock-com/",
+   "ok": true,
+   "items_in_feed": 4,
+   "items_kept": 0
+  },
+  {
+   "id": "li-samsung",
+   "partner": "samsung",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/samsung-electronics/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-snooz",
+   "partner": "snooz",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/snooz/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-soundcore",
+   "partner": "soundcore",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/soundcore/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-stockx",
+   "partner": "stockx",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/stockx/",
+   "ok": true,
+   "items_in_feed": 8,
+   "items_kept": 0
+  },
+  {
+   "id": "li-target",
+   "partner": "target",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/target/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 0
+  },
+  {
+   "id": "li-tigerdirect",
+   "partner": "tigerdirect",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/tigerdirect-com/",
+   "ok": true,
+   "items_in_feed": 0,
+   "items_kept": 0
+  },
+  {
+   "id": "li-wordery",
+   "partner": "wordery",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/wordery/",
+   "ok": true,
+   "items_in_feed": 1,
+   "items_kept": 0
+  },
+  {
+   "id": "li-wayfair",
+   "partner": "wayfair",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/wayfair/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "li-walgreens",
+   "partner": "walgreens",
+   "type": "linkedin",
+   "url": "https://www.linkedin.com/company/walgreens/",
+   "ok": true,
+   "items_in_feed": 10,
+   "items_kept": 1
+  },
+  {
+   "id": "x-import",
+   "type": "x",
+   "ok": true,
+   "url": "partners-x-2026-10-21.json",
+   "items_kept": 3
+  }
+ ]
+}

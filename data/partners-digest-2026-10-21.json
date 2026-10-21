@@ -1,0 +1,99 @@
+{
+ "date": "2026-10-21",
+ "summary": [
+  "Rakuten Advertising says AI is changing how people research financial products before they click, and asks how to measure content that never gets the click.",
+  "eBay is waiving its commission on Live sales for invited US sellers until 29 October to get more of them livestreaming.",
+  "Best Buy launched Best Buy Gamers in beta, and The Home Depot is the retail partner for the first DIY CON in Dallas (6 to 8 November) with top DIY creators.",
+  "CJ and Rakuten were out in force at PI LIVE Europe, and Newegg closed a $100 million credit facility."
+ ],
+ "partners": [
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "💳 AI is changing how people research financial products, often before they ever click a link. So, how do you measure the influence of content that never gets th…",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_what-north-american-financial-services-leaders-activity-7518386307232940033-ONLW",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-20T19:03:00.505000+00:00",
+     "type": "social",
+     "why": "A big affiliate network openly asking how to credit content when AI answers mean the shopper never clicks. Measuring influence without a click is becoming a real question for the industry."
+    },
+    {
+     "title": "🇪🇺 We’re live at PI LIVE Europe - Festival of Partnerships. Find Rakuten Advertising at stand 46. 👋 Come meet our team! Bring us any challenge you’re working th…",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_piliveeurope-partnermarketing-affiliatemarketing-activity-7518291918552977408-lKyc",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-20T12:47:56.490000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "Ready to unlock the future of partnerships at PI Live? Here’s what CJ has on the agenda for you today: LEADERS PANEL: HOW DO WE 10X THE INDUSTRY? 12:15PM, DIREC…",
+     "url": "https://www.linkedin.com/posts/commission-junction_affiliatemarketing-piliveeur26-connectedcommerce-activity-7518263013125038080-SNg1",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-20T10:53:04.899000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ebay",
+   "name": "eBay",
+   "items": [
+    {
+     "title": "eBay Offers 0% Live Commissions To Get More Sellers Streaming",
+     "url": "https://www.valueaddedresource.net/ebay-live-0-commission-promo/",
+     "source": "Value Added Resource",
+     "published": "2026-10-21T00:08:37+00:00",
+     "type": "news",
+     "why": "eBay is paying sellers, in effect, to try live shopping. Live selling inside marketplaces and social apps keeps growing."
+    }
+   ]
+  },
+  {
+   "id": "bestbuy",
+   "name": "Best Buy (US)",
+   "items": [
+    {
+     "title": "Meet Best Buy Gamers: a new experience built for gamers",
+     "url": "https://corporate.bestbuy.com/2026/gamers/",
+     "source": "corporate.bestbuy.com",
+     "published": "2026-10-20T11:02:15+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "homedepot",
+   "name": "The Home Depot",
+   "items": [
+    {
+     "title": "HGTV Stars, The Home Depot, and DIY's Biggest Creators Unite for the First-Ever DIY CON Dallas",
+     "url": "https://www.prnewswire.com/news-releases/hgtv-stars-the-home-depot-and-diys-biggest-creators-unite-for-the-first-ever-diy-con-dallas-302913917.html",
+     "source": "PR Newswire",
+     "published": "2026-10-20T12:53:00+00:00",
+     "type": "wire",
+     "why": "The Home Depot is backing a creator-focused DIY event, more evidence that big retailers are leaning into creators."
+    }
+   ]
+  },
+  {
+   "id": "newegg",
+   "name": "Newegg",
+   "items": [
+    {
+     "title": "We're proud to announce the successful closing of a $100 million senior credit facility led and arranged by East West Bank with participation from a syndicate o…",
+     "url": "https://www.linkedin.com/posts/newegg-com_were-proud-to-announce-the-successful-closing-activity-7518423326915080193-5bks",
+     "source": "LinkedIn · Newegg",
+     "published": "2026-10-20T21:30:06.686000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

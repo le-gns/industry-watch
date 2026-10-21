@@ -1,0 +1,106 @@
+{
+ "date": "2026-10-21",
+ "summary": [
+  "Lasso, URLgenius and Button/Posttap were quiet. For Amazon, two Reddit posts from the same German Amazon affiliate say that since Sunday their amazon.de links and deep links have been sending shoppers to amazon.co.uk instead, and support hasn't fixed it.",
+  "ShopMy's investor Inspired Capital has closed a $450 million fund aimed at creators and AI in retail. On Reddit, a ShopMy creator says Rothy's took back their referral credit, even for a friend's $200+ order.",
+  "YouTube says people watched 40 billion views of shopping content last year, as it keeps pushing creators to tag products (follow-up coverage of yesterday's AliExpress deal was left out).",
+  "LTK was named to Inc.'s 2026 Power Partner list and is surveying brands about creator marketing. A self-published author says Draft2Digital, which runs Books2Read, has started charging fees on top of its cut."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Affiliate link, deeplink total messup. Please Help!",
+     "url": "https://www.reddit.com/r/AmazonUK/comments/1xbe8w3/affiliate_link_deeplink_total_messup_please_help/",
+     "source": "r/AmazonUK",
+     "published": "2026-10-21T05:05:25+00:00",
+     "type": "reddit",
+     "why": "One user's report, not confirmed by Amazon: their amazon.de affiliate links have been redirecting to amazon.co.uk since Sunday. If it's real, it shows how fragile single-store affiliate links are when Amazon changes how it routes shoppers between countries.",
+     "also": {
+      "source": "r/AmazonUK (earlier post)",
+      "url": "https://www.reddit.com/r/AmazonUK/comments/1xaw0dp/amazon_affilate_help_needed_urgent_thank_you/",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "“See It, Want It, Shop It”: Inside YouTube’s Shoppability Push",
+     "url": "https://videoweek.com/2026/10/20/see-it-want-it-shop-it-inside-youtubes-shoppability-push/",
+     "source": "VideoWeek",
+     "published": "2026-10-20T14:02:02+00:00",
+     "type": "news",
+     "why": "Google's retail chief says there were 40 billion views of shopping content on YouTube last year, and the YouTube Shopping affiliate programme launched in the UK this year. YouTube wants more of those purchases to happen through its own product tags."
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "ShopMy Backer Inspired Capital Closes on $450 Million Fund, Bets on Creators and AI to Reshape Retail",
+     "url": "https://wwd.com/business-news/financial/inspired-capital-450m-fund-creator-commerce-ai-retail-1239376326/",
+     "source": "WWD",
+     "published": "2026-10-20T17:13:16+00:00",
+     "type": "news",
+     "why": "ShopMy's backer is putting $450 million into creator-led commerce and AI in retail, a sign investors still see money in creator shopping links.",
+     "paywall": false
+    },
+    {
+     "title": "Don’t Refer Anyone to Rothy’s Through ShopMy",
+     "url": "https://www.reddit.com/r/ShopMy/comments/1xb51vz/dont_refer_anyone_to_rothys_through_shopmy/",
+     "source": "r/ShopMy",
+     "published": "2026-10-20T21:40:41+00:00",
+     "type": "reddit",
+     "why": "A creator says Rothy's took back their referral credit, and ShopMy told them it was up to the brand. Commission clawbacks are a common complaint in creator programmes."
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "Big news for LTK! We’re proud to be named to the 2026 Inc. Power Partner Awards list, recognizing leading B2B companies making an impact for the businesses they…",
+     "url": "https://www.linkedin.com/posts/shopltk_powerpartnerawards-ltk-activity-7518310222365433856-jjvy",
+     "source": "LinkedIn · LTK",
+     "published": "2026-10-20T14:00:40.459000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "What matters most to your brand when it comes to creator marketing? As creator marketing evolves, we want to hear directly from brand and marketing teams about …",
+     "url": "https://www.linkedin.com/posts/shopltk_ltk-brand-survey-activity-7518426124465655808-jQLH",
+     "source": "LinkedIn · LTK",
+     "published": "2026-10-20T21:41:13.674000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "items": [
+    {
+     "title": "Direct Uploads to eBook Platforms?",
+     "url": "https://www.reddit.com/r/selfpublish/comments/1xawr60/direct_uploads_to_ebook_platforms/",
+     "source": "r/selfpublish",
+     "published": "2026-10-20T16:26:32+00:00",
+     "type": "reddit",
+     "why": "An author says Draft2Digital (owner of Books2Read) now charges fees on top of its cut, and asks about uploading directly to Kobo, Barnes & Noble and Apple. Authors going direct to each store need a way to link readers to all of them."
+    }
+   ]
+  }
+ ]
+}
