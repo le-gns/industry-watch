@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-22",
+ "summary": [
+  "Amazon affiliates on Reddit say Amazon's mobile short links have switched from amzn.to to a new link.amazon format, with no announcement yet.",
+  "Bitly launched a ChatGPT plugin so marketers can build and track links without leaving the chat.",
+  "LTK and Northwestern released their fourth creator marketing study, calling this creator marketing's \"infrastructure era\".",
+  "Liinks, a small link-in-bio tool, reports $31,500 in monthly recurring revenue, driven by a $1 price rise and Google Ads.",
+  "Lasso pushed a new version of its free WordPress plugin, Lasso Lite."
+ ],
+ "competitors": [
+  {
+   "id": "lasso",
+   "name": "Lasso",
+   "priority": true,
+   "items": [
+    {
+     "title": "Lasso Lite – Affiliate Link Manager, URL Shortener & Link Tracking: new version 161 (was 160)",
+     "url": "https://wordpress.org/plugins/simple-urls/",
+     "source": "WordPress.org",
+     "published": "2026-10-22T07:17:32.853767+00:00",
+     "type": "product"
+    }
+   ]
+  },
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "items": [
+    {
+     "title": "The Button family spent last week together at our annual offsite: a few days of moving fast on what’s next and spending some time by the sea. We mapped out stra…",
+     "url": "https://www.linkedin.com/posts/usebutton_the-button-family-spent-last-week-together-activity-7518738525010452480-0_7D",
+     "source": "LinkedIn · Button",
+     "published": "2026-10-21T18:22:35.767000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Did Amazon just change their short links format?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xc4seq/did_amazon_just_change_their_short_links_format/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-22T01:00:19+00:00",
+     "type": "reddit",
+     "why": "An Amazon affiliate says the app now creates link.amazon short links instead of amzn.to. If Amazon is changing its short link format, creators may see links behave differently across apps and platforms."
+    },
+    {
+     "title": "International Storefront - Pros & Cons - Discuss",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xc5hni/international_storefront_pros_cons_discuss/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-22T01:34:21+00:00",
+     "type": "reddit",
+     "why": "Amazon Influencers say they're being moved onto an International Storefront and that its redirects only work some of the time."
+    },
+    {
+     "title": "Rec'd A Warning Mail Related To Traffic From Amazon Associates Uk",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xbsfse/recd_a_warning_mail_related_to_traffic_from/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-21T16:48:01+00:00",
+     "type": "reddit"
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Bitly 🤝 ChatGPT Plan the campaign. Build the links. See what worked. All without leaving the chat. The Bitly plugin brings link and QR Code creation, plus your …",
+     "url": "https://www.linkedin.com/posts/bitly_bitly-x-chatgpt-activity-7518706658521407488-4tu9",
+     "source": "LinkedIn · Bitly",
+     "published": "2026-10-21T16:15:58.205000+00:00",
+     "type": "social",
+     "why": "Link tools are moving into AI assistants, so building and checking links may start happening inside chat apps.",
+     "also": {
+      "source": "X @Bitly",
+      "url": "https://x.com/Bitly/status/2112986803925811512",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK and Northwestern University Release Fourth Annual Creator Marketing Study: Creator Marketing Enters Its Infrastructure Era",
+     "url": "https://www.businesswire.com/news/home/20261021692036/en/LTK-and-Northwestern-University-Release-Fourth-Annual-Creator-Marketing-Study-Creator-Marketing-Enters-Its-Infrastructure-Era",
+     "source": "Business Wire",
+     "published": "2026-10-21T14:00:00+00:00",
+     "type": "wire",
+     "also": {
+      "source": "LinkedIn · LTK",
+      "url": "https://www.linkedin.com/posts/shopltk_the-creator-economy-isnt-slowing-down-but-activity-7518672595639123968-13xJ",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "liinks",
+   "name": "Liinks.co",
+   "priority": false,
+   "items": [
+    {
+     "title": "Charlie Clark's Liinks Hits $31,500 MRR With a $1 Price Rise and Google Ads—No Headcount",
+     "url": "https://finance.biggo.com/news/4b179d35e0a91da6",
+     "source": "BigGo Finance",
+     "published": "2026-10-21T18:08:00+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "linktree",
+   "name": "Linktree",
+   "priority": false,
+   "items": [
+    {
+     "title": "SproutLink vs. Linktree: Which link-in-bio tool is right for your brand?",
+     "url": "https://sproutsocial.com/insights/sproutlink-vs-linktree/",
+     "source": "Sprout Social",
+     "published": "2026-10-21T15:03:42+00:00",
+     "type": "news",
+     "why": "Sprout Social is pitching its own link-in-bio tool directly against Linktree."
+    }
+   ]
+  }
+ ]
+}

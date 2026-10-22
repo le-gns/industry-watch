@@ -1,0 +1,237 @@
+{
+ "date": "2026-10-22",
+ "intro": "A busier Thursday. The big themes are ChatGPT ads spreading fast, Walmart and Target building AI shopping assistants, and fresh data showing creators are almost as important as search for how young people find products. One creator mention too: iJustine's latest iPhone video uses a geni.us link for her cable merch. Deal posts, stock pages, off-topic matches and repeats of this week's YouTube and AliExpress story were left out.",
+ "must_reads": [
+  {
+   "title": "Advertisers in 26 more countries gain ChatGPT ads, bringing the total to 89",
+   "url": "https://ppc.land/advertisers-in-26-more-countries-gain-chatgpt-ads-bringing-the-total-to-89/",
+   "source": "PPC Land",
+   "published": "2026-10-21T20:29:48+00:00",
+   "why": "Why it matters for Geniuslink: OpenAI says ChatGPT now has over 100,000 advertisers, up from about 20,000 in late August, and ads are in 26 more countries. Paid placements inside AI answers are growing quickly, so the spots where people used to click a creator's or publisher's link are now being sold to brands too.",
+   "also": {
+    "source": "The Information",
+    "url": "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers",
+    "paywall": true
+   }
+  },
+  {
+   "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+   "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+   "source": "Adweek",
+   "published": "2026-10-21T17:55:37+00:00",
+   "why": "Why it matters for Geniuslink: Walmart is setting the rules AI shopping agents must follow on its site. If more buying happens through agents, retailers will decide how those agents treat outside traffic, including the links creators share."
+  },
+  {
+   "title": "Creators Now Rival Search for Gen Z Product Discovery, Small Accounts Convert as Well as Famous Ones, Survey Finds",
+   "url": "https://www.netinfluencer.com/creators-now-rival-search-for-gen-z-product-discovery-small-accounts-convert-as-well-as-famous-ones-survey-finds/",
+   "source": "Net Influencer",
+   "published": "2026-10-21T12:38:02+00:00",
+   "why": "Why it matters for Geniuslink: A Morning Consult survey finds creator posts (33%) now trail search (37%) by only four points as Gen Z's top way to find products, and small accounts convert about as well as famous ones. That's a good sign for the long tail of creators who rely on smart links to get paid."
+  },
+  {
+   "title": "OpenAI to rewrite ChatGPT ads by default as advertisers get days to opt out",
+   "url": "https://ppc.land/openai-to-rewrite-chatgpt-ads-by-default-as-advertisers-get-days-to-opt-out/",
+   "source": "PPC Land",
+   "published": "2026-10-21T21:28:54+00:00",
+   "why": "Why it matters for Geniuslink: OpenAI will rewrite self-serve ChatGPT ads by default, including the landing URL, unless advertisers opt out. When a platform can change where a click goes, it's a reminder that owning your own link and tracking matters."
+  },
+  {
+   "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
+   "url": "https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
+   "source": "Digiday",
+   "published": "2026-10-22T04:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Target is launching an AI assistant called Ask Target for the holidays. Big retailers are each building their own AI shopping layer, which adds to the number of places a shopper's journey can start and end."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Walmart Connect pitches brands directly as it pushes lift studies ahead of holiday ad deals",
+     "url": "https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/",
+     "source": "Digiday",
+     "published": "2026-10-22T04:01:00+00:00",
+     "summary": "Walmart Connect is pushing lift studies straight to brands ahead of the holidays, tightening its race with Amazon."
+    },
+    {
+     "title": "Walmart expands agentic shopping tools as AI commerce competition intensifies",
+     "url": "https://tradersunion.com/news/companies/show/3916238-walmart-expands-ai-shopping-tools/",
+     "source": "Traders Union",
+     "published": "2026-10-21T19:39:40+00:00",
+     "summary": "Another report on Walmart widening its agentic shopping tools."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Retail Media Platform Kevel Raises $52 Million With M&A On The Brain",
+     "url": "https://www.adexchanger.com/commerce/retail-media-platform-kevel-raises-52-million-with-ma-on-the-brain/",
+     "source": "AdExchanger",
+     "published": "2026-10-21T14:00:12+00:00",
+     "summary": "Retail media infrastructure firm Kevel raised a $52M Series D and plans acquisitions."
+    },
+    {
+     "title": "Media Briefing: The transatlantic push to rein in stealth bots is gathering pace",
+     "url": "https://digiday.com/media/media-briefing-the-transatlantic-push-to-rein-in-stealth-bots-is-gathering-pace/",
+     "source": "Digiday",
+     "published": "2026-10-22T04:01:00+00:00",
+     "summary": "Europe and the US are moving to crack down on stealth bots that scrape publisher sites."
+    },
+    {
+     "title": "Why Zeta Global Keeps Buying Companies, Including Two In Two Days",
+     "url": "https://www.adexchanger.com/ai/why-zeta-global-keeps-buying-companies-including-two-in-two-days/",
+     "source": "AdExchanger",
+     "published": "2026-10-22T05:00:47+00:00",
+     "summary": "Zeta Global bought two more companies in two days."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "LinkedIn Rolls Out Network Feed, Creator Dashboard and Paid Consultations in Push Toward Side-Hustle Economy",
+     "url": "https://www.netinfluencer.com/linkedin-rolls-out-network-feed-creator-dashboard-and-paid-consultations-in-push-toward-side-hustle-economy/",
+     "source": "Net Influencer",
+     "published": "2026-10-21T12:18:33+00:00",
+     "summary": "LinkedIn adds a creator dashboard and paid consultations as it courts side-hustle creators."
+    },
+    {
+     "title": "Instagram’s Mosseri Says Platform Needs Better Tools to Stop AI From Copying Creators’ Work",
+     "url": "https://www.netinfluencer.com/instagram-mosseri-says-platform-needs-better-tools-to-stop-ai-from-copying-creators-work/",
+     "source": "Net Influencer",
+     "published": "2026-10-21T12:46:08+00:00",
+     "summary": "Instagram's Adam Mosseri says the platform needs better tools to stop AI copying creators' work."
+    },
+    {
+     "title": "YouTube shares data on how creators are using AI",
+     "url": "https://www.socialmediatoday.com/news/youtube-shares-data-on-how-creators-are-using-ai/833657/",
+     "source": "Social Media Today",
+     "published": "2026-10-21T20:00:56+00:00",
+     "summary": "YouTube study: nearly two-thirds of creators want to use AI to put themselves into their videos."
+    },
+    {
+     "title": "Fake Amazon Music x YouTube deal lures creators into a Google login trap",
+     "url": "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap",
+     "source": "Malwarebytes",
+     "published": "2026-10-21T13:01:18+00:00",
+     "summary": "Scammers are posing as an Amazon Music x YouTube deal to steal creators' Google logins."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google announces five changes to link visibility in AI Search",
+     "url": "https://www.neoteo.com/en/google-announces-five-changes-to-link-visibility-in-ai-search",
+     "source": "NeoTeo",
+     "published": "2026-10-21T03:15:32+00:00",
+     "summary": "Follow-up coverage of Google's changes to how links show up in AI Overviews and AI Mode."
+    },
+    {
+     "title": "Google lists 7 ways to keep content out of Search, AI opt-out included",
+     "url": "https://ppc.land/google-lists-7-ways-to-keep-content-out-of-search-ai-opt-out-included/",
+     "source": "PPC Land",
+     "published": "2026-10-21T19:31:13+00:00",
+     "summary": "Google updated its list of ways to keep content out of Search, now including an AI opt-out control."
+    },
+    {
+     "title": "Google AI Suits Dismissed as UK Orders Publisher Opt-Out",
+     "url": "https://upriseri.com/article/us-judge-sides-with-google-uk-orders-ai-opt-out/",
+     "source": "Uprise RI",
+     "published": "2026-10-21T14:23:05+00:00",
+     "summary": "US suits against Google's AI were dismissed, while the UK ordered an opt-out for publishers."
+    },
+    {
+     "title": "News generative AI deals revealed: Who is suing, who is signing?",
+     "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
+     "source": "Press Gazette",
+     "published": "2026-10-21T18:01:41+00:00",
+     "summary": "Press Gazette's tracker of which publishers are suing or signing deals with AI companies."
+    },
+    {
+     "title": "Booking.com faces EU probe over scams and paid listings not labelled as ads",
+     "url": "https://ppc.land/booking-com-faces-eu-probe-over-scams-and-paid-listings-not-labelled-as-ads/",
+     "source": "PPC Land",
+     "published": "2026-10-21T19:01:03+00:00",
+     "summary": "The EU is probing whether Booking.com's higher-commission ranking boosts are unlabelled ads."
+    },
+    {
+     "title": "Azoma raises $11.2 million Series A to continue defining the Agentic Commerce Optimization category",
+     "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/azoma-raises-112-million-series-a-to-continue-defining-the-agentic-commerce-optimization-category/2450918",
+     "source": "The Manila Times",
+     "published": "2026-10-21T13:19:49+00:00",
+     "summary": "Azoma raised $11.2M to help brands get recommended by AI shopping agents."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Romance bookstores are having a meet-cute moment",
+     "url": "https://thehustle.co/news/romance-bookstores-are-having-a-meet-cute-moment",
+     "source": "The Hustle",
+     "published": "2026-10-21T19:17:35+00:00",
+     "summary": "Romance-only bookstores are opening fast across the US."
+    },
+    {
+     "title": "Indigo unveils Canada's 10 best books of 2026",
+     "url": "https://dailyhive.com/canada/indigo-canada-best-books-2026",
+     "source": "Daily Hive",
+     "published": "2026-10-21T13:00:00+00:00",
+     "summary": "Indigo named its 10 best Canadian books of 2026."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "How do you track Amazon Associates conversions when running paid ads?",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xc8wx9/how_do_you_track_amazon_associates_conversions/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-22T04:26:23+00:00",
+     "summary": "An affiliate asks how to track Amazon Associates sales from Google and Microsoft Ads, since Amazon has no postbacks."
+    },
+    {
+     "title": "What platforms work best for off-site Amazon affiliate marketing?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xc5oxk/what_platforms_work_best_for_offsite_amazon/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-22T01:43:59+00:00",
+     "summary": "An Amazon Influencer asks which platforms work best for driving off-site affiliate sales."
+    },
+    {
+     "title": "Unable to earn",
+     "url": "https://www.reddit.com/r/Pinterest/comments/1xc977d/unable_to_earn/",
+     "source": "r/Pinterest",
+     "published": "2026-10-22T04:42:07+00:00",
+     "summary": "A Pinterest account with 600k monthly impressions gets almost no outbound clicks to Amazon."
+    },
+    {
+     "title": "How do you decide what affiliate platform/software to use?",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xbibmk/how_do_you_decide_what_affiliate_platformsoftware/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-10-21T09:16:38+00:00",
+     "summary": "A founder asks what matters most when choosing affiliate platform software."
+    }
+   ]
+  },
+  {
+   "name": "Geniuslink, geni.us & Booklinker mentions",
+   "items": [
+    {
+     "title": "iPhone Duo Unboxing, set up and first impressions!",
+     "url": "https://youtu.be/YPdYDxo3Bqk?is=E5UOOevTy-cFqGzY",
+     "source": "YouTube",
+     "published": "2026-10-21T12:00:38+00:00",
+     "summary": "iJustine (YouTube) uses a geni.us link for her pink iJustine cables in the description of her iPhone Duo unboxing."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "date": "2026-10-22",
+ "summary": [
+  "impact.com launched Contextual Ads, letting commerce publishers earn per click (CPC) alongside affiliate commissions, with Dianomi.",
+  "CJ published its Holiday Season Insights 2026 report, forecasting holiday sales above $1.4 trillion, and spoke at PI LIVE about LLM visibility.",
+  "Partnerize won four Global Performance Marketing Awards, and CJ won two.",
+  "Newegg went to YouTube Shopping's Holiday House for the second year running."
+ ],
+ "partners": [
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "items": [
+    {
+     "title": "impact.com Adds CPC Contextual Ads for Commerce Publishers",
+     "url": "https://www.affiversemedia.com/impact-contextual-ads-dianomi-publishers/",
+     "source": "Affiverse",
+     "published": "2026-10-21T11:48:53+00:00",
+     "type": "news",
+     "why": "Affiliate networks are adding pay-per-click income for publishers, a sign that commission alone isn't seen as enough to keep commerce content funded.",
+     "also": {
+      "source": "InPublishing",
+      "url": "https://www.inpublishing.co.uk/articles/impactcom-launches-contextual-ads-for-publishers-27031",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "Holiday sales will surpass $1.4 trillion this year, and shoppers will be hunting for value at every step. Our Holiday Season Insights 2026 report covers the spe…",
+     "url": "https://www.linkedin.com/posts/commission-junction_connectedcommerce-affiliate-affiliatemarketing-activity-7518814401160871936-cGyM",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-21T23:24:06.051000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "Can AI visibility survive a finance review? Today at AIP Summit, CJ VP – AI Commerce and Strategy, Katerine Tamargo, joins an expert panel to discuss one of the…",
+     "url": "https://www.linkedin.com/posts/commission-junction_piliveeur26-aivisibility-geo-activity-7518596973973786624-uLMB",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-21T09:00:07.370000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "2 GPMA awards. Proof that connected commerce, AI innovation and strong partnerships are driving the industry forward. We're honoured to receive 2 awards at the …",
+     "url": "https://www.linkedin.com/posts/commission-junction_gpma-connectedcommerce-connectedcommerce-activity-7518653143791030273-jXHL",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-21T12:43:19.299000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "We're honored to leave the Global Performance Marketing Awards 2026 with four major recognitions across team excellence, compliance, AI innovation, and measurem…",
+     "url": "https://www.linkedin.com/posts/partnerize_were-honored-to-leave-the-global-performance-activity-7518657465891348480-tOiX",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-10-21T13:00:29.768000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "🇪🇺 🇬🇧 Day one at PI LIVE Europe - Festival of Partnerships: ✔️ The result? Great conversations, plenty of energy and some very happy Rakuten Omikuji winners. 🎉 …",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_piliveeurope-affiliatemarketing-creatorcommerce-activity-7518613353993383936-tjzx",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-21T10:05:12.671000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "newegg",
+   "name": "Newegg",
+   "items": [
+    {
+     "title": "Last Wednesday, our team visited Google's Spruce Goose Office for the 2026 YouTube Shopping Holiday House, for the second year in a row.👏 Read more about our ex…",
+     "url": "https://www.linkedin.com/posts/newegg-com_newegg-at-the-2026-youtube-shopping-holiday-activity-7518730874394198016-_DOG",
+     "source": "LinkedIn · Newegg",
+     "published": "2026-10-21T17:52:11.719000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}
