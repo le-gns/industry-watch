@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-23",
+ "intro": "A fairly quiet Friday. The main themes are Google pulling more shopping into Search and Gemini, Amazon turning Kindle Unlimited into Kindle+ with audiobooks, and fresh data showing AI answers start shopping journeys but rarely finish them. Reddit feeds were mostly rate-limited today, so Reddit coverage is thin. There were no Geniuslink, geni.us or Booklinker mentions. Deal posts, stock pages and off-topic matches were left out.",
+ "must_reads": [
+  {
+   "title": "Google Rolls Out Universal Cart Across Search and Gemini in the US",
+   "url": "https://www.affiversemedia.com/google-universal-cart-us-search-gemini/",
+   "source": "Affiverse Media",
+   "published": "2026-10-22T10:27:22+00:00",
+   "why": "Why it matters for Geniuslink: Google now lets US shoppers save products, get price alerts, find promo codes and check out from Search and Gemini. The more the buying journey stays inside Google, the fewer chances a shopper has to click through a creator's or publisher's link to the retailer."
+  },
+  {
+   "title": "Amazon Renames Kindle Unlimited \"Kindle+\" and Adds Audiobooks, Including AI-Voiced Titles, at the Same Price",
+   "url": "https://xenospectrum.com/en/kindle-plus-audiobooks-royalties/",
+   "source": "XenoSpectrum",
+   "published": "2026-10-23T02:47:22+00:00",
+   "why": "Why it matters for Geniuslink: Amazon has renamed Kindle Unlimited to Kindle+ and added audiobooks, including AI-voiced ones, in the US at the same price. Authors who link to their books will want to check which format and store page their readers land on now that one subscription covers both."
+  },
+  {
+   "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
+   "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
+   "source": "PPC Land",
+   "published": "2026-10-23T06:23:37+00:00",
+   "why": "Why it matters for Geniuslink: Semrush finds Google's AI answers now appear on 88% of tracked shopping-type searches, while other studies put ChatGPT traffic at under 1% of Google's organic traffic. AI answers are taking up more of the page, but they still send very few clicks out, so links in creator content stay an important route to the sale.",
+   "also": {
+    "source": "PPC Land",
+    "url": "https://ppc.land/google-ai-overviews-now-hit-88-of-tracked-commercial-keywords-semrush-finds/",
+    "paywall": false
+   }
+  },
+  {
+   "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+   "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+   "source": "Digiday",
+   "published": "2026-10-23T04:01:00+00:00",
+   "why": "Why it matters for Geniuslink: A Feedvisor survey finds 16% of shoppers start looking for products in ChatGPT, but only 9% go there to buy and just 5% buy straight away. People still hop to Google, Amazon and retailer sites to compare, which is exactly the moment a link that sends them to the right store matters."
+  },
+  {
+   "title": "From influence to checkout: Is performance the next test for creator marketing?",
+   "url": "https://www.exchange4media.com/marketing-news/from-influence-to-checkout-is-performance-the-next-test-for-creator-marketing-159406.html",
+   "source": "Exchange4Media",
+   "published": "2026-10-23T03:24:57+00:00",
+   "why": "Why it matters for Geniuslink: Creator marketing in India is moving from paying for reach to paying per sale or click, with YouTube Shopping and Amazon leading the way. When creators are paid on results, tracking every click to the right store becomes part of how they get paid."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Attribution matters more once creator spend turns double-digit, says Nidhi Thakkar of Amazon",
+     "url": "https://www.socialsamosa.com/marketing-shorts/attribution-matters-more-creator-spend-turns-double-digit-nidhi-thakkar-of-amazon-12716985",
+     "source": "Social Samosa",
+     "published": "2026-10-22T07:29:58+00:00",
+     "summary": "Amazon India's Nidhi Thakkar says YouTube Shopping and Pinterest links are shrinking the gap between discovery and purchase, and that measuring creator sales gets harder as budgets grow."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Agentic Commerce Faces Growing Payment Trust Issues, Survey Finds",
+     "url": "https://www.martechcube.com/agentic-commerce-faces-growing-payment-trust-issues-survey-finds/",
+     "source": "MarTech Cube",
+     "published": "2026-10-22T09:22:35+00:00",
+     "summary": "Wildfire Systems' 2026 report finds shoppers are interested in AI shopping but still hesitant to let agents pay for them."
+    },
+    {
+     "title": "Google Plans Financial Services Verification in the US and Canada for 2027",
+     "url": "https://www.affiversemedia.com/google-financial-ad-verification-us-canada/",
+     "source": "Affiverse Media",
+     "published": "2026-10-22T10:56:31+00:00"
+    },
+    {
+     "title": "Creators say it\u2019s difficult to make money from news \u2014 with platform rules and brand guidelines",
+     "url": "https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/",
+     "source": "Digiday",
+     "published": "2026-10-23T04:01:00+00:00",
+     "summary": "News creators say platform rules and nervous brands make it hard to earn a steady income."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Over 90% Of Brands Now Run Always-On Creator Programs, Study Finds",
+     "url": "https://www.netinfluencer.com/over-90-percent-of-brands-now-run-always-on-creator-programs-study-finds/",
+     "source": "Net Influencer",
+     "published": "2026-10-22T11:32:40+00:00"
+    },
+    {
+     "title": "LinkedIn CMO Shares 2026 Playbook for Top Voices, B2B Creators and AI Slop",
+     "url": "https://www.netinfluencer.com/linkedin-cmo-shares-2026-playbook-for-top-voices-b2b-creators-and-ai-slop/",
+     "source": "Net Influencer",
+     "published": "2026-10-22T11:55:29+00:00"
+    },
+    {
+     "title": "Meta offers insights on individual platform growth",
+     "url": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
+     "source": "Social Media Today",
+     "published": "2026-10-22T22:30:27+00:00"
+    },
+    {
+     "title": "Google adds brand management tools to Gemini",
+     "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/",
+     "source": "Social Media Today",
+     "published": "2026-10-22T19:25:08+00:00"
+    },
+    {
+     "title": "LianLian Global and PayPal Power Cross-Border Payouts for Social Commerce, Marketplace, and eCommerce Customers",
+     "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/pr-newswire/lianlian-global-and-paypal-power-cross-border-payouts-for-social-commerce-marketplace-and-ecommerce-customers/2452481",
+     "source": "The Manila Times",
+     "published": "2026-10-23T04:19:35+00:00"
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Azoma Raises $11.2M Series A for AI Shopping Agents",
+     "url": "https://www.konsulteer.com/article/azoma-raises-11-2m-series-a-to-help-brands-sell-through-ai-shopping-agents",
+     "source": "Konsulteer",
+     "published": "2026-10-22T08:16:31+00:00",
+     "also": {
+      "source": "Pulse 2.0",
+      "url": "https://pulse2.com/azoma-raises-11-2-million-series-a-to-expand-agentic-commerce-optimization-platform/",
+      "paywall": false
+     }
+    },
+    {
+     "title": "\u2018Brands need to be loved by humans and read by agents\u2019: BCG\u2019s Lauren Wiener on AI\u2019s impact on marketing",
+     "url": "https://m.economictimes.com/industry/services/advertising/ai-search-influences-a-quarter-of-indias-purchase-journeys-bcg-study-finds/articleshow/135113676.cms",
+     "source": "The Economic Times",
+     "published": "2026-10-22T09:02:30+00:00",
+     "summary": "A BCG study finds AI search influences about a quarter of purchase journeys in India."
+    },
+    {
+     "title": "AI answer engines bypass local news outlets going straight to official sources",
+     "url": "https://pressgazette.co.uk/news/ai-answer-engines-bypass-local-news-outlets-going-straight-to-official-sources/",
+     "source": "Press Gazette",
+     "published": "2026-10-22T09:57:44+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Bloomsbury shares fall over 5% as first-half profit drops 30% on weaker consumer sales and lower AI income",
+     "url": "https://uk.finance.yahoo.com/news/bloomsbury-shares-fall-over-5-083000330.html",
+     "source": "Yahoo Finance UK",
+     "published": "2026-10-22T08:30:00+00:00"
+    },
+    {
+     "title": "German bookstores expand English catalog due to BookTok's pull",
+     "url": "https://foro3d.com/en/2026/octubre/librerias-alemanas-amplian-catalogo-en-ingles-por-el-tiron-de-booktok.html",
+     "source": "Foro3D",
+     "published": "2026-10-22T15:44:26+00:00",
+     "summary": "BookTok is driving German bookstores to double their English-language stock, with one shop tripling sales since 2023."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Confused With Walmart And Amazon Affilate",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xciwsd/confused_with_walmart_and_amazon_affilate/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-22T13:41:37+00:00"
+    }
+   ]
+  }
+ ]
+}

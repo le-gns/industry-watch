@@ -1,0 +1,39 @@
+{
+ "posts": [
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-22T14:28:58Z",
+   "url": "https://x.com/amazonnews/status/2113276428649447870",
+   "text": "The rumors are true...here's an update on @PrimeVideo's 'Fourth Wing' cast."
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-22T14:27:52Z",
+   "url": "https://x.com/amazonnews/status/2113276155583217793",
+   "text": "Prime Video's 'Fourth Wing' series casts Esther McGregor and Emilio Sakraya as leads"
+  },
+  {
+   "handle": "Bitly",
+   "competitor": "bitly",
+   "created_at": "2026-10-22T17:19:07Z",
+   "url": "https://x.com/Bitly/status/2113319252149055659",
+   "text": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every click, in real time."
+  },
+  {
+   "handle": "Draft2Digital",
+   "competitor": "books2read",
+   "created_at": "2026-10-22T16:50:47Z",
+   "url": "https://x.com/Draft2Digital/status/2113312120175771700",
+   "text": "Going wide can be daunting if you've had books locked into Kindle Unlimited (KU) for a significant amount of time. You don't have to figure this all out on your own. At the top of the hour, Mark Leslie Lefebvre is here to be your guide for life beyond KU."
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-10-22T20:51:00Z",
+   "url": "https://x.com/YouTubeCreators/status/2113372571387220045",
+   "text": "pinning a comment with a link to your latest upload helps direct your viewers exactly where you want them to go next. it's an easy way to promote your other long form content."
+  }
+ ]
+}

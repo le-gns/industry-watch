@@ -1,0 +1,179 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T07:18:35.272697+00:00",
+ "item_count": 17,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Prime Video's 'Fourth Wing' series casts Esther McGregor and Emilio Sakraya as leads",
+   "url": "https://x.com/amazonnews/status/2113276155583217793",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-22T14:27:52Z",
+   "snippet": "Prime Video's 'Fourth Wing' series casts Esther McGregor and Emilio Sakraya as leads"
+  },
+  {
+   "title": "The rumors are true...here's an update on @PrimeVideo's 'Fourth Wing' cast.",
+   "url": "https://x.com/amazonnews/status/2113276428649447870",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-22T14:28:58Z",
+   "snippet": "The rumors are true...here's an update on @PrimeVideo's 'Fourth Wing' cast."
+  },
+  {
+   "title": "YouTube Tests New Shorts Incentives & Affiliate Bonuses",
+   "url": "https://almcorp.com/news/youtube-tests-new-shorts-incentives/",
+   "source": "ALM Corp",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-22T14:12:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "pinning a comment with a link to your latest upload helps direct your viewers exactly where you want them to go next. it's an easy way to promote your other long form content.",
+   "url": "https://x.com/YouTubeCreators/status/2113372571387220045",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-10-22T20:51:00Z",
+   "snippet": "pinning a comment with a link to your latest upload helps direct your viewers exactly where you want them to go next. it's an easy way to promote your other long form content."
+  },
+  {
+   "title": "Amazon YouTube creator phishing: fake Music offer",
+   "url": "https://www.neoteo.com/en/malwarebytes-reports-fake-amazon-music-pitch-targeting-youtube-creators",
+   "source": "NeoTeo",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-23T03:17:24+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Going wide can be daunting if you've had books locked into Kindle Unlimited (KU) for a significant amount of time. You don't have to figure this all out on your own. At the top of the hour, Mark Lesli",
+   "url": "https://x.com/Draft2Digital/status/2113312120175771700",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-10-22T16:50:47Z",
+   "snippet": "Going wide can be daunting if you've had books locked into Kindle Unlimited (KU) for a significant amount of time. You don't have to figure this all out on your own. At the top of the hour, Mark Leslie Lefebvre is here to be your guide for life beyond KU."
+  },
+  {
+   "title": "Beyond KU: How to Transition Beyond Amazon Exclusivity",
+   "url": "https://www.youtube.com/watch?v=UCWQJhKqnOw",
+   "source": "YouTube",
+   "competitor": "books2read",
+   "feed_id": "yt-books2read",
+   "type": "social",
+   "published": "2026-10-23T06:04:09+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Target’s Book Club Picks Are Winning Over Goodreads Readers",
+   "url": "https://www.womansworld.com/entertainment/books/target-book-club-5-goodreads-loved-books-for-fall",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-23T00:00:51+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "5 Riley Sager Thrillers Goodreads Readers Can't Stop Talking About",
+   "url": "https://www.womansworld.com/entertainment/books/5-best-riley-sager-books-ranked-by-goodreads-readers",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-23T00:30:15+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Quick note for Rebrandly customers on the recent PHP security vulnerability: your account, links, and data aren’t affected. Rebrandly doesn’t run on PHP, so the…",
+   "url": "https://www.linkedin.com/posts/rebrandly_quick-note-for-rebrandly-customers-on-the-activity-7519106879277412354-dMti",
+   "source": "LinkedIn · Rebrandly",
+   "competitor": "rebrandly",
+   "feed_id": "li-rebrandly",
+   "type": "social",
+   "published": "2026-10-22T18:46:18.269000+00:00",
+   "snippet": "Quick note for Rebrandly customers on the recent PHP security vulnerability: your account, links, and data aren’t affected. Rebrandly doesn’t run on PHP, so there’s nothing you need to do. Keeping your links safe and secure is a big part of what we do, and our team keeps an eye on our systems every "
+  },
+  {
+   "title": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every …",
+   "url": "https://www.linkedin.com/posts/bitly_not-sure-where-to-start-with-bitly-this-activity-7519084001169420288-7C8e",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-10-22T17:15:23.702000+00:00",
+   "snippet": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every click, in real time. Watch the full walkthrough ---> bitly.is/trackeverylink"
+  },
+  {
+   "title": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every click, in real time.",
+   "url": "https://x.com/Bitly/status/2113319252149055659",
+   "source": "X @Bitly",
+   "competitor": "bitly",
+   "feed_id": "x-Bitly",
+   "type": "social",
+   "published": "2026-10-22T17:19:07Z",
+   "snippet": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every click, in real time."
+  },
+  {
+   "title": "How to Turn an Affiliate Link Into a QR Code",
+   "url": "https://prettylinks.com/blog/how-to-turn-an-affiliate-link-into-a-qr-code/",
+   "source": "prettylinks.com",
+   "competitor": "prettylinks",
+   "feed_id": "rss-prettylinks-0",
+   "type": "blog",
+   "published": "2026-10-22T16:00:00+00:00",
+   "snippet": "Turn any affiliate link into a scannable, branded QR code right inside PrettyLinks. Customize the logo, size, and background, then download and share.\" The post How to Turn an Affiliate Link Into a QR Code first appeared on PrettyLinks ."
+  },
+  {
+   "title": "The holiday season is here, and the opportunity for brands is bigger than ever. Join us for The Holiday Playbook: Maximize Q4 with LTK, a virtual event where we…",
+   "url": "https://www.linkedin.com/posts/shopltk_the-holiday-season-is-here-and-the-opportunity-activity-7519158403227856896-91N3",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-10-22T22:11:02.535000+00:00",
+   "snippet": "The holiday season is here, and the opportunity for brands is bigger than ever. Join us for The Holiday Playbook: Maximize Q4 with LTK, a virtual event where we’ll explore how brands can turn holiday insights into action, leverage creator partnerships, and drive impact during the biggest shopping se"
+  },
+  {
+   "title": "The Death of TikTok",
+   "url": "https://www.youtube.com/shorts/n0LDN6JxSHQ",
+   "source": "YouTube",
+   "competitor": "later",
+   "feed_id": "yt-later",
+   "type": "social",
+   "published": "2026-10-22T15:00:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Creator Partnerships That Convert with TikTok + Anna Sitar",
+   "url": "https://www.youtube.com/watch?v=NoWWWaoz-Xw",
+   "source": "YouTube",
+   "competitor": "later",
+   "feed_id": "yt-later",
+   "type": "social",
+   "published": "2026-10-22T17:27:45+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Adam W Built a Career That Outlasted the Algorithm",
+   "url": "https://www.youtube.com/watch?v=AlU6uyn0xhs",
+   "source": "YouTube",
+   "competitor": "later",
+   "feed_id": "yt-later",
+   "type": "social",
+   "published": "2026-10-22T19:00:04+00:00",
+   "snippet": ""
+  }
+ ]
+}

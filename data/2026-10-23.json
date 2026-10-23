@@ -1,0 +1,981 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T07:16:36.894345+00:00",
+ "lookback_hours": 30,
+ "item_count": 87,
+ "google_news_links": 72,
+ "google_news_resolved": 72,
+ "feeds_ok": 51,
+ "feeds_failed": 22,
+ "items": [
+  {
+   "title": "Attribution matters more once creator spend turns double-digit, says Nidhi Thakkar of Amazon",
+   "url": "https://www.socialsamosa.com/marketing-shorts/attribution-matters-more-creator-spend-turns-double-digit-nidhi-thakkar-of-amazon-12716985",
+   "source": "Social Samosa",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-02",
+   "published": "2026-10-22T07:29:58+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is way under market price at Amazon — shop for $59.99",
+   "url": "https://mashable.com/life/oct-22-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T08:48:43+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Magic The Gathering deal: Secrets of Strixhaven's Play Booster Box under market price",
+   "url": "https://mashable.com/life/oct-21-magic-the-gathering-secrets-of-strixhaven-play-booster-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T08:54:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Fire TV Cube Quietly Gets Cheaper Again, With a Price That Comes Close to Its Prime Day Low",
+   "url": "https://gizmodo.com/amazon-fire-tv-cube-quietly-gets-cheaper-again-with-a-price-that-comes-close-to-its-prime-day-low-2000829208",
+   "source": "Gizmodo",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T10:10:19+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Arby's made a 'Meat Sweats' tracksuit for 12-foot skeletons: How to buy it before Halloween",
+   "url": "https://mashable.com/life/arbys-12-foot-skeleton-meat-sweats-tracksuit-where-to-buy",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T10:23:36+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
+   "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
+   "source": "MacRumors",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T14:05:25+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Crest Whitestrips haven’t been this cheap since summer — grab them while they last",
+   "url": "https://www.nbcnews.com/select/shopping/crest-3d-whitestrips-deal-of-the-day-rcna604976",
+   "source": "NBC News",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T14:45:31+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Lego x Daft Punk: Watch film, new products, and more partnership details",
+   "url": "https://mashable.com/life/lego-daft-punk-collab-everything-to-know",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T15:36:31+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "A new essay collection lets teenage mothers in Kenya tell their stories",
+   "url": "https://www.wbur.org/hereandnow/2026/10/22/still-i-rise-essays",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-22T16:06:09+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Chipotle Boorito is back: How to get a $6 burrito on Halloween",
+   "url": "https://mashable.com/life/chipotle-boorito-how-to-get-on-halloween",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T16:11:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Magic: The Gathering Reality Fracture Bundle is down to a record-low price at Amazon — save nearly $10",
+   "url": "https://mashable.com/life/oct-22-magic-the-gathering-reality-fracture-bundle-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T17:02:47+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Score discounts on appliances, tools, and more with the best early Black Friday Home Depot deals",
+   "url": "https://mashable.com/life/best-early-black-friday-home-depot-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T17:30:47+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "NFL Week 7: How to watch every football game this week during the 2026 season",
+   "url": "https://sports.yahoo.com/nfl/article/nfl-week-7-how-to-watch-every-football-game-this-week-during-the-2026-season-180654279.html",
+   "source": "Yahoo Sports",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T18:08:08+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "We tracked down 11 of the best iPad deals live for October Prime Day",
+   "url": "https://mashable.com/article/oct-prime-day-ipad-deals-2025",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T18:38:29+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The Kobo Libra Colour is on sale for just $210 for Prime Day",
+   "url": "https://mashable.com/article/prime-day-deal-2025-kobo-libra-colour",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T18:38:29+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kobo",
+    "prime day"
+   ]
+  },
+  {
+   "title": "Prime Day Deal: Meta Quest 3S bundle drops to $249 — includes Gorilla Tag and a 3-month Meta Horizon+ trial",
+   "url": "https://mashable.com/article/prime-day-deal-2025-meta-quest-3s-gorilla-tag-bundle-deal-july-9",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T18:38:29+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Prime Day laptop deals: Save up to $970 on MacBooks, Windows PCs",
+   "url": "https://mashable.com/tech/best-prime-day-laptop-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best live Prime Day speaker deals: Shop Sony, Sonos, JBL, and more of our top picks",
+   "url": "https://mashable.com/tech/best-prime-day-speaker-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "October Prime Day MacBook deals: Live offers on Air, Pro, Neo",
+   "url": "https://mashable.com/tech/best-october-prime-day-macbook-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Prime Day iPad deals 2026: Prices start at just $299",
+   "url": "https://mashable.com/tech/best-prime-day-ipad-deals-last-chance-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Prime Day MacBook deals guide 2026: Is the MacBook Neo on sale yet?",
+   "url": "https://mashable.com/tech/best-prime-day-macbook-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Prime Day MacBook deals guide 2026: What to buy before prices increase",
+   "url": "https://mashable.com/tech/best-prime-day-macbook-deals-live-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Nintendo Switch deal: Get a free game with the Choose Your Game Bundle for Prime Day",
+   "url": "https://mashable.com/tech/prime-day-deal-2026-nintendo-switch-choose-your-game-bundle-still-live",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Last chance: Get the MacBook Neo for $589 at Amazon before prices go up for good",
+   "url": "https://mashable.com/tech/prime-day-deal-2026-apple-macbook-neo",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The internet is obsessing over a Minion-shaped router: Where to buy for under $40 on October Prime Day",
+   "url": "https://mashable.com/tech/where-to-buy-viral-minions-wifi-router-october-prime-day",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "When should you buy a MacBook?: What you need to know",
+   "url": "https://mashable.com/article/when-to-buy-a-macbook",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Pokémon Night Out 2026: Start time, lineup, free Twitch drops, and how to watch for free",
+   "url": "https://mashable.com/entertainment/how-to-watch-pokemon-night-out-2026-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-22T21:16:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "David’s Bridal plans to spin off its AI-powered Pearl platform",
+   "url": "https://www.digitalcommerce360.com/2026/10/22/davids-bridal-pearl-ai-spinoff/",
+   "source": "Digital Commerce 360",
+   "group": "Amazon & retailer programs",
+   "feed_id": "src-digital-commerce-360",
+   "published": "2026-10-22T22:43:56+00:00",
+   "snippet": "In 2025, David’s Bridal’s Shopify transition paved the way for an agentic artificial intelligence (AI) reimagining of its Pearl wedding planner — and now, the company has plans to spin off Pearl as its own entity. K&F Growth Acquisition Corp. II, as special purposed acquisition company, announced al",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Zalando appoints Tom Christenson as SVP to drive B2B growth",
+   "url": "https://www.worldfootwear.com/news/zalando-appoints-tom-christenson-as-svp-to-drive-b2b-growth/11854.html",
+   "source": "World Footwear",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-23",
+   "published": "2026-10-23T00:53:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Over 90% Of Brands Now Run Always-On Creator Programs, Study Finds",
+   "url": "https://www.netinfluencer.com/over-90-percent-of-brands-now-run-always-on-creator-programs-study-finds/",
+   "source": "Net Influencer",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-22T11:32:40+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Report Maps Political Influencer Industry Built on Untraceable Payments",
+   "url": "https://www.netinfluencer.com/report-maps-political-influencer-industry-built-on-untraceable-payments/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-22T11:47:23+00:00",
+   "snippet": "The Center for Democracy and Technology and the Communication Technology Research Lab at the University of Pittsburgh have published a report mapping the political influencer industry, concluding that payments to creators for political content are largely untraceable and fall outside both federal di",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "YouTube Creator Zack London’s AI-Animated Feature Lands AGC International Distribution Deal",
+   "url": "https://www.netinfluencer.com/youtube-creator-zack-london-ai-animated-feature-lands-agc-international-distribution-deal/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-22T11:48:32+00:00",
+   "snippet": "AGC International, the sales and distribution arm of Stuart Ford’s AGC Studios, has added “Gods Don’t Give Gifts” to its distribution slate and will introduce the animated sci-fi feature to buyers at the American Film Market. The film marks the feature directorial debut of YouTube creator Zack Londo",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "‘TBPN’ President Says OpenAI’s Acquisition Was a ‘Marketing and Comms Play,’ Not a Distribution Deal",
+   "url": "https://www.netinfluencer.com/tbpn-president-says-openai-acquisition-was-a-marketing-and-comms-play-not-a-distribution-deal/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-22T11:49:47+00:00",
+   "snippet": "Dylan Abruscato, President of the daily tech talk show “TBPN,” said OpenAI’s acquisition of the company earlier this year had little to do with the show’s audience and much more to do with absorbing a marketing and communications advisory business the hosts had built on the side. “I think what a lot",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "LinkedIn CMO Shares 2026 Playbook for Top Voices, B2B Creators and AI Slop",
+   "url": "https://www.netinfluencer.com/linkedin-cmo-shares-2026-playbook-for-top-voices-b2b-creators-and-ai-slop/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-22T11:55:29+00:00",
+   "snippet": "LinkedIn Chief Marketing Officer Jessica Jensen joined host Jon Evans on the “Uncensored CMO” podcast for a wide-ranging conversation on what works on the platform now, covering Top Voice status, the B2B creator boom, new product features, and how AI is reshaping the job market. Seven takeaways stoo",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "YouTube Tests New Shorts Incentives & Affiliate Bonuses",
+   "url": "https://almcorp.com/news/youtube-tests-new-shorts-incentives/",
+   "source": "ALM Corp",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-22T14:12:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate",
+    "youtube"
+   ]
+  },
+  {
+   "title": "UGREEN Nexode Pro 300W charger review",
+   "url": "https://korben.info/en/ugreen-nexode-pro-300w-charger-review.html",
+   "source": "Korben",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-10-22T14:44:30+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "10 Daily Use Gadgets for Home Every Indian Family Needs",
+   "url": "https://www.rvcj.com/daily-use-gadgets-for-home/",
+   "source": "www.rvcj.com",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-10-22T17:52:18+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google adds brand management tools to Gemini",
+   "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/",
+   "source": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-social-media-today",
+   "published": "2026-10-22T19:25:08+00:00",
+   "snippet": "The artificial intelligence-powered platform now includes a refreshed landing page, support for third-party apps and more image generation abilities.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "paid Names Jodie Kennedy as Chief Commercial Officer to Drive the Next Phase of Growth and Tech Innovation",
+   "url": "https://www.usatoday.com/press-release/story/52142/paid-names-jodie-kennedy-as-chief-commercial-officer-to-drive-the-next-phase-of-growth-and-tech-innovation/",
+   "source": "USA Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-22T20:46:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta offers insights on individual platform growth",
+   "url": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
+   "source": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-social-media-today",
+   "published": "2026-10-22T22:30:27+00:00",
+   "snippet": "Alongside its third-quarter earnings release, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Gourmia Adds Ceramic-Coated Air Fryer to Costco Assortment",
+   "url": "https://www.homepagenews.com/home-housewares/gourmia-adds-ceramic-coated-air-fryer-to-costco-assortment/",
+   "source": "HomePage News",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-22T23:35:17+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon YouTube creator phishing: fake Music offer",
+   "url": "https://www.neoteo.com/en/malwarebytes-reports-fake-amazon-music-pitch-targeting-youtube-creators",
+   "source": "NeoTeo",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-23T03:17:24+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "From influence to checkout: Is performance the next test for creator marketing?",
+   "url": "https://www.exchange4media.com/marketing-news/from-influence-to-checkout-is-performance-the-next-test-for-creator-marketing-159406.html",
+   "source": "Exchange4Media",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-23T03:24:57+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "LianLian Global and PayPal Power Cross-Border Payouts for Social Commerce, Marketplace, and eCommerce Customers",
+   "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/pr-newswire/lianlian-global-and-paypal-power-cross-border-payouts-for-social-commerce-marketplace-and-ecommerce-customers/2452481",
+   "source": "The Manila Times",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-23T04:19:35+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "social commerce"
+   ]
+  },
+  {
+   "title": "ParityCube launches OpenTrust, a free fraud-number registry for Indian merchants",
+   "url": "https://www.indiagazette.com/news/279391742/paritycube-launches-opentrust-a-free-fraud-number-registry-for-indian-merchants",
+   "source": "https://www.indiagazette.com/",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-22T03:32:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Illinois Laboratory Owner Charged in $66,000,000 COVID-19 Testing Fraud Scheme, Faces Decades Behind Bars",
+   "url": "https://www.newsbreak.com/the-daily-hodl-370861522/4958160803367-illinois-laboratory-owner-charged-in-66-000-000-covid-19-testing-fraud-scheme-faces-decades-behind-bars",
+   "source": "NewsBreak: Local News & Alerts",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-22T09:35:16+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google Rolls Out Universal Cart Across Search and Gemini in the US",
+   "url": "https://www.affiversemedia.com/google-universal-cart-us-search-gemini/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-22T10:27:22+00:00",
+   "snippet": "Google has begun rolling out Universal Cart in the United States, bringing a shared shopping cart to Search and the Gemini app. Announced on October 15, 2026, the feature lets...",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Google Plans Financial Services Verification in the US and Canada for 2027",
+   "url": "https://www.affiversemedia.com/google-financial-ad-verification-us-canada/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-22T10:56:31+00:00",
+   "snippet": "Google plans to introduce Financial Services Verification in the United States and Canada in early 2027, adding checks on advertisers’ credentials before they can run certain financial ads. Announced on...",
+   "matched_keywords": []
+  },
+  {
+   "title": "LinkedIn’s B2B Audiences Are Now Available On CTV Via Google DV360",
+   "url": "https://www.adexchanger.com/tv/linkedins-b2b-audiences-are-now-available-on-ctv-via-google-dv360/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-22T12:00:23+00:00",
+   "snippet": "LinkedIn is plugging its professional data into Google’s ad buying platform so that advertisers can use job titles and company info to target streaming ads programmatically. The post LinkedIn’s B2B Audiences Are Now Available On CTV Via Google DV360 appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "New Smartphone Only After the Old One Breaks: Viber Finds Out How Often Ukrainians Buy New Phones",
+   "url": "https://root-nation.com/en/news-en/it-news-en/en-rakuten-viber-ukrainians-buy-new-phones/",
+   "source": "Root-Nation.com",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-22T12:48:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off",
+   "url": "https://www.adexchanger.com/tv/newly-profitable-peacock-is-the-feather-in-the-cap-of-nbcus-planned-spinoff/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-22T15:23:29+00:00",
+   "snippet": "NBCUniversal might find itself in a pretty enviable position when it finally spins off from Comcast next year, judging from the third quarter earnings report the company posted on Thursday. The post Newly Profitable Peacock Is The Feather In The Cap Of NBCU’s Planned Spin-Off appeared first on AdExc",
+   "matched_keywords": []
+  },
+  {
+   "title": "‘Dive Into You’ Tops Rakuten Viki Charts in 109 Countries, Hits No. 1 on Disney Plus Japan",
+   "url": "https://zapzee.net/2026/10/22/dive-into-you-drama-tops-global-charts/",
+   "source": "ZAPZEE",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-22T15:33:45+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Why holiday returns demand fresh thinking from retailers",
+   "url": "https://digiday.com/sponsored/why-holiday-returns-demand-fresh-thinking-from-retailers/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-22T19:56:54+00:00",
+   "snippet": "Tony D’Onofrio, president, Sensormatic Solutions The holiday season is a time to unplug. Schedules become more flexible, families come together and many workplaces shift into a lower gear — except for those working in retail. Then, the holiday experience is something altogether different. Far from a",
+   "matched_keywords": []
+  },
+  {
+   "title": "Omnicom said its integration of IPG is nearly done, and the results are starting to show it",
+   "url": "https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-22T20:40:00+00:00",
+   "snippet": "As organic revenue grows and margins increase, Omnicom CEO John Wren said the fruits of the effort to buy IPG are starting to pay off.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Omnicom lands Coca-Cola’s North American media business, as WPP retains its global remit",
+   "url": "https://digiday.com/media-buying/omnicom-lands-coca-colas-north-american-media-business/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-22T20:52:30+00:00",
+   "snippet": "The beverage giant's US and Canada media move to Omnicom as the holdco's CEO John Wren made the case it would build a bespoke team, not a Pepsico holdover.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Q3: Omnicom’s Media Business Is Growing, But Is It Agent-Proof?",
+   "url": "https://www.adexchanger.com/agencies/q3-omnicoms-media-business-is-growing-but-is-it-agent-proof/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-22T23:34:10+00:00",
+   "snippet": "If AI agents can plan and buy media, who needs a holding company? Good question. Toward the end of Omnicom’s third quarter earnings call on Thursday, Tim Nolan, an equity analyst at independent financial research firm SSR, asked Omnicom’s leadership how the role of a large holdco will have to change",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Texas State launches its first-ever satellite into space",
+   "url": "https://communityimpact.com/san-marcos-buda-kyle/education/texas-state-launches-its-first-ever-satellite-into-space/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-23T03:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Creators say it’s difficult to make money from news — with platform rules and brand guidelines",
+   "url": "https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-23T04:01:00+00:00",
+   "snippet": "With more people getting news from creators than traditional media, those creators are still trying to build sustainable businesses.",
+   "matched_keywords": []
+  },
+  {
+   "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+   "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-23T04:01:00+00:00",
+   "snippet": "ChatGPT is where 16% of shoppers start looking for products. However, only 9% go there to actually buy something.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Future of Marketing Briefing: Advertisers have more ways than ever to choose a holdco, and free holdcos to choose from",
+   "url": "https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-23T04:01:00+00:00",
+   "snippet": "Fewer holdcos, more ways to pick one: inside the changing agency pitch.",
+   "matched_keywords": []
+  },
+  {
+   "title": "OpenAI Foists Creative ‘Enhancements’ On Advertisers; Now The News Is Partnering With Sportsbooks",
+   "url": "https://www.adexchanger.com/daily-news-roundup/friday-23102026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-23T04:03:40+00:00",
+   "snippet": "OpenAI will automatically update existing ads with what it calls “creative enhancements” starting Oct. 30 – unless advertisers opt out. Plus: Gambling sponsorships are coming for the news. The post OpenAI Foists Creative ‘Enhancements’ On Advertisers; Now The News Is Partnering With Sportsbooks appe",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "How OWN’s Tina Perry Is Taking the Network Beyond Linear TV",
+   "url": "https://www.adexchanger.com/ctv-roundup/how-owns-tina-perry-is-taking-the-network-beyond-linear-tv/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-23T05:00:33+00:00",
+   "snippet": "For Tina Perry, president of the Oprah Winfrey Network (OWN), shifting toward brand identity is one of the biggest changes the entertainment industry has undergone since she joined the company in 2009. The post How OWN’s Tina Perry Is Taking the Network Beyond Linear TV appeared first on AdExchanger",
+   "matched_keywords": []
+  },
+  {
+   "title": "Azoma Raises $11.2M Series A for AI Shopping Agents",
+   "url": "https://www.konsulteer.com/article/azoma-raises-11-2m-series-a-to-help-brands-sell-through-ai-shopping-agents",
+   "source": "Konsulteer",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-22T08:16:31+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "‘Brands need to be loved by humans and read by agents’: BCG’s Lauren Wiener on AI’s impact on marketing",
+   "url": "https://m.economictimes.com/industry/services/advertising/ai-search-influences-a-quarter-of-indias-purchase-journeys-bcg-study-finds/articleshow/135113676.cms",
+   "source": "The Economic Times",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-22T09:02:30+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Agentic Commerce Faces Growing Payment Trust Issues, Survey Finds",
+   "url": "https://www.martechcube.com/agentic-commerce-faces-growing-payment-trust-issues-survey-finds/",
+   "source": "MarTech Cube",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-22T09:22:35+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "AI answer engines bypass local news outlets going straight to official sources",
+   "url": "https://pressgazette.co.uk/news/ai-answer-engines-bypass-local-news-outlets-going-straight-to-official-sources/",
+   "source": "Press Gazette",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-22T09:57:44+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google AI Overviews now hit 88% of tracked commercial keywords, Semrush finds",
+   "url": "https://ppc.land/google-ai-overviews-now-hit-88-of-tracked-commercial-keywords-semrush-finds/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-22T10:15:56+00:00",
+   "snippet": "Review keywords triggering an AI Overview jumped from 30.14% to 89.04% in 12 months. Comparison pages now share answers with Zapier, YouTube and review sites.",
+   "matched_keywords": [
+    "ai overviews",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Azoma Raises $11.2 Million Series A To Expand Agentic Commerce Optimization Platform",
+   "url": "https://pulse2.com/azoma-raises-11-2-million-series-a-to-expand-agentic-commerce-optimization-platform/",
+   "source": "Pulse 2.0",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-22T11:31:31+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Build something so valuable that Google looks stupid for not ranking it",
+   "url": "https://searchengineland.com/build-something-valuable-google-ranking-497578",
+   "source": "Search Engine Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-22T12:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Growth Intelligence Brief #26",
+   "url": "https://www.growth-memo.com/p/growth-intelligence-brief-26",
+   "source": "Growth Memo (Kevin Indig)",
+   "group": "AI search & shopping",
+   "feed_id": "src-growth-memo-kevin-indig",
+   "published": "2026-10-22T12:19:33+00:00",
+   "snippet": "Amazon and Best Buy hit record lows, YouTube adds 322 points, Genius falls 13 weeks straight, Wikipedia and Merriam-Webster slide, Google's spam update barely shows any impact.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Utopai Becomes a Unicorn as Video AI Takes Off",
+   "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-22T14:01:22+00:00",
+   "snippet": "While much of the AI industry has fixated on new personal AI assistants from Meta and OpenAI , video AI is enjoying a quiet renaissance. Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI’s Sora app to launch a new AI film company . Startup Higgsfield quadrupled its valu",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI Had Numerous Vulnerabilities Its AI Could Exploit, Evaluators Find",
+   "url": "https://www.theinformation.com/briefings/openai-numerous-vulnerabilities-ai-exploit-evaluators-find",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-22T15:00:53+00:00",
+   "snippet": "OpenAI’s systems had multiple vulnerabilities that would allow AI agents to circumvent monitoring and take arbitrary unauthorized actions, evaluators from AI safety nonprofits METR and Redwood Research found during a three-week pilot with OpenAI from late July to early August. The nonprofits ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "SB Energy Considers Waiting Until December or Later for an IPO",
+   "url": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-22T17:51:31+00:00",
+   "snippet": "SB Energy, the SoftBank Group–controlled developer of a massive planned Ohio data center project for OpenAI, is considering going public in December or possibly waiting until next year, according to people familiar with the discussions. That is a later timeline than previously expected. The data cen",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-22T18:38:47+00:00",
+   "snippet": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-22T19:00:00+00:00",
+   "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-22T21:53:22+00:00",
+   "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-22T22:08:24+00:00",
+   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI Fundraising Round Set to Close Soon With UAE Investors, Coatue Leading Investment",
+   "url": "https://www.theinformation.com/briefings/openai-fundraising-round-set-close-soon-uae-investors-coatue-leading-investment",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-22T22:23:38+00:00",
+   "snippet": "OpenAI is aiming to close a $30 billion fundraising round that will value the AI company at up to $1.25 trillion, not including the new investment, before the end of next week, according to a person familiar with the deal. New York-based investment firm Coatue Management and investors from the ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "What AI agents need from journalism: an explainer",
+   "url": "https://www.journalism.co.uk/what-ai-agents-need-from-journalism-an-explainer/",
+   "source": "Journalism UK",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-22T23:24:14+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
+   "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-23T06:23:37+00:00",
+   "snippet": "Semrush finds AI Overviews on 88% of tracked commercial keywords, yet new studies put ChatGPT traffic at 0.62% of Google organic as Ahrefs flags altered data.",
+   "matched_keywords": [
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "KDP Jun 2027 37.000 call (KDP270617C00037000) Interactive Stock Chart",
+   "url": "https://ca.finance.yahoo.com/quote/KDP270617C00037000/chart/",
+   "source": "Yahoo! Finance Canada",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-22T01:52:42+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Bloomsbury shares fall over 5% as first-half profit drops 30% on weaker consumer sales and lower AI income",
+   "url": "https://uk.finance.yahoo.com/news/bloomsbury-shares-fall-over-5-083000330.html",
+   "source": "Yahoo Finance UK",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-22T08:30:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "German bookstores expand English catalog due to BookTok's pull",
+   "url": "https://foro3d.com/en/2026/octubre/librerias-alemanas-amplian-catalogo-en-ingles-por-el-tiron-de-booktok.html",
+   "source": "Foro3D",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-22T15:44:26+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "booktok"
+   ]
+  },
+  {
+   "title": "NHL Hockey Romance Audio Series Pulled Days After Launch",
+   "url": "https://hoodline.com/2026/10/nhl-pulled-its-hockey-romance-audio-series-days-after-launch/",
+   "source": "Hoodline",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-23T00:51:23+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Renames Kindle Unlimited \"Kindle+\" and Adds Audiobooks, Including AI-Voiced Titles, at the Same Price",
+   "url": "https://xenospectrum.com/en/kindle-plus-audiobooks-royalties/",
+   "source": "XenoSpectrum",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-23T02:47:22+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Confused With Walmart And Amazon Affilate",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xciwsd/confused_with_walmart_and_amazon_affilate/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-search-08",
+   "published": "2026-10-22T13:41:37+00:00",
+   "snippet": "I need help trying to figure out what I am supposed to do to get further in my journey with being an affiliate for Walmart! I got accepted into the Sam's Club affiliate program and just got a notification that I could apply to be a Walmart creator. I drive so many likes and comments to the videos an",
+   "matched_keywords": [
+    "affiliate",
+    "creator",
+    "walmart creator"
+   ]
+  },
+  {
+   "title": "One Last Dance in Shanghai",
+   "url": "https://t.co/G0eGOSQX1r",
+   "source": "Howl.link",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-22T18:05:21+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}

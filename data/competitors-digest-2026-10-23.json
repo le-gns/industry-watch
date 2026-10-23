@@ -1,0 +1,141 @@
+{
+ "date": "2026-10-23",
+ "summary": [
+  "YouTube is testing new Shorts rewards that include affiliate bonuses for creators.",
+  "Malwarebytes flagged a fake Amazon Music offer being sent to YouTube creators to steal their Google sign-ins.",
+  "Draft2Digital ran a session on moving books out of Kindle Unlimited exclusivity and selling on more stores.",
+  "LTK is promoting a Q4 holiday playbook event for brands, and Later posted creator partnership and TikTok videos.",
+  "Lasso, URLgenius, Button/Posttap and Amazon's own tools had no relevant news (Amazon's only posts were about Prime Video)."
+ ],
+ "competitors": [
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube Tests New Shorts Incentives & Affiliate Bonuses",
+     "url": "https://almcorp.com/news/youtube-tests-new-shorts-incentives/",
+     "source": "ALM Corp",
+     "published": "2026-10-22T14:12:52+00:00",
+     "type": "news",
+     "why": "YouTube is testing extra rewards for Shorts, including affiliate bonuses. More pay tied to product links in short videos means more creators sharing links from YouTube."
+    },
+    {
+     "title": "Amazon YouTube creator phishing: fake Music offer",
+     "url": "https://www.neoteo.com/en/malwarebytes-reports-fake-amazon-music-pitch-targeting-youtube-creators",
+     "source": "NeoTeo",
+     "published": "2026-10-23T03:17:24+00:00",
+     "type": "news",
+     "why": "Scammers are sending YouTube creators fake Amazon Music offers to steal their Google logins. A reminder that creators get a lot of fake brand deal emails."
+    },
+    {
+     "title": "pinning a comment with a link to your latest upload helps direct your viewers exactly where you want them to go next. it's an easy way to promote your other long form content.",
+     "url": "https://x.com/YouTubeCreators/status/2113372571387220045",
+     "source": "X @YouTubeCreators",
+     "published": "2026-10-22T20:51:00Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "items": [
+    {
+     "title": "Beyond KU: How to Transition Beyond Amazon Exclusivity",
+     "url": "https://www.youtube.com/watch?v=UCWQJhKqnOw",
+     "source": "YouTube",
+     "published": "2026-10-23T06:04:09+00:00",
+     "type": "social",
+     "why": "Draft2Digital is coaching authors on leaving Kindle Unlimited exclusivity and selling on more stores, which means more authors needing links that work across every store."
+    },
+    {
+     "title": "Going wide can be daunting if you've had books locked into Kindle Unlimited (KU) for a significant amount of time. You don't have to figure this all out on your own. At the top of the hour, Mark Lesli",
+     "url": "https://x.com/Draft2Digital/status/2113312120175771700",
+     "source": "X @Draft2Digital",
+     "published": "2026-10-22T16:50:47Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "The holiday season is here, and the opportunity for brands is bigger than ever. Join us for The Holiday Playbook: Maximize Q4 with LTK, a virtual event where we\u2026",
+     "url": "https://www.linkedin.com/posts/shopltk_the-holiday-season-is-here-and-the-opportunity-activity-7519158403227856896-91N3",
+     "source": "LinkedIn \u00b7 LTK",
+     "published": "2026-10-22T22:11:02.535000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "later",
+   "name": "Later (Link in Bio)",
+   "priority": false,
+   "items": [
+    {
+     "title": "Creator Partnerships That Convert with TikTok + Anna Sitar",
+     "url": "https://www.youtube.com/watch?v=NoWWWaoz-Xw",
+     "source": "YouTube",
+     "published": "2026-10-22T17:27:45+00:00",
+     "type": "social"
+    },
+    {
+     "title": "The Death of TikTok",
+     "url": "https://www.youtube.com/shorts/n0LDN6JxSHQ",
+     "source": "YouTube",
+     "published": "2026-10-22T15:00:25+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "prettylinks",
+   "name": "Pretty Links Pro",
+   "priority": false,
+   "items": [
+    {
+     "title": "How to Turn an Affiliate Link Into a QR Code",
+     "url": "https://prettylinks.com/blog/how-to-turn-an-affiliate-link-into-a-qr-code/",
+     "source": "prettylinks.com",
+     "published": "2026-10-22T16:00:00+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "rebrandly",
+   "name": "Rebrandly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Quick note for Rebrandly customers on the recent PHP security vulnerability: your account, links, and data aren\u2019t affected. Rebrandly doesn\u2019t run on PHP, so the\u2026",
+     "url": "https://www.linkedin.com/posts/rebrandly_quick-note-for-rebrandly-customers-on-the-activity-7519106879277412354-dMti",
+     "source": "LinkedIn \u00b7 Rebrandly",
+     "published": "2026-10-22T18:46:18.269000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Not sure where to start with Bitly? This video has you covered. Learn how to shorten a URL, attach your own branded domain, and read the analytics behind every \u2026",
+     "url": "https://www.linkedin.com/posts/bitly_not-sure-where-to-start-with-bitly-this-activity-7519084001169420288-7C8e",
+     "source": "LinkedIn \u00b7 Bitly",
+     "published": "2026-10-22T17:15:23.702000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}
