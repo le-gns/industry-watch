@@ -1,0 +1,679 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T08:10:46.986115+00:00",
+ "lookback_hours": 30,
+ "item_count": 61,
+ "google_news_links": 50,
+ "google_news_resolved": 50,
+ "feeds_ok": 53,
+ "feeds_failed": 20,
+ "items": [
+  {
+   "title": "WILDEST Boats At The Bridge / Miami Boat Show / Cigarette Tirranna Tariff (0o4XJfAnL7)",
+   "url": "https://media.unisba.ac.id/1e2e2b6c/f17f45eeGgY8MwVdPjsbKhE/?share=telegram&nb=1",
+   "source": "Unisba Media",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-25T02:46:36+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Free F1 livestream: How to watch the U.S GP for free this weekend",
+   "url": "https://mashable.com/entertainment/united-states-gp-f1-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T09:00:27+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Smart TV deal: The 32-inch Insignia is still $79.99 at Amazon",
+   "url": "https://mashable.com/article/july-31-insignia-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T10:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Samsung 65-inch AI smart TV: $499.99 at Amazon",
+   "url": "https://mashable.com/article/sept-26-samsung-65-inch-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T10:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best 65-inch TV deal: Over $600 off the TCL QM7K at Amazon",
+   "url": "https://mashable.com/article/sept-22-tcl-65-inch-qm7k-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T10:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "'Trade Secrets': Election Commission Says SIR Software Details Exempted From RTI",
+   "url": "https://www.news18.com/amp/india/trade-secrets-election-commission-says-sir-software-details-exempted-from-rti-ws-l-10396924.html",
+   "source": "News18",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T10:20:59+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "How to watch Manchester United vs. Bournemouth online for free",
+   "url": "https://mashable.com/entertainment/manchester-united-bournemouth-premier-league-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T10:53:36+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The 65-inch Samsung S85H OLED TV is still $300 off post-Prime Day — act fast to score the best-ever price",
+   "url": "https://mashable.com/tech/july-1-samsung-s85h-oled-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T13:55:32+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "‘The New Stanford Prison Experiment’ Creators Break Down Its Shocking Finale",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/stanford-prison-experiment-creators-break-150000371.html",
+   "source": "Yahoo",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T15:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Sony WH-1000XM6 post-Prime Day deal: $378 at Amazon",
+   "url": "https://mashable.com/tech/june-27-sony-xm6-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T15:30:31+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Toshiba TV deal: Save $160.99 on the Toshiba 50-inch C350 Series LED 4K TV at Amazon",
+   "url": "https://mashable.com/article/oct-9-toshiba-c350-4k-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T15:30:31+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best TV deals ahead of Prime Day: 25+ TV deals to buy",
+   "url": "https://mashable.com/tech/best-early-prime-day-tv-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T18:48:21+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best Prime Day headphones deals 2026: Record prices on AirPods, Sony XM6 headphones",
+   "url": "https://mashable.com/tech/best-early-prime-day-headphones-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T18:48:21+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best LG OLED TV deal: Get the 65-inch LG OLED C5 for $1,198 on Prime Day",
+   "url": "https://mashable.com/tech/prime-day-deal-2026-lg-65-inch-class-oled-c5-series-smart-tv",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T18:48:21+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Barcelona vs. Real Madrid 2026 livestream: How to watch La Liga for free",
+   "url": "https://mashable.com/entertainment/barcelona-real-madrid-la-liga-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Latest Beats headphones leaks and rumors: Are the Beats 360 coming?",
+   "url": "https://mashable.com/tech/beats-headphones-leak-apple",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Ditch the Apple Watch: Hatch launches a contactless sleep-tracking alarm clock",
+   "url": "https://mashable.com/life/hatch-sleep-clock-price-specs-where-to-buy",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-25T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best DJI deal: Save $134 on DJI Osmo Pocket 3 Creator Combo",
+   "url": "https://mashable.com/tech/oct-24-dji-osmo-pocket-3-creator-combo-amazon-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-26T01:07:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Early voting opens in New Zealand for November 7 election with no clear frontrunner",
+   "url": "https://www.yahoo.com/news/world/articles/voting-opens-zealand-november-7-214843732.html",
+   "source": "Yahoo",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-26T01:43:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Apple AirPods 5: New features, price, where to buy, best deals",
+   "url": "https://mashable.com/tech/apple-airpods-5-price-where-to-buy-best-deals",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-26T03:13:11+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best 11 early Black Friday headphones deals available now",
+   "url": "https://mashable.com/tech/best-early-black-friday-headphones-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-26T04:08:14+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Princess Diana Was the Queen of Fall Fashion—Here's How to Recreate Her Best Autumnal Looks",
+   "url": "https://www.townandcountrymag.com/style/fashion-trends/g74196378/princess-diana-fall-fashion-shop/",
+   "source": "Town & Country Magazine",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-25T11:06:43+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Heather Dubrow (@heatherdubrow): \"Loving this SPF + glow ✨🧴 https://go.shopmy.us/p-97413128\"",
+   "url": "https://substack.com/@heatherdubrow/note/c-370219309",
+   "source": "Substack",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-25T20:51:18+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "shopmy"
+   ]
+  },
+  {
+   "title": "Filho de Trump questiona extensão de horário de votação no Brasil: ‘Tudo pela causa’",
+   "url": "https://www.estadao.com.br/amp/internacional/filho-de-trump-questiona-extensao-de-horario-de-votacao-no-brasil-tudo-pela-causa/",
+   "source": "Estadão",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-25T23:53:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Indian Roblox creators grow 96% as gaming monetisation gains ground",
+   "url": "https://www.storyboard18.com/brand-marketing/roblox-powers-growth-of-india-gaming-creator-economy-and-global-reach-ws-l-113354.htm",
+   "source": "Storyboard18",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-25T10:31:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Creator Economy: How Digital Creators Are Transforming the Online World",
+   "url": "https://www.openpr.com/news/4671822/the-creator-economy-how-digital-creators-are-transforming",
+   "source": "openPR.com",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-25T10:44:37+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Bhopal Creator Summit 2026: AI, Digital Economy Take Centre Stage; CM Mohan Yadav Honours Top Content Creators",
+   "url": "https://www.freepressjournal.in/bhopal/bhopal-creator-summit-2026-ai-digital-economy-take-centre-stage-cm-mohan-yadav-honours-top-content-creators",
+   "source": "Free Press Journal",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-25T12:57:38+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Tomorrow, Today Releases Interview With Creator Thugesh on Rejection, Originality and 11 Years on YouTube",
+   "url": "https://tech.einnews.com/pr_news/952086850/tomorrow-today-releases-interview-with-creator-thugesh-on-rejection-originality-and-11-years-on-youtube",
+   "source": "EIN News",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-26T00:00:44+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "A New 5.11 Backpack Review And Walkthrough - The LVC12 Simone Annicchiarico (ppB2xElLVX)",
+   "url": "https://media.unisba.ac.id/8ca1be77/f42928b9JRxdEytoQwIdJS8//?share=telegram&nb=1",
+   "source": "Unisba Media",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-10-26T00:15:34+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "From Content to Commerce: Turning traditional knowledge into economic value",
+   "url": "https://www.moneycontrol.com/news/opinion/from-content-to-commerce-turning-traditional-knowledge-into-economic-value-14059894.html",
+   "source": "Moneycontrol.com",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-26T05:41:17+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "What is LitRPG? Inside the rise of the gaming-inspired fantasy genre",
+   "url": "https://mashable.com/life/litrpg-books-explained-fantasy-readers-leveling-up",
+   "source": "Mashable",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-26T06:57:18+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "YouTube launches shopping affiliate program in UAE, Saudi Arabia and Egypt",
+   "url": "https://www.zawya.com/en/press-release/youtube-launches-shopping-affiliate-program-in-uae-saudi-arabia-and-egypt-1850899",
+   "source": "Zawya",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-26T07:12:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
+   "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "snippet": "Rising political ad spend is making life harder for regional and local brands hoping to use CTV ads to reach consumers in Q4.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
+   "url": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "snippet": "The deal promises faster, more connected marketing, while raising questions about vendor lock-in and how brands stand out as AI automates campaign execution.",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
+   "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "snippet": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta’s new scraping terms galvanize publishers into collective action",
+   "url": "https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "snippet": "Multiple publisher trade bodies have published letters to Meta pushing back on its terms, and urged lawmakers to take action.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds",
+   "url": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "snippet": "Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why WebKit Did It; Apple’s Car In The Ads Race",
+   "url": "https://www.adexchanger.com/daily-news-roundup/monday-26102026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-26T04:03:15+00:00",
+   "snippet": "Maybe Apple’s onto something with its ID vendor blocking; Formula 1 makes for a great advertising partner; and retail media is flirting with Flock. The post Why WebKit Did It; Apple’s Car In The Ads Race appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "B2B Buying Decisions Are Moving Where Ad Tech Can’t See",
+   "url": "https://www.adexchanger.com/data-driven-thinking/b2b-buying-decisions-are-moving-where-ad-tech-cant-see/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-26T04:35:48+00:00",
+   "snippet": "The ad tech industry built the most precise measurement infrastructure in the history of media. Every impression counted. Every click tracked. Every conversion attributed. The ability to measure what happened after an ad was served, across devices, across platforms, across sessions, became the indus",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-25T12:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google Says Some AI Overviews May Expand Automatically for Some Queries",
+   "url": "https://www.tokenpost.com/news/technology/40519",
+   "source": "TOKENPOST",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-25T12:14:06+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "Google AI Summaries Squeeze The Websites That Depend On Search Traffic",
+   "url": "https://northeasttimes.com/2026/10/25/google-ai-summaries-squeeze-the-websites-that-depend-on-search-traffic/",
+   "source": "Northeast Times",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-25T12:29:20+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google's AI Search Overhaul Disrupts Publishing Industry",
+   "url": "https://www.techbuzz.ai/articles/google-s-ai-search-overhaul-disrupts-publishing-industry",
+   "source": "The Tech Buzz",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-25T12:36:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google can add up to 10 crawled videos to PMax asset groups by default",
+   "url": "https://ppc.land/google-can-add-up-to-10-crawled-videos-to-pmax-asset-groups-by-default/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T13:41:17+00:00",
+   "snippet": "Clips from social platforms, landing pages and linked YouTube channels now feed Performance Max without opt-in. Which live campaigns were switched on, and when?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Google’s AI Search Features Threaten the Future of Digital Publishing",
+   "url": "https://news.ssbcrack.com/googles-ai-search-features-threaten-the-future-of-digital-publishing/",
+   "source": "SSBCrack",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-25T15:49:26+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Now you can watch Instagram Reels on your Apple TV",
+   "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-25T16:20:17+00:00",
+   "snippet": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew o",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "YouTube gains record 15.8% of US TV time in Nielsen's August Gauge",
+   "url": "https://ppc.land/youtube-gains-record-15-8-of-us-tv-time-in-nielsens-august-gauge/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T16:27:51+00:00",
+   "snippet": "Total US TV usage fell 4.4% in August after the World Cup ended, yet streaming rose to 49.6%. Nielsen's September data waits on a method change with no date.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-25T20:20:08+00:00",
+   "snippet": "\"That's a 12-year-old view of the world.\"",
+   "matched_keywords": [
+    "author"
+   ]
+  },
+  {
+   "title": "Search Partner Network",
+   "url": "https://ppc.land/search-partner-network/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T20:28:15+00:00",
+   "snippet": "Search Partner Network: the non-Google sites and apps, from Ask.com to eBay and YouTube search, that show Google search ads next to their own search results.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Storytime",
+   "url": "https://ppc.land/storytime/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T20:30:41+00:00",
+   "snippet": "Storytime: a creator video in which a person recounts a real or claimed personal story to camera, often in parts. How it works, who pays, and its disputes.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "GRWM",
+   "url": "https://ppc.land/grwm/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T20:32:54+00:00",
+   "snippet": "GRWM, short for get ready with me, is a creator video showing a makeup, skincare or outfit routine, used by brands for product placement and affiliate sales.",
+   "matched_keywords": [
+    "affiliate",
+    "creator"
+   ]
+  },
+  {
+   "title": "Haul",
+   "url": "https://ppc.land/haul/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T20:34:11+00:00",
+   "snippet": "Haul is a video format in which a creator shows and reviews a batch of recent purchases, a genre born on YouTube in 2008 that now drives affiliate commerce.",
+   "matched_keywords": [
+    "affiliate",
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "DV360 Marketplace gains Gemini-curated bundles, 50 packages per line item",
+   "url": "https://ppc.land/dv360-marketplace-gains-gemini-curated-bundles-50-packages-per-line-item/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T22:14:26+00:00",
+   "snippet": "Bulk assignment drops whole curated deal lists into line items for CTV, live sports and tentpole buys. How far does Google's AI search shape what buyers see?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Bluesky puts Patreon and Ko-fi pay buttons at the top of creator profiles",
+   "url": "https://ppc.land/bluesky-puts-patreon-and-ko-fi-pay-buttons-at-the-top-of-creator-profiles/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T22:15:49+00:00",
+   "snippet": "Creators' Patreon and Ko-fi links now show as green buttons under a Bluesky bio, one click away. Will memberships that work across AT Protocol apps follow?",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Turkish group manifest's TRALALA loses 49% of YouTube views in week two",
+   "url": "https://ppc.land/turkish-group-manifests-tralala-loses-49-of-youtube-views-in-week-two/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-25T22:25:58+00:00",
+   "snippet": "Lee Soo-man's A2O LITE took the top debut, No. 3 with 36.0M views, yet 16 national charts show only 21.4% of it. Where is that K-pop audience watching from?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Publishers lose traffic as Google AI search keeps users from clicking news links",
+   "url": "https://www.digitaltoday.co.kr/en/view/119333/publishers-lose-traffic-to-google-ai-search-users-skip-news-links",
+   "source": "디지털투데이",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-26T00:54:07+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Changes to Google's AI search feature are causing disruption.",
+   "url": "https://www.vietnam.vn/en/nhung-thay-doi-trong-tinh-nang-tim-kiem-bang-ai-cua-google-gay-xao-tron",
+   "source": "Vietnam.vn",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-26T03:25:34+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Podcast: Tom McFadyen on How AI Is Reshaping B2B Commerce",
+   "url": "https://www.naw.org/mdm/article/podcast-tom-mcfadyen-on-how-ai-is-reshaping-b2b-commerce/",
+   "source": "National Association of Wholesaler-Distributors",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-26T04:54:31+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Midterm ads lift CTV prices to $43 as YouTube takes 15.8% of US TV time",
+   "url": "https://ppc.land/midterm-ads-lift-ctv-prices-to-43-as-youtube-takes-15-8-of-us-tv-time/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-26T05:32:49+00:00",
+   "snippet": "Political spending of $12bn is pushing regional brands off local TV before November 3, as YouTube hit a record 15.8% of US TV time in Nielsen's August Gauge.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "I can find businesses on yelp with expired domains - looking to partner with someone on pay per call lead generation",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xf33lw/i_can_find_businesses_on_yelp_with_expired/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-25T13:59:53+00:00",
+   "snippet": "I can find expired domain links with active yelp listings for any company niche. Looking for someone who also knows pay per call who can help to build out these sites well and monetize them. submitted by /u/Basic-Strain-6922 [link] [comments]",
+   "matched_keywords": []
+  },
+  {
+   "title": "My Antonia made me nostalgic for memories I never had.",
+   "url": "https://www.reddit.com/r/books/comments/1xff5en/my_antonia_made_me_nostalgic_for_memories_i_never/",
+   "source": "r/books",
+   "group": "Reddit",
+   "feed_id": "reddit-r-books",
+   "published": "2026-10-25T22:02:36+00:00",
+   "snippet": "I read My Antonia, and at the start I wasn't thrilled, the meandering memories of early childhood felt pointless. But by the time I got to the end, I turned right back around to page one and started all over- it was that good(and that depressing.) The Author didn't start out by declaring a promise-n",
+   "matched_keywords": [
+    "author"
+   ]
+  }
+ ]
+}

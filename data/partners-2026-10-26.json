@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T08:13:53.485050+00:00",
+ "item_count": 4,
+ "feeds_ok": 105,
+ "feeds_failed": 2,
+ "items": [
+  {
+   "title": "REAL MADRID NEED A CREATOR?! WHAT ABOUT ARDA?! + NEW CB TARGET JELTSCH",
+   "url": "https://onefootball.com/en/video/real-madrid-need-a-creator-what-about-arda-new-cb-target-jeltsch-43669361",
+   "source": "OneFootball",
+   "competitor": "target",
+   "feed_id": "gn-target",
+   "type": "news",
+   "published": "2026-10-25T12:04:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "REAL MADRID NEED A CREATOR?! WHAT ABOUT ARDA?! + NEW CB TARGET JELTSCH, URKG",
+   "url": "https://forzafootball.com/news/real-madrid-need-a-creator-what-about-arda-new-cb-target-jeltsch-159470966",
+   "source": "Forza Football",
+   "competitor": "target",
+   "feed_id": "gn-target",
+   "type": "news",
+   "published": "2026-10-25T13:39:51+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "'A heady collision of gothic horror and campus novel...' Purchase a signed copy of 'Solace House' today, available at a special price, whilst stocks last!",
+   "url": "https://x.com/wordery/status/2114295918489145498",
+   "source": "X @wordery",
+   "competitor": "wordery",
+   "feed_id": "x-wordery",
+   "type": "social",
+   "published": "2026-10-25T10:00:03Z",
+   "snippet": "'A heady collision of gothic horror and campus novel...' Purchase a signed copy of 'Solace House' today, available at a special price, whilst stocks last!"
+  },
+  {
+   "title": "You finally have adult money... and your inner child has opinions. From blind boxes to plushies and collectibles, we've got plenty of fun finds waiting for you at Books-A-Million!",
+   "url": "https://x.com/booksamillion/status/2114386560204374175",
+   "source": "X @booksamillion",
+   "competitor": "booksamillion",
+   "feed_id": "x-booksamillion",
+   "type": "social",
+   "published": "2026-10-25T16:00:14Z",
+   "snippet": "You finally have adult money... and your inner child has opinions. From blind boxes to plushies and collectibles, we've got plenty of fun finds waiting for you at Books-A-Million!"
+  }
+ ]
+}

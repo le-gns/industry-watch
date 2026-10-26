@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-26",
+ "intro": "A quiet weekend window. Reddit feeds were rate-limited this morning, so there's no Reddit section today.",
+ "must_reads": [
+  {
+   "title": "Bluesky puts Patreon and Ko-fi pay buttons at the top of creator profiles",
+   "url": "https://ppc.land/bluesky-puts-patreon-and-ko-fi-pay-buttons-at-the-top-of-creator-profiles/",
+   "source": "PPC Land",
+   "published": "2026-10-25T22:15:49+00:00",
+   "why": "Why it matters for Geniuslink: Bluesky now shows several links right under a profile bio, with tip and membership links as big green buttons. Platforms keep changing how links appear, and Bluesky adds no click tracking, so creators still need their own way to measure and route clicks."
+  },
+  {
+   "title": "Google\u2019s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "published": "2026-10-25T12:00:00+00:00",
+   "why": "Why it matters for Geniuslink: Google's AI answers are sending fewer clicks to publishers. Many affiliate sites live on search traffic, so they will look harder at getting more value from every click they still get."
+  },
+  {
+   "title": "Meta\u2019s new scraping terms galvanize publishers into collective action",
+   "url": "https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/",
+   "source": "Digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Publishers are teaming up against Meta's new rules on scraping their content. It's another sign of tension between big platforms and the people who create content for them."
+  },
+  {
+   "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
+   "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
+   "source": "Digiday",
+   "published": "2026-10-26T04:01:00+00:00",
+   "why": "Why it matters for Geniuslink: A big publisher is selling brands help showing up in AI answers. Being seen by AI assistants is becoming its own marketing channel, next to search and social."
+  },
+  {
+   "title": "Why WebKit Did It; Apple\u2019s Car In The Ads Race",
+   "url": "https://www.adexchanger.com/daily-news-roundup/monday-26102026/",
+   "source": "AdExchanger",
+   "published": "2026-10-26T04:03:15+00:00",
+   "why": "Why it matters for Geniuslink: Apple's browser engine is now blocking ad-tech ID vendors after iOS 27. Tracking people across sites keeps getting harder, which puts more weight on first-party link click data."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Best 11 early Black Friday headphones deals available now",
+     "url": "https://mashable.com/tech/best-early-black-friday-headphones-deals-2026",
+     "source": "Mashable",
+     "published": "2026-10-26T04:08:14+00:00",
+     "summary": "Big affiliate publishers are already running early Black Friday roundups, a sign holiday link traffic is ramping up."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry & ad tech",
+   "items": [
+    {
+     "title": "Salesforce\u2019s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
+     "url": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/",
+     "source": "Digiday",
+     "published": "2026-10-26T04:01:00+00:00",
+     "summary": "Salesforce is buying the customer messaging platform Braze for $5.7 billion, pushing marketers to pick one big ecosystem."
+    },
+    {
+     "title": "Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds",
+     "url": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/",
+     "source": "Digiday",
+     "published": "2026-10-26T04:01:00+00:00",
+     "summary": "Brands are moving budget toward retail media and social as buyers worry about the months ahead."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google Says Some AI Overviews May Expand Automatically for Some Queries",
+     "url": "https://www.tokenpost.com/news/technology/40519",
+     "source": "TOKENPOST",
+     "published": "2026-10-25T12:14:06+00:00",
+     "summary": "Google says some AI Overviews may now open up automatically, taking even more space above the normal results."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "YouTube gains record 15.8% of US TV time in Nielsen's August Gauge",
+     "url": "https://ppc.land/youtube-gains-record-15-8-of-us-tv-time-in-nielsens-august-gauge/",
+     "source": "PPC Land",
+     "published": "2026-10-25T16:27:51+00:00",
+     "summary": "YouTube hit a record 15.8% of US TV viewing time in Nielsen's August figures, so more creator videos and their links are watched on TVs."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "What is LitRPG? Inside the rise of the gaming-inspired fantasy genre",
+     "url": "https://mashable.com/life/litrpg-books-explained-fantasy-readers-leveling-up",
+     "source": "Mashable",
+     "published": "2026-10-26T06:57:18+00:00",
+     "summary": "A look at the rise of LitRPG, the gaming-inspired fantasy genre, much of it driven by self-published authors."
+    }
+   ]
+  }
+ ]
+}

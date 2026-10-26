@@ -1,0 +1,79 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T08:12:39.288022+00:00",
+ "item_count": 7,
+ "feeds_ok": 96,
+ "feeds_failed": 7,
+ "items": [
+  {
+   "title": "YouTube launches shopping affiliate program in UAE, Saudi Arabia and Egypt",
+   "url": "https://www.zawya.com/en/press-release/youtube-launches-shopping-affiliate-program-in-uae-saudi-arabia-and-egypt-1850899",
+   "source": "Zawya",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-26T07:12:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Target's October Book Club Pick Is a Chilling Thriller Hailed as 'Deeply Human and Unsettling' on Goodreads",
+   "url": "https://www.aol.com/articles/targets-october-book-club-pick-095200000.html",
+   "source": "AOL.com",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-25T09:52:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "6 Best Stephen King Books According To Goodreads",
+   "url": "https://screenrant.com/stephen-king-top-rated-books-goodreads/",
+   "source": "ScreenRant",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-25T15:00:19+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Heather Dubrow (@heatherdubrow): \"Loving this SPF + glow ✨🧴 https://go.shopmy.us/p-97413128\"",
+   "url": "https://substack.com/@heatherdubrow/note/c-370219309",
+   "source": "Substack",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-10-25T20:51:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "lightsonlover - SOS (new release)",
+   "url": "https://www.reddit.com/r/musicpromotiontechs/comments/1xfpy6h/lightsonlover_sos_new_release/",
+   "source": "r/musicpromotiontechs",
+   "competitor": "beacons",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-26T07:13:07+00:00",
+   "snippet": "HI guys, My name is lightsonlover and i'm a producer/artist from Australia. I'm not too sure how to pinpoint my sound down to a genre but i float somewhere around electronica and pop with vocals. I released a 2 track called SOS last month that I produced all myself (no AI) and am just trying to show"
+  },
+  {
+   "title": "I built Loomi.bio — what if your link-in-bio could do more than just share links?",
+   "url": "https://www.reddit.com/r/SideProject/comments/1xfk6wu/i_built_loomibio_what_if_your_linkinbio_could_do/",
+   "source": "r/SideProject",
+   "competitor": "linktree",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-26T01:50:51+00:00",
+   "snippet": "Hey everyone! 👋 I've been building Loomi.bio, a platform for creators, freelancers, and small businesses. The idea is simple: instead of just sharing links, what if your bio could become your mini business hub? I'm calling it Business-in-Bio. It's still evolving, and I'd love some honest feedback. W"
+  },
+  {
+   "title": "[OC] A Fairy's Invitation — A Mysterious Fey Encounter | D&D Fantasy Art",
+   "url": "https://www.reddit.com/r/DnD/comments/1xfldjf/oc_a_fairys_invitation_a_mysterious_fey_encounter/",
+   "source": "r/DnD",
+   "competitor": "linktree",
+   "feed_id": "reddit-influencer",
+   "type": "reddit",
+   "published": "2026-10-26T02:49:14+00:00",
+   "snippet": "You were walking through the woods when you closed your eyes for just a moment… And it seems a gorgeous fairy has taken an interest in you. Magical light is already spreading all around you. Where might this mystical being take you? I suppose, wherever you wish. The only question is… will you accept"
+  }
+ ]
+}

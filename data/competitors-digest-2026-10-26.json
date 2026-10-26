@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-26",
+ "summary": [
+  "YouTube launched its Shopping affiliate program in the UAE, Saudi Arabia and Egypt, with Amazon as the first retailer and a low 500-subscriber entry bar.",
+  "Lasso, URLgenius, Button and Amazon's own tools were quiet, with no new posts or news.",
+  "A quiet weekend overall for competitors."
+ ],
+ "competitors": [
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube launches shopping affiliate program in UAE, Saudi Arabia and Egypt",
+     "url": "https://www.zawya.com/en/press-release/youtube-launches-shopping-affiliate-program-in-uae-saudi-arabia-and-egypt-1850899",
+     "source": "Zawya",
+     "published": "2026-10-26T07:12:00+00:00",
+     "type": "news",
+     "why": "YouTube keeps spreading its built-in Amazon affiliate tagging to new countries, so more creators can earn without outside links. That raises the bar for link tools to offer things YouTube can't, like working across every store and country."
+    }
+   ]
+  }
+ ]
+}
