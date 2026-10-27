@@ -1,0 +1,63 @@
+{
+ "date": "2026-10-27",
+ "summary": [
+  "Partnerize is pushing its integration with Profound, which shows brands where they appear in AI answers, and turning that into partner outreach.",
+  "Rakuten Advertising celebrated awards at the Global Performance Marketing Awards and PI LIVE Europe, and posted about looking beyond single-channel data.",
+  "Samsung's agency Cheil India hired a new lead for Samsung's social and influencer marketing.",
+  "Most networks and retailers were quiet."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Don't just observe where your competitors appear without you. Turn AI discovery intelligence into active commercial growth with the @Partnerize x @Profound integration. Learn more on our blog.",
+     "url": "https://x.com/partnerize/status/2114756465659445330",
+     "source": "X @partnerize",
+     "published": "2026-10-26T16:30:06Z",
+     "type": "social",
+     "why": "Affiliate networks are starting to treat showing up in AI answers as a partner channel. It's a signal of where affiliate budgets may head next.",
+     "also": {
+      "source": "LinkedIn · Partnerize",
+      "url": "https://www.linkedin.com/posts/partnerize_knowing-where-your-brand-shows-up-in-ai-generated-activity-7520499671572606977-V-8N",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "🇪🇺 🇬🇧 Last week brought plenty to celebrate, from award wins on Monday to two busy days at PI LIVE Europe! 🏆 At the Global Performance Marketing Awards, we took…",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_piliveeurope-gpma-partnermarketing-activity-7520424029284040704-H6ed",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-26T10:00:11.302000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "Your data isn't wrong. It's just not the whole story. See what you're missing: https://bit.ly/4jIEW0v Most marketers are optimizing in the dark. Single-network …",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_partnermarketing-affiliatemarketing-rakutenadvertising-activity-7520485869011574784-O3gK",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-26T14:05:55.041000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "samsung",
+   "name": "Samsung",
+   "items": [
+    {
+     "title": "Cheil India appoints Geetika Chadha to lead Samsung’s social and influencer marketing",
+     "url": "https://www.campaignindia.in/article/cheil-india-appoints-geetika-chadha-to-lead-samsung-s-social-and-influencer-marketing/4dgmntm1yh6dtsswkrt8p605xe",
+     "source": "Campaign India",
+     "published": "2026-10-27T07:49:35+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}

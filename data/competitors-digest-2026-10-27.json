@@ -1,0 +1,75 @@
+{
+ "date": "2026-10-27",
+ "summary": [
+  "YouTube posted its official launch note for YouTube Shopping in Saudi Arabia, the UAE and Egypt, with Amazon as the launch retailer (first reported yesterday).",
+  "Amazon shared a roundup of its Q3 2026 announcements ahead of earnings, with no new Associates or OneLink news.",
+  "LTK hosted 13 UK creator-founders in London with co-founder Amber Venz Box, a sign it is courting UK creators.",
+  "Lasso, URLgenius and Button/Posttap were quiet."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs",
+     "url": "https://www.aboutamazon.com/news/company-news/amazon-q3-2026-earnings-preview",
+     "source": "aboutamazon.com",
+     "published": "2026-10-26T13:00:18+00:00",
+     "type": "blog",
+     "why": "A company-wide roundup of devices and AI news, not an affiliate update. Worth a skim for anything that changes how shoppers find products."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "Watch It, Love It, Buy It: YouTube Shopping Arrives in the Middle East",
+     "url": "https://blog.google/intl/en-mena/product-updates/connect-communicate/youtube-shopping-saudi-uae-egypt-amazon/",
+     "source": "blog.google",
+     "published": "2026-10-26T21:53:28+00:00",
+     "type": "news",
+     "why": "YouTube keeps adding countries where creators earn from built-in product tags. Each new market grows the share of creator shopping that stays inside YouTube.",
+     "also": {
+      "source": "Arabian Business",
+      "url": "https://www.arabianbusiness.com/business/technology/youtube-amazon-shopping-affiliate-uae-saudi-egypt",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "We hosted 13 of the UK’s leading Creator-Founders at Claridge’s in London for a morning with LTK co-founder and president Amber Venz Box. The conversation explo…",
+     "url": "https://www.linkedin.com/posts/shopltk_we-hosted-13-of-the-uks-leading-creator-founders-activity-7520610447147069440-Mxtf",
+     "source": "LinkedIn · LTK",
+     "published": "2026-10-26T22:20:56.784000+00:00",
+     "type": "social",
+     "why": "LTK is building ties with UK creators who run their own brands, a market where creator commerce is growing."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Our team was onsite at Ahrefs Evolve this month, asking marketers their hottest takes. 🔥 We got real answers on where marketers are putting their social bets th…",
+     "url": "https://www.linkedin.com/posts/bitly_our-team-was-onsite-at-ahrefs-evolve-this-activity-7520512664389881856-TvFE",
+     "source": "LinkedIn · Bitly",
+     "published": "2026-10-26T15:52:23.557000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}
