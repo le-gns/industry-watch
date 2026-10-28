@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-28",
+ "summary": [
+  "Partnerize argues the click was only ever a bridge and AI is changing how affiliate value is counted.",
+  "CJ says products only show up in ChatGPT shopping answers if their product data is complete.",
+  "Best Buy published its holiday calendar of Doorbusters and deals through the season.",
+  "Book retailers (Books-A-Million, Apple Books) went big on the ACOTAR 6 launch."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Partnerize: 'The click was never the value. It was the bridge.' (AI and affiliate field guide)",
+     "url": "https://www.linkedin.com/posts/partnerize_from-visibility-to-value-the-field-guide-activity-7520831713346785280-Dq7f",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-10-27T13:00:10.757000+00:00",
+     "type": "social",
+     "why": "A big affiliate network is saying out loud that AI shopping weakens the click as the unit of credit. That's a signal the way affiliate sales get tracked and paid may shift."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ",
+   "items": [
+    {
+     "title": "CJ: product data decides which brands appear in ChatGPT shopping answers",
+     "url": "https://www.linkedin.com/posts/commission-junction_affiliatemarketing-aicommerce-performancemarketing-activity-7520875524496199680-2wPM",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-27T15:54:16.149000+00:00",
+     "type": "social",
+     "why": "Networks are now coaching brands to get picked by AI shopping answers, another sign that AI assistants are becoming a shopping front door."
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Advertising heads to Ecom North in Toronto",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_ecomnorth-torontoecommerce-rakutenadvertising-activity-7520918127665291264-4Ull",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-10-27T18:43:33.536000+00:00",
+     "type": "social",
+     "why": "Rakuten is at Ecom North in Toronto this Thursday and Friday."
+    }
+   ]
+  },
+  {
+   "id": "bestbuy",
+   "name": "Best Buy",
+   "items": [
+    {
+     "title": "Best Buy reveals holiday calendar with Doorbusters and deals throughout the season",
+     "url": "https://corporate.bestbuy.com/2026/holiday-calendar/",
+     "source": "corporate.bestbuy.com",
+     "published": "2026-10-27T10:59:49+00:00",
+     "type": "blog",
+     "why": "Best Buy's deal calendar sets the timing for creators' holiday gift guides and deal posts."
+    }
+   ]
+  },
+  {
+   "id": "bam",
+   "name": "Books-A-Million",
+   "items": [
+    {
+     "title": "Books-A-Million: 'A Court of Splintered Harmony' midnight release parties",
+     "url": "https://www.linkedin.com/posts/books-a-million_the-wait-is-over-a-court-of-splintered-harmony-activity-7520884993527676929-R8mZ",
+     "source": "LinkedIn · Books A Million",
+     "published": "2026-10-27T16:31:53.742000+00:00",
+     "type": "social",
+     "why": "Midnight release parties for ACOTAR 6. Big launches like this are when book links get the most clicks."
+    }
+   ]
+  },
+  {
+   "id": "applebooks",
+   "name": "Apple Books",
+   "items": [
+    {
+     "title": "Apple Books promotes the ACOTAR 6 launch",
+     "url": "https://x.com/AppleBooks/status/2115126398717186127",
+     "source": "X @AppleBooks",
+     "published": "2026-10-27T17:00:05Z",
+     "type": "social",
+     "why": "Apple Books promoting the ACOTAR 6 launch."
+    }
+   ]
+  },
+  {
+   "id": "motorola",
+   "name": "Motorola",
+   "items": [
+    {
+     "title": "How Micro Influencers Powered Motorola Big Billion Days Bigger",
+     "url": "https://www.exchange4media.com/marketing-initiative-news/how-micro-influencers-powered-motorola-big-billion-days-bigger-159544.html",
+     "source": "Exchange4Media",
+     "published": "2026-10-27T08:35:23+00:00",
+     "type": "news",
+     "why": "A brand case study on using micro-influencers to drive sales during Flipkart's Big Billion Days."
+    }
+   ]
+  }
+ ]
+}

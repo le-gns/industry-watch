@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T08:15:37.600502+00:00",
+ "item_count": 8,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Amazon's water conservation and replenishment efforts around the world",
+   "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-27T14:30:00+00:00",
+   "snippet": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity."
+  },
+  {
+   "title": "How Amazon data centers in Spain are helping businesses create jobs and opportunities",
+   "url": "https://www.aboutamazon.com/news/aws/amazon-data-centers-spain",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-27T17:10:10+00:00",
+   "snippet": "A new independent study reveals that AWS's investment in northeastern Spain is transforming the region's economy."
+  },
+  {
+   "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
+   "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-27T17:50:33+00:00",
+   "snippet": "Amazon engineering leaders revised the role guideline for software development engineers, underscoring what matters most is the outcome, not which tools are used."
+  },
+  {
+   "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+   "url": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-27T22:42:00+00:00",
+   "snippet": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers."
+  },
+  {
+   "title": "If you could live inside any fictional world for one night, where are you going?",
+   "url": "https://x.com/goodreads/status/2115074284930433347",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-10-27T13:33:00Z",
+   "snippet": "If you could live inside any fictional world for one night, where are you going?"
+  },
+  {
+   "title": "Happy ACOSH release day to all who celebrate",
+   "url": "https://x.com/goodreads/status/2115091823479648588",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-10-27T14:42:41Z",
+   "snippet": "Happy ACOSH release day to all who celebrate"
+  },
+  {
+   "title": "Goodreads Readers Are Excited About These 5 New Books Hitting Shelves—From ‘ACOTAR 6’ to Historical Fiction",
+   "url": "https://www.womansworld.com/entertainment/books/5-new-books-goodreads-readers-are-excited-about-this-week",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-27T16:00:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "8 Best Mystery Books of All Time, According to Goodreads",
+   "url": "https://collider.com/best-mystery-books-all-time-goodreads/",
+   "source": "Collider",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-28T00:55:00+00:00",
+   "snippet": ""
+  }
+ ]
+}

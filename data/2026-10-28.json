@@ -1,0 +1,892 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T08:11:33.063239+00:00",
+ "lookback_hours": 30,
+ "item_count": 82,
+ "google_news_links": 67,
+ "google_news_resolved": 67,
+ "feeds_ok": 52,
+ "feeds_failed": 21,
+ "items": [
+  {
+   "title": "Social media key to success for K-brands, AI expert says",
+   "url": "https://www.koreatimes.co.kr/amp/business/companies/20261027/social-media-key-to-success-for-k-brands-ai-expert-says",
+   "source": "The Korea Times",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T07:16:04+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Apple’s upgraded AirTag just dropped to a new all-time low price at Amazon — shop for $23",
+   "url": "https://mashable.com/tech/oct-27-apple-airtag-2nd-gen-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T16:22:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Subway National Sandwich Day BOGO: How to score free Footlongs until Nov. 8",
+   "url": "https://mashable.com/life/subway-national-sandwich-day-free-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T16:37:44+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Early Black Friday deals from Lego: Save 44% off",
+   "url": "https://mashable.com/life/best-early-black-friday-lego-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T16:47:04+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How good is Birdbuddy's species ID feature? I put it to the test with my exotic parrot.",
+   "url": "https://mashable.com/tech/birdbuddy-bird-species-ai-identification",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T16:57:14+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Pokémon TCG deal: 30th Celebration Poster Collection is close to its best-ever price",
+   "url": "https://mashable.com/life/oct-27-pokemon-tcg-30th-celebration-poster-collection-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T17:00:58+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Magic The Gathering deal: Avatar The Last Airbender Beginner Box for under $125 at Amazon",
+   "url": "https://mashable.com/life/oct-27-magic-the-gathering-avatar-last-airbender-play-booster-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T17:22:37+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Pokémon TCG deal: Delta Reign 3-Pack Blister preorders are over 10% off at Amazon",
+   "url": "https://mashable.com/life/oct-27-pokemon-tcg-delta-reign-3-pack-blister-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T17:22:37+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is back under market price at Amazon — buy for $59.99",
+   "url": "https://mashable.com/life/oct-27-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T19:09:36+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "ThriveCart Announces Free 5-Day Course Launch Challenge for Aspiring Course Creators",
+   "url": "https://finance.yahoo.com/small-business/articles/thrivecart-announces-free-5-day-210000566.html",
+   "source": "Yahoo Finance",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-27T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How to watch Virginia Tech vs. Clemson online for free",
+   "url": "https://mashable.com/entertainment/virginia-tech-clemson-college-football-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T03:08:34+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best iPhone Duo deal: How to get $1,000 off the Apple iPhone Duo",
+   "url": "https://mashable.com/tech/oct-23-apple-iphone-duo-best-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T03:36:04+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The best streaming deals live for Prime Day: Get HBO Max, Paramount+, Apple TV, AMC+, and more for less",
+   "url": "https://mashable.com/entertainment/best-early-prime-day-streaming-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T04:13:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Genoa vs. Juventus 2026 livestream: How to watch Serie A for free",
+   "url": "https://mashable.com/entertainment/genoa-juventus-serie-a-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T05:04:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How to watch Venezia vs. Inter online for free",
+   "url": "https://mashable.com/entertainment/venezia-inter-serie-a-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T05:04:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "This is Jeondding | Tekken 8",
+   "url": "https://youtu.be/BV38h9LYi5A",
+   "source": "YouTube",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-27T12:39:03+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "All-Stars 2026: Digging into who should win the Footballer of the Year award",
+   "url": "https://www.the42.ie/footballer-of-the-year-2026-gaa-all-stars-7206715-Oct2026/",
+   "source": "The 42",
+   "group": "Competitors",
+   "feed_id": "gnews-10",
+   "published": "2026-10-27T20:18:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Everything I Bought from Bombshell Sportswear | TRY ON HAUL",
+   "url": "https://youtu.be/jYY0ppe8v-E",
+   "source": "YouTube",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-27T21:39:38+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "This bralette is our style writer’s go-to bra for daily use. \"My forever bra is decadently soft, marvelously stretchy, and mercifully wire-free.\"",
+   "url": "https://www.facebook.com/nytimes/posts/this-bralette-is-our-style-writers-go-to-bra-for-daily-use-my-forever-bra-is-dec/1529396355709489/",
+   "source": "Facebook",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-28T03:42:27+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Regional creators lose out on brand money because of agency middlemen, says HashFame's Anirudh Sridharan",
+   "url": "https://www.storyboard18.com/brand-makers/regional-creators-lose-out-on-brand-money-because-of-agency-middlemen-says-hashfames-anirudh-sridharan-113398.htm",
+   "source": "Storyboard18",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-27T06:31:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Creator Economy Job Radar – October 27, 2026 – Amazon, Visa, JPMorganChase, and More",
+   "url": "https://www.netinfluencer.com/creator-economy-job-radar-october-27-2026-amazon-visa-jpmorganchase-and-more/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-27T12:09:11+00:00",
+   "snippet": "Creator Economy and Influencer Marketing hiring for the week of October 27, 2026 spans global payments, banking, fintech, government communications, and broadcast media, following last week’s issue led by Blizzard Entertainment and Google. This week’s slate is anchored by Amazon building out mass an",
+   "matched_keywords": [
+    "creator",
+    "influencer"
+   ]
+  },
+  {
+   "title": "Instagram Tests 90-Minute Videos as It Moves Into YouTube’s Territory",
+   "url": "https://www.netinfluencer.com/instagram-tests-90-minute-videos-as-it-moves-into-youtubes-territory/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-27T12:41:20+00:00",
+   "snippet": "Instagram is testing video uploads of up to 90 minutes and expanding playback to Apple TV, part of a broader push to position the platform as a long-form competitor to YouTube. But unlike YouTube, Instagram is still not offering creators a share of ad revenue. The company announced the tests in a vi",
+   "matched_keywords": [
+    "instagram",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Creator Ad Platform Billo Bets Brands Will Move From One-Off UGC to Long-Term Small Creators",
+   "url": "https://www.netinfluencer.com/creator-ad-platform-billo-bets-brands-will-move-from-one-off-ugc-to-long-term-small-creators/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-27T12:45:43+00:00",
+   "snippet": "Billo used to be a place to buy creator ads. A year after Billo 2.0 reached its top clients, CEO Donatas Smailys says the platform is betting that brands will move from one-off UGC deals to small, consistent creators over the long term. A performance-data layer, which went live in January, now sugge",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Travel’s New Creator Economy: Why Brands Need Smarter Systems",
+   "url": "https://skift.com/2026/10/27/travels-new-creator-economy-why-brands-need-smarter-systems/",
+   "source": "Skift",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-27T13:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "NAVEE UT3 Max electric scooter review",
+   "url": "https://korben.info/en/navee-ut3-max-electric-scooter-review.html",
+   "source": "Korben",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-10-27T16:20:30+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Target Recharges Threshold Brand as Home Upgrade Progresses",
+   "url": "https://www.homepagenews.com/retail-articles/target-recharges-threshold-brand-as-home-upgrade-progresses/",
+   "source": "HomePage News",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-27T19:11:25+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "YouTube tests reduced payment threshold for creators",
+   "url": "https://www.socialmediatoday.com/news/youtube-tests-reduced-payment-threshold-for-creators/872965/",
+   "source": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-social-media-today",
+   "published": "2026-10-27T19:19:41+00:00",
+   "snippet": "The platform is experimenting with a cash-out option set at $20 rather than the current $100, which could open doors to more video producers.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Billion Dollar Boy Group Announces Inaugural Impact List, Celebrating 60 Creators Shaping Culture, Commerce and Creativity, in Partnership with OnePay",
+   "url": "https://roastbrief.us/billion-dollar-boy-group-announces-inaugural-impact-list-celebrating-60-creators-shaping-culture-commerce-and-creativity-in-partnership-with-onepay/",
+   "source": "Roastbrief US",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-27T22:31:15+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "YouTube adds microdrama subscriptions",
+   "url": "https://www.socialmediatoday.com/news/youtube-adds-microdrama-subscriptions/872982/",
+   "source": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-social-media-today",
+   "published": "2026-10-27T22:59:04+00:00",
+   "snippet": "The company said the format garnered more than 6.5 billion views in the first half of 2026.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "The Seven New Laws of Marketing: Why Everything We Know About Winning Customers Must Change",
+   "url": "https://thebusinessmanual.ph/marketing/digital-marketing/seven-new-laws-of-marketing-donald-patrick-lim/",
+   "source": "The Business Manual",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-28T02:06:26+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+   "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/amp/",
+   "source": "SecurityWeek",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T07:23:35+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Mail Metro Media launches StoryFlow",
+   "url": "https://www.inpublishing.co.uk/articles/mail-metro-media-launches-storyflow-27054",
+   "source": "InPublishing",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T10:07:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "HH&S works with PayPoint",
+   "url": "https://www.inpublishing.co.uk/articles/hhs-works-with-paypoint-27056",
+   "source": "InPublishing",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T10:08:29+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Spread the Word Media appoints Lauren Haisley-Wright",
+   "url": "https://www.inpublishing.co.uk/articles/spread-the-word-media-appoints-lauren-haisley-wright-29054",
+   "source": "InPublishing",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T10:32:49+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Maritime industry launches new database to track cyber vulnerabilities",
+   "url": "https://safety4sea.com/maritime-industry-launches-new-database-to-track-cyber-vulnerabilities/",
+   "source": "safety4sea",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T10:43:29+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "DAZN moves into affiliate marketing with operator rankings",
+   "url": "https://www.egr.global/intel/news/dazn-moves-into-affiliate-marketing-with-operator-rankings/",
+   "source": "EGR North America",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-27T11:07:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Anthem brings delicious. magazine back to the UK",
+   "url": "https://www.inpublishing.co.uk/articles/anthem-brings-delicious-magazine-back-to-the-uk-27055",
+   "source": "InPublishing",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T11:33:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Free cyber vulnerabilities database launches",
+   "url": "https://splash247.com/free-cyber-vulnerabilities-database-launches/",
+   "source": "Splash247",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T11:54:02+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs",
+   "url": "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-27T12:54:52+00:00",
+   "snippet": "Pie, an AI-powered growth platform for SMBs, aims to give smaller businesses affordable access to AI tools that often cater to larger businesses with bigger budgets. The post This Startup Makes Sure That AI Tools Aren’t Out Of Reach For SMBs appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Beehiiv Brings Dynamically Inserted Podcast Ads To Its Publisher Platform",
+   "url": "https://www.adexchanger.com/audio/beehiiv-brings-dynamically-inserted-podcast-ads-to-its-publisher-platform/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-27T13:00:38+00:00",
+   "snippet": "Content discovery has moved away from the channels controlled by publishers and their audiences. People just don’t go to websites like they used to, which has some media industry insiders declaring that the pageview era of digital publishing is dead. Meanwhile, search, social media and AI chatbots a",
+   "matched_keywords": []
+  },
+  {
+   "title": "Something New Is Coming: The PMAs Are Going Global",
+   "url": "https://hellopartner.com/something-new-is-coming-the-pmas-are-going-global/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-27T13:55:00+00:00",
+   "snippet": "The Performance Marketing Awards will judge the work; the Global Partnership Awards will judge the relationship. Here’s everything you need to know.",
+   "matched_keywords": [
+    "performance marketing"
+   ]
+  },
+  {
+   "title": "PI LIVE’s Sol Wilkinson Gives Us the Inside Industry Scoop",
+   "url": "https://hellopartner.com/pi-lives-sol-wilkinson-gives-us-the-inside-industry-scoop/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-27T14:10:00+00:00",
+   "snippet": "The takeaways, highlights and topics demystified: PI LIVE’s Conference Producer Sol Wilkinson tells all.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Market Movers: October 2026",
+   "url": "https://hellopartner.com/market-movers-october-2026/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-27T14:30:00+00:00",
+   "snippet": "Here's a rundown of all the market movers you missed across affiliate marketing and the creator economy in October 2026.",
+   "matched_keywords": [
+    "affiliate",
+    "creator"
+   ]
+  },
+  {
+   "title": "🫣 Peek Behind the PI LIVE Curtain",
+   "url": "https://hellopartner.com/6ae09a563f6c4a00010ad930/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-27T15:10:00+00:00",
+   "snippet": "Plus, something new is coming…🤫",
+   "matched_keywords": []
+  },
+  {
+   "title": "JEPLAN and AP Acquisition Corp terminate SPAC merger",
+   "url": "https://app.dealroom.co/news/note/jeplan-and-ap-acquisition-corp-terminate-spac-merger",
+   "source": "Dealroom",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T15:24:11+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Adidas and Gamefam, Poppi and Walmart Connect are winners for the 2026 Digiday Awards",
+   "url": "https://digiday.com/announcement/awards/adidas-and-gamefam-poppi-and-walmart-connect-are-winners-for-the-2026-digiday-awards/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-27T16:27:22+00:00",
+   "snippet": "The 2026 Digiday Awards winners reflect a media and marketing landscape in which cultural relevance, audience participation and measurable business impact increasingly go hand in hand. From immersive digital experiences to campaigns that turned social media conversations into product launches, this ",
+   "matched_keywords": []
+  },
+  {
+   "title": "Impact Capital Holdings Berhad Launches IPO Prospectus",
+   "url": "https://www.digitaljournal.com/pr/news/access-newswire/impact-capital-holdings-berhad-launches-1714740716.html",
+   "source": "Digital Journal",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T19:50:03+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why the talent crisis in advertising is real and what comes next",
+   "url": "https://digiday.com/sponsored/why-the-talent-crisis-in-advertising-is-real-and-what-comes-next/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-27T20:27:28+00:00",
+   "snippet": "Bradley Keefer, Chief Revenue Officer, Keen Decision Systems The advertising industry has a talent problem it desperately needs to confront: AI is eliminating the work that used to develop future leaders, and most agencies aren’t building a replacement pipeline. No one wants to discuss entry-level j",
+   "matched_keywords": []
+  },
+  {
+   "title": "Firebirds Wood Fired Grill closes Plano location",
+   "url": "https://communityimpact.com/plano/dining/firebirds-wood-fired-grill-closes-plano-location/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-27T22:50:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The affiliate marketing course craze: Is it easy to learn quickly and get rich?",
+   "url": "https://www.vietnam.vn/en/con-sot-khoa-hoc-tiep-thi-lien-ket-hoc-nhanh-lam-giau-co-de",
+   "source": "Vietnam.vn",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-28T01:44:16+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "The Arboretum undergoes updates under new ownership",
+   "url": "https://communityimpact.com/northwest-austin/business/the-arboretum-undergoes-updates-under-new-ownership/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T02:32:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Carrier Global Corporation plans $600M investment in new Fort Worth site",
+   "url": "https://communityimpact.com/keller-roanoke-northeast-fort-worth/development/carrier-global-corporation-plans-600m-investment-in-new-fort-worth-site/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T02:34:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Dripping Springs seeks contractor for wastewater reclamation plant expansion",
+   "url": "https://communityimpact.com/southwest-austin-dripping-springs/government/dripping-springs-seeks-contractor-for-wastewater-reclamation-plant-expansion/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T03:25:18+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "San Marcos, Buda and Kyle approve bonds for water expansion",
+   "url": "https://communityimpact.com/san-marcos-buda-kyle/government/san-marcos-buda-and-kyle-contribute-millions-to-expand-water-resources/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T03:32:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
+   "url": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Post World Cup, fashion brands are tapping soccer stars like Bellingham and Yamal for partnerships",
+   "url": "https://digiday.com/marketing/post-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "Three months after the World Cup ended in a Spanish victory, the partnerships with marquee players keep coming.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Future of TV Briefing: CTV advertising has a genre-label problem",
+   "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-ctv-advertising-has-a-genre-label-problem/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "This week’s Future of TV Briefing looks at the messy state of genre labeling in CTV advertising.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Creators are now classified as small businesses, but what does that actually mean?",
+   "url": "https://digiday.com/media/creators-are-now-classified-as-small-businesses-but-what-does-that-actually-mean/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "The Small Business Administration has officially welcomed creators under its umbrella; let's unpack what that means for brands, creators, and the economy at large.",
+   "matched_keywords": []
+  },
+  {
+   "title": "One year in: DMG Media’s social-only briefs account for 30% of New Media revenue",
+   "url": "https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "DMG Media’s year-old New Media division is carving out a new social revenue stream with creator-led IP aimed at younger audiences.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How Lush quit social media ads and still drove growth",
+   "url": "https://digiday.com/marketing/how-lush-quit-social-media-ads-and-still-drove-growth/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-28T04:01:00+00:00",
+   "snippet": "Quitting Meta, TikTok and X seemed like a gamble, but Lush was returning to its marketing roots. The results reshaped their entire approach.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Scamming The AI Search Scrapers; Skydancing In The Dark",
+   "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-28102026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-28T04:03:50+00:00",
+   "snippet": "Poison Tasters Agentic search traffic raises fundamental new questions for first-party data and content owners, but this is one of the biggest: Should a site allow agents to freely peruse its media or should it block scrapers as potential usurpers of the direct customer or reader relationship? As AI",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Google beantwortet Fragen zu Marken selbst – warum klassische Rankings an Bedeutung verlieren - Xpert.Digital",
+   "url": "https://xpert.digital/en/why-classic-rankings-are-losing-importance/?amp=1",
+   "source": "Xpert.Digital - Konrad Wolfenstein",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-27T09:48:35+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Seven publisher groups ask EU, Canada to act on AI search summaries",
+   "url": "https://ppc.land/seven-publisher-groups-ask-eu-canada-to-act-on-ai-search-summaries/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-27T15:48:47+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-27T17:08:08+00:00",
+   "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Google to Sell AI Chips to OpenAI, Oracle",
+   "url": "https://www.theinformation.com/briefings/oracle-start-running-google-tpus-cloud",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-27T17:42:51+00:00",
+   "snippet": "Google will sell its tensor processing units to Oracle and OpenAI, challenging Nvidia’s hold on the AI chip market. OpenAI is planning to buy Google’s TPUs, The Information reported . Google on Tuesday also said it would partner with Oracle to make Google’s TPUs available to Oracle cloud ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Why Cheaper Models Won't Win OpenAI the Enterprise",
+   "url": "https://www.theinformation.com/articles/cheaper-models-win-openai-enterprise",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-27T18:33:50+00:00",
+   "snippet": "OpenAI is trying to chip away at Anthropic’s lead with enterprises by fashioning itself as a cheaper, more flexible provider, Steph and I reported this weekend . But Anthropic's impressive prospectus for an initial public offering , filed Monday, shows OpenAI will need to do a lot more than that to ",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI, Anthropic Claim Cryptography Breakthrough on Same Day",
+   "url": "https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-27T19:55:09+00:00",
+   "snippet": "OpenAI’s models have disproved a foundational theory within cryptography, the AI company claimed on Monday. OpenAI also announced two other breakthroughs in physics and mathematics. The findings come after OpenAI released over 700 math papers earlier this month, with its AI models finding novel ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Major League Baseball is looking for a new kind of fan",
+   "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-27T20:34:38+00:00",
+   "snippet": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, a",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-27T20:51:04+00:00",
+   "snippet": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OPINION: Tech Media Is Dying & Google Are The Bastards Responsible",
+   "url": "https://www.channelnews.com.au/opinion-tech-media-is-dying-google-are-the-bastards-responsible/",
+   "source": "ChannelNews.com.au",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-27T22:44:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-27T23:34:27+00:00",
+   "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
+   "url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-27T23:59:51+00:00",
+   "snippet": "OpenAI plans to buy Google ’s AI chips, according to a person familiar with the matter, in a boost for a rising competitor to OpenAI backer Nvidia. Financial terms and other details of OpenAI’s planned purchase couldn’t be learned. But any deal for it to buy tensor processing units would be a big wi",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Mastercard, MrBeast’s Beast Industries join forces to connect creator culture with commerce",
+   "url": "https://marketech-apac.com/mastercard-mrbeasts-beast-industries-join-forces-to-connect-creator-culture-with-commerce/",
+   "source": "marketech apac",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-28T06:40:11+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How can an early-stage subscription app make an affiliate offer worthwhile for creators?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xgmb18/how_can_an_earlystage_subscription_app_make_an/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-27T07:47:00+00:00",
+   "snippet": "I’m building an early-stage health and wellness app and trying to find a sustainable way to work with creators. We currently offer creators full product access and 30% of subscription revenue from referred customers for 12 months. We don’t have a budget for guaranteed upfront fees yet. Several creat",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "What is the one software or tool you absolutely need to run your affiliate business, aside from WordPress/Hosting?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xgp8kf/what_is_the_one_software_or_tool_you_absolutely/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-27T10:49:16+00:00",
+   "snippet": "I am trying to optimize my workflow and see where I am wasting time. Aside from the basics like hosting and a keyword research tool (like Ahrefs/SEMrush), what is the one tool that actually saves you time or prevents you from losing money? Are you using any link monitors, automated social posters, o",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "What are some working traffic sources for pharma programs?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xgvnst/what_are_some_working_traffic_sources_for_pharma/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-27T15:30:36+00:00",
+   "snippet": "So far tried social media paid traffic, conversion rate is decent but campaigns approval rate is so low and it’s so frustrating. Any idead for pharma/supplements niche that are worth trying? submitted by /u/paulpaul25 [link] [comments]",
+   "matched_keywords": []
+  },
+  {
+   "title": "535K views a week, $199 a month from youtube",
+   "url": "https://www.reddit.com/r/AiAutomations/comments/1xgx97v/535k_views_a_week_199_a_month_from_youtube/",
+   "source": "r/AiAutomations",
+   "group": "Reddit",
+   "feed_id": "reddit-search-06",
+   "published": "2026-10-27T16:29:01+00:00",
+   "snippet": "Vadim pulled up the vidiq panel for a clip channel called tjrmindset. 14.7k subscribers, 535,276 views in 7 days, and youtube estimates it makes $199 a month. half a million weekly views for a couple hundred bucks. as an adsense business that's terrible. but the channel has a link in bio, and that's",
+   "matched_keywords": [
+    "creator",
+    "link in bio",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Is anyone know any good dating mainstream offers for USA on CPL basis ?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xh3ze8/is_anyone_know_any_good_dating_mainstream_offers/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-27T20:34:37+00:00",
+   "snippet": "Hey all I am looking for mainstream dating offers for USA on CPL if you have an offer please let me know submitted by /u/Georgetheaff [link] [comments]",
+   "matched_keywords": []
+  },
+  {
+   "title": "Streaming tonight",
+   "url": "https://www.reddit.com/r/twitchfollow4follow/comments/1xh5ml7/streaming_tonight/",
+   "source": "r/twitchfollow4follow",
+   "group": "Reddit",
+   "feed_id": "reddit-search-06",
+   "published": "2026-10-27T21:38:08+00:00",
+   "snippet": "ot live HERE tonight 👀 I'm on TWITCH at 7 PM ET — High on Life 2 Part 3. I need 3+ average viewers tonight for Twitch Affiliate viewer-day #1 — pull up and hang out, link in bio (Twitch — LIVE) 🟣 twitch.tv/blazeferg submitted by /u/ApprehensiveWin2481 to r/twitchfollow4follow [link] [comments]",
+   "matched_keywords": [
+    "affiliate",
+    "link in bio"
+   ]
+  },
+  {
+   "title": "Is choosing the right product more important than how you promote it?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xh6kvv/is_choosing_the_right_product_more_important_than/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-10-27T22:15:44+00:00",
+   "snippet": "I've been thinking about affiliate marketing lately, and I feel like people focus a lot on getting clicks, making content, and finding ways to drive traffic. But what if the real problem is the product itself? You could make decent content and get people interested, but if the product isn't worth th",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "iPhone Duo Day 5: Rating My Most Used Apps",
+   "url": "https://youtu.be/y_wXH39zDt4",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-27T16:34:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "iPad mini OLED - 20 Things BEFORE Buying!",
+   "url": "https://youtu.be/EiaSMGtlXfc",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-27T17:51:03+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}

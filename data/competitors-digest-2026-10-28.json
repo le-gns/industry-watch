@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-28",
+ "summary": [
+  "A quiet day for competitors: Lasso, URLgenius and Button/Posttap had nothing new.",
+  "Amazon's own posts were corporate news (water, data centres, engineering roles), with nothing on Associates, OneLink or the Influencer program.",
+  "Goodreads leaned into the 'A Court of Splintered Harmony' (ACOTAR 6) launch, the biggest book release of the week.",
+  "Reddit searches were rate-limited, so Reddit chatter about competitors wasn't checked today."
+ ],
+ "competitors": [
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "items": [
+    {
+     "title": "Goodreads Readers Are Excited About These 5 New Books Hitting Shelves—From ‘ACOTAR 6’ to Historical Fiction",
+     "url": "https://www.womansworld.com/entertainment/books/5-new-books-goodreads-readers-are-excited-about-this-week",
+     "source": "Woman's World",
+     "published": "2026-10-27T16:00:29+00:00",
+     "type": "news",
+     "why": "Goodreads readers' most-wanted list is driving coverage of this week's new books, led by ACOTAR 6. A big launch week like this is when authors and readers click the most book links."
+    },
+    {
+     "title": "Happy ACOSH release day to all who celebrate",
+     "url": "https://x.com/goodreads/status/2115091823479648588",
+     "source": "X @goodreads",
+     "published": "2026-10-27T14:42:41Z",
+     "type": "social",
+     "why": "Goodreads marking the ACOTAR 6 release day on X."
+    }
+   ]
+  }
+ ]
+}
