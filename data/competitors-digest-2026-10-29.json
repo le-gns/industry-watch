@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-29",
+ "summary": [
+  "Lasso, URLgenius and Button/Posttap were quiet.",
+  "Bitly's consumer survey: 79% have abandoned after a social link landed on a homepage instead of the product, and 48% say branded short links make them comfortable clicking.",
+  "ShopMy hired ex-Trade Desk exec Jed Dederick as chief revenue officer to scale creator commerce.",
+  "Amazon's news was all new Alexa and Echo devices, nothing on Associates, OneLink or Influencer.",
+  "YouTube ad growth slowed to 9% while paid subscriptions passed 150 million."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon unveils its newest lineup of Alexa devices",
+     "url": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+     "source": "aboutamazon.com",
+     "published": "2026-10-28T11:57:05+00:00",
+     "type": "blog",
+     "why": "Device launches only; nothing on Amazon's affiliate or creator tools."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Bitly\u2019s New Data Says SEOs Are Half Right About Short Links",
+     "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+     "source": "Search Engine Journal",
+     "published": "2026-10-28T19:00:59+00:00",
+     "type": "news",
+     "why": "Bitly's survey backs the case for branded links that go straight to the product page with few redirects, and says in-app browsers often strip tracking. That's the problem Geniuslink solves, and Bitly is using it in its marketing."
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "ShopMy Taps Ex-Trade Desk Vet Jed Dederick as CRO to Scale Creator Commerce",
+     "url": "https://www.adweek.com/programmatic/shopmy-taps-ex-trade-desk-vet-jed-dederick-as-cro-to-scale-creator-commerce/",
+     "source": "ADWEEK",
+     "published": "2026-10-28T13:19:07+00:00",
+     "type": "news",
+     "why": "ShopMy is hiring for ad-industry scale and measurement, a sign creator commerce platforms are trying to look like big ad channels.",
+     "paywall": true
+    },
+    {
+     "title": "What\u2019s Trending in Beauty Right Now, According to ShopMy",
+     "url": "https://puck.news/fashion/2026/10/whats-trending-in-beauty-right-now-according-to-shopmy",
+     "source": "Puck",
+     "published": "2026-10-28T22:28:50+00:00",
+     "type": "news",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube ad revenue gains 9% to $11.2bn, its slowest growth of 2026",
+     "url": "https://ppc.land/youtube-ad-revenue-gains-9-to-11-2bn-its-slowest-growth-of-2026/",
+     "source": "PPC Land",
+     "published": "2026-10-29T05:14:18+00:00",
+     "type": "news"
+    },
+    {
+     "title": "YouTube\u2019s living room TV viewership now brings in one-third of its ad revenue",
+     "url": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/",
+     "source": "Tubefilter",
+     "published": "2026-10-28T23:06:44+00:00",
+     "type": "news"
+    },
+    {
+     "title": "YouTube holiday playbook cites 30% creator ad lift with no source",
+     "url": "https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/",
+     "source": "PPC Land",
+     "published": "2026-10-28T20:39:10+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "lnkbio",
+   "name": "Lnk.Bio",
+   "priority": false,
+   "items": [
+    {
+     "title": "\ud83c\udfa8 Two new ways to customize your LnkBio page! \ud83d\uddbc\ufe0f Add black or white overlays to block background images for better readability. \ud83d\udd20 Adjust your profile Name and U\u2026",
+     "url": "https://www.linkedin.com/posts/lnkbio_background-image-overlays-and-profile-text-activity-7521450605156921344-Kcat",
+     "source": "LinkedIn \u00b7 Lnk.Bio",
+     "published": "2026-10-29T05:59:26.062000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

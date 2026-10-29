@@ -1,0 +1,1195 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T08:11:57.796418+00:00",
+ "lookback_hours": 30,
+ "item_count": 105,
+ "google_news_links": 74,
+ "google_news_resolved": 74,
+ "feeds_ok": 51,
+ "feeds_failed": 22,
+ "items": [
+  {
+   "title": "Hisense 75-inch Smart Fire TV deal: $150 off at Amazon",
+   "url": "https://mashable.com/article/june-11-hisense-75-inch-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T09:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "McDonald’s x Pokémon TCG: Collab adds plastic toy boxes and 15 cards in November",
+   "url": "https://mashable.com/life/mcdonalds-pokemon-tcg-happy-meal-toy-dates",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T14:52:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Shop this best-selling Trendy Queen top for just $12, perfect for fall",
+   "url": "https://nypost.com/2026/10/28/shopping/shop-this-best-selling-trendy-queen-top-for-just-12-perfect-for-fall/",
+   "source": "New York Post",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T16:04:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "'A Bad Deal in Mormon Land' smashes faith, crime and history into a wry, page-turning thriller",
+   "url": "https://www.wbur.org/hereandnow/2026/10/28/a-bad-deal-in-mormon-land",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-10-28T16:12:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Polish marketplace Allegro plans to expand delivery of goods to Ukraine. What is known?",
+   "url": "https://dev.ua/en/news/allegro-1793203996",
+   "source": "dev.ua",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-23",
+   "published": "2026-10-28T16:22:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "CMF Clip Pro earbuds drop to $69, matching Prime Day low",
+   "url": "https://www.soundguys.com/cmf-clip-pro-deal-amazon-165560/",
+   "source": "SoundGuys",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T16:26:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Amazon drops Tapo MagCam 2K+ Security Camera below its Prime Day price",
+   "url": "https://www.androidauthority.com/amazon-drops-tapo-magcam-c425-below-3729320/",
+   "source": "Android Authority",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T18:14:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "This stunning TCL 75-inch R7D 4K TV is $599.99 on Amazon — score the best-ever price on Prime Day",
+   "url": "https://mashable.com/tech/oct-6-october-prime-day-tcl-75-inch-r7d-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T21:07:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Monster TV price drop: The Hisense 65-inch U7 Mini-LED drops to $847.99 at Amazon",
+   "url": "https://mashable.com/tech/sept-22-hisense-65-inch-u7-google-tv-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T21:11:23+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best iPad deal: the 11-Inch iPad A16 is down to $399 at Amazon",
+   "url": "https://mashable.com/tech/oct-25-apple-ipad-11-inch-a16-amazon-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T21:21:46+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best LG deal: Save $815 on the LG 45-Inch Ultragear WQHD OLED curved gaming monitor",
+   "url": "https://mashable.com/tech/oct-8-lg-45-inch-ultragear-gaming-monitor-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T21:26:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Belkin UltraCharge Pro power banks: Specs, price, where to buy",
+   "url": "https://mashable.com/tech/belkin-ultracharge-pro-semi-solid-state-power-banks",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-10-28T21:30:19+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Bigger than Bing or Xbox: Microsoft’s OpenAI haul reaches $10B in quarterly revenue",
+   "url": "https://www.geekwire.com/2026/bigger-than-bing-or-xbox-microsofts-openai-haul-reaches-10b-in-quarterly-revenue/",
+   "source": "GeekWire",
+   "group": "Amazon & retailer programs",
+   "feed_id": "src-geekwire",
+   "published": "2026-10-28T23:28:53+00:00",
+   "snippet": "OpenAI generated $10 billion in revenue for Microsoft in the quarter ended Sept. 30, about 11% of Microsoft's total, according to the company's quarterly filing. That's more than Microsoft made in the quarter from Xbox, search and advertising, or Windows PC licensing and Surface devices. Read More",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Elite Agent Insiders can now have their own Front Page at yourname.eliteagent.au",
+   "url": "https://eliteagent.com/elite-agent-front-page-personal-websites/",
+   "source": "Elite Agent",
+   "group": "Competitors",
+   "feed_id": "gnews-10",
+   "published": "2026-10-28T09:08:22+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Top 10 Best Content Creation Platforms In South Africa 2026",
+   "url": "https://nubiapage.com/top-10-best-content-creation-platforms-in-south-africa/",
+   "source": "Nubia Magazine!",
+   "group": "Competitors",
+   "feed_id": "gnews-10",
+   "published": "2026-10-28T10:43:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "What’s Trending in Beauty Right Now, According to ShopMy",
+   "url": "https://puck.news/fashion/2026/10/whats-trending-in-beauty-right-now-according-to-shopmy",
+   "source": "Puck",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-28T22:28:50+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "shopmy"
+   ]
+  },
+  {
+   "title": "Motorola Bluetooth Headset - Motorola levanta su apuesta en el segmento premium con el nuevo",
+   "url": "https://www.auroradesio.it/top/224965933/",
+   "source": "auroradesio.it",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-29T01:13:12+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "levanta"
+   ]
+  },
+  {
+   "title": "Australia's 136,000 ghost homes revealed by Ray White",
+   "url": "https://eliteagent.com/australia-s-136-000-ghost-homes-revealed-by-ray-white/",
+   "source": "Elite Agent",
+   "group": "Competitors",
+   "feed_id": "gnews-10",
+   "published": "2026-10-29T01:37:24+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Closet Shoes - Shoe Storage Ideas For Closet at Abby Grover blog",
+   "url": "https://www.auroradesio.it/top/283543233/",
+   "source": "www.auroradesio.it",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-10-29T03:09:21+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "India Social Commerce Market 2026-2034: Projected To Hit USD 54.4 Billion at 22.31% CAGR",
+   "url": "https://www.openpr.com/news/4674696/india-social-commerce-market-2026-2034-projected-to-hit-usd",
+   "source": "openPR.com",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-28T07:15:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "social commerce"
+   ]
+  },
+  {
+   "title": "ShopMy Taps Ex-Trade Desk Vet Jed Dederick as CRO to Scale Creator Commerce",
+   "url": "https://www.adweek.com/programmatic/shopmy-taps-ex-trade-desk-vet-jed-dederick-as-cro-to-scale-creator-commerce/",
+   "source": "Adweek",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-adweek",
+   "published": "2026-10-28T09:19:07+00:00",
+   "snippet": "Jed Dederick wants to bring programmatic-style scale and measurement to creator commerce, starting with a pay-for-performance product the company is wary of calling ads",
+   "matched_keywords": [
+    "creator",
+    "shopmy"
+   ]
+  },
+  {
+   "title": "5 ways media companies are growing audiences and revenue on YouTube",
+   "url": "https://blog.youtube/creator-and-artist-stories/media-companies-youtube-growth-strategies/",
+   "source": "YouTube Official Blog",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-youtube-official-blog",
+   "published": "2026-10-28T11:00:00+00:00",
+   "snippet": "As MIPCOM 2026 took place, storied media companies and broadcasters across Europe are investing in meeting YouTube viewers where they are with high quality content. And …",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Global AI leaders gather in Dubai as the emirate expands its ambitions",
+   "url": "https://fortune.com/2026/10/28/global-ai-leaders-gather-dubai-emirate-expands-ambitions-ai-festival/",
+   "source": "Fortune",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-28T11:33:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Cheil India Hires Former Reckitt Digital Creative Lead to Run Samsung’s Social and Influencer Marketing",
+   "url": "https://www.netinfluencer.com/cheil-india-hires-former-reckitt-digital-creative-lead-to-run-samsung-social-and-influencer-marketing/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-28T12:04:47+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "Twitch Lets Partners Promote ‘Stream Recap’ Clips on Instagram, YouTube Through New Program",
+   "url": "https://www.netinfluencer.com/twitch-lets-partners-promote-stream-recap-clips-on-instagram-youtube-through-new-program/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T12:08:39+00:00",
+   "snippet": "Twitch is launching “Recaps Spotlight,” a program that lets partner companies share clips from streamers’ “Stream Recaps” on social platforms outside Twitch, including Instagram and YouTube. Under the program, Twitch’s distribution partners may select standout clips from a streamer’s “Stream Recap” ",
+   "matched_keywords": [
+    "instagram",
+    "youtube"
+   ]
+  },
+  {
+   "title": "YouTube Launches Shorts Series Feature as Microdramas Pass 6.5B Views in H1 2026",
+   "url": "https://www.netinfluencer.com/youtube-launches-shorts-series-feature-as-microdramas-pass-6-5b-views-in-h1-2026/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T12:39:32+00:00",
+   "snippet": "YouTube has introduced a Shorts series feature that lets creators organize vertical videos into seasons and episodes, as microdramas on the platform surpassed 6.5 billion views in the first half of 2026, according to a company blog post published Oct. 27. YouTube is also adding custom thumbnails and",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "beehiiv Launches Podcast Advertising Tools With No Minimum Download Requirement",
+   "url": "https://www.netinfluencer.com/beehiiv-launches-podcast-advertising-tools-with-no-minimum-download-requirement/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T12:41:15+00:00",
+   "snippet": "beehiiv has launched a suite of podcast advertising tools that lets creators and publishers of any size earn from their shows, with no minimum download count required to participate. The suite combines dynamic ad insertion, programmatic advertising, and creator-sold sponsorship management on the pla",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Billion Dollar Boy Group Names 60 Creators to Inaugural Impact List",
+   "url": "https://www.netinfluencer.com/billion-dollar-boy-group-names-60-creators-to-inaugural-impact-list/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T12:43:36+00:00",
+   "snippet": "Billion Dollar Boy, FiveTwoNine and Companion have released the first edition of “The Impact List,” an annual award recognizing 60 creators across six categories. More than 600 creators applied or were peer-nominated, and a jury of 22 industry figures scored the shortlist. The list is organized into",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How The Content Code Turned Fenix Flexin’s Viral Hit Into Brand Deals and Media Collaborations",
+   "url": "https://www.netinfluencer.com/how-the-content-code-turned-fenix-flexin-viral-hit-into-brand-deals-and-media-collaborations/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T12:58:54+00:00",
+   "snippet": "Rapper Fenix Flexin posted a snippet of his song “RUBBERZ” on Instagram and drew 15 million views in a few days, against an average of a few hundred thousand. The opportunities that followed ran into the hundreds, and the job was to pick two or three and execute them well. That selection fell to The",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "TikTok Shop Sellers Are Prioritizing Creator Sales Over Volume, FastMoss Expo Shows",
+   "url": "https://www.netinfluencer.com/tiktok-shop-sellers-are-prioritizing-creator-sales-over-volume-fastmoss-expo-shows/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T13:00:28+00:00",
+   "snippet": "YFCon, the TikTok Shop expo run by data platform FastMoss, wrapped up in Anaheim in October 2026 with about 12,000 attendees. According to Rui Zhang, who heads marketing and PR at FastMoss and coordinated the event, the sellers there were more focused on finding creators who could drive sales than o",
+   "matched_keywords": [
+    "creator",
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "MrBeast and Mastercard Want to Build the Creator Economy’s Financial Layer",
+   "url": "https://wersm.com/mrbeast-mastercard-creator-economy-financial-layer-2/",
+   "source": "WeRSM",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-10-28T13:06:31+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "AnyMind Group Partners With Meta to Link Facebook, Instagram Live Video Ads to Live Commerce",
+   "url": "https://www.netinfluencer.com/anymind-group-partners-with-meta-to-link-facebook-instagram-live-video-ads-to-live-commerce/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-10-28T14:50:59+00:00",
+   "snippet": "AnyMind Group, a BPaaS company for marketing, e-commerce, and digital transformation, announced a partnership with Meta that lets enterprises use Facebook and Instagram live video ads to bring new audiences into live commerce streams. According to AnyMind, live commerce has largely depended on audie",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Google Stock Sinks as AI Mode Pressures Search Ad Growth",
+   "url": "https://www.adweek.com/media/google-stock-sinks-as-ai-mode-pressures-search-ad-growth/",
+   "source": "Adweek",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-adweek",
+   "published": "2026-10-28T19:36:14+00:00",
+   "snippet": "Google is pushing more ads into AI Mode and AI Overviews and weighing options for integrating ads in agentic experiences.",
+   "matched_keywords": [
+    "agentic",
+    "ai mode",
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "Dubai’s AI agent hub, Adnoc’s data push and YouTube Shopping",
+   "url": "https://enterpriseam.com/ai/2026/10/29/dubais-ai-agent-hub-adnocs-data-push-and-youtube-shopping/",
+   "source": "EnterpriseAM",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-28T21:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "youtube",
+    "youtube shopping"
+   ]
+  },
+  {
+   "title": "Google Subscriptions, Devices Hit $14.3B; YouTube Tops 150M",
+   "url": "https://fourweekmba.com/ai-google-subscriptions-devices-hit-14-3b-youtube-tops-150m/",
+   "source": "FourWeekMBA",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-28T22:10:44+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
+   "url": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/",
+   "source": "Tubefilter",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-28T23:06:44+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Alphabet Shares Slide After Earnings Miss as YouTube Ad Growth Slows",
+   "url": "https://lowerbuckstimes.com/2026/10/28/alphabet-shares-slide-after-earnings-miss-as-youtube-ad-growth-slows/",
+   "source": "Lower Bucks Times",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-28T23:24:35+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "AliExpress preps 11.11 Global Shopping Festival as Brand+ marks first anniversary",
+   "url": "https://retailtechinnovationhub.com/home/2026/10/29/aliexpress-preps-1111-global-shopping-festival-as-brand-marks-first-anniversary",
+   "source": "Retail Technology Innovation Hub",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-29T05:19:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "YouTube tops 150 million paid subscribers as ad revenue growth slows",
+   "url": "https://www.moneycontrol.com/technology/youtube-tops-150-million-paid-subscribers-as-ad-revenue-growth-slows-article-14063222.html",
+   "source": "Moneycontrol.com",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-10-29T05:43:52+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Programmatic, FAST And Queerness – The Trifecta Of Revry’s Future",
+   "url": "https://www.adexchanger.com/tv/programmatic-fast-and-queerness-the-trifecta-of-revrys-future/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-28T08:45:51+00:00",
+   "snippet": "The law-professional-to-queer-media-founder pipeline is not a particularly common one. But it’s exactly how Alia J. Daniels came to co-found Revry, a free streaming platform centering LGBTQ+ storylines. Revry is home to PrismRiot, a programmatic ad exchange that also connects advertisers to other mu",
+   "matched_keywords": []
+  },
+  {
+   "title": "Iconic Media Group acquires Ulster Tatler publisher",
+   "url": "https://www.inpublishing.co.uk/articles/iconic-media-group-acquires-ulster-tatler-publisher-29055",
+   "source": "InPublishing",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T08:57:09+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Unity for iGaming: Why It Became the Go-To In-App Source—and How to Actually Work With It",
+   "url": "https://www.affiversemedia.com/unity-igaming-in-app-traffic/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-28T09:37:33+00:00",
+   "snippet": "By Traffy — a performance marketing agency specializing in in-app user acquisition, with 10+ years buying mobile and social traffic across 50+ GEOs for iGaming, Crypto, Fintech and e-commerce. A...",
+   "matched_keywords": [
+    "performance marketing"
+   ]
+  },
+  {
+   "title": "SoFire’s Hot Campaigns: How Gymshark and @6ekahhh Run a Lasting Partnership Based on Pilates and Memes",
+   "url": "https://hellopartner.com/sofires-hot-campaigns-how-gymshark-and-6ekahhh-run-a-lasting-partnership-based-on-pilates-and-memes/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-28T10:27:13+00:00",
+   "snippet": "Gymshark worked with @6ekahhh for a simple but effective gym campaign.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Winning in the Answer Era",
+   "url": "https://impact.com/?bylines=winning-in-the-answer-era",
+   "source": "impact.com",
+   "group": "Affiliate industry",
+   "feed_id": "src-impact-com",
+   "published": "2026-10-28T11:19:06+00:00",
+   "snippet": "The post Winning in the Answer Era appeared first on impact.com .",
+   "matched_keywords": [
+    "impact.com"
+   ]
+  },
+  {
+   "title": "DAZN Adds Bookmaker Rankings in Betting Affiliate Move",
+   "url": "https://www.affiversemedia.com/dazn-bookmaker-rankings-affiliate-marketing/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-28T12:17:21+00:00",
+   "snippet": "DAZN has published bookmaker rankings and content promoting welcome and bonus offers, according to an October 27 report from EGR. The reported DAZN affiliate marketing move brings the sports media...",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Feedvisor Examines How Shoppers Check AI Product Recommendations",
+   "url": "https://www.affiversemedia.com/feedvisor-ai-product-recommendations-shopping-research/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-28T12:22:46+00:00",
+   "snippet": "Just 5% of respondents say they would buy immediately after receiving an AI product recommendation, according to Feedvisor research. The company commissioned Zogby Analytics to survey 1,006 US adults who...",
+   "matched_keywords": []
+  },
+  {
+   "title": "Marketbridge Acquires The B2B Advertising And Analytics Startup Channel99",
+   "url": "https://www.adexchanger.com/marketers/marketbridge-acquires-channel99-a-specialized-dsp-for-b2b/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-28T13:00:02+00:00",
+   "snippet": "Who doesn’t know that doleful tune, “The agencies they are a-changin’.” That’s not exactly how Bob Dylan sang it in the original, but it’s not wrong. One such agency is Marketbridge, a 35-year-old B2B marketing firm that’s been a recent acquirer of agency and consultancy services businesses. Marketb",
+   "matched_keywords": []
+  },
+  {
+   "title": "How the UK Budget Review Will Impact Creators: 5 Things to Know",
+   "url": "https://hellopartner.com/how-the-uk-budget-review-will-impact-creators-5-things-to-know/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-10-28T14:37:28+00:00",
+   "snippet": "Here is what the UK Budget review means for creators in the coming tax year.",
+   "matched_keywords": []
+  },
+  {
+   "title": "3.1 miles of trail open at Northwest Park in New Braunfels",
+   "url": "https://communityimpact.com/new-braunfels/government/3-1-miles-of-trail-open-at-northwest-park-in-new-braunfels/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T16:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
+   "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-28T16:00:04+00:00",
+   "snippet": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it introduced last year, and a new generative recommendations model (GenRecs) buil",
+   "matched_keywords": []
+  },
+  {
+   "title": "Samsung Wallet Launches New Cash Back Experience With Rakuten and Samsung Cash",
+   "url": "https://news.samsung.com/us/samsung-wallet-launches-new-cash-back-experience-rakuten-samsung-cash/",
+   "source": "samsung.com",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-28T18:07:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Google Earned More Than $100 Billion In Ad Revenue Last Quarter, But Is It Even An Ad Business?",
+   "url": "https://www.adexchanger.com/platforms/google-earned-more-than-100-billion-in-ad-revenue-last-quarter-but-is-it-even-an-ad-business/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-29T00:45:22+00:00",
+   "snippet": "What Google advertising business? To be fair, Google did earn $127.6 billion in Q3 this year, up a staggering 25% from a year before. And that’s practically all from advertising. YouTube Ads cleared $11.2 billion, up almost 10% year over year, while Google Search advertising grew from $56.6 billion ",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "10 Best Influencer Marketing Software in 2027: My Top Picks",
+   "url": "https://learn.g2.com/best-influencer-marketing-software",
+   "source": "G2 Learn Hub",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-29T01:39:17+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "TxDOT wraps up $677M Oak Hill Parkway expansion project",
+   "url": "https://communityimpact.com/southwest-austin-dripping-springs/transportation/txdot-wraps-up-677m-oak-hill-parkway-expansion-project/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T01:54:32+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Harris County Public Health launches neighborhood health map dashboard",
+   "url": "https://communityimpact.com/bay-area/healthcare/harris-county-public-health-launches-neighborhood-health-map-dashboard/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T02:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Old Chicago Pizza + Taproom closes in north Fort Worth | Keller - Roanoke - Northeast Fort Worth",
+   "url": "https://communityimpact.com/keller-roanoke-northeast-fort-worth/dining/old-chicago-pizza-taproom-closes-in-north-fort-worth/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T02:39:19+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten Travel Launches Autumn/Winter Sale, Offering Up to 30% Off Domestic Stays",
+   "url": "https://en.traicy.com/posts/2026102941708/",
+   "source": "TRAICY Global",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T02:49:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "McAdams acquires McKinney-based Sports Design Group",
+   "url": "https://communityimpact.com/mckinney/business/mcadams-acquires-mckinney-based-sports-design-group/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T02:50:52+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Fort Worth considers incentives to land Beacon Modular project",
+   "url": "https://communityimpact.com/keller-roanoke-northeast-fort-worth/government/fort-worth-considers-costs-to-secure-project-promising-over-600-new-jobs/",
+   "source": "Community Impact Newspaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T03:27:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Times of London is gearing up to test ‘macro payments’",
+   "url": "https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-29T04:01:00+00:00",
+   "snippet": "The Times has a plan for readers who don’t want to subscribe.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why the 2026 midterms could mark a turning point for influencers in political campaigns",
+   "url": "https://digiday.com/marketing/why-the-2026-midterms-could-mark-a-turning-point-for-influencers-in-political-campaigns/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-29T04:01:00+00:00",
+   "snippet": "See how campaigns are recruiting creators for 2026 midterms as disclosure rules lag and voter trust becomes the real battleground.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Retailers are still figuring out how to tie AI goals to executive compensation",
+   "url": "https://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-29T04:01:00+00:00",
+   "snippet": "AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Media Briefing: Publishers are selling more subscriptions to smaller audiences. The midterms are the next test.",
+   "url": "https://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-10-29T04:01:00+00:00",
+   "snippet": "Ahead of the U.S. midterms and with referral traffic declines, news publishers are racing to turn election interest into paying subscribers.",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Server-Side Escape Plan; A Lament For The Dead Internet",
+   "url": "https://www.adexchanger.com/daily-news-roundup/thursday-29102026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-29T04:03:57+00:00",
+   "snippet": "Should identity infrastructure move server-side? Plus: The “dead internet theory” hardly seems like a theory anymore. The post The Server-Side Escape Plan; A Lament For The Dead Internet appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Can We Really Blame Apple For Blocking ID Tech?",
+   "url": "https://www.adexchanger.com/data-driven-thinking/can-we-really-blame-apple-for-blocking-id-tech/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-29T04:35:21+00:00",
+   "snippet": "Earlier this month, ad tech received its latest warning about the cybersecurity vulnerabilities baked into programmatic advertising. That context is largely missing from discussions about Apple’s plan to disable the third-party ID infrastructure that powers digital advertising on iOS and Mac devices",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta’s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
+   "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-10-29T05:00:13+00:00",
+   "snippet": "Last week, a district court judge in New Mexico ordered Meta to pay $25 billion for misleading Facebook users about how it handled their data. It’s an eye-popping number, not only the largest fine ever levied against Meta, but also the largest ever levied against any technology company. The thing is",
+   "matched_keywords": []
+  },
+  {
+   "title": "Is adtech broken? What does your dashboard say?",
+   "url": "https://themediaonline.co.za/2026/10/is-adtech-broken-what-does-your-dashboard-say/",
+   "source": "The Media Online",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-10-29T05:03:28+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "South Korean investment firms step up ties with Japanese financial companies",
+   "url": "https://www.digitaltoday.co.kr/en/view/121462/south-korean-investment-firms-step-up-ties-with-japanese-financial-companies-why",
+   "source": "디지털투데이",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-10-29T07:36:05+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Affiliate Marketing Podcast: Key Takeaways and Season 26 Highlights",
+   "url": "https://www.affiversemedia.com/affiliate-marketing-podcast-season-26-highlights/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-10-29T08:00:00+00:00",
+   "snippet": "Season 26 of the Affiliate Marketing Podcast explored how affiliate teams are putting AI to work, finding new traffic opportunities, and managing the risks that come with growth. Across nine...",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Azoma raises USD $11.2 million to boost AI shopping tools",
+   "url": "https://itbrief.co.uk/story/azoma-raises-usd-11-2-million-to-boost-ai-shopping-tools",
+   "source": "IT Brief UK",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-28T08:11:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "Organic traffic is down, but it’s not all AI",
+   "url": "https://searchengineland.com/organic-traffic-down-not-all-ai-499133",
+   "source": "Search Engine Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-28T12:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Hedges Against AI Shopping Agents With 250 Million Outside Listings",
+   "url": "https://www.theinformation.com/articles/amazon-lists-250-million-products-rival-sites-effort-battle-agents",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-28T13:00:46+00:00",
+   "snippet": "For more than a year, Amazon has blocked outside shopping agents from its site while finding ways for its own customers to shop elsewhere. Now a new wave of AI assistants like Meta’s Muse is raising the stakes. In recent months Amazon has stepped up its Shop Direct initiative, which promotes product",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "Don't Want to See Google's AI Overviews? You Can't Turn Them Off, But You Can Do This",
+   "url": "https://au.pcmag.com/ai/105350/dont-want-to-see-google-ai-overviews-cant-turn-off-but-you-can-do-this",
+   "source": "PCMag Australia",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-28T14:01:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-28T17:00:00+00:00",
+   "snippet": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Google Launches Gemini 4 Carbon, Its Second Major AI Model in a Month",
+   "url": "https://www.theinformation.com/briefings/google-launches-gemini-4-carbon-second-major-ai-model-month",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-28T17:43:40+00:00",
+   "snippet": "Google unveiled Gemini 4 Carbon, which it said is significantly more capable than the model it released less than a month ago, as the company steps up efforts to contend with the leading frontier labs. The back-to-back launches come after nearly a year where Google didn’t release a new flagship ...",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Google opens preview for third-party apps inside Search and Gemini",
+   "url": "https://ppc.land/google-opens-preview-for-third-party-apps-inside-search-and-gemini/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T18:15:07+00:00",
+   "snippet": "Developers plug in via a cloud MCP server or Android AppFunctions and pick Search, Gemini or both. What the post leaves out: fees, app ranking and data terms.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Seismic Brings Agentic Revenue Execution for GTM Teams",
+   "url": "https://www.demandgenreport.com/industry-news/news-brief/seismic-brings-agentic-revenue-execution-for-gtm-teams/55100/",
+   "source": "Demand Gen Report",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-10-28T19:03:57+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Meta says Andromeda lifted Facebook conversions 2.4% since 2025",
+   "url": "https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T19:17:08+00:00",
+   "snippet": "Every eligible ad on Facebook and Instagram is now scored at over 1bn a second per GPU server, 100x the 2024 rate. What sits behind Meta's conversion claim?",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "AI was involved in 52% of ad fraud schemes ADEX flagged in 2026",
+   "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T19:20:22+00:00",
+   "snippet": "Bots posing as humans appeared in 64% of AI-linked schemes across 1.2m campaigns on eight ad platforms, ADEX says. Could AI shopping agents be next in 2027?",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-28T20:03:00+00:00",
+   "snippet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-",
+   "matched_keywords": [
+    "agentic",
+    "gemini"
+   ]
+  },
+  {
+   "title": "YouTube holiday playbook cites 30% creator ad lift with no source",
+   "url": "https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T20:34:08+00:00",
+   "snippet": "Brands are told to make at least half of holiday ad assets creator-led and to budget for 50 conversions. Which of the figures in Google's guide can be checked?",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Microsoft Revenue Growth Accelerates Slightly But Data Centers Dampen Cash Flows",
+   "url": "https://www.theinformation.com/briefings/microsoft-revenue-growth-accelerates-slightly-data-centers-dampen-cash-flows",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-28T20:39:45+00:00",
+   "snippet": "Microsoft revenue rose 19% to $92.3 billion in the September quarter, 1 percentage point faster than the growth it reported in the second quarter. Accelerating sales in its Azure cloud unit, driven in part by server rental revenue from OpenAI, offset the slight revenue decreases in its Xbox and ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Invoca AI agents book appointments from chats started in Google Search",
+   "url": "https://ppc.land/invoca-ai-agents-book-appointments-from-chats-started-in-google-search/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T20:58:10+00:00",
+   "snippet": "Message ads, sitelinks and featured snippets open RCS chats for telecom, finance and travel brands. Beta excludes health data. Who answers: Gemini or Invoca?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Taboola gains Motorola lockscreens for its DeeperDive AI answer engine",
+   "url": "https://ppc.land/taboola-gains-motorola-lockscreens-for-its-deeperdive-ai-answer-engine/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-28T20:59:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+   "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-28T21:16:18+00:00",
+   "snippet": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've s",
+   "matched_keywords": [
+    "kobo"
+   ]
+  },
+  {
+   "title": "Google's Genie 4 simulates people who talk back in real time",
+   "url": "https://ppc.land/googles-genie-4-simulates-people-who-talk-back-in-real-time/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-28T21:18:31+00:00",
+   "snippet": "Gemini 3.8 Flash guides scenes as an agent in the loop and SynthID will mark all output, yet only trusted testers have it. When do AI Ultra subscribers get in?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-10-28T21:34:30+00:00",
+   "snippet": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Shopify Adopts Agentic Payment Tech from Visa, Mastercard",
+   "url": "https://www.theinformation.com/briefings/shopify-adopts-agentic-payment-tech-visa-mastercard",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-28T22:58:02+00:00",
+   "snippet": "Shopify said it has added agentic payment technology created by Visa, Mastercard and American Express for its checkout feature, Shop Pay, a move that runs counter to how Stripe mainly handles agentic shopping and credit cards. Visa, Mastercard and American Express have introduced agentic ...",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-10-28T23:05:39+00:00",
+   "snippet": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs",
+   "url": "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-10-29T01:00:47+00:00",
+   "snippet": "OpenAI’s GPT-6 Astra, the most powerful model the company has released, has met with strong demand since its release in early September. One growing customer base: Chinese AI labs that look to extract Astra’s capabilities. DeepSeek and Moonshot AI, two of China’s leading AI developers, relied heavil",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "#e4mXplains: Google made $82 billion from ads. Why wasn't that enough?",
+   "url": "https://www.exchange4media.com/digital-news/google-made-82-billion-from-ads-why-wasnt-that-enough-159615.html",
+   "source": "Exchange4Media",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-10-29T03:56:02+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google Search sales gain just $79m on Q2 as query growth hits 5-year high",
+   "url": "https://ppc.land/google-search-sales-gain-just-79m-on-q2-as-query-growth-hits-5-year-high/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-29T04:59:20+00:00",
+   "snippet": "Search revenue growth fell to 12% from 17% in Q2 and YouTube ads slowed to 9%. With no paid click or CPC data, advertisers cannot see how AI Mode is priced.",
+   "matched_keywords": [
+    "ai mode",
+    "youtube"
+   ]
+  },
+  {
+   "title": "YouTube ad revenue gains 9% to $11.2bn, its slowest growth of 2026",
+   "url": "https://ppc.land/youtube-ad-revenue-gains-9-to-11-2bn-its-slowest-growth-of-2026/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-29T05:13:58+00:00",
+   "snippet": "Ad sales rose $152m on Q2 even as YouTube took a record 15.8% of US TV time in August. Music and Premium hit 150m subscribers. Are ads or fees driving growth?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Google's ad growth slows to 10.5% as AI Mode ads go to 10 more markets",
+   "url": "https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-29T05:20:05+00:00",
+   "snippet": "Alphabet's Q3 ad revenue rose 10.5% to about $82 billion as AI Mode squeezed search ad slots, and Google said ads in AI Mode would now reach 10 more markets.",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "Gemini app gains 350m users in a year to pass 1bn, Alphabet says",
+   "url": "https://ppc.land/gemini-app-gains-350m-users-in-a-year-to-pass-1bn-alphabet-says/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-10-29T05:28:16+00:00",
+   "snippet": "API traffic rose 40% in three months to nearly 32bn tokens a minute, and Carbon tops one AI index. Agents come to Search next, with monetization to follow.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Food adulteration to dog bites: Mangaluru KDP meet flags key public concerns",
+   "url": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1333722",
+   "source": "Daijiworld",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-28T11:45:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Ink & Ember to bring books, coffee and cocktails to Bridlesmith Gate",
+   "url": "https://westbridgfordwire.com/ink-ember-to-bring-books-coffee-and-cocktails-to-bridlesmith-gate/",
+   "source": "West Bridgford Wire",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-28T15:27:02+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Kindle Unlimited is now Kindle+ and includes audiobooks",
+   "url": "https://janefriedman.com/kindle-unlimited-is-now-kindle-and-includes-audiobooks/",
+   "source": "Jane Friedman",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-10-28T16:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Spark Leaf Publishing outlines how to plan book marketing",
+   "url": "https://www.openpr.com/news/4675523/spark-leaf-publishing-outlines-how-to-plan-book-marketing",
+   "source": "openPR.com",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-28T17:24:03+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "book marketing"
+   ]
+  },
+  {
+   "title": "James Patterson Has Enraged BookTok With His Controversial Release Announcement",
+   "url": "https://screenrant.com/james-patterson-online-controversy-romantasy-comments-explained/",
+   "source": "ScreenRant",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-10-28T18:38:18+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "booktok"
+   ]
+  },
+  {
+   "title": "Anyone else just get a huge backdated increase in Creator Connections earnings?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xhsne6/anyone_else_just_get_a_huge_backdated_increase_in/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-10-28T16:19:35+00:00",
+   "snippet": "I just checked this month and last month. Huge increases in creator connections earnings. Will Amazon be giving us backpay for all of this? Or is it some sort of glitch? submitted by /u/Common-Bottle9410 [link] [comments]",
+   "matched_keywords": [
+    "creator",
+    "creator connections"
+   ]
+  },
+  {
+   "title": "Getting started",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xhvc3e/getting_started/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-10-28T17:55:13+00:00",
+   "snippet": "Any tips on how to maximize earnings etc. I’m new to Amazon influencer program and I’ve just got approved for onsite. submitted by /u/No_Rain1402 [link] [comments]",
+   "matched_keywords": [
+    "amazon influencer",
+    "influencer"
+   ]
+  },
+  {
+   "title": "AI Storefront. Report",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xiap8s/ai_storefront_report/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-10-29T04:46:55+00:00",
+   "snippet": "How are they able to join the program? Is there some kind of trick to getting accepted? I've reported so many storefronts with AI-generated videos like these. Link store : https://www.amazon.com/shop/natu.relove4236 report here: https://affiliate-program.amazon.com/contact submitted by /u/Knilove4a ",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Russell Brand has taken the stand on the first day of the defence's case at his rape trial at Southwark Crown Court Read more below.",
+   "url": "https://www.facebook.com/deadline/posts/russell-brand-has-taken-the-stand-on-the-first-day-of-the-defences-case-at-his-r/1474861277847541/",
+   "source": "Facebook",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-28T15:00:19+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "“You will never make it on a Yamaha from 1987” - I REACHED JAPAN 🇯🇵 | S8, EP168",
+   "url": "https://youtu.be/OiNOaoPDyAM",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-10-28T15:00:19+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}

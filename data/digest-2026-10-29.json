@@ -1,0 +1,270 @@
+{
+ "date": "2026-10-29",
+ "intro": "A busy day for AI shopping and search: Amazon widened Shop Direct, Google opened Search and Gemini to outside apps, and Alphabet's results showed AI Mode squeezing search ads. Reddit searches were rate-limited again, so Reddit is thin.",
+ "must_reads": [
+  {
+   "title": "Amazon Expands Shop Direct to Keep Shoppers Off AI Agents",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-expands-shop-direct-catalog-keep-shoppers-off-ai-shopping-agents/",
+   "source": "PYMNTS",
+   "published": "2026-10-28T13:00:00+00:00",
+   "why": "Why it matters for Geniuslink: Amazon now lists 250 million products it doesn't sell and sends shoppers to other stores, so it can stay the place people start shopping instead of AI agents. The fight over who owns the first click is getting sharper, and links that work across every store matter more when the big players each want to be the front door.",
+   "also": {
+    "source": "The Information",
+    "url": "https://www.theinformation.com/articles/amazon-lists-250-million-products-rival-sites-effort-battle-agents",
+    "paywall": true
+   }
+  },
+  {
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T17:00:00+00:00",
+   "why": "Why it matters for Geniuslink: Google is letting outside apps plug straight into Search and Gemini answers. More shopping and discovery will happen inside AI answers rather than on websites, so how links get chosen and tracked in those answers is becoming a real question."
+  },
+  {
+   "title": "Google's ad growth slows to 10.5% as AI Mode ads go to 10 more markets",
+   "url": "https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/",
+   "source": "PPC Land",
+   "published": "2026-10-29T05:20:05+00:00",
+   "why": "Why it matters for Geniuslink: Alphabet's ad growth slowed as AI Mode took space from normal search ads, and AI Mode ads are going to 10 more markets. Fewer classic search clicks puts more weight on other routes to buyers, like creators and their links."
+  },
+  {
+   "title": "Feedvisor Examines How Shoppers Check AI Product Recommendations",
+   "url": "https://www.affiversemedia.com/feedvisor-ai-product-recommendations-shopping-research/",
+   "source": "Affiverse Media",
+   "published": "2026-10-28T12:22:46+00:00",
+   "why": "Why it matters for Geniuslink: Only 5% of people would buy straight after an AI product recommendation; most go and check reviews and other sites first. AI isn't replacing the trusted recommendation yet, which is good news for creators and the links they share."
+  },
+  {
+   "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+   "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+   "source": "The Verge",
+   "published": "2026-10-28T21:16:18+00:00",
+   "why": "Why it matters for Geniuslink: Readwise is opening an ebook store to compete with Kindle and Kobo. Another place to buy books means more reasons for authors to send readers to a link that lets them pick their store."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Kindle Unlimited is now Kindle+ and includes audiobooks",
+     "url": "https://janefriedman.com/kindle-unlimited-is-now-kindle-and-includes-audiobooks/",
+     "source": "Jane Friedman",
+     "published": "2026-10-28T16:00:00+00:00",
+     "summary": "Jane Friedman's take for authors on the Kindle Unlimited rename to Kindle+, now with audiobooks (US only for now)."
+    },
+    {
+     "title": "Anyone else just get a huge backdated increase in Creator Connections earnings?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xhsne6/anyone_else_just_get_a_huge_backdated_increase_in/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-28T16:19:35+00:00",
+     "summary": "Amazon Influencers report a big backdated jump in Creator Connections earnings; unclear if it's a fix or a glitch."
+    },
+    {
+     "title": "AI Storefront. Report",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xiap8s/ai_storefront_report/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-10-29T04:46:55+00:00",
+     "summary": "Creators asking how AI-generated storefronts got into the Amazon Influencer program."
+    },
+    {
+     "title": "Samsung Wallet Launches New Cash Back Experience With Rakuten and Samsung Cash",
+     "url": "https://news.samsung.com/us/samsung-wallet-launches-new-cash-back-experience-rakuten-samsung-cash/",
+     "source": "samsung.com",
+     "published": "2026-10-28T18:07:34+00:00",
+     "summary": "Samsung Wallet adds cash back with Rakuten, another big app building shopping rewards in."
+    },
+    {
+     "title": "Shopify Adopts Agentic Payment Tech from Visa, Mastercard",
+     "url": "https://www.theinformation.com/briefings/shopify-adopts-agentic-payment-tech-visa-mastercard",
+     "source": "The Information",
+     "published": "2026-10-28T22:58:02+00:00",
+     "summary": "Shopify adds agentic payment tech from Visa, Mastercard and Amex so AI agents can pay.",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Twitch Lets Partners Promote \u2018Stream Recap\u2019 Clips on Instagram, YouTube Through New Program",
+     "url": "https://www.netinfluencer.com/twitch-lets-partners-promote-stream-recap-clips-on-instagram-youtube-through-new-program/",
+     "source": "Net Influencer",
+     "published": "2026-10-28T12:08:39+00:00",
+     "summary": "Twitch's new program lets partners share stream clips on Instagram and YouTube."
+    },
+    {
+     "title": "YouTube Launches Shorts Series Feature as Microdramas Pass 6.5B Views in H1 2026",
+     "url": "https://www.netinfluencer.com/youtube-launches-shorts-series-feature-as-microdramas-pass-6-5b-views-in-h1-2026/",
+     "source": "Net Influencer",
+     "published": "2026-10-28T12:39:32+00:00",
+     "summary": "YouTube adds Shorts series as microdramas pass 6.5B views."
+    },
+    {
+     "title": "beehiiv Launches Podcast Advertising Tools With No Minimum Download Requirement",
+     "url": "https://www.netinfluencer.com/beehiiv-launches-podcast-advertising-tools-with-no-minimum-download-requirement/",
+     "source": "Net Influencer",
+     "published": "2026-10-28T12:41:15+00:00",
+     "summary": "beehiiv podcast ad tools with no minimum downloads."
+    },
+    {
+     "title": "TikTok Shop Sellers Are Prioritizing Creator Sales Over Volume, FastMoss Expo Shows",
+     "url": "https://www.netinfluencer.com/tiktok-shop-sellers-are-prioritizing-creator-sales-over-volume-fastmoss-expo-shows/",
+     "source": "Net Influencer",
+     "published": "2026-10-28T13:00:28+00:00",
+     "summary": "TikTok Shop sellers now favour creator-driven sales over volume."
+    },
+    {
+     "title": "MrBeast and Mastercard Want to Build the Creator Economy\u2019s Financial Layer",
+     "url": "https://wersm.com/mrbeast-mastercard-creator-economy-financial-layer-2/",
+     "source": "WeRSM",
+     "published": "2026-10-28T13:06:31+00:00",
+     "summary": "MrBeast and Mastercard pitch a financial layer for creators."
+    },
+    {
+     "title": "AnyMind Group Partners With Meta to Link Facebook, Instagram Live Video Ads to Live Commerce",
+     "url": "https://www.netinfluencer.com/anymind-group-partners-with-meta-to-link-facebook-instagram-live-video-ads-to-live-commerce/",
+     "source": "Net Influencer",
+     "published": "2026-10-28T14:50:59+00:00",
+     "summary": "AnyMind and Meta link Facebook and Instagram Live ads to live shopping."
+    },
+    {
+     "title": "How the UK Budget Review Will Impact Creators: 5 Things to Know",
+     "url": "https://hellopartner.com/how-the-uk-budget-review-will-impact-creators-5-things-to-know/",
+     "source": "Hello Partner",
+     "published": "2026-10-28T14:37:28+00:00",
+     "summary": "What the UK Budget review means for creators' tax next year."
+    },
+    {
+     "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+     "source": "The Verge",
+     "published": "2026-10-28T23:05:39+00:00",
+     "summary": "Instagram's Adam Mosseri expects negativity around AI to get worse."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "The Affiliate Marketing Podcast: Key Takeaways and Season 26 Highlights",
+     "url": "https://www.affiversemedia.com/affiliate-marketing-podcast-season-26-highlights/",
+     "source": "Affiverse Media",
+     "published": "2026-10-29T08:00:00+00:00",
+     "summary": "Affiliate Marketing Podcast season roundup: AI, new traffic sources and risks."
+    },
+    {
+     "title": "DAZN Adds Bookmaker Rankings in Betting Affiliate Move",
+     "url": "https://www.affiversemedia.com/dazn-bookmaker-rankings-affiliate-marketing/",
+     "source": "Affiverse Media",
+     "published": "2026-10-28T12:17:21+00:00",
+     "summary": "DAZN moves into betting affiliate content."
+    },
+    {
+     "title": "The Times of London is gearing up to test \u2018macro payments\u2019",
+     "url": "https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/",
+     "source": "Digiday",
+     "published": "2026-10-29T04:01:00+00:00",
+     "summary": "The Times of London plans to test 'macro payments' for non-subscribers."
+    },
+    {
+     "title": "Media Briefing: Publishers are selling more subscriptions to smaller audiences. The midterms are the next test.",
+     "url": "https://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/",
+     "source": "Digiday",
+     "published": "2026-10-29T04:01:00+00:00",
+     "summary": "Publishers chase subscriptions as referral traffic falls."
+    },
+    {
+     "title": "Can We Really Blame Apple For Blocking ID Tech?",
+     "url": "https://www.adexchanger.com/data-driven-thinking/can-we-really-blame-apple-for-blocking-id-tech/",
+     "source": "AdExchanger",
+     "published": "2026-10-29T04:35:21+00:00",
+     "summary": "Apple blocking ID tech and the ad-tech security debate."
+    },
+    {
+     "title": "Meta\u2019s $25 Billion Privacy Fine In New Mexico Is A Big Number. But Is It A Big Deal For Ad Tech?",
+     "url": "https://www.adexchanger.com/privacy/metas-25-billion-privacy-fine-in-new-mexico-is-a-big-number-but-is-it-a-big-deal-for-ad-tech/",
+     "source": "AdExchanger",
+     "published": "2026-10-29T05:00:13+00:00",
+     "summary": "Meta's $25bn New Mexico privacy fine and what it means for ad tech."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google opens preview for third-party apps inside Search and Gemini",
+     "url": "https://ppc.land/google-opens-preview-for-third-party-apps-inside-search-and-gemini/",
+     "source": "PPC Land",
+     "published": "2026-10-28T18:15:07+00:00",
+     "summary": "More detail on Google's third-party apps in Search and Gemini (via MCP servers)."
+    },
+    {
+     "title": "Google Search sales gain just $79m on Q2 as query growth hits 5-year high",
+     "url": "https://ppc.land/google-search-sales-gain-just-79m-on-q2-as-query-growth-hits-5-year-high/",
+     "source": "PPC Land",
+     "published": "2026-10-29T04:59:20+00:00",
+     "summary": "Google Search revenue grew just 12% as query growth hit a five-year high."
+    },
+    {
+     "title": "Gemini app gains 350m users in a year to pass 1bn, Alphabet says",
+     "url": "https://ppc.land/gemini-app-gains-350m-users-in-a-year-to-pass-1bn-alphabet-says/",
+     "source": "PPC Land",
+     "published": "2026-10-29T05:28:16+00:00",
+     "summary": "Gemini app passes 1bn users."
+    },
+    {
+     "title": "Organic traffic is down, but it\u2019s not all AI",
+     "url": "https://searchengineland.com/organic-traffic-down-not-all-ai-499133",
+     "source": "Search Engine Land",
+     "published": "2026-10-28T12:00:00+00:00",
+     "summary": "Search Engine Land: organic traffic is down, but not all because of AI."
+    },
+    {
+     "title": "Azoma raises USD $11.2 million to boost AI shopping tools",
+     "url": "https://itbrief.co.uk/story/azoma-raises-usd-11-2-million-to-boost-ai-shopping-tools",
+     "source": "IT Brief UK",
+     "published": "2026-10-28T08:11:00+00:00",
+     "summary": "Azoma raises $11.2m for AI shopping tools."
+    },
+    {
+     "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
+     "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+     "source": "AdExchanger",
+     "published": "2026-10-28T16:00:04+00:00",
+     "summary": "Meta's new LLM-based ad ranking system."
+    },
+    {
+     "title": "AI was involved in 52% of ad fraud schemes ADEX flagged in 2026",
+     "url": "https://ppc.land/ai-was-involved-in-52-of-ad-fraud-schemes-adex-flagged-in-2026/",
+     "source": "PPC Land",
+     "published": "2026-10-28T19:20:22+00:00",
+     "summary": "AI involved in 52% of ad fraud schemes ADEX flagged this year."
+    },
+    {
+     "title": "Taboola gains Motorola lockscreens for its DeeperDive AI answer engine",
+     "url": "https://ppc.land/taboola-gains-motorola-lockscreens-for-its-deeperdive-ai-answer-engine/",
+     "source": "PPC Land",
+     "published": "2026-10-28T20:59:10+00:00",
+     "summary": "Taboola's AI answer engine lands on Motorola lockscreens."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "James Patterson Has Enraged BookTok With His Controversial Release Announcement",
+     "url": "https://screenrant.com/james-patterson-online-controversy-romantasy-comments-explained/",
+     "source": "ScreenRant",
+     "published": "2026-10-28T18:38:18+00:00",
+     "summary": "James Patterson's release announcement sparks a BookTok backlash."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T08:14:00.530419+00:00",
+ "item_count": 29,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Meet Alexa Home Map, an interactive 3D map that lets you see and control your home",
+   "url": "https://www.aboutamazon.com/news/devices/alexa-home-map-3d-smart-home-view",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:55:13+00:00",
+   "snippet": "A new way to view your home and property, inside and out, with every connected device right where it actually is."
+  },
+  {
+   "title": "Amazon introduces Echo Time, a smarter way to start and end your day",
+   "url": "https://www.aboutamazon.com/news/devices/echo-time-smart-alarm-clock",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:55:19+00:00",
+   "snippet": "The all-new Echo Time is a smart alarm clock with hundreds of customizable clock faces, smart alarms, and a beautiful adaptive display."
+  },
+  {
+   "title": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera",
+   "url": "https://www.aboutamazon.com/news/devices/echo-speaker-lineup",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:55:36+00:00",
+   "snippet": "The Echo speaker lineup gets an upgrade—Echo Dot is more capable than ever with a built-in smart home hub, while a new Echo Studio gains a camera that lets Alexa+ see and help."
+  },
+  {
+   "title": "Amazon introduces the all-new Echo Show 16—our most advanced, versatile smart display yet",
+   "url": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:55:41+00:00",
+   "snippet": "All-new premium design with the best screen ever on an Echo Show, three new Screen Styles to make it your own, and Fire TV built in."
+  },
+  {
+   "title": "Amazon introduces Alexa Photo Frame—the smartest way to bring your photos into the home",
+   "url": "https://www.aboutamazon.com/news/devices/amazon-alexa-photo-frame",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:55:51+00:00",
+   "snippet": "Alexa intelligently picks the photos worth seeing from Amazon Photos, keeps them current, and makes any moment easy to find, relive, and share."
+  },
+  {
+   "title": "Amazon unveils its newest lineup of Alexa devices",
+   "url": "https://www.aboutamazon.com/news/devices/new-alexa-devices-2026",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T11:57:05+00:00",
+   "snippet": "Five new products purpose-built for the home, powered by the latest Alexa, that help make daily life easier."
+  },
+  {
+   "title": "Amazon introduces Alexa Photo Frame, the smartest way to bring your photos into the home",
+   "url": "https://x.com/amazonnews/status/2115418874040447302",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-28T12:22:16Z",
+   "snippet": "Amazon introduces Alexa Photo Frame, the smartest way to bring your photos into the home"
+  },
+  {
+   "title": "Amazon introduces Echo Time, a smarter way to start and end your day",
+   "url": "https://x.com/amazonnews/status/2115421109650669997",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-28T12:31:09Z",
+   "snippet": "Amazon introduces Echo Time, a smarter way to start and end your day"
+  },
+  {
+   "title": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera",
+   "url": "https://x.com/amazonnews/status/2115424099283468480",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-28T12:43:02Z",
+   "snippet": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera"
+  },
+  {
+   "title": "Amazon introduces the all-new Echo Show 16, our most advanced, versatile smart display yet",
+   "url": "https://x.com/amazonnews/status/2115427463920513301",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-28T12:56:24Z",
+   "snippet": "Amazon introduces the all-new Echo Show 16, our most advanced, versatile smart display yet"
+  },
+  {
+   "title": "Amazon's most advanced chip helps power the AI behind Prime 360—here's how",
+   "url": "https://www.aboutamazon.com/news/innovation/trainium-ai-chip-prime-360-nba-highlights",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-28T16:00:00+00:00",
+   "snippet": "Amazon's purpose-built Trainium AI chip helps power the diffusion models that deliver NBA on Prime’s breakthrough highlight technology."
+  },
+  {
+   "title": "5 ways media companies are growing audiences and revenue on YouTube",
+   "url": "https://blog.youtube/creator-and-artist-stories/media-companies-youtube-growth-strategies/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-10-28T11:00:00+00:00",
+   "snippet": "As MIPCOM 2026 took place, storied media companies and broadcasters across Europe are investing in meeting YouTube viewers where they are with high quality content. And …"
+  },
+  {
+   "title": "“Kind of Big News”: How Sonny Side earned Best Ever Food Review Show an Emmy nom",
+   "url": "https://blog.youtube/creator-and-artist-stories/sonny-side-youtube-emmy-nomination-interview/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-10-28T19:00:00+00:00",
+   "snippet": "Sonny Side discusses how Best Ever Food Review Show landed a Daytime Emmy nomination and why independent production fuels the channel’s global stories."
+  },
+  {
+   "title": "use your audience retention graph in YouTube Studio to pinpoint drop-off moments and adjust your pacing for future uploads",
+   "url": "https://x.com/YouTubeCreators/status/2115537840633168367",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-10-28T20:15:00Z",
+   "snippet": "use your audience retention graph in YouTube Studio to pinpoint drop-off moments and adjust your pacing for future uploads"
+  },
+  {
+   "title": "YouTube holiday playbook cites 30% creator ad lift with no source",
+   "url": "https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/",
+   "source": "PPC Land",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-28T20:39:10+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Dubai’s AI agent hub, Adnoc’s data push and YouTube Shopping",
+   "url": "https://enterpriseam.com/ai/2026/10/29/dubais-ai-agent-hub-adnocs-data-push-and-youtube-shopping/",
+   "source": "EnterpriseAM",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-28T21:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Google Subscriptions, Devices Hit $14.3B; YouTube Tops 150M",
+   "url": "https://fourweekmba.com/ai-google-subscriptions-devices-hit-14-3b-youtube-tops-150m/",
+   "source": "FourWeekMBA",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-28T22:10:44+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
+   "url": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/",
+   "source": "Tubefilter",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-28T23:06:44+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Alphabet Shares Slide After Earnings Miss as YouTube Ad Growth Slows",
+   "url": "https://lowerbuckstimes.com/2026/10/28/alphabet-shares-slide-after-earnings-miss-as-youtube-ad-growth-slows/",
+   "source": "Lower Bucks Times",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-28T23:24:35+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube ad revenue gains 9% to $11.2bn, its slowest growth of 2026",
+   "url": "https://ppc.land/youtube-ad-revenue-gains-9-to-11-2bn-its-slowest-growth-of-2026/",
+   "source": "PPC Land",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-29T05:14:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube tops 150 million paid subscribers as ad revenue growth slows",
+   "url": "https://www.moneycontrol.com/technology/youtube-tops-150-million-paid-subscribers-as-ad-revenue-growth-slows-article-14063222.html",
+   "source": "Moneycontrol.com",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-29T05:43:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "'ACOTAR 6' Is Out, and Goodreads Readers Have Some Strong Opinions",
+   "url": "https://www.aol.com/articles/acotar-6-goodreads-readers-strong-131846000.html",
+   "source": "AOL.com",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-28T13:18:46+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "5 Elin Hilderbrand Books Goodreads Readers Can't Get Enough Of",
+   "url": "https://www.womansworld.com/entertainment/books/5-best-elin-hilderbrand-books-according-to-goodreads",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-10-28T17:43:27+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Every marketer has a nightmare that plays on repeat. This Halloween, we put the top ones on tape. A little too real. We know. 😱 Swipe through to see the full co…",
+   "url": "https://www.linkedin.com/posts/bitly_marketing-nightmares-activity-7521240969690812416-gNkV",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-10-28T16:06:25.073000+00:00",
+   "snippet": "Every marketer has a nightmare that plays on repeat. This Halloween, we put the top ones on tape. A little too real. We know. 😱 Swipe through to see the full collection and then tag the coworker who’s lived these with you."
+  },
+  {
+   "title": "The second nightmare in our Halloween series: FRIDAY CALL AT 5.",
+   "url": "https://x.com/Bitly/status/2115500114953318814",
+   "source": "X @Bitly",
+   "competitor": "bitly",
+   "feed_id": "x-Bitly",
+   "type": "social",
+   "published": "2026-10-28T17:45:06Z",
+   "snippet": "The second nightmare in our Halloween series: FRIDAY CALL AT 5."
+  },
+  {
+   "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links",
+   "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+   "source": "Search Engine Journal",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-10-28T19:00:59+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ShopMy Taps Ex-Trade Desk Vet Jed Dederick as CRO to Scale Creator Commerce",
+   "url": "https://www.adweek.com/programmatic/shopmy-taps-ex-trade-desk-vet-jed-dederick-as-cro-to-scale-creator-commerce/",
+   "source": "ADWEEK",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-10-28T13:19:07+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What’s Trending in Beauty Right Now, According to ShopMy",
+   "url": "https://puck.news/fashion/2026/10/whats-trending-in-beauty-right-now-according-to-shopmy",
+   "source": "Puck",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-10-28T22:28:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "🎨 Two new ways to customize your LnkBio page! 🖼️ Add black or white overlays to block background images for better readability. 🔠 Adjust your profile Name and U…",
+   "url": "https://www.linkedin.com/posts/lnkbio_background-image-overlays-and-profile-text-activity-7521450605156921344-Kcat",
+   "source": "LinkedIn · Lnk.Bio",
+   "competitor": "lnkbio",
+   "feed_id": "li-lnkbio",
+   "type": "social",
+   "published": "2026-10-29T05:59:26.062000+00:00",
+   "snippet": "🎨 Two new ways to customize your LnkBio page! 🖼️ Add black or white overlays to block background images for better readability. 🔠 Adjust your profile Name and Username sizes independently. ✨ Profile text sizes are free for everyone! 👉 https://lnkd.in/dcwCRGuB #linkinbio"
+  }
+ ]
+}

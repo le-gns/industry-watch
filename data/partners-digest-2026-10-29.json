@@ -1,0 +1,64 @@
+{
+ "date": "2026-10-29",
+ "summary": [
+  "Rakuten Advertising is pushing ways to measure affiliate's value before the final click, as ChatGPT changes the path to purchase.",
+  "Partnerize published a 41-page field guide on AI commerce and performance marketing.",
+  "impact.com posted on 'Winning in the Answer Era', its take on AI answers and partnerships.",
+  "CJ released its Travel Outlook 2027."
+ ],
+ "partners": [
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "\ud83c\uddfa\ud83c\uddf8 How do you measure affiliate's contribution before the final click? Find out how we're tackling this topic in this article from Martech Record featuring our \u2026",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_chatgpt-drops-measurement-and-then-improves-activity-7521231475443408897-4mad",
+     "source": "LinkedIn \u00b7 Rakuten Advertising",
+     "published": "2026-10-28T15:28:41.468000+00:00",
+     "type": "social",
+     "why": "Networks are rethinking last-click credit as AI answers sit between the shopper and the link."
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Forty-one pages. Five chapters of digital history. One emerging economic architecture. From Visibility to Value, the First Edition Field Guide from Partnerize R\u2026",
+     "url": "https://www.linkedin.com/posts/partnerize_aicommerce-performancemarketing-activity-7521194866694074368-GE1W",
+     "source": "LinkedIn \u00b7 Partnerize",
+     "published": "2026-10-28T13:03:13.262000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "impact.com",
+   "items": [
+    {
+     "title": "Winning in the Answer Era",
+     "url": "https://impact.com/?bylines=winning-in-the-answer-era",
+     "source": "impact.com",
+     "published": "2026-10-28T11:19:06+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ",
+   "items": [
+    {
+     "title": "Out now! CJ's Travel Outlook 2027: Insights to Drive Action. The travel category keeps growing, but how people decide where to go, when to book, and whom to tru\u2026",
+     "url": "https://www.linkedin.com/posts/commission-junction_connectedcommerce-travelmarketing-affiliate-activity-7521285155072692225-I6J0",
+     "source": "LinkedIn \u00b7 CJ",
+     "published": "2026-10-28T19:01:59.689000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "posts": [
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-28T12:56:24Z",
+   "url": "https://x.com/amazonnews/status/2115427463920513301",
+   "text": "Amazon introduces the all-new Echo Show 16, our most advanced, versatile smart display yet"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-28T12:43:02Z",
+   "url": "https://x.com/amazonnews/status/2115424099283468480",
+   "text": "Introducing the new Echo Dot and all-new Echo Studio with Home Camera"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-28T12:31:09Z",
+   "url": "https://x.com/amazonnews/status/2115421109650669997",
+   "text": "Amazon introduces Echo Time, a smarter way to start and end your day"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-28T12:22:16Z",
+   "url": "https://x.com/amazonnews/status/2115418874040447302",
+   "text": "Amazon introduces Alexa Photo Frame, the smartest way to bring your photos into the home"
+  },
+  {
+   "handle": "Bitly",
+   "competitor": "bitly",
+   "created_at": "2026-10-28T17:45:06Z",
+   "url": "https://x.com/Bitly/status/2115500114953318814",
+   "text": "The second nightmare in our Halloween series: FRIDAY CALL AT 5."
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-10-28T20:15:00Z",
+   "url": "https://x.com/YouTubeCreators/status/2115537840633168367",
+   "text": "use your audience retention graph in YouTube Studio to pinpoint drop-off moments and adjust your pacing for future uploads"
+  }
+ ]
+}
