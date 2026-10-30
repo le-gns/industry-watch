@@ -1,0 +1,39 @@
+{
+ "posts": [
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-29T20:16:49Z",
+   "url": "https://x.com/amazonnews/status/2115900684730085433",
+   "text": "Amazon just announced its Q3 2026 earnings."
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-29T15:34:59Z",
+   "url": "https://x.com/amazonnews/status/2115829760261546108",
+   "text": "Alexa for Shopping adds 100+ new capabilities to make shopping even faster and easier"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-10-29T14:17:32Z",
+   "url": "https://x.com/amazonnews/status/2115810267061752266",
+   "text": "How to use Alexa for Shopping to compare products, check price history, and more"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-10-29T12:33:00Z",
+   "url": "https://x.com/goodreads/status/2115783961053966543",
+   "text": "Pretend you can snap your fingers & be any character for Halloween! Who are you going as?"
+  },
+  {
+   "handle": "Draft2Digital",
+   "competitor": "books2read",
+   "created_at": "2026-10-29T16:47:44Z",
+   "url": "https://x.com/Draft2Digital/status/2115848069430612330",
+   "text": "Join D2D's promotions team at the top of the hour as they explain how YOUR books can gain Greater Visibility and Discoverability... retail and library promos."
+  }
+ ]
+}

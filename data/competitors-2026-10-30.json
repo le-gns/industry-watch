@@ -1,0 +1,179 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T08:15:04.971468+00:00",
+ "item_count": 17,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Alexa for Shopping adds 100+ new capabilities to make shopping even faster and easier",
+   "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-29T12:55:32+00:00",
+   "snippet": "From building holiday gift lists to managing baby registries to tracking refunds, customers can now handle everyday shopping actions in a simple conversation."
+  },
+  {
+   "title": "How to use Alexa for Shopping to compare products, check price history, and more",
+   "url": "https://x.com/amazonnews/status/2115810267061752266",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-29T14:17:32Z",
+   "snippet": "How to use Alexa for Shopping to compare products, check price history, and more"
+  },
+  {
+   "title": "Alexa for Shopping adds 100+ new capabilities to make shopping even faster and easier",
+   "url": "https://x.com/amazonnews/status/2115829760261546108",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-29T15:34:59Z",
+   "snippet": "Alexa for Shopping adds 100+ new capabilities to make shopping even faster and easier"
+  },
+  {
+   "title": "Building Rivendell: How 'The Rings of Power' team brought the iconic 'Lord of the Rings' location to life",
+   "url": "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-the-rings-of-power-rivendell",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-29T15:55:44+00:00",
+   "snippet": "'The Rings of Power' showrunners and production designer give us an exclusive glimpse into crafting an early iteration of the Elvish sanctuary."
+  },
+  {
+   "title": "Amazon just announced its Q3 2026 earnings.",
+   "url": "https://x.com/amazonnews/status/2115900684730085433",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-10-29T20:16:49Z",
+   "snippet": "Amazon just announced its Q3 2026 earnings."
+  },
+  {
+   "title": "The official ‘James Bond’ films in order: How to watch 007 on Prime Video",
+   "url": "https://www.aboutamazon.com/news/entertainment/james-bond-movies-watch-prime-video",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-29T23:54:12+00:00",
+   "snippet": "You can watch 25 official ‘James Bond’ films on Prime Video. Here is how to stream them in chronological order."
+  },
+  {
+   "title": "When is Black Friday 2026? Here’s everything you need to know",
+   "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-10-30T00:12:47+00:00",
+   "snippet": "Black Friday 2026 falls on November 27. Here’s what to expect, how to prepare, and how to save."
+  },
+  {
+   "title": "The votes are in. Meet the Class of Q4 2026 🎓 Every holiday season, certain types of content keep showing up at the top of the class. We looked at what consiste…",
+   "url": "https://www.linkedin.com/posts/skimlinks_q4-superlatives-activity-7521563500863885312-juVy",
+   "source": "LinkedIn · Skimlinks",
+   "competitor": "skimlinks",
+   "feed_id": "li-skimlinks",
+   "type": "social",
+   "published": "2026-10-29T13:28:02.497000+00:00",
+   "snippet": "The votes are in. Meet the Class of Q4 2026 🎓 Every holiday season, certain types of content keep showing up at the top of the class. We looked at what consistently drives clicks and conversions for publishers and handed out a few superlatives: 🗨️ Most likely to go viral in the group chat 🎁 Best lif"
+  },
+  {
+   "title": "YouTube now has over 150 million paid subscribers",
+   "url": "https://www.newsbytesapp.com/news/science/youtube-crosses-150-million-paid-subscribers/story",
+   "source": "NewsBytes",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-29T10:01:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube launches affiliate shopping program in Saudi Arabia, Egypt and UAE",
+   "url": "https://jawlah.co/en/67367",
+   "source": "jawlah.co",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-29T15:09:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube subscriptions are rising as more users turn to connected TV",
+   "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/",
+   "source": "Social Media Today",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-10-30T05:39:19+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Join D2D's promotions team at the top of the hour as they explain how YOUR books can gain Greater Visibility and Discoverability... retail and library promos.",
+   "url": "https://x.com/Draft2Digital/status/2115848069430612330",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-10-29T16:47:44Z",
+   "snippet": "Join D2D's promotions team at the top of the hour as they explain how YOUR books can gain Greater Visibility and Discoverability... retail and library promos."
+  },
+  {
+   "title": "Merchandising Promos: How D2D Can Help Get Your Books Into Retail and Library Promos",
+   "url": "https://www.youtube.com/watch?v=emo9hCJtZ_w",
+   "source": "YouTube",
+   "competitor": "books2read",
+   "feed_id": "yt-books2read",
+   "type": "social",
+   "published": "2026-10-30T05:56:41+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Pretend you can snap your fingers & be any character for Halloween! Who are you going as?",
+   "url": "https://x.com/goodreads/status/2115783961053966543",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-10-29T12:33:00Z",
+   "snippet": "Pretend you can snap your fingers & be any character for Halloween! Who are you going as?"
+  },
+  {
+   "title": "What does it mean to be a forward-thinking founder today? For LTK Co-Founder Amber Venz Box, it’s about building boldly, embracing change, and never losing sigh…",
+   "url": "https://www.linkedin.com/posts/shopltk_what-does-it-mean-to-be-a-forward-thinking-activity-7521688139258728448-VAWM",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-10-29T21:43:18.606000+00:00",
+   "snippet": "What does it mean to be a forward-thinking founder today? For LTK Co-Founder Amber Venz Box, it’s about building boldly, embracing change, and never losing sight of what’s next. Hear more from Amber at Inc. 5000."
+  },
+  {
+   "title": "Antonia (@scandidelights): \"Dagmar just dropped the perfect tuxedo blazer. https://go.shopmy.us/p-98808616\"",
+   "url": "https://substack.com/@scandidelights/note/c-373193586",
+   "source": "Substack",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-10-29T09:27:45+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Former Trade Desk Chief Revenue Officer Joins ShopMy As CRO",
+   "url": "https://www.netinfluencer.com/former-trade-desk-chief-revenue-officer-joins-shopmy-as-cro/",
+   "source": "Net Influencer",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-10-29T11:50:52+00:00",
+   "snippet": ""
+  }
+ ]
+}

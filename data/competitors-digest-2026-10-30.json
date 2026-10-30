@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-30",
+ "summary": [
+  "Lasso, URLgenius and Button/Posttap were quiet.",
+  "Amazon posted Q3 results and pushed Alexa for Shopping (price history, product comparisons), but nothing on Associates, OneLink or Influencer.",
+  "YouTube opened its shopping affiliate programme in Saudi Arabia, Egypt and the UAE.",
+  "Skimlinks shared which content types keep converting in the Q4 holiday season.",
+  "Draft2Digital is pitching authors on getting into retail and library promos."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Alexa for Shopping adds 100+ new capabilities to make shopping even faster and easier",
+     "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities",
+     "source": "aboutamazon.com",
+     "published": "2026-10-29T12:55:32+00:00",
+     "type": "blog",
+     "why": "Amazon wants more shopping to happen inside its own AI assistant, where outside links don't reach."
+    },
+    {
+     "title": "Amazon just announced its Q3 2026 earnings.",
+     "url": "https://x.com/amazonnews/status/2115900684730085433",
+     "source": "X @amazonnews",
+     "published": "2026-10-29T20:16:49Z",
+     "type": "social"
+    },
+    {
+     "title": "When is Black Friday 2026? Here’s everything you need to know",
+     "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq",
+     "source": "aboutamazon.com",
+     "published": "2026-10-30T00:12:47+00:00",
+     "type": "blog",
+     "why": "Amazon's Black Friday dates, useful for planning creator link pushes."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube launches affiliate shopping program in Saudi Arabia, Egypt and UAE",
+     "url": "https://jawlah.co/en/67367",
+     "source": "jawlah.co",
+     "published": "2026-10-29T15:09:02+00:00",
+     "type": "news",
+     "why": "More countries where creators earn from product links, so more need for links that send viewers to the right local store."
+    }
+   ]
+  },
+  {
+   "id": "skimlinks",
+   "name": "Skimlinks",
+   "priority": false,
+   "items": [
+    {
+     "title": "The votes are in. Meet the Class of Q4 2026 🎓 Every holiday season, certain types of content keep showing up at the top of the class. We looked at what consiste…",
+     "url": "https://www.linkedin.com/posts/skimlinks_q4-superlatives-activity-7521563500863885312-juVy",
+     "source": "LinkedIn · Skimlinks",
+     "published": "2026-10-29T13:28:02.497000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "items": [
+    {
+     "title": "Merchandising Promos: How D2D Can Help Get Your Books Into Retail and Library Promos",
+     "url": "https://www.youtube.com/watch?v=emo9hCJtZ_w",
+     "source": "YouTube",
+     "published": "2026-10-30T05:56:41+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

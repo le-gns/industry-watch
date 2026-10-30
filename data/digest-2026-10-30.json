@@ -1,0 +1,190 @@
+{
+ "date": "2026-10-30",
+ "intro": "Amazon's Q3 numbers landed, and Reddit and Google are openly at odds over whether AI search sends any traffic.",
+ "must_reads": [
+  {
+   "title": "Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth",
+   "url": "https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/",
+   "source": "Digiday",
+   "published": "2026-10-30T04:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Amazon's retail and ad business is leaning harder into AI agents that shop for people. If agents do more of the buying, fewer clicks go through creators' links, so how links get credit becomes a bigger question for everyone in affiliate."
+  },
+  {
+   "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+   "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+   "source": "The Verge",
+   "published": "2026-10-29T22:25:10+00:00",
+   "why": "Why it matters for Geniuslink: A big publisher saying Google's AI answers don't send visitors is a clear sign that search traffic to content is shrinking. Creators and publishers who rely on Google will lean more on their own audiences and social links, which is where smart links live."
+  },
+  {
+   "title": "Here’s Why You’re About to See More Ads in Google’s AI Overviews",
+   "url": "https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/",
+   "source": "CNET",
+   "published": "2026-10-30T00:43:22+00:00",
+   "why": "Why it matters for Geniuslink: Google is putting more paid placements inside AI answers. Paid ads pushing organic results further down makes it harder for affiliate content to get seen in search."
+  },
+  {
+   "title": "DoorDash Acquires Instacart As Consolidation Comes For Mobility Media",
+   "url": "https://www.adexchanger.com/marketers/doordash-acquires-instacart-as-consolidation-comes-for-mobility-media/",
+   "source": "AdExchanger",
+   "published": "2026-10-29T16:49:25+00:00",
+   "why": "Why it matters for Geniuslink: Big shopping and delivery apps are merging, so fewer, bigger stores control where buyers end up. Creators and brands linking to products need tools that work across whichever stores win."
+  },
+  {
+   "title": "My Amazon Affiliate links may be getting hit by bot clicks.",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xikte3/my_amazon_affiliate_links_may_be_getting_hit_by/",
+   "source": "r/Amazon_Influencer",
+   "published": "2026-10-29T14:01:15+00:00",
+   "why": "Why it matters for Geniuslink: Real creators are worried about bot clicks on their Amazon links. Click quality and bot filtering are a live concern for link users, not just a technical detail."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Amazon ad revenue growth drops to 11% after Prime Day moves to June",
+     "url": "https://ppc.land/amazon-ad-revenue-growth-drops-to-11-after-prime-day-moves-to-june/",
+     "source": "PPC Land",
+     "published": "2026-10-29T20:31:01+00:00",
+     "summary": "Ad growth slowed after Prime Day moved to June.",
+     "also": {
+      "source": "The Information",
+      "url": "https://www.theinformation.com/briefings/amazon-web-services-accelerates-ecommerce-store-slows-prime-day-change",
+      "paywall": true
+     }
+    },
+    {
+     "title": "Stuff Your Kindle Day is live for Halloween: How to download 100s of free spooky books this week",
+     "url": "https://mashable.com/tech/oct-27-stuff-your-kindle-free-books",
+     "source": "Mashable",
+     "published": "2026-10-29T12:21:29+00:00",
+     "summary": "Authors giving away hundreds of free ebooks this week."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "YouTube Tests Cutting Minimum Payment Threshold for Some Creators",
+     "url": "https://www.netinfluencer.com/youtube-tests-cutting-minimum-payment-threshold-for-some-creators/",
+     "source": "Net Influencer",
+     "published": "2026-10-29T11:53:01+00:00"
+    },
+    {
+     "title": "YouTube Lays Out Five-Part Revenue Playbook for Broadcasters and Media Companies",
+     "url": "https://www.netinfluencer.com/youtube-lays-out-five-part-revenue-playbook-for-broadcasters-and-media-companies/",
+     "source": "Net Influencer",
+     "published": "2026-10-29T11:48:50+00:00"
+    },
+    {
+     "title": "LinkedIn increases user time, members and creator ads",
+     "url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
+     "source": "Social Media Today",
+     "published": "2026-10-29T18:49:40+00:00"
+    },
+    {
+     "title": "YouTube is testing new fixes for spam violations",
+     "url": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/",
+     "source": "Social Media Today",
+     "published": "2026-10-29T22:50:17+00:00"
+    },
+    {
+     "title": "Threads tests smaller group sharing option",
+     "url": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
+     "source": "Social Media Today",
+     "published": "2026-10-29T23:07:15+00:00"
+    },
+    {
+     "title": "Africa’s creator economy needs more than talent to turn creativity into money",
+     "url": "https://techcabal.com/2026/10/29/africa-creator-economy-infrastructure/",
+     "source": "TechCabal",
+     "published": "2026-10-29T16:54:03+00:00"
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Reddit Is Going Login Only. Blame Google.",
+     "url": "https://www.adexchanger.com/platforms/reddit-is-going-login-only-blame-google/",
+     "source": "AdExchanger",
+     "published": "2026-10-30T00:10:53+00:00"
+    },
+    {
+     "title": "Reddit Logged-In Search Drops 1M+ Weekly Users [2026]",
+     "url": "https://tech-insider.org/reddit-logged-in-first-test-google-ai-mode-1-million-referrals-2026/",
+     "source": "https://tech-insider.org/",
+     "published": "2026-10-30T01:20:57+00:00"
+    },
+    {
+     "title": "Google Search Traffic To News Sites Keeps Falling As Alphabet's Stock Tumbles After Earnings Miss",
+     "url": "https://www.latintimes.com/alphabet-earnings-miss-latin-america-news-publishers-600685",
+     "source": "Latin Times",
+     "published": "2026-10-29T20:14:29+00:00"
+    },
+    {
+     "title": "Meta quietly launches an AI fashion app called Style Sketch",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+     "source": "TechCrunch",
+     "published": "2026-10-29T19:14:36+00:00"
+    },
+    {
+     "title": "A-Comm Advances Open-Source Evidence Protocol for Agentic Commerce",
+     "url": "https://www.martechcube.com/a-comm-advances-open-source-evidence-protocol-for-agentic-commerce/",
+     "source": "MarTech Cube",
+     "published": "2026-10-29T18:00:48+00:00"
+    },
+    {
+     "title": "Google Merchant API With New October 2026 Updates",
+     "url": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
+     "source": "Search Engine Roundtable",
+     "published": "2026-10-29T11:21:00+00:00"
+    },
+    {
+     "title": "ChatGPT work requests fall to 32.2% as writing loses its top spot",
+     "url": "https://ppc.land/chatgpt-work-requests-fall-to-32-2-as-writing-loses-its-top-spot/",
+     "source": "PPC Land",
+     "published": "2026-10-30T05:54:58+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Affiliate & ad industry",
+   "items": [
+    {
+     "title": "Apple’s Safari block hands WPP a fresh case for InfoSum",
+     "url": "https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/",
+     "source": "Digiday",
+     "published": "2026-10-30T04:01:00+00:00",
+     "summary": "Another sign that Apple's privacy blocks keep squeezing tracking."
+    },
+    {
+     "title": "‘E’ For ‘Exactly The Same As Always’; Google’s Very Bad Day On Wall Street",
+     "url": "https://www.adexchanger.com/daily-news-roundup/friday-30102026/",
+     "source": "AdExchanger",
+     "published": "2026-10-30T04:03:38+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "The decline of reading",
+     "url": "https://www.inpublishing.co.uk/articles/the-decline-of-reading-29056",
+     "source": "InPublishing",
+     "published": "2026-10-29T08:01:08+00:00"
+    },
+    {
+     "title": "Young women are reading again, but it’s smut of the weirdest variety imaginable",
+     "url": "https://nypost.com/2026/10/29/lifestyle/booktok-is-driving-book-sales-but-its-selling-a-whole-lot-of-smut/",
+     "source": "New York Post",
+     "published": "2026-10-29T20:07:00+00:00"
+    }
+   ]
+  }
+ ]
+}

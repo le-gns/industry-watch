@@ -1,0 +1,51 @@
+{
+ "date": "2026-10-30",
+ "summary": [
+  "Best Buy launched its 'Open More' holiday campaign built around creators and football.",
+  "CJ restated its '360-AI' plan to use AI across its affiliate network.",
+  "Partnerize wrote on beauty brands' trust problem and the gap in measuring what drives sales.",
+  "Other retailers and bookstores posted only promos or staff news."
+ ],
+ "partners": [
+  {
+   "id": "bestbuy",
+   "name": "Best Buy (US)",
+   "items": [
+    {
+     "title": "Best Buy launches ‘Open More’ holiday campaign with creators, football",
+     "url": "https://chainstoreage.com/best-buy-launches-open-more-holiday-campaign-creators-football",
+     "source": "Chain Store Age",
+     "published": "2026-10-29T16:26:27+00:00",
+     "type": "news",
+     "why": "A big retailer leaning on creators for its holiday push means more creator traffic heading to Best Buy."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "Earlier this year, CJ laid out 360-AI, our plan for incorporating AI everywhere throughout our business and ecosystem. Our three-component vision is designed to…",
+     "url": "https://www.linkedin.com/posts/commission-junction_connectedcommerce-affiliatemarketing-performancemarketing-activity-7521670509747535872-Hi-u",
+     "source": "LinkedIn · CJ",
+     "published": "2026-10-29T20:33:15.403000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Beauty’s Trust Problem Is Also Its Biggest Measurement Gap",
+     "url": "https://partnerize.com/resources/blog/beautys-trust-problem-is-also-its-biggest-measurement-gap",
+     "source": "partnerize.com",
+     "published": "2026-10-29T14:46:30+00:00",
+     "type": "blog"
+    }
+   ]
+  }
+ ]
+}
