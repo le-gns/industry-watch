@@ -1,0 +1,658 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T08:14:47.114464+00:00",
+ "lookback_hours": 30,
+ "item_count": 59,
+ "google_news_links": 49,
+ "google_news_resolved": 47,
+ "feeds_ok": 52,
+ "feeds_failed": 21,
+ "items": [
+  {
+   "title": "Save $10 on the Nintendo Switch Lite with your Amazon Prime membership",
+   "url": "https://mashable.com/deals/march-2-nintendo-switch-lite",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-01T08:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Black Friday TV deals at Amazon: Fire TVs, Samsung's The Frame, LG QNED Mini-LED models",
+   "url": "https://mashable.com/deals/black-friday-amazon-tv-deals",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-01T08:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Nothing Headphone (a) hit record-low price of $109 for one day only",
+   "url": "https://mashable.com/tech/aug-26-nothing-headphone-a-deal-of-the-day",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-01T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "iPads on sale: Save up to 23% on the new iPad Air, iPad Pro on Amazon",
+   "url": "https://mashable.com/deals/jan-16-apple-ipad-pro-ipad-air-amazon",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-01T22:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Prime Big Deal Days 2026: Everything you need to know, including the best sales",
+   "url": "https://abc7chicago.com/post/amazon-prime-big-deal-days-everything-need-know-early-sales/17912133/",
+   "source": "ABC7 Chicago",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-02T02:33:48+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Magic: The Gathering's The Hobbit Play Booster Box is down to a new all-time low price — save nearly $70",
+   "url": "https://mashable.com/life/oct-28-magic-the-gathering-the-hobbit-play-booster-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-02T03:34:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Sephora sale finds",
+   "url": "https://betweencarpools.com/web-stories/sephora-sale-finds/",
+   "source": "Between Carpools",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-01T03:28:41+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Saludu Com F Bike Opiniones - F Bike F Bike added a new photo",
+   "url": "https://www.auroradesio.it/top/169688533/",
+   "source": "auroradesio.it",
+   "group": "Competitors",
+   "feed_id": "gnews-10",
+   "published": "2026-11-01T12:45:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "BritishBeautyBlogger (@britbeautyblog)",
+   "url": "https://substack.com/@britbeautyblog/note/c-375832586",
+   "source": "Substack",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-01T14:33:21+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "OCTOBER READING WRAP UP 🍂📚 | The Best & Worst Books I Read This Month!",
+   "url": "https://youtu.be/qEfL81eq5SE",
+   "source": "YouTube",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-01T17:56:47+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Walmart+ lands in Mexico at MXN 89 a month, its second market outside the US",
+   "url": "https://ppc.land/walmart-lands-in-mexico-at-mxn-89-a-month-its-second-market-outside-the-us/",
+   "source": "PPC Land",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-01T07:18:07+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "SARS tells influencers and creators to declare all income for tax",
+   "url": "https://www.mapepeza.online/sars-releases-tax-guide-for-content-creators-and-social-media-influencers/",
+   "source": "Mapepeza",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-01T13:02:48+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How Loop Earplugs Grew From $100M to $250M: 6 Creator Marketing Lessons From Its CMO",
+   "url": "https://www.netinfluencer.com/how-loop-earplugs-grew-from-100m-to-250m-6-creator-marketing-lessons-from-its-cmo/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-01T21:25:36+00:00",
+   "snippet": "Rob Weston, Chief Commercial and Marketing Officer at Loop Earplugs, laid out how the Belgian brand budgets for creators and celebrity partners as it grows from about $100 million in annual revenue to a projected $240 million to $250 million this year, in an episode of the “D2C Diaries” podcast post",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Why e.l.f. Beauty Puts Paid Media Behind Creator Videos That Already Work Organically",
+   "url": "https://www.netinfluencer.com/why-e-l-f-beauty-puts-paid-media-behind-creator-videos-that-already-work-organically/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-01T21:25:41+00:00",
+   "snippet": "e.l.f. Beauty puts advertising behind creator videos that have already performed organically, from TikTok Shop affiliates and its agency alike, Kelly Shah-McDonnell, who leads connected commerce at the company, said in a fireside chat at Syracuse University’s ‘CUSE Creator Con that was posted to You",
+   "matched_keywords": [
+    "creator",
+    "tiktok shop",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Instagram offers to pay creators for long-form content",
+   "url": "https://www.socialmediatoday.com/news/instagram-offers-to-pay-creators-for-long-form-content/873402/",
+   "source": "Social Media Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-social-media-today",
+   "published": "2026-11-01T22:29:02+00:00",
+   "snippet": "Business Insider reported that creators were offered as much as $500,000 to post video to Meta’s new Features product.",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Streamer MeganPlays just needs her phone and some lip gloss",
+   "url": "https://mashable.com/life/meganplays-content-tools-essentials-phone-lip-gloss",
+   "source": "Mashable",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-01T23:38:58+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta UK CMA investigation: legal test and scope",
+   "url": "https://www.neoteo.com/en/uk-cma-investigates-metas-proposed-business-terms",
+   "source": "NeoTeo",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-09",
+   "published": "2026-11-02T01:58:06+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Big Tech’s ad machine is slowing just as the AI bill peaks. Who blinks first?",
+   "url": "https://www.storyboard18.com/how-it-works/big-techs-ad-machine-is-slowing-just-as-the-ai-bill-peaks-who-blinks-first-ws-l-113846.htm",
+   "source": "Storyboard18",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-02T02:59:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Millennials lead AI shopping adoption in India at 84 pc, ahead of Gen Z: McKinsey",
+   "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/millennials-lead-ai-shopping-adoption-in-india-at-84-pc-ahead-of-gen-z-mckinsey/135442757",
+   "source": "ET Retail",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-02T04:38:25+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai shopping"
+   ]
+  },
+  {
+   "title": "McDonald's \"Chi-Chi Dabuchi\" Returns! New Boneless Chicken Thigh Also Gets \"Chi-Chi\" Treatment, 4 Items Launched",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447636/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T01:45:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "McDonald's Medium & Large Fries for ¥250 Starting Today! Large Size is ¥150 Cheaper",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447668/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T02:05:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "DeepCool Launches Pillarless PC Case with Curved Glass and 67mm-High, 220W TDP CPU Cooler",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447630/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T02:30:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "[On Sale Today] Donbei's \"Dashi Showdown\" Is Back This Year! All 6 Varieties, Including Hakata Udon & Shinshu Soba",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447669/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T02:50:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten Travel Launches Hawaii Special Offer",
+   "url": "https://en.traicy.com/posts/2026110241852/",
+   "source": "TRAICY Global",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T03:02:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "KDDI: 22,541 Customer Records Potentially Leaked via Unauthorized Access to Lifenet Insurance",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447733/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T03:05:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Arara: Approximately 77 Million Email Addresses Leaked",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447735/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T03:10:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "[Today] Lawson Launches 'Melty Cheese Satisfying Rich Pork Ramen'! A Cheese & Butter Festival",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447737/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T03:15:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Potential Information Leak at Rakuten Securities, Nomura Securities, and Others Due to Unauthorized Access to NTT DATA",
+   "url": "https://ascii.jp/en/elem/000/004/447/4447736/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T03:20:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "ASTS Stock Jumps Overnight: Vanguard, Rakuten Unit Boost Holdings — Why Are Retail Traders Still Bearish?",
+   "url": "https://www.tradingview.com/news/stocktwits:9b5549ae6094b:0-asts-stock-jumps-overnight-vanguard-rakuten-unit-boost-holdings-why-are-retail-traders-still-bearish/",
+   "source": "TradingView",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-02T04:57:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
+   "url": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "snippet": "People Inc. is moving toward custom APIs for AI systems, Forbes has adopted Markdown for agents, while the FT, Daily Mail are considering how agents could reach content for subscribers.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Giggly Squad’s SiriusXM deal signals a shift from podcast networks to creator ecosystems",
+   "url": "https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "snippet": "The Giggly Squad deal shows podcasts have turned another corner. Video, short-form, IRL shows...where does the podcast go from here?",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Google search loses its free pass with buyers",
+   "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "snippet": "Google search was the line item buyers never questioned. That's changing.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+   "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "snippet": "Customers who use Alexa for Shopping are spending 50% more than those who don’t.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work",
+   "url": "https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "snippet": "Worries about lazy use of AI for client briefs and internal documents has agencies wondering how to make better use of the tech.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Down To The Wire To Acquire; Meta Wants To Be TV, Too",
+   "url": "https://www.adexchanger.com/daily-news-roundup/monday-02112026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-02T05:03:21+00:00",
+   "snippet": "Mergers & Ad-quisitions Are we in for a year-ending blockbuster M&A spree? The Information jokes that CEOs ought to “get your deals in while ya still can, folks.” A convergence of factors could make for a splashy Q4. As AdExchanger discussed in our Big Story Podcast last week, The Trump administrati",
+   "matched_keywords": []
+  },
+  {
+   "title": "Fabolous Dresses as Alleged 49ers Impostor Daejon Love for Halloween",
+   "url": "https://www.complex.com/pop-culture/a/markelibert/fabolous-daejon-love-halloween-costume",
+   "source": "Complex",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-11-02T06:01:34+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Reddit CEO: Google AI Mode Traffic Gone? 3 Fixes [2026]",
+   "url": "https://tech-insider.org/reddit-ceo-google-ai-mode-does-not-drive-traffic-3-fixes-2026/",
+   "source": "https://tech-insider.org/",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-01T03:34:46+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "Reddit sinks 29% on Q4 outlook as Google AI cuts traffic",
+   "url": "https://www.techinasia.com/news/reddit-sinks-29-q4-outlook-google-ai-cuts-traffic",
+   "source": "Tech in Asia",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-01T04:20:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google tells advertisers AI search queries now run 3x longer",
+   "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T05:37:46+00:00",
+   "snippet": "One in six searches is multimodal, Google's Shivani Mohan told advertisers. Google's May data limited that to US AI Mode. Which other figures lack a baseline?",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "Google, Reddit and AI: Who Can You Trust?",
+   "url": "https://www.grantwatch.com/grantnews/google-reddit-ai-online-reviews/",
+   "source": "GrantWatch",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-01T07:07:11+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Marie Haynes tells SEOs to build Google Search apps instead of chasing GEO",
+   "url": "https://ppc.land/marie-haynes-tells-seos-to-build-google-search-apps-instead-of-chasing-geo/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T07:25:37+00:00",
+   "snippet": "Businesses building apps reach Search only via US English AI Mode, five apps so far. Mueller is excited, but Google has not said how it picks between apps.",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "Get in the spooky spirit with these horrors from YouTube",
+   "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-11-01T13:28:37+00:00",
+   "snippet": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art h",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Google Gemini drops UTM tags from cited links after three weeks",
+   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T16:13:05+00:00",
+   "snippet": "Tagged Gemini visits peaked at 83 a day in one consultant's logs before falling to 3. Visits arriving with no referrer go back to Direct, and Google is silent.",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Google AI Mode test groups shopping ads under one Sponsored heading",
+   "url": "https://ppc.land/google-ai-mode-test-groups-shopping-ads-under-one-sponsored-heading/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T21:51:56+00:00",
+   "snippet": "Retailers' unpaid listings get an \"All products\" heading in the test, spotted October 28 by Search Engine Watch. Will one label per group change the clicks?",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-11-01T21:55:23+00:00",
+   "snippet": "Data centers are deeply unpopular. But what if we called them something else?",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Advertisers in 10 more countries can't opt out of Google's AI Mode ads",
+   "url": "https://ppc.land/advertisers-in-10-more-countries-cant-opt-out-of-googles-ai-mode-ads/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T22:14:10+00:00",
+   "snippet": "Search, Shopping and Performance Max campaigns in India, Kenya and 8 more markets now enter AI Mode. Brazil and Mexico, due in Q4, test the English-only list.",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "Publisher group says AI cut visitors 26%, quoting Microsoft's 'doom loop'",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbG04QXZ4eXlTenlDb2JOQ3FLNll4UGdoT2RZZDQyc2tZRFZ4WWxmeUZqeVJtSDFRUnRaVlB0LVVtSTRNNlFOUTB0dFZ2VTN1eW41bjQyc2FBemlFQzJ5aTV4TzM2QUZXQmJJRkVBaDIxcWFvUXVlSGdMSjR2ekYtRFZ1Y1hyRm1RYzBhREdMNA?oc=5",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-01T22:18:07+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google faces refiled Gemini Gmail suit after judge found no concrete harm",
+   "url": "https://ppc.land/google-faces-refiled-gemini-gmail-suit-after-judge-found-no-concrete-harm/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T22:20:37+00:00",
+   "snippet": "Gmail, Chat and Meet users say Google enabled AI smart features without consent in fall 2025. Its second dismissal bid asks one thing: where is the actual harm?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Shakira loses YouTube's No. 1 to LISA for the second time in seven weeks",
+   "url": "https://ppc.land/shakira-loses-youtubes-no-1-to-lisa-for-the-second-time-in-seven-weeks/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T22:23:49+00:00",
+   "snippet": "Tarantino drew 71.7M views and led the US, UK, German, Dutch and Australian charts. LISA's last No. 1 lost 79% of its views in week two. Will this one hold?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Apple cuts Taiwan App Store commission to 26% after antitrust probe",
+   "url": "https://ppc.land/apple-cuts-taiwan-app-store-commission-to-26-after-antitrust-probe/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T22:42:41+00:00",
+   "snippet": "Developers keep 74% rather than 70% of standard Taiwan storefront sales from October 31, while the 15% tiers stay put. Can Taiwan's regulator reopen its case?",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Reddit Stock Crashed 29%: Is Google AI Coming for More Stocks?",
+   "url": "https://beincrypto.com/reddit-stock-google-ai-traffic-crash/",
+   "source": "BeInCrypto",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-01T23:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Gemini gains an in-chat editor for PDFs, Docs and Sheets",
+   "url": "https://ppc.land/gemini-gains-an-in-chat-editor-for-pdfs-docs-and-sheets/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-01T23:00:13+00:00",
+   "snippet": "Phone users can edit only PDFs, while slide decks, Markdown and code stay web-only and admins get no off switch. Which model does the editing on free plans?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "DeepSeek Unveils Autonomous Coding Agent Prototype",
+   "url": "https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-11-02T05:55:08+00:00",
+   "snippet": "DeepSeek has unveiled a prototype of a new autonomous coding agent, as the Chinese AI lab steps up its efforts to compete with Anthropic’s Claude Code, OpenAI’s Codex and other popular coding tools. The DeepSeek Harness team open-sourced what it described as a “super agent” over the weekend. The ...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI quotes 20 briefs, US government included, against New York Times",
+   "url": "https://ppc.land/openai-quotes-20-briefs-us-government-included-against-new-york-times/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-02T06:26:20+00:00",
+   "snippet": "Publishers asserting 10.8 million works await a summary judgment ruling as several briefs attack market dilution. What would a fair use win mean for licensing?",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI made over 200 law enforcement referrals in Q3 2026",
+   "url": "https://ppc.land/openai-made-over-200-law-enforcement-referrals-in-q3-2026/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-02T06:31:01+00:00",
+   "snippet": "Teens on ChatGPT will lose practical weapons details even with no sign of violent intent, and chats fixated on violence can be ended. Reports begin early 2027.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "KDP Nov 2026 27.000 put (KDP261120P00027000) stock price, news, quote and history",
+   "url": "https://uk.finance.yahoo.com/quote/KDP261120P00027000/",
+   "source": "Yahoo Finance UK",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-01T10:30:40+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "MindStir Media Introduces Book Influencer Program Featuring Bestselling Author J.J. Hebert",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXlUeEM0Rld6dWxydUE3aVFxNDlQVUxRUmhySmp6QTN3d2RzdkdxZ2syd1dvWTllaWZXNldHelJFbFMzZFhxZFJWdW5qTGE2SHBMWWoteHY0dFBKVW9tZ0ZWVE1qaHhGMFdxeVVSYnlCZEhVYUZneHhDMERHQkxFbXI0cVNvclRKVlFNTndmQXM0VWlkYjNqbVhSa2FPMFY5OS1CbUJqMUVaVW1YdEgxRw?oc=5",
+   "source": "The National Law Review",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-11-01T18:28:09+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "author",
+    "influencer"
+   ]
+  },
+  {
+   "title": "Which of Dickens’ characters would you go out with today?",
+   "url": "https://www.reddit.com/r/books/comments/1xl5myk/which_of_dickens_characters_would_you_go_out_with/",
+   "source": "r/books",
+   "group": "Reddit",
+   "feed_id": "reddit-r-books",
+   "published": "2026-11-01T15:18:24+00:00",
+   "snippet": "J.D. Salinger states in Chapter 3 of The Catcher in the Rye \"What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it.\" Fortunately, Charles Dickens was",
+   "matched_keywords": [
+    "author"
+   ]
+  },
+  {
+   "title": "Volcanic activity COLLAPSED this entire place in Japan 🇯🇵 |S8, EP169",
+   "url": "https://youtu.be/Qx0mlUsin90",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-11-01T15:00:35+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}

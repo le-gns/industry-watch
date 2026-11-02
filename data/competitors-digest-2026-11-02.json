@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-02",
+ "summary": [
+  "Quiet weekend across competitors: no news from Lasso, URLgenius, Button/Posttap or Amazon's link tools.",
+  "LTK says 35% of holiday sales happen before Black Friday and 67% of holiday GMV happens on LTK's own properties, pushing brands to start creator campaigns early.",
+  "Everything else found was noise (Goodreads book rankings, unrelated 'Sovrn' crypto tickers) and was left out."
+ ],
+ "competitors": [
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "The brands winning holiday aren't waiting until Black Friday: 35% of holiday GMV happens before Black Friday, and 67% happens on LTK properties",
+     "url": "https://www.linkedin.com/posts/shopltk_the-brands-winning-holiday-arent-waiting-activity-7522704108722470912-Lct-",
+     "source": "LinkedIn \u00b7 LTK",
+     "published": "2026-11-01T17:00:00+00:00",
+     "type": "social",
+     "why": "LTK is pitching brands to spend early and inside its own app (44M shoppers, $6B in purchases). It's a sign creator platforms want to keep shopping on their own turf rather than send traffic out."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T08:17:35.292792+00:00",
+ "item_count": 4,
+ "feeds_ok": 105,
+ "feeds_failed": 2,
+ "items": [
+  {
+   "title": "@noichil Hi, thank you for contacting us and sorry for the inconvenience. Publishers decide content availability by region, so a title may not be available in your location...",
+   "url": "https://x.com/kobo/status/2116856250344366102",
+   "source": "X @kobo",
+   "competitor": "kobo",
+   "feed_id": "x-kobo",
+   "type": "social",
+   "published": "2026-11-01T11:33:54Z",
+   "snippet": "@noichil Hi, thank you for contacting us and sorry for the inconvenience. Publishers decide content availability by region, so a title may not be available in your location..."
+  },
+  {
+   "title": "@noichil Thank you for providing us the book titles! We were able to forward a request for these three books to our internal team...",
+   "url": "https://x.com/kobo/status/2117054575840473188",
+   "source": "X @kobo",
+   "competitor": "kobo",
+   "feed_id": "x-kobo",
+   "type": "social",
+   "published": "2026-11-02T00:41:58Z",
+   "snippet": "@noichil Thank you for providing us the book titles! We were able to forward a request for these three books to our internal team..."
+  },
+  {
+   "title": "Samsung Built the Foldable First. Now Apple Wants the Creator Crowd",
+   "url": "https://www.inc.com/jasmine-browley/samsung-built-the-foldable-first-now-apple-wants-the-creator-crowd/91428433",
+   "source": "Inc.com",
+   "competitor": "samsung",
+   "feed_id": "gn-samsung",
+   "type": "news",
+   "published": "2026-11-01T15:08:19+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "'Size: How it Explains the World' by Vaclav Smil is an exploration of how size defines life on Earth...",
+   "url": "https://x.com/wordery/status/2116832626958860511",
+   "source": "X @wordery",
+   "competitor": "wordery",
+   "feed_id": "x-wordery",
+   "type": "social",
+   "published": "2026-11-01T10:00:01Z",
+   "snippet": "'Size: How it Explains the World' by Vaclav Smil is an exploration of how size defines life on Earth..."
+  }
+ ]
+}

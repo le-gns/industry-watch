@@ -1,0 +1,25 @@
+{
+ "posts": [
+  {
+   "handle": "kobo",
+   "partner": "kobo",
+   "created_at": "2026-11-02T00:41:58Z",
+   "url": "https://x.com/kobo/status/2117054575840473188",
+   "text": "@noichil Thank you for providing us the book titles! We were able to forward a request for these three books to our internal team..."
+  },
+  {
+   "handle": "kobo",
+   "partner": "kobo",
+   "created_at": "2026-11-01T11:33:54Z",
+   "url": "https://x.com/kobo/status/2116856250344366102",
+   "text": "@noichil Hi, thank you for contacting us and sorry for the inconvenience. Publishers decide content availability by region, so a title may not be available in your location..."
+  },
+  {
+   "handle": "wordery",
+   "partner": "wordery",
+   "created_at": "2026-11-01T10:00:01Z",
+   "url": "https://x.com/wordery/status/2116832626958860511",
+   "text": "'Size: How it Explains the World' by Vaclav Smil is an exploration of how size defines life on Earth..."
+  }
+ ]
+}

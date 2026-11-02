@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-02",
+ "summary": [
+  "Very quiet weekend across partners: no programme or commission news from the networks or retailers.",
+  "Kobo's support team reminded a reader that publishers decide which books are sold in which countries, so a title can be missing in one store region.",
+  "Other partner posts were routine book promotion and were left out."
+ ],
+ "partners": [
+  {
+   "id": "kobo",
+   "name": "Kobo",
+   "items": [
+    {
+     "title": "Kobo: publishers decide content availability by region, so a title may not be available in your location",
+     "url": "https://x.com/kobo/status/2116856250344366102",
+     "source": "X @kobo",
+     "published": "2026-11-01T11:33:54+00:00",
+     "type": "social",
+     "why": "A small reminder that the same book isn't sold everywhere. Sending each reader to a store and edition that actually exists in their country is exactly why localised links matter."
+    }
+   ]
+  }
+ ]
+}

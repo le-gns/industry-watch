@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-02",
+ "intro": "A quiet Sunday for news overall. The big themes are AI tools hiding or replacing clicks (Gemini dropping link tags, Alexa shopping) and platforms paying creators.",
+ "must_reads": [
+  {
+   "title": "Google Gemini drops UTM tags from cited links after three weeks",
+   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
+   "source": "PPC Land",
+   "published": "2026-11-01T16:13:05+00:00",
+   "why": "Why it matters for Geniuslink: Gemini briefly tagged the links it cites, then quietly stopped, so those visits now show up as 'Direct' in analytics. When AI tools hide where clicks come from, knowing which link actually drove a visit or sale gets harder for everyone, and that's the problem smart links exist to solve."
+  },
+  {
+   "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+   "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+   "source": "Digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Amazon says 400M+ people used Alexa for Shopping in a year and they spend 50% more. Shopping is moving into voice and AI assistants where nobody clicks a creator's link, which raises a real question about how creators get credit for sales."
+  },
+  {
+   "title": "Instagram offers to pay creators for long-form content",
+   "url": "https://www.socialmediatoday.com/news/instagram-offers-to-pay-creators-for-long-form-content/873402/",
+   "source": "Social Media Today",
+   "published": "2026-11-01T22:29:02+00:00",
+   "why": "Why it matters for Geniuslink: Meta is paying creators to post longer videos on Instagram. Platforms competing for creators with cash usually also tweak what links and outbound traffic they allow, so it's worth watching where link-out rules go next."
+  },
+  {
+   "title": "Google AI Mode test groups shopping ads under one Sponsored heading",
+   "url": "https://ppc.land/google-ai-mode-test-groups-shopping-ads-under-one-sponsored-heading/",
+   "source": "PPC Land",
+   "published": "2026-11-01T21:51:56+00:00",
+   "why": "Why it matters for Geniuslink: Google is testing grouping shopping ads under one 'Sponsored' label in AI Mode, with free listings under 'All products'. How AI search lays out products decides which retailer gets the click, and that's the space Geniuslink routes traffic through."
+  },
+  {
+   "title": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
+   "url": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/",
+   "source": "Digiday",
+   "published": "2026-11-02T05:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Big publishers like People Inc. and Forbes are rebuilding their content so AI agents can read it directly. Many of these publishers earn from affiliate links, so if agents read the content instead of people, the clicks that pay them may shrink."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Walmart+ lands in Mexico at MXN 89 a month, its second market outside the US",
+     "url": "https://ppc.land/walmart-lands-in-mexico-at-mxn-89-a-month-its-second-market-outside-the-us/",
+     "source": "PPC Land",
+     "published": "2026-11-01T07:18:07+00:00",
+     "summary": "Walmart's membership expands to its second market outside the US."
+    },
+    {
+     "title": "Amazon Prime Big Deal Days 2026: Everything you need to know, including the best sales",
+     "url": "https://abc7chicago.com/post/amazon-prime-big-deal-days-everything-need-know-early-sales/17912133/",
+     "source": "ABC7 Chicago",
+     "published": "2026-11-02T02:33:48+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Meta UK CMA investigation: legal test and scope",
+     "url": "https://www.neoteo.com/en/uk-cma-investigates-metas-proposed-business-terms",
+     "source": "NeoTeo",
+     "published": "2026-11-02T01:58:06+00:00",
+     "summary": "UK regulator looking at Meta's proposed business terms."
+    },
+    {
+     "title": "Giggly Squad\u2019s SiriusXM deal signals a shift from podcast networks to creator ecosystems",
+     "url": "https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/",
+     "source": "Digiday",
+     "published": "2026-11-02T05:01:00+00:00"
+    },
+    {
+     "title": "How Loop Earplugs Grew From $100M to $250M: 6 Creator Marketing Lessons From Its CMO",
+     "url": "https://www.netinfluencer.com/how-loop-earplugs-grew-from-100m-to-250m-6-creator-marketing-lessons-from-its-cmo/",
+     "source": "Net Influencer",
+     "published": "2026-11-01T21:25:36+00:00"
+    },
+    {
+     "title": "Why e.l.f. Beauty Puts Paid Media Behind Creator Videos That Already Work Organically",
+     "url": "https://www.netinfluencer.com/why-e-l-f-beauty-puts-paid-media-behind-creator-videos-that-already-work-organically/",
+     "source": "Net Influencer",
+     "published": "2026-11-01T21:25:41+00:00"
+    },
+    {
+     "title": "SARS tells influencers and creators to declare all income for tax",
+     "url": "https://www.mapepeza.online/sars-releases-tax-guide-for-content-creators-and-social-media-influencers/",
+     "source": "Mapepeza",
+     "published": "2026-11-01T13:02:48+00:00",
+     "summary": "South Africa's tax office tells creators to declare all income."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Advertisers in 10 more countries can't opt out of Google's AI Mode ads",
+     "url": "https://ppc.land/advertisers-in-10-more-countries-cant-opt-out-of-googles-ai-mode-ads/",
+     "source": "PPC Land",
+     "published": "2026-11-01T22:14:10+00:00",
+     "summary": "Search, Shopping and PMax campaigns in 10 more markets now enter Google's AI Mode with no opt-out."
+    },
+    {
+     "title": "Google tells advertisers AI search queries now run 3x longer",
+     "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
+     "source": "PPC Land",
+     "published": "2026-11-01T05:37:46+00:00"
+    },
+    {
+     "title": "Publisher group says AI cut visitors 26%, quoting Microsoft's 'doom loop'",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbG04QXZ4eXlTenlDb2JOQ3FLNll4UGdoT2RZZDQyc2tZRFZ4WWxmeUZqeVJtSDFRUnRaVlB0LVVtSTRNNlFOUTB0dFZ2VTN1eW41bjQyc2FBemlFQzJ5aTV4TzM2QUZXQmJJRkVBaDIxcWFvUXVlSGdMSjR2ekYtRFZ1Y1hyRm1RYzBhREdMNA?oc=5",
+     "source": "PPC Land",
+     "published": "2026-11-01T22:18:07+00:00"
+    },
+    {
+     "title": "Reddit sinks 29% on Q4 outlook as Google AI cuts traffic",
+     "url": "https://www.techinasia.com/news/reddit-sinks-29-q4-outlook-google-ai-cuts-traffic",
+     "source": "Tech in Asia",
+     "published": "2026-11-01T04:20:00+00:00",
+     "summary": "Reddit shares fell 29% on its outlook, blaming lost Google traffic from AI answers."
+    },
+    {
+     "title": "Marie Haynes tells SEOs to build Google Search apps instead of chasing GEO",
+     "url": "https://ppc.land/marie-haynes-tells-seos-to-build-google-search-apps-instead-of-chasing-geo/",
+     "source": "PPC Land",
+     "published": "2026-11-01T07:25:37+00:00"
+    },
+    {
+     "title": "Millennials lead AI shopping adoption in India at 84 pc, ahead of Gen Z: McKinsey",
+     "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/millennials-lead-ai-shopping-adoption-in-india-at-84-pc-ahead-of-gen-z-mckinsey/135442757",
+     "source": "ET Retail",
+     "published": "2026-11-02T04:38:25+00:00"
+    },
+    {
+     "title": "Apple cuts Taiwan App Store commission to 26% after antitrust probe",
+     "url": "https://ppc.land/apple-cuts-taiwan-app-store-commission-to-26-after-antitrust-probe/",
+     "source": "PPC Land",
+     "published": "2026-11-01T22:42:41+00:00",
+     "summary": "Apple cuts its Taiwan App Store commission to 26% after an antitrust probe."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate & ad industry",
+   "items": [
+    {
+     "title": "Google search loses its free pass with buyers",
+     "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
+     "source": "Digiday",
+     "published": "2026-11-02T05:01:00+00:00"
+    },
+    {
+     "title": "Down To The Wire To Acquire; Meta Wants To Be TV, Too",
+     "url": "https://www.adexchanger.com/daily-news-roundup/monday-02112026/",
+     "source": "AdExchanger",
+     "published": "2026-11-02T05:03:21+00:00"
+    },
+    {
+     "title": "Big Tech\u2019s ad machine is slowing just as the AI bill peaks. Who blinks first?",
+     "url": "https://www.storyboard18.com/how-it-works/big-techs-ad-machine-is-slowing-just-as-the-ai-bill-peaks-who-blinks-first-ws-l-113846.htm",
+     "source": "Storyboard18",
+     "published": "2026-11-02T02:59:01+00:00"
+    }
+   ]
+  }
+ ]
+}
