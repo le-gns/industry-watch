@@ -1,0 +1,179 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T08:11:22.006975+00:00",
+ "item_count": 17,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Is Amazon Grocery worth it? Yes—here’s what to know.",
+   "url": "https://www.aboutamazon.com/news/retail/is-amazon-grocery-worth-it",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-02T14:00:05+00:00",
+   "snippet": "With everyday low prices and Same-Day Delivery in more than 2,300 U.S. cities and towns, Amazon Grocery is helping customers save more and shop faster on fresh groceries and everyday essentials."
+  },
+  {
+   "title": "Is Amazon Grocery worth it? Yes—here's what to know.",
+   "url": "https://x.com/amazonnews/status/2117276515981242620",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-02T15:23:53Z",
+   "snippet": "Is Amazon Grocery worth it? Yes—here's what to know."
+  },
+  {
+   "title": "Amazon CEO Andy Jassy: ‘I had to change how I worked, or I was going to be a lousy dad’",
+   "url": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-work-life-balance",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-02T18:12:51+00:00",
+   "snippet": "From Tuesday date nights to weekly breakfasts with his kids, Jassy shared the boundaries and traditions that keep his family close."
+  },
+  {
+   "title": "Alexa+ arrives in Japan as Amazon's next-generation AI assistant expands internationally",
+   "url": "https://x.com/amazonnews/status/2117344670288339441",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-02T19:54:42Z",
+   "snippet": "Alexa+ arrives in Japan as Amazon's next-generation AI assistant expands internationally"
+  },
+  {
+   "title": "YouTube launches shopping affiliate program in UAE, Saudi Arabia and Egypt",
+   "url": "https://campaignme.com/youtube-launches-shopping-affiliate-program-in-uae-saudi-arabia-and-egypt/",
+   "source": "Campaign Middle East",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-02T13:15:41+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "New accessibility tags come to YouTube Playables",
+   "url": "https://blog.youtube/news-and-events/new-accessibility-tags-youtube-playables/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-11-02T20:00:00+00:00",
+   "snippet": "See supported controls, visuals, and audio settings before hitting start with new tags on YouTube Playables."
+  },
+  {
+   "title": "UK creators assemble! Amazon says it is coming to YouTube's Shopping affiliate programme",
+   "url": "https://www.retailtechinnovationhub.com/home/2026/11/3/uk-creators-assemble-amazon-says-it-is-coming-to-youtubes-shopping-affiliate-programme",
+   "source": "Retail Technology Innovation Hub",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-03T05:40:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "In the same way that print-on-demand makes print publishing accessible to authors, services that make products to-order are a great step to giving authors access to low risk merch. #writinglife #autho",
+   "url": "https://x.com/Draft2Digital/status/2117353821043101909",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-02T20:31:04Z",
+   "snippet": "In the same way that print-on-demand makes print publishing accessible to authors, services that make products to-order are a great step to giving authors access to low risk merch. #writinglife #authormarketing #selfpubinsiders"
+  },
+  {
+   "title": "November's most anticipated reads are here! Rebecca Yarros's 'Peculiar Stars,' Kit de Waal's 'Sweet Pea,' Louise Kennedy's 'Stations,' and more.",
+   "url": "https://x.com/goodreads/status/2117293410528702550",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-02T16:31:01Z",
+   "snippet": "November's most anticipated reads are here! Rebecca Yarros's 'Peculiar Stars,' Kit de Waal's 'Sweet Pea,' Louise Kennedy's 'Stations,' and more."
+  },
+  {
+   "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+   "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+   "source": "TechCrunch",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-02T17:49:41+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Readwise launches book app to challenge Kindle and Goodreads",
+   "url": "https://mezha.net/eng/news/mezha-c7583aede7d6227bbd927f9e/",
+   "source": "Mezha.net",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-02T18:17:24+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Goodreads' Top 15 Most Read Biographies & Memoirs Of 2026 (So Far)",
+   "url": "https://www.women.com/2303545/goodreads-top-15-most-read-biography-memoir-books-2026-ranked-by-reviews/",
+   "source": "Women.com",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-03T00:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Instagram or TikTok, which one actually drives more clicks? Tess let Bitly settle it. One Bitly Link, easy-to-read analytics, and a clear answer on where her tr…",
+   "url": "https://www.linkedin.com/posts/bitly_instagram-or-tiktok-which-one-actually-drives-activity-7523056160283774976-RamK",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-11-02T16:19:20.234000+00:00",
+   "snippet": "Instagram or TikTok, which one actually drives more clicks? Tess let Bitly settle it. One Bitly Link, easy-to-read analytics, and a clear answer on where her traffic comes from. No guessing."
+  },
+  {
+   "title": "Shoppers Are Embracing Bold Prints, Relaxed Denim and Cozy Comfort, According to LTK",
+   "url": "https://www.businesswire.com/news/home/20261102029047/en/Shoppers-Are-Embracing-Bold-Prints-Relaxed-Denim-and-Cozy-Comfort-According-to-LTK",
+   "source": "Business Wire",
+   "competitor": "ltk",
+   "feed_id": "gn-ltk",
+   "type": "news",
+   "published": "2026-11-02T18:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What’s on shoppers’ radar this November? LTK Most Loved is back with a look at the products, brands and trends capturing attention across LTK this month. Powere…",
+   "url": "https://www.linkedin.com/posts/shopltk_whats-on-shoppers-radar-this-november-activity-7523081853008920576-1V92",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-11-02T18:01:25.857000+00:00",
+   "snippet": "What’s on shoppers’ radar this November? LTK Most Loved is back with a look at the products, brands and trends capturing attention across LTK this month. Powered by the intersection of creator influence and real-time shopper activity, LTK Most Loved highlights what people are searching for, clicking"
+  },
+  {
+   "title": "ShopMy Is Taking Its Influencer-Curated Marketplace Offline",
+   "url": "https://www.businessoffashion.com/news/marketing-pr/shopmy-holiday-market-new-york/",
+   "source": "The Business of Fashion",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-11-03T05:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "🚀 Better #SEO for your link in bio! You can now choose your page's H1 heading to help search engines understand your content. ✨ Automatic or manual 🎨 No design …",
+   "url": "https://www.linkedin.com/posts/lnkbio_set-your-linkinbio-page-h1-for-better-seo-activity-7523202685412524032-AEyS",
+   "source": "LinkedIn · Lnk.Bio",
+   "competitor": "lnkbio",
+   "feed_id": "li-lnkbio",
+   "type": "social",
+   "published": "2026-11-03T02:01:34.547000+00:00",
+   "snippet": "🚀 Better #SEO for your link in bio! You can now choose your page's H1 heading to help search engines understand your content. ✨ Automatic or manual 🎨 No design changes 🆓 Free for everyone! 👉 https://lnkd.in/g9C3EBFV #LinkInBio"
+  }
+ ]
+}

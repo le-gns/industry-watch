@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-03",
+ "summary": [
+  "Quiet day for Lasso, URLgenius, Button/Posttap and Amazon's own link tools: no news from any of them.",
+  "YouTube Shopping is expanding fast: Amazon is joining its affiliate programme in the UK, and it launched in the UAE, Saudi Arabia and Egypt.",
+  "Readwise launched a book app aimed squarely at Kindle and Goodreads readers.",
+  "LTK and ShopMy are both pushing their own shopping destinations for the holidays (LTK trend report, ShopMy's New York pop-up market)."
+ ],
+ "competitors": [
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "UK creators assemble! Amazon says it is coming to YouTube's Shopping affiliate programme",
+     "url": "https://www.retailtechinnovationhub.com/home/2026/11/3/uk-creators-assemble-amazon-says-it-is-coming-to-youtubes-shopping-affiliate-programme",
+     "source": "Retail Technology Innovation Hub",
+     "published": "2026-11-03T05:40:40+00:00",
+     "type": "news",
+     "why": "UK creators can now tag Amazon products directly in videos, Shorts and lives and earn commission without a description link. More shopping happens inside the player, so fewer clicks go through links creators control."
+    },
+    {
+     "title": "YouTube launches shopping affiliate program in UAE, Saudi Arabia and Egypt",
+     "url": "https://campaignme.com/youtube-launches-shopping-affiliate-program-in-uae-saudi-arabia-and-egypt/",
+     "source": "Campaign Middle East",
+     "published": "2026-11-02T13:15:41+00:00",
+     "type": "news",
+     "why": "YouTube's in-video affiliate programme keeps spreading to new countries, competing with links in the description."
+    },
+    {
+     "title": "Don't sleep on YouTube Shopping",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xm2i1m/dont_sleep_on_youtube_shopping/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-02T16:52:28+00:00",
+     "type": "reddit",
+     "why": "Amazon Influencers on Reddit say YouTube Shopping's international programmes are already paying out, so creators are trying it alongside Amazon."
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "items": [
+    {
+     "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+     "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+     "source": "TechCrunch",
+     "published": "2026-11-02T17:49:41+00:00",
+     "type": "news",
+     "why": "A new reading app is going after Kindle and Goodreads users. More places where readers discover books means more stores and apps a book link has to handle."
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "Shoppers Are Embracing Bold Prints, Relaxed Denim and Cozy Comfort, According to LTK",
+     "url": "https://www.businesswire.com/news/home/20261102029047/en/Shoppers-Are-Embracing-Bold-Prints-Relaxed-Denim-and-Cozy-Comfort-According-to-LTK",
+     "source": "Business Wire",
+     "published": "2026-11-02T18:00:00+00:00",
+     "type": "wire",
+     "why": "LTK's November trend report is another push to keep holiday shopping inside its own app."
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "ShopMy Is Taking Its Influencer-Curated Marketplace Offline",
+     "url": "https://www.businessoffashion.com/news/marketing-pr/shopmy-holiday-market-new-york/",
+     "source": "The Business of Fashion",
+     "published": "2026-11-03T05:30:00+00:00",
+     "type": "news",
+     "why": "ShopMy is running a physical holiday market in New York to build its name with brands and shoppers."
+    }
+   ]
+  },
+  {
+   "id": "lnkbio",
+   "name": "lnk.bio",
+   "priority": false,
+   "items": [
+    {
+     "title": "🚀 Better #SEO for your link in bio! You can now choose your page's H1 heading to help search engines understand your content. ✨ Automatic or manual 🎨 No design …",
+     "url": "https://www.linkedin.com/posts/lnkbio_set-your-linkinbio-page-h1-for-better-seo-activity-7523202685412524032-AEyS",
+     "source": "LinkedIn · Lnk.Bio",
+     "published": "2026-11-03T02:01:34.547000+00:00",
+     "type": "social",
+     "why": "Link-in-bio tools are adding SEO features so creator pages rank in search, not just get clicked from bios."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "date": "2026-11-03",
+ "intro": "A busy Monday. The big themes are AI tools taking over the brand and shopping moments (Google's AI Overviews, Shopify paying shopping agents) and platforms tightening their grip on publishers and creators.",
+ "must_reads": [
+  {
+   "title": "Google moves AI Overviews for brand searches out of the main results",
+   "url": "https://ppc.land/google-moves-ai-overviews-for-brand-searches-out-of-the-main-results/",
+   "source": "PPC Land",
+   "published": "2026-11-03T02:11:51+00:00",
+   "also": {
+    "source": "PPC Land",
+    "url": "https://ppc.land/google-moves-brand-ai-overviews-aside-as-buyers-question-search-budgets/",
+    "paywall": false
+   },
+   "why": "Why it matters for Geniuslink: Google now shows its own AI-written description beside brand searches, where the brand's knowledge panel used to sit. When AI decides how a brand is described and which links appear, brands and creators have less control over where the click goes."
+  },
+  {
+   "title": "Shopify 'Promoted' Preview Signals Revenue From Agentic 11/02/2026",
+   "url": "https://www.mediapost.com/publications/article/419141/shopify-promoted-preview-signals-revenue-from-ag.html?edition=144333",
+   "source": "MediaPost",
+   "published": "2026-11-02T14:17:40+00:00",
+   "why": "Why it matters for Geniuslink: Shopify is testing a way to pay the developers of AI shopping agents a share of sales, which is basically affiliate commission for bots. It's an early sign that AI shopping will get its own affiliate rules, separate from the links creators share today."
+  },
+  {
+   "title": "TikTok Shop counts brand website sales in a new 14-day LIVE metric",
+   "url": "https://ppc.land/tiktok-shop-counts-brand-website-sales-in-a-new-14-day-live-metric/",
+   "source": "PPC Land",
+   "published": "2026-11-02T20:20:23+00:00",
+   "why": "Why it matters for Geniuslink: TikTok Shop will now count sales on a brand's own website (tracked by TikTok's pixel) as part of its LIVE results. Platforms are fighting to claim credit for sales that happen off their app, so measuring which link really drove a sale gets more contested."
+  },
+  {
+   "title": "‘They hold us hostage’: Publishers furious over terms change still can’t quit Facebook",
+   "url": "https://digiday.com/media/they-hold-us-hostage-publishers-furious-over-terms-change-still-cant-quit-facebook/",
+   "source": "Digiday",
+   "published": "2026-11-03T05:01:00+00:00",
+   "why": "Why it matters for Geniuslink: Publishers hate Meta's new terms letting it use their content for AI, but still can't walk away because Facebook sends them traffic. It shows the tension between platforms and the people who rely on them, which matters because Geniuslink works across all of them."
+  },
+  {
+   "title": "Amazon, Flipkart face creator retention test as established influencers seek guaranteed fees over commissions",
+   "url": "https://www.storyboard18.com/influencer-marketing/amazon-flipkart-face-creator-retention-test-as-established-influencers-seek-guaranteed-fees-over-commissions-113916.htm",
+   "source": "Storyboard18",
+   "published": "2026-11-03T03:28:06+00:00",
+   "why": "Why it matters for Geniuslink: Bigger creators in India are pushing Amazon and Flipkart for guaranteed fees instead of commission only. If commission-only programmes lose their best creators, retailers may have to change how they pay, which affects every affiliate link."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Meta updates creator assistant chatbot",
+     "url": "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/",
+     "source": "Social Media Today",
+     "published": "2026-11-02T22:25:51+00:00",
+     "summary": "Meta's AI creator assistant now sends opportunity alerts, helps with content and writes automated replies."
+    },
+    {
+     "title": "Instagram Study: Europe Has 12.4M Creator Profiles, but Density Trails the U.S.",
+     "url": "https://www.netinfluencer.com/instagram-study-europe-has-12-4m-creator-profiles-but-density-trails-the-us/",
+     "source": "Net Influencer",
+     "published": "2026-11-02T12:20:20+00:00",
+     "summary": "An Instagram study counts 12.4M creator profiles in Europe, with lower density than the US."
+    },
+    {
+     "title": "IZEA Founder Says Platforms Are Building AI Replacements for Creators",
+     "url": "https://www.netinfluencer.com/izea-founder-says-platforms-are-building-ai-replacements-for-creators/",
+     "source": "Net Influencer",
+     "published": "2026-11-02T12:22:56+00:00",
+     "summary": "IZEA's founder says social platforms are building AI stand-ins for human creators."
+    },
+    {
+     "title": "Creator Sponsorship Prices Are Negotiated Upward From a Low First Offer, Data Shows",
+     "url": "https://www.netinfluencer.com/creator-sponsorship-prices-are-negotiated-upward-from-a-low-first-offer-data-shows/",
+     "source": "Net Influencer",
+     "published": "2026-11-02T12:24:39+00:00",
+     "summary": "Deal data shows brands' first sponsorship offers average 27% of the creator's quoted price."
+    },
+    {
+     "title": "Enterprise Brands Scaling Creator Spend Need Infrastructure Before Budget, per Viral Nation Co-CEO",
+     "url": "https://www.netinfluencer.com/enterprise-brands-scaling-creator-spend-need-infrastructure-before-budget-per-viral-nation-co-ceo/",
+     "source": "Net Influencer",
+     "published": "2026-11-02T12:28:26+00:00",
+     "summary": "Viral Nation's co-CEO says big brands set creator budgets before building the systems to run them."
+    },
+    {
+     "title": "Creator Agency LV8 Merges With Sister Firm Mirage, Raises ‘High Eight Figures’",
+     "url": "https://www.adweek.com/agencies/lv8-mirage-velocity-merger-investment-creators-agency/",
+     "source": "Adweek",
+     "published": "2026-11-02T12:00:00+00:00",
+     "summary": "Creator agency LV8 merges with sister firm Mirage and raises 'high eight figures'."
+    },
+    {
+     "title": "How political creators are juggling platforms to find the three Rs: reach, revenue and rules",
+     "url": "https://digiday.com/media/how-political-creators-are-juggling-platforms-to-find-the-three-rs-reach-revenue-and-rules/",
+     "source": "Digiday",
+     "published": "2026-11-03T05:01:00+00:00",
+     "summary": "News and political creators spread across platforms to balance reach, revenue and rules."
+    },
+    {
+     "title": "When Creators Become Media Companies: What It Means for Brand Deals",
+     "url": "https://theinfluencermarketingfactory.com/creators-become-media-companies/",
+     "source": "The Influencer Marketing Factory",
+     "published": "2026-11-02T17:13:50+00:00",
+     "summary": "As creators become media companies, brand deals look more like media buys."
+    },
+    {
+     "title": "Indian Creator Varun Mayya’s Aeos Group Plans Network of Tens of Thousands of Clip Pages",
+     "url": "https://www.netinfluencer.com/indian-creator-varun-mayya-aeos-group-plans-network-of-tens-of-thousands-of-clip-pages/",
+     "source": "Net Influencer",
+     "published": "2026-11-02T12:18:57+00:00",
+     "summary": "Varun Mayya's Aeos Group plans tens of thousands of clip pages to spread creator content."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Ad Tech Briefing: Google’s AI-reckoning",
+     "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
+     "source": "Digiday",
+     "published": "2026-11-03T05:01:00+00:00",
+     "summary": "Google's Q3 results show how AI Mode is affecting search ad growth."
+    },
+    {
+     "title": "Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space",
+     "url": "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space",
+     "source": "The Information",
+     "published": "2026-11-02T15:00:48+00:00",
+     "summary": "OpenAI is using Magnite and PubMatic to sell unused ad space in ChatGPT.",
+     "paywall": true
+    },
+    {
+     "title": "Turkey Probes Google’s AI Overviews, Orders Interim Measures",
+     "url": "https://fourweekmba.com/ai-turkey-probes-googles-ai-overviews-orders-interim-measures/",
+     "source": "FourWeekMBA",
+     "published": "2026-11-02T11:14:12+00:00",
+     "summary": "Turkey's competition authority opens a probe into Google's AI Overviews and orders interim measures.",
+     "also": {
+      "source": "Hürriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/turkish-watchdog-opens-probe-into-googles-ai-generated-summaries-228923",
+      "paywall": false
+     }
+    },
+    {
+     "title": "AI content retrieval ‘eating away’ at publishers | UK top 50: Reach sees biggest audience drop",
+     "url": "https://pressgazette.substack.com/p/ai-content-retrieval-eating-away",
+     "source": "Substack",
+     "published": "2026-11-02T12:09:12+00:00",
+     "summary": "Press Gazette: AI answers are eating into UK publishers' audiences; Reach saw the biggest drop."
+    },
+    {
+     "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+     "source": "TechCrunch",
+     "published": "2026-11-02T19:19:17+00:00",
+     "summary": "The New York Times and others sue Brave for allegedly scraping and reselling their content to AI firms."
+    },
+    {
+     "title": "Zalando’s AI Agents Are Turning Its App Into A Marketplace",
+     "url": "https://finimize.com/content/zalandos-ai-agents-are-turning-its-app-into-a-marketplace",
+     "source": "Finimize",
+     "published": "2026-11-03T00:59:19+00:00",
+     "summary": "Zalando's AI agents are turning its app into a marketplace."
+    },
+    {
+     "title": "Contentsquare New AI-First Experience Platform Optimizes Human, Agent Journey",
+     "url": "https://www.demandgenreport.com/industry-news/news-brief/contentsquare-new-ai-first-experience-platform-optimizes-human-agent-journey/55169/",
+     "source": "Demand Gen Report",
+     "published": "2026-11-02T20:30:46+00:00",
+     "summary": "Contentsquare launches a platform to track both human and AI-agent visits to websites."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate & ad industry",
+   "items": [
+    {
+     "title": "Prop Firm Match Acknowledges Affiliate Redirects as Partners Cut Ties",
+     "url": "https://www.affiversemedia.com/prop-firm-match-affiliate-redirects/",
+     "source": "Affiverse Media",
+     "published": "2026-11-02T11:26:27+00:00",
+     "summary": "A comparison site admits listing clicks went through its affiliate links, and partners cut ties. A reminder that hidden redirects hurt trust."
+    },
+    {
+     "title": "​Reddit Just Announced a Big Shift. Here’s What You Need to Know",
+     "url": "https://hellopartner.com/reddit-just-announced-a-big-shift-heres-what-you-need-to-know/",
+     "source": "Hello Partner",
+     "published": "2026-11-02T16:00:00+00:00",
+     "summary": "Hello Partner on Reddit's changes, including falling search referral traffic."
+    },
+    {
+     "title": "Agency execs call for retail media to be holistically considered beyond the lower funnel",
+     "url": "https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel/",
+     "source": "Digiday",
+     "published": "2026-11-03T05:01:00+00:00",
+     "summary": "Agency leaders say retail media should be used beyond the bottom of the funnel."
+    },
+    {
+     "title": "Affle Acquires Perion For $420 Million, Because ‘Synergies’",
+     "url": "https://www.adexchanger.com/platforms/affle-acquires-perion-for-420-million-because-synergies/",
+     "source": "AdExchanger",
+     "published": "2026-11-02T17:03:43+00:00",
+     "summary": "Ad tech firm Affle buys Perion for $420M."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Rommi Is Making Vertical Romance Movie Adaptations for BookTok — and Drive Me Mad Is First",
+     "url": "https://fangirlish.com/2026/11/02/rommi-is-making-vertical-romance-movie-adaptations-for-booktok-and-drive-me-mad-is-first/",
+     "source": "Fangirlish",
+     "published": "2026-11-02T20:00:00+00:00",
+     "summary": "Rommi is making short vertical romance film adaptations aimed at BookTok readers."
+    },
+    {
+     "title": "MindStir Media Introduces Book Influencer Program Featuring Bestselling Author J.J. Hebert",
+     "url": "https://www.courier-journal.com/press-release/story/249165/mindstir-media-introduces-book-influencer-program-featuring-bestselling-author-j-j-hebert/",
+     "source": "The Courier-Journal",
+     "published": "2026-11-02T20:43:37+00:00",
+     "summary": "Publisher MindStir Media launches a book influencer programme (press release)."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Why do some people say that being an Amazon Associate pays more than being an Amazon Influencer?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xlo5ap/why_do_some_people_say_that_being_an_amazon/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-02T04:47:10+00:00",
+     "summary": "Creators compare earnings from Amazon Associates and the Amazon Influencer Program."
+    },
+    {
+     "title": "Can I apply for the Amazon Influencer Program with my TikTok account?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xmmekw/can_i_apply_for_the_amazon_influencer_program/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-03T07:14:20+00:00",
+     "summary": "A creator asks about applying to Amazon's Influencer Program with a TikTok account."
+    }
+   ]
+  }
+ ]
+}

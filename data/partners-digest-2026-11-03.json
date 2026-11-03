@@ -1,0 +1,46 @@
+{
+ "date": "2026-11-03",
+ "summary": [
+  "CJ added Channel3 so advertisers can send product info to AI shopping apps, and its CEO talked up 'connected commerce'.",
+  "Walmart's creator lead DJ Vaughn made Ad Age's media buying power list for growing Walmart's creator programme.",
+  "Other partner posts (impact.com, Partnerize, Kobo, retailer LinkedIn) were routine and left out."
+ ],
+ "partners": [
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ Adds Channel3 to Connect Advertisers With AI Shopping Apps",
+     "url": "https://www.affiversemedia.com/cj-channel3-ai-shopping/",
+     "source": "Affiverse Media",
+     "published": "2026-11-02T11:54:09+00:00",
+     "type": "news",
+     "why": "Affiliate networks are building pipes into AI shopping apps. Commission is starting to follow AI recommendations, not only human-shared links."
+    },
+    {
+     "title": "The Santi Pierini Interview",
+     "url": "https://hellopartner.com/the-santi-pierini-interview/",
+     "source": "Hello Partner",
+     "published": "2026-11-02T10:32:20+00:00",
+     "type": "blog",
+     "why": "CJ's CEO on AI and connected commerce: networks see search, social, creators and affiliate merging."
+    }
+   ]
+  },
+  {
+   "id": "walmart",
+   "name": "Walmart (US)",
+   "items": [
+    {
+     "title": "DJ Vaughn is elevating creators and entrepreneurs at Walmart",
+     "url": "https://adage.com/events-awards/media-buying-power-list/aa-dj-vaughn-walmart-2026/",
+     "source": "Ad Age",
+     "published": "2026-11-02T14:00:00+00:00",
+     "type": "news",
+     "why": "Walmart keeps investing in creators and entrepreneurs, a sign its creator programme is a serious alternative to Amazon's."
+    }
+   ]
+  }
+ ]
+}
