@@ -1,0 +1,191 @@
+{
+ "date": "2026-11-04",
+ "intro": "A fairly quiet Wednesday. The main threads are AI search keeping clicks away from publishers, creators losing credit for sales they drive, and platforms building their own shopping tools ahead of Black Friday.",
+ "must_reads": [
+  {
+   "title": "With Search Traffic Down 70%, People Inc. Bets On Revenue Beyond Site Visits",
+   "url": "https://www.adexchanger.com/publishers/with-search-traffic-down-70-people-inc-bets-on-revenue-beyond-site-visits/",
+   "source": "AdExchanger",
+   "published": "2026-11-03T19:19:40+00:00",
+   "why": "Why it matters for Geniuslink: People Inc. (People, InStyle, Southern Living) says its Google search traffic is down 70% in two years, with AI Overviews on 90% of its searches. When big publishers lose clicks, affiliate links on their pages get fewer chances to earn, so they look for money that doesn't depend on site visits."
+  },
+  {
+   "title": "Creators drive demand but miss commissions: The attribution problem in India's affiliate economy",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFJ6WjVpVXB5Szk1WTBwT3hlQ01rZS1NMlB3Z3pVSmN1NmNOR0xNaTZ0MWozMXFvd29fazZkOHRISXYwRDNPdG1vTDF0enEtVEZWbmF0MDJYVHFyOURXWlFEZjVseEN5Y25OLXZJUVJvSktYMkx3cm9DNHdKV2lBb1FKNGlXdDFIUDl3Umx0SFNMT2dGSXozR01JS3BIRWI4MktRUW1MQnNKa1BBbmVjTzd5QmpFQjZOcTR1X2FnSnF2cXZESXFYVkV3bTlCbUpDdlIxU1BQS3JiMThQTG42ZFBCbHpIcU5FNF800gHwAUFVX3lxTFBzSjYyb05RaGlmd1VjbGQxbndKQ01Zei1SeGhyX0NLTmVjWHdYdlAtSjQyRkZIM0xYMHliTkVRalZyUzNrWUN2TGdDekpGZlh6eHFMekhiYXgxSmpLWUprNFZoYzFVMFRLM3BRZXNSb29ZQTZBUmRBNUhXakRMVko4a2JNX2tvbl9hQzg5d1FDb3dHbmt5bU04ZE5Ib1RVR2F1Y05xMVd2LUhpS1hkdkNHRHJFYTNZeTdaT0xxa0dRaW5BZGlJUDktMnNBU0sxVEE2bUNDLVZicXZYYjhMSGRhR0UzRW9kU19IM09COEhvdw?oc=5",
+   "source": "Storyboard18",
+   "published": "2026-11-04T03:34:23+00:00",
+   "why": "Why it matters for Geniuslink: Creators in India are driving sales but losing commission because tracking breaks as shoppers move between apps and stores. Broken attribution is an industry-wide problem, not just ours, and it's the reason link-level tracking matters."
+  },
+  {
+   "title": "TikTok Shop AI estimates extra orders per listing fix ahead of Black Friday",
+   "url": "https://ppc.land/tiktok-shop-ai-estimates-extra-orders-per-listing-fix-ahead-of-black-friday/",
+   "source": "PPC Land",
+   "published": "2026-11-04T08:03:26+00:00",
+   "why": "Why it matters for Geniuslink: TikTok Shop is giving US sellers its own AI tools to fix listings, make videos and join Black Friday campaigns, all inside TikTok. Each platform wants the whole shopping journey in its own app, which makes links that work across all of them more useful, not less."
+  },
+  {
+   "title": "'Google's crown is definitely shaky': 57% of agencies say clients are prioritising GEO for search investment",
+   "url": "https://www.performancemarketingworld.com/article/1974145/googles-crown-definitely-shaky-57-agencies-say-clients-prioritising-geo",
+   "source": "Performance Marketing World",
+   "published": "2026-11-03T10:37:05+00:00",
+   "paywall": true,
+   "why": "Why it matters for Geniuslink: A survey of agencies says 57% of clients now put generative AI search (GEO) first for search spend, moving money towards creators and trusted content. If AI answers decide what shoppers see, being cited by AI becomes as important as ranking on Google."
+  },
+  {
+   "title": "Rakuten Research Examines AI Disclosure and Trust in Creator Reviews",
+   "url": "https://www.affiversemedia.com/rakuten-ai-disclosure-creator-trust/",
+   "source": "Affiverse Media",
+   "published": "2026-11-03T09:24:51+00:00",
+   "why": "Why it matters for Geniuslink: Only 38% of shoppers in Rakuten's survey are comfortable with a fully AI-written creator review. Trust in real creators is still the asset that drives affiliate clicks, which is good news for the creators and authors we serve."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "LinkedIn shares information on new creator insights options",
+     "url": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/",
+     "source": "Social Media Today",
+     "published": "2026-11-03T23:25:51+00:00",
+     "summary": "LinkedIn is adding new insight options for creators."
+    },
+    {
+     "title": "TikTok, WTA Form Global Content Partnership Built Around Creators, Player Storytelling",
+     "url": "https://www.netinfluencer.com/tiktok-wta-form-global-content-partnership-built-around-creators-player-storytelling/",
+     "source": "Net Influencer",
+     "published": "2026-11-03T11:58:22+00:00",
+     "summary": "TikTok and the WTA build a global content partnership around creators."
+    },
+    {
+     "title": "Respect Over Authenticity: Whalar Group Rewrites the Brand-Creator Partnership",
+     "url": "https://www.adweek.com/brand-marketing/respect-over-authenticity-whalar-group-rewrites-the-brand-creator-partnership/",
+     "source": "Adweek",
+     "published": "2026-11-03T16:06:34+00:00",
+     "summary": "Whalar on changing how brands and creators work together."
+    },
+    {
+     "title": "From ROAS to Real Results: Benoit Vatere and Bryan Leach on the Future of Performance Marketing",
+     "url": "https://www.adweek.com/brand-marketing/from-roas-to-real-results-benoit-vatere-and-bryan-leach-on-the-future-of-performance-marketing/",
+     "source": "Adweek",
+     "published": "2026-11-03T16:18:04+00:00",
+     "summary": "Interview on moving performance marketing beyond ROAS."
+    },
+    {
+     "title": "Boston’s Emerson College to Launch Bachelor’s Degree in Content Creation",
+     "url": "https://www.netinfluencer.com/boston-emerson-college-to-launch-bachelor-degree-in-content-creation/",
+     "source": "Net Influencer",
+     "published": "2026-11-03T11:57:28+00:00",
+     "summary": "A US college is launching a degree in content creation, another sign the creator job is going mainstream."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Disney Plans TikTok Shop Holiday Event With More Than 20 Brands",
+     "url": "https://www.affiversemedia.com/disney-tiktok-shop-holiday-event/",
+     "source": "Affiverse Media",
+     "published": "2026-11-03T09:16:01+00:00",
+     "summary": "Disney plans a TikTok Shop holiday shopping event with more than 20 brands."
+    },
+    {
+     "title": "Chord Buys Its Rival Zenlytic To Build An Agentic Version Of A CDP",
+     "url": "https://www.adexchanger.com/commerce/chord-buys-its-rival-zenlytic-to-build-an-agentic-version-of-a-cdp/",
+     "source": "AdExchanger",
+     "published": "2026-11-03T14:49:11+00:00",
+     "summary": "Commerce data firm Chord buys Zenlytic to build AI agents on top of customer data."
+    },
+    {
+     "title": "Q&A with Carolina Paradas, General Manager, North America at ShopBack",
+     "url": "https://www.citybiz.co/article/928173/qa-with-carolina-paradas-general-manager-north-america-at-shopback/",
+     "source": "citybiz",
+     "published": "2026-11-03T18:22:50+00:00",
+     "summary": "ShopBack's North America GM on cashback and rewards shopping."
+    },
+    {
+     "title": "What DoorDash’s Instacart acquisition says about the modern delivery platform pitch",
+     "url": "https://digiday.com/media/what-doordashs-instacart-acquisition-says-about-the-modern-delivery-platform-pitch/",
+     "source": "Digiday",
+     "published": "2026-11-04T05:01:00+00:00",
+     "summary": "What the DoorDash and Instacart deal means for delivery platforms."
+    },
+    {
+     "title": "PMA 2027 Board of Directors Nominees",
+     "url": "https://thepma.org/pma-2027-board-of-directors-nominees/",
+     "source": "Performance Marketing Association",
+     "published": "2026-11-03T19:21:29+00:00",
+     "summary": "The Performance Marketing Association names its 2027 board nominees."
+    },
+    {
+     "title": "Digiday+ Research 2026 Creator Marketing Index: A brand guide to social media campaigns",
+     "url": "https://digiday.com/marketing/digiday-research-2026-creator-marketing-index-a-brand-guide-to-social-media-campaigns/",
+     "source": "Digiday",
+     "published": "2026-11-04T05:01:00+00:00",
+     "summary": "Digiday's 2026 creator marketing index for brands.",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google AI Overviews Are Taking Over the Spots News Boxes Used to Hold",
+     "url": "https://almcorp.com/news/google-ai-overviews-taking-over-spots-news-boxes-held/",
+     "source": "ALM Corp",
+     "published": "2026-11-03T18:25:05+00:00",
+     "summary": "Google's AI Overviews are taking spots that used to show news boxes."
+    },
+    {
+     "title": "Google Plays Hardball With Schoolchildren; Reddit Upvotes Search Ads",
+     "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/",
+     "source": "AdExchanger",
+     "published": "2026-11-04T05:03:50+00:00",
+     "summary": "AdExchanger roundup: Google pushes AI in schools, and Reddit adds search ads."
+    },
+    {
+     "title": "Google will cut Search for K-12 students in schools that keep AI off",
+     "url": "https://ppc.land/google-will-cut-search-for-k-12-students-in-schools-that-keep-ai-off/",
+     "source": "PPC Land",
+     "published": "2026-11-04T01:18:07+00:00",
+     "summary": "Google will switch off Search for K-12 students in schools that turn its AI off."
+    },
+    {
+     "title": "Google's Gemini can infringe press rights in 2 ways, EU court adviser says",
+     "url": "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says/",
+     "source": "PPC Land",
+     "published": "2026-11-03T21:36:19+00:00",
+     "summary": "An EU court adviser says Google's Gemini can infringe press rights in two ways."
+    },
+    {
+     "title": "Meta faces R$1m daily fine if it scrapes Brazilian media sites for AI",
+     "url": "https://ppc.land/meta-faces-r-1m-daily-fine-if-it-scrapes-brazilian-media-sites-for-ai/",
+     "source": "PPC Land",
+     "published": "2026-11-04T07:56:25+00:00",
+     "summary": "Brazil threatens Meta with a daily fine if it scrapes local media sites for AI."
+    },
+    {
+     "title": "YouTube gives creators 4 AI tracks to clear music copyright claims",
+     "url": "https://ppc.land/youtube-gives-creators-4-ai-tracks-to-clear-music-copyright-claims/",
+     "source": "PPC Land",
+     "published": "2026-11-04T01:05:44+00:00",
+     "summary": "YouTube gives creators four AI-made music tracks to clear copyright claims."
+    }
+   ]
+  },
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "I’m a Toy Editor and I’m Not Waiting for Black Friday to Shop These Amazon Deals",
+     "url": "https://www.countryliving.com/shopping/gifts/a74297425/amazon-black-friday-toy-deals-2026/",
+     "source": "Country Living Magazine",
+     "published": "2026-11-03T18:00:17+00:00",
+     "summary": "Early Black Friday deals are already running on Amazon, the start of the peak affiliate season."
+    }
+   ]
+  }
+ ]
+}

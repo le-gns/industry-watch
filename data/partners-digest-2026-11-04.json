@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-04",
+ "summary": [
+  "Partnerize says AI shopping makes proving affiliate's true value more important than ever, as shoppers move to AI tools.",
+  "impact.com published a comparison piece pitching itself against CJ.",
+  "Rakuten shared an influencer case study; other partner posts (CJ, Kobo, Wordery, retailer LinkedIn) were routine and left out."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "You've spent years telling your boss affiliate drives more value than the reports show. AI just made proving it more important than ever. Shoppers are increasin…",
+     "url": "https://www.linkedin.com/posts/partnerize_youve-always-known-affiliate-drives-more-activity-7523400465368248321-QlKL",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-11-03T15:07:28.964000+00:00",
+     "type": "social",
+     "why": "Networks are worried AI shopping hides how much affiliate really drives. Credit for a sale is getting harder to prove, which keeps attribution at the centre."
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "impact.com",
+   "items": [
+    {
+     "title": "6 CJ alternatives to unify, automate, and scale your partnership program",
+     "url": "https://impact.com/affiliate/commission-junction-alternatives/",
+     "source": "impact.com",
+     "published": "2026-11-03T11:09:20+00:00",
+     "type": "blog",
+     "why": "The big networks are competing hard for advertisers by pitching all partner types in one platform."
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "🇧🇷 Se você acha que influencer marketing é só postar foto bonita... esse case study vai mudar de ideia 📸 Veja como Maquiindica saiu de 15k seguidores para \"Infl…",
+     "url": "https://pt.linkedin.com/posts/rakutenadvertising_influencermarketing-performancemarketing-activity-7523363160481927169-w3Xo",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-11-03T12:39:14.785000+00:00",
+     "type": "social",
+     "why": "Rakuten is selling influencer marketing as performance marketing, not just pretty posts."
+    }
+   ]
+  }
+ ]
+}

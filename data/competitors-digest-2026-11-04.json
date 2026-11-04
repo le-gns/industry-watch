@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-04",
+ "summary": [
+  "Quiet day for Lasso, URLgenius, Button/Posttap and Amazon's own link tools: no product or programme news from any of them.",
+  "YouTube Shopping keeps growing: coverage of Amazon joining its affiliate programme, a creator case study of over $52,000 in sales in three months, and a new feature letting up to ten creators collaborate on a video.",
+  "Bitly is pushing a stat that 79% of shoppers give up when a social link drops them on a homepage instead of the product they were promised."
+ ],
+ "competitors": [
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "‘Videos are the new storefront’: YouTube adds Amazon to affiliate program",
+     "url": "https://www.performancemarketingworld.com/article/1974063/videos-new-storefront-youtube-adds-amazon-affiliate-program",
+     "source": "Performance Marketing World",
+     "published": "2026-11-03T09:05:46+00:00",
+     "type": "news",
+     "why": "YouTube is making videos the place people shop, with Amazon products tagged right in the player. More sales start inside YouTube, so links in descriptions face more competition."
+    },
+    {
+     "title": "From a New YouTube Channel to US$52,000+ in GMV in Three Months",
+     "url": "https://anymindgroup.com/case-study/trang-anna-yt-shopping-affiliate/",
+     "source": "AnyMind Group",
+     "published": "2026-11-04T04:07:59+00:00",
+     "type": "news",
+     "why": "A real example of a new channel earning through YouTube Shopping affiliate links, showing how fast creators can make money there."
+    },
+    {
+     "title": "invite up to ten creators to collaborate on both long form videos and Shorts",
+     "url": "https://x.com/YouTubeCreators/status/2117719717246804384",
+     "source": "X @YouTubeCreators",
+     "published": "2026-11-03T20:45:00Z",
+     "type": "social",
+     "why": "Up to ten creators can now team up on one video or Short, which could spread product tags across more audiences."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "79% of consumers have abandoned an action after a social link sent them to a generic homepage instead of the product they were promised. @sejournal covers the full gap between what consumers expect an",
+     "url": "https://x.com/Bitly/status/2117620316016877827",
+     "source": "X @Bitly",
+     "published": "2026-11-03T14:10:01Z",
+     "type": "social",
+     "why": "A link company is selling the idea that links should land people on the exact product. That's the same problem smart, device-aware links solve."
+    }
+   ]
+  }
+ ]
+}
