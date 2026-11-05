@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-05",
+ "summary": [
+  "Best Buy's holiday push leans on creators: a new TikTok Shop storefront where creators tag Best Buy products, plus shopping through ChatGPT.",
+  "Partnerize talked up an integration with AI-visibility tool Profound and argued delivery-app consolidation doesn't stop discovery happening everywhere else.",
+  "CJ posted on using data rather than guesswork to set opening commission offers.",
+  "Other partner posts (Apple Books, Wordery, Rakuten, retailer LinkedIn pages) were routine and left out."
+ ],
+ "partners": [
+  {
+   "id": "bestbuy",
+   "name": "Best Buy (US)",
+   "items": [
+    {
+     "title": "Best Buy is using football, TikTok creators and ChatGPT to get your holiday shopping dollars",
+     "url": "https://www.cleveland.com/business/2026/11/best-buy-is-going-all-in-on-football-and-creators-for-the-holidays-heres-what-shoppers-can-expect.html",
+     "source": "Cleveland.com",
+     "published": "2026-11-04T16:44:00+00:00",
+     "type": "news",
+     "why": "Best Buy is selling through TikTok Shop and ChatGPT as well as its own site, so its products are reachable from more places than ever."
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "“Visibility Doesn’t Equal Verified Value”: Partnerize’s Maura Smith Talks Creating Payable Outcomes",
+     "url": "https://hellopartner.com/visibility-doesnt-equal-verified-value-partnerizes-maura-smith-talks-creating-payable-outcomes/",
+     "source": "Hello Partner",
+     "published": "2026-11-04T11:02:22+00:00",
+     "type": "news",
+     "why": "Networks are trying to measure how brands show up in AI answers, not just clicks."
+    },
+    {
+     "title": "When delivery networks consolidate, transactions cluster inside closed ecosystems. But consumer discovery still happens everywhere else. When delivery apps run …",
+     "url": "https://www.linkedin.com/posts/partnerize_what-doordashs-instacart-acquisition-says-activity-7523768557797556227-Maj9",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-11-04T15:30:09.038000+00:00",
+     "type": "social",
+     "why": "Even as big apps close their ecosystems, shoppers still discover products across the open web and social."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "Many affiliate teams still set opening commission offers by pulling a few comparable deals from their own history and adjusting until the number feels defensibl…",
+     "url": "https://www.linkedin.com/posts/commission-junction_connectedcommerce-affiliate-affiliatemarketing-activity-7523795675013283841-Yz2v",
+     "source": "LinkedIn · CJ",
+     "published": "2026-11-04T17:17:54.286000+00:00",
+     "type": "social",
+     "why": "Networks are pushing data-led commission setting, a sign programs are getting more competitive."
+    }
+   ]
+  }
+ ]
+}

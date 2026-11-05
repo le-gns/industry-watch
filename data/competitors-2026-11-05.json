@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T08:11:16.678405+00:00",
+ "item_count": 6,
+ "feeds_ok": 95,
+ "feeds_failed": 8,
+ "items": [
+  {
+   "title": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon",
+   "url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-04T14:00:07+00:00",
+   "snippet": "Tens of millions of customers have already discovered hundreds of millions of products from stores across the web through Amazon’s Shop Direct. With the new Shop Direct Merchant Workspace, merchants have a fast, free direct AI connector from their store to Alexa for Shopping and Amazon."
+  },
+  {
+   "title": "‘Keep your cool’: The advice Amazon CEO Andy Jassy's dad gave him that stuck for life",
+   "url": "https://www.aboutamazon.com/news/workplace/amazon-ceo-andy-jassy-dad-advice",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-04T14:00:13+00:00",
+   "snippet": "At Amazon's “Bring Your Parents to Work Day,” Jassy shared some of his father's advice, which has helped shape how he leads."
+  },
+  {
+   "title": "When is Cyber Monday 2026? Here’s everything you need to know",
+   "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-cyber-monday-faq",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-04T19:14:04+00:00",
+   "snippet": "Cyber Monday 2026 falls on November 30. Here’s what to expect, how to prepare, and how to save big on the year’s final major deal event."
+  },
+  {
+   "title": "YouTube Hits 150M Subscribers as Connected TV Surges (2026)",
+   "url": "https://almcorp.com/news/youtube-subscriptions-climb-to-150-million-connected-tv/",
+   "source": "ALM Corp",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-04T16:45:19+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Name a book you'd happily reread for the first time again.",
+   "url": "https://x.com/goodreads/status/2117997800247968071",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-04T15:10:00Z",
+   "snippet": "Name a book you'd happily reread for the first time again."
+  },
+  {
+   "title": "Must Read: PAI Partners Acquires Elemis From L’Occitane, ShopMy Opens First Physical Retail Event",
+   "url": "https://fashionista.com/2026/11/elemis-acquisition-pai-partners-loccitane",
+   "source": "Fashionista",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-11-04T17:00:00+00:00",
+   "snippet": ""
+  }
+ ]
+}

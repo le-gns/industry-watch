@@ -1,0 +1,181 @@
+{
+ "date": "2026-11-05",
+ "intro": "A quiet Thursday with thin retailer and book news. The main threads are rules on affiliate tracking, AI shopping agents getting blocked or fed product catalogues, and ChatGPT taking a bigger share of search.",
+ "must_reads": [
+  {
+   "title": "APMA Sets Out Case for UK Affiliate Tracking Reform",
+   "url": "https://www.affiversemedia.com/apma-uk-affiliate-tracking-reform/",
+   "source": "Affiverse Media",
+   "published": "2026-11-04T09:39:46+00:00",
+   "why": "Why it matters for Geniuslink: The UK affiliate trade body wants a narrow privacy-law exemption so the data used to confirm a sale and pay the commission doesn't need cookie consent. Its point is simple: the shop gets the sale but the publisher loses the commission when the tracking link fails. How tracking is regulated shapes how reliably every affiliate link gets credit."
+  },
+  {
+   "title": "Bot protection blocks Blend's AI shopping agent at 29 of 200 retailers",
+   "url": "https://ppc.land/bot-protection-blocks-blends-ai-shopping-agent-at-29-of-200-retailers/",
+   "source": "PPC Land",
+   "published": "2026-11-05T05:20:35+00:00",
+   "why": "Why it matters for Geniuslink: A test found 29 of 200 retailers blocked an AI shopping agent, with big retailers far more likely to say no. If AI agents can't always reach store pages, the path from a recommendation to a purchase gets patchier, and working links to the right store matter more."
+  },
+  {
+   "title": "Microsoft Clarity puts Shopify and WooCommerce products in Copilot and Bing",
+   "url": "https://ppc.land/microsoft-clarity-puts-shopify-and-woocommerce-products-in-copilot-and-bing/",
+   "source": "PPC Land",
+   "published": "2026-11-05T04:56:14+00:00",
+   "why": "Why it matters for Geniuslink: Microsoft now lets Shopify and WooCommerce stores send their product catalogue straight into Copilot and Bing. Another AI assistant is building its own shopping shelf, so shoppers find products in more places than the usual store sites."
+  },
+  {
+   "title": "ChatGPT reaches a fifth of Google search volume as Taboola blames AI",
+   "url": "https://ppc.land/chatgpt-reaches-a-fifth-of-google-search-volume-as-taboola-blames-ai/",
+   "source": "PPC Land",
+   "published": "2026-11-05T05:56:20+00:00",
+   "why": "Why it matters for Geniuslink: OpenAI says ChatGPT handles about a fifth of Google's search-like volume, and Taboola blamed AI summaries for a 6.9% revenue fall. Fewer clicks from search means publishers and creators need every click they do get to land in the right store."
+  },
+  {
+   "title": "Instagram tries to entice long-form creators",
+   "url": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/",
+   "source": "Social Media Today",
+   "published": "2026-11-04T22:50:52+00:00",
+   "why": "Why it matters for Geniuslink: Instagram is offering one-off payouts and better placement to win long-form creators from YouTube. Platforms are competing hard for the same creators, which is a reminder that creators spread their audience across many apps rather than living on one."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Facebook expands Creator Fast Track program to Brazil",
+     "url": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/",
+     "source": "Social Media Today",
+     "published": "2026-11-04T22:56:01+00:00",
+     "summary": "Facebook's incentives for creators who don't yet post there now cover Brazil, with smaller payouts than in North America."
+    },
+    {
+     "title": "More Than Half of Marketers Have No Clear Read on UGC Creator ROI, Survey Finds",
+     "url": "https://www.netinfluencer.com/more-than-half-of-marketers-have-no-clear-read-on-ugc-creator-roi-survey-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-04T12:27:23+00:00",
+     "summary": "57% of marketers surveyed can't tell whether spending on UGC creators pays back (Foxwell Founders, State of UGC 2026)."
+    },
+    {
+     "title": "Affluent Consumers Respond to Niche Experts Over Follower Counts, Report Finds",
+     "url": "https://www.netinfluencer.com/affluent-consumers-respond-to-niche-experts-over-follower-counts-report-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-04T12:24:45+00:00",
+     "summary": "A 71 West report says wealthy shoppers trust niche experts and peer recommendations more than follower counts."
+    },
+    {
+     "title": "Lighthouse Studios Builds TV-Style Networks on YouTube as Joint Ventures With Creators",
+     "url": "https://www.netinfluencer.com/lighthouse-studios-builds-tv-style-networks-on-youtube-as-joint-ventures-with-creators/",
+     "source": "Net Influencer",
+     "published": "2026-11-04T12:30:55+00:00",
+     "summary": "Lighthouse Studios funds TV-style YouTube networks as joint ventures with established creators."
+    },
+    {
+     "title": "Diwali discount code war: Are influencers competing for the same customers?",
+     "url": "https://www.buzzincontent.com/insight/diwali-discount-code-war-are-brands-making-creators-compete-for-the-same-customer-12785330",
+     "source": "Buzzincontent",
+     "published": "2026-11-05T06:39:12+00:00",
+     "summary": "Asks whether influencers pushing rival discount codes during Diwali are now competing for the same shoppers."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "NYORDA Reports Higher Q3 Revenue and Adjusted Earnings",
+     "url": "https://www.affiversemedia.com/nyorda-q3-2026-results/",
+     "source": "Affiverse Media",
+     "published": "2026-11-04T09:33:00+00:00",
+     "summary": "NYORDA, the group behind Tradedoubler, grew Q3 revenue 9% year on year to SEK 570 million."
+    },
+    {
+     "title": "More Than $2 Billion USD in Travel Bookings Facilitated Through Stay22 as It Celebrates its 10th anniversary",
+     "url": "https://pressreleasehub.pa.media/article/more-than-2-billion-usd-in-travel-bookings-facilitated-through-stay22-as-it-celebrates-its-10th-anniversary-88052.html",
+     "source": "Press Release Hub",
+     "published": "2026-11-04T11:03:15+00:00",
+     "summary": "Travel affiliate platform Stay22 says it has driven more than $2 billion in bookings in its first 10 years."
+    },
+    {
+     "title": "After DoorDash’s Instacart bid, here’s the case for and against consolidation in commerce media",
+     "url": "https://digiday.com/marketing/after-doordashs-instacart-bid-heres-the-case-for-and-against-consolidation-in-commerce-media/",
+     "source": "Digiday",
+     "published": "2026-11-05T05:01:00+00:00",
+     "summary": "The case for and against commerce media consolidation after DoorDash's $17 billion Instacart deal."
+    },
+    {
+     "title": "DoorDash Just Bought The Ad Business It Couldn’t Build For Itself",
+     "url": "https://www.adexchanger.com/data-driven-thinking/doordash-just-bought-the-ad-business-it-couldnt-build-for-itself/",
+     "source": "AdExchanger",
+     "published": "2026-11-05T05:35:09+00:00",
+     "summary": "Opinion: DoorDash bought Instacart largely for the ad business it couldn't build itself."
+    },
+    {
+     "title": "Media Briefing: Publishers’ revenue growth defies traffic declines, but tougher comparisons loom",
+     "url": "https://digiday.com/media/media-briefing-publishers-revenue-growth-defies-traffic-declines-but-tougher-comparisons-loom/",
+     "source": "Digiday",
+     "published": "2026-11-05T05:01:00+00:00",
+     "summary": "NYT, People Inc., News Corp and Reuters grew revenue despite traffic losses to AI, but harder comparisons are coming."
+    },
+    {
+     "title": "Criteo Is A Survivor, But Expanding Beyond Retail Media Will Be Its Toughest Challenge Yet",
+     "url": "https://www.adexchanger.com/commerce/criteo-is-a-survivor-but-expanding-beyond-retail-media-will-be-its-toughest-challenge-yet/",
+     "source": "AdExchanger",
+     "published": "2026-11-04T20:30:10+00:00",
+     "summary": "Criteo's next challenge is growing beyond retail media."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google AI Mode gains a fourth ad slot below some answers",
+     "url": "https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/",
+     "source": "PPC Land",
+     "published": "2026-11-05T05:44:37+00:00",
+     "summary": "Google is testing a fourth ad slot under some AI Mode answers; how widely it runs isn't known."
+    },
+    {
+     "title": "Is AI Mode doomed? What Alphabet's $482bn sell-off really says",
+     "url": "https://ppc.land/is-ai-mode-doomed-what-alphabets-482bn-sell-off-really-says/",
+     "source": "PPC Land",
+     "published": "2026-11-04T08:40:28+00:00",
+     "summary": "After Alphabet's sell-off and a report that AI Mode earns less, PPC Land asks whether Google is pulling back or just testing."
+    },
+    {
+     "title": "Google boosts news and link visibility in AI mode",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aNTVnSmxjRGExZkdYVEF0VkNMclJrSGk3Ykc0N3lWNVd2S2I0SXpfVEU5R3l0Ny1ZSW5rd0FPYk1lTTdBdEZPSGRvU0pSQXkzNGhtSXQ2amRsQktRSDllYUlxWHoweU1YTXpOOVJZM2YxZmZydWFNSm9VNVI?oc=5",
+     "source": "EWN",
+     "published": "2026-11-04T17:08:29+00:00"
+    },
+    {
+     "title": "In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem",
+     "url": "https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/",
+     "source": "Digiday",
+     "published": "2026-11-05T05:01:00+00:00",
+     "summary": "Six thousand advertisers in, ChatGPT ads still struggle to show conversions."
+    },
+    {
+     "title": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
+     "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
+     "source": "Adweek",
+     "published": "2026-11-04T09:27:40+00:00",
+     "summary": "The Trade Desk and Dstillery connect AI agents to adjust audiences mid-campaign; buyers are unsure it changes much."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "BookTok: A new generation of readers",
+     "url": "https://theappalachianonline.com/booktok-a-new-generation-of-readers/",
+     "source": "The Appalachian Online",
+     "published": "2026-11-04T22:48:22+00:00",
+     "summary": "A look at how BookTok is bringing a new generation of readers to books."
+    }
+   ]
+  }
+ ]
+}

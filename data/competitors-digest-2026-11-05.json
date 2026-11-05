@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-05",
+ "summary": [
+  "Amazon launched a free Shop Direct Merchant Workspace so outside stores can plug their products into Alexa for Shopping and Amazon search.",
+  "A YouTube creator on Reddit says he was dropped from YouTube Shopping's affiliate program for sharing links outside YouTube, which he says he never did.",
+  "ShopMy held its first physical retail event.",
+  "Lasso, URLgenius and Button/Posttap were quiet; Reddit searches were rate-limited today, so Reddit mentions may be missing."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon",
+     "url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace",
+     "source": "aboutamazon.com",
+     "published": "2026-11-04T14:00:07+00:00",
+     "type": "blog",
+     "why": "Amazon is pulling products from other stores into its own search and Alexa. It wants to be where shopping starts even when the item isn't sold by Amazon."
+    },
+    {
+     "title": "When is Cyber Monday 2026? Here’s everything you need to know",
+     "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-cyber-monday-faq",
+     "source": "aboutamazon.com",
+     "published": "2026-11-04T19:14:04+00:00",
+     "type": "blog",
+     "why": "Cyber Monday is 30 November, a peak day for affiliate link clicks."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "items": [
+    {
+     "title": "Removed from YouTube Shopping affiliate program for \"links shared outside YouTube\". Has anyone gotten back in?",
+     "url": "https://www.reddit.com/r/NewTubers/comments/1xny39d/removed_from_youtube_shopping_affiliate_program/",
+     "source": "Reddit r/NewTubers",
+     "published": "2026-11-04T19:55:15+00:00",
+     "type": "reddit",
+     "why": "A 60K-subscriber creator says he lost YouTube Shopping access for links 'shared outside YouTube'. Platform-owned affiliate programs can cut creators off with little explanation."
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "items": [
+    {
+     "title": "Must Read: PAI Partners Acquires Elemis From L’Occitane, ShopMy Opens First Physical Retail Event",
+     "url": "https://fashionista.com/2026/11/elemis-acquisition-pai-partners-loccitane",
+     "source": "Fashionista",
+     "published": "2026-11-04T17:00:00+00:00",
+     "type": "news",
+     "why": "ShopMy is moving from links into real-world retail events, widening what creator storefronts do."
+    }
+   ]
+  }
+ ]
+}
