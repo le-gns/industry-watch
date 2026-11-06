@@ -1,0 +1,859 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T08:12:42.886548+00:00",
+ "lookback_hours": 30,
+ "item_count": 76,
+ "google_news_links": 52,
+ "google_news_resolved": 51,
+ "feeds_ok": 53,
+ "feeds_failed": 20,
+ "items": [
+  {
+   "title": "Lego holiday ad 2026: How to shop featured products",
+   "url": "https://mashable.com/life/lego-holiday-ad-2026-how-to-buy",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T09:43:08+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Pokémon TCG deal: Delta Reign Booster Display Box is close to market price",
+   "url": "https://mashable.com/life/nov-5-pokemon-tcg-delta-reign-booster-display-box-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T12:07:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Samsung Isn't Waiting for Black Friday, Dropping Its 34-Inch Odyssey G5 Ultrawide Curved Gaming Monitor Back to Prime Day Low",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDZNcUJCT1Y4Vzdia0ZDVkh3Z2dOcDhvb1RJU0lxN3o3MDZTS2MzVk1RZmlVR0FlUmlKZmlkUGp6elRDRy14VFVrZm9JLVl0UVlTeUl0SUp0Y25ySVhpT0locDdRYk9PNEdRWXRUWmF5RFhkYm1JekxhQU5HNE5MR2FrMmh3NE9Rd190VU5NVW1TNUJGUjBvUVRRQnY3TVdsbTRXUHVnOFBuTjFMdzdHeFViZVFzV0hRd3RiSmFaMkFEOHdWM1o4dFJWMllpbkpqeW5mS1huUWtIeGd2eUdIZ0N6N0tWclU4?oc=5",
+   "source": "Kotaku",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T12:45:02+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Best trading card deal: Save $3.81 on Kpop Demon Hunters Collectible Trading Cards",
+   "url": "https://mashable.com/life/nov-4-kpop-demon-hunters-trading-cards-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T15:56:15+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Shark deal: Save $100.99 on the Shark FlexStyle Next-Gen IonCurl 5-in-1 Hair Styler",
+   "url": "https://mashable.com/life/nov-5-shark-flexstyle-ioncurl-early-black-friday-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T16:09:19+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Magic The Gathering deal: Star Trek Play Booster Box preorders are now under $135",
+   "url": "https://mashable.com/life/oct-29-magic-the-gathering-star-trek-play-booster-box-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T16:33:51+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Magic The Gathering deal: The 30-pack Spider-Man Play Booster Box is now only $125 on Amazon",
+   "url": "https://mashable.com/life/oct-29-magic-the-gathering-spider-man-play-booster-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T16:58:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon’s Fees and Ads Near Its Retail Sales",
+   "url": "https://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
+   "source": "Marketplace Pulse",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T17:01:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "In new book, cartoonists Roz Chast and Jason Adam Katzenstein reveal 'The Two Saddest Kitchens'",
+   "url": "https://www.wbur.org/hereandnow/2026/11/05/the-two-saddest-kitchens",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-11-05T17:04:38+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Magic: The Gathering's Marvel Super Heroes Jumpstart Booster Box hits 90-day low price at Amazon",
+   "url": "https://mashable.com/life/nov-5-magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T17:04:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Is the U.S. economy suffering from 'Dutch disease'?",
+   "url": "https://www.wbur.org/hereandnow/2026/11/05/dutch-disease-us-economy",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-11-05T17:09:29+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day",
+   "url": "https://www.wsj.com/tech/ftc-claims-amazon-tripled-ad-prices-for-black-friday-prime-day-ae340913",
+   "source": "WSJ",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T17:42:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "FTC, 22 states accuse Amazon of secretly inflating advertising prices by up to 250%",
+   "url": "https://wrnjradio.com/ftc-22-states-accuse-amazon-of-secretly-inflating-advertising-prices-by-up-to-250/",
+   "source": "WRNJ Radio",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T17:52:53+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Pokémon TCG Chaos Rising Booster Bundles have dropped under $50 at Amazon — save $11.99",
+   "url": "https://mashable.com/life/oct-30-pokemon-tcg-chaos-rising-booster-bundle-deal-clone",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T18:51:04+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Every history-making 'first' in this year's midterm elections",
+   "url": "https://mashable.com/life/every-historic-win-out-of-the-us-midterm-elections",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T18:58:36+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Burger King’s viral holiday advent calendar is back: How to buy the internet’s mini obsession",
+   "url": "https://mashable.com/life/burger-king-2026-holiday-advent-calendar-how-to-buy",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T19:29:33+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Motorola Razr is free right now with T-Mobile — how to qualify",
+   "url": "https://mashable.com/tech/nov-5-free-motorola-razr-early-black-friday-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T20:58:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Jacksonville Jaguars vs. Baltimore Ravens: How to watch Thursday Night Football tonight",
+   "url": "https://sports.yahoo.com/nfl/article/jacksonville-jaguars-vs-baltimore-ravens-how-to-watch-thursday-night-football-tonight-114500617.html",
+   "source": "Yahoo Sports",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T21:55:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Starbucks reveals 2026 holiday cups: How to get new designs and the first-ever holiday pup cup",
+   "url": "https://mashable.com/life/starbucks-2026-holiday-cup-designs",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T22:04:55+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Amazon Product API \"Scavio\" Now Available for Developers,",
+   "url": "https://www.openpr.com/news/4683412/best-amazon-product-api-scavio-now-available-for-developers",
+   "source": "openPR.com",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-11-05T23:00:02+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Pokémon TCG 30th Celebration Ultra-Premium Collections are live at Amazon: Preorder now",
+   "url": "https://mashable.com/life/nov-5-pokemon-tcg-30th-anniversary-ultra-premium-collection-live-preorders",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-05T23:01:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Pokémon TCG 30th Celebration Tech Sticker Collection hits a record-low price at Amazon — shop for under $50",
+   "url": "https://mashable.com/life/oct-30-pokemon-tcg-30-celebration-tech-sticker-collection-lucario-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-06T04:11:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Franziska Steinle (@thegoodmoodboard)",
+   "url": "https://substack.com/@thegoodmoodboard/note/c-379633847",
+   "source": "Substack",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-05T17:41:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
+   "url": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/?extended-comments=1",
+   "source": "9to5Mac",
+   "group": "Competitors",
+   "feed_id": "gnews-12",
+   "published": "2026-11-05T18:23:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator",
+    "lasso"
+   ]
+  },
+  {
+   "title": "ALL TITAN TRANSFORMATION ANIMATIONS In ATTACK On Titan 2 Game (4K60fps) Flashscore (KmYgNxOUw5)",
+   "url": "https://media.unisba.ac.id/d9cc636f/fa48491fPFAoCyB0FAETGFY/",
+   "source": "Unisba Media",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-11-05T05:28:56+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why 456 Growth’s Dan Albert Says Brands Overpay for Cheap Creator Posts",
+   "url": "https://www.netinfluencer.com/why-456-growth-dan-albert-says-brands-overpay-for-cheap-creator-posts/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-05T06:19:00+00:00",
+   "snippet": "A $1,000 creator post looks cheaper than a $2,000 monthly retainer. On TikTok Shop, where a single video can keep selling for weeks, that comparison is starting to fall apart. Dan Albert is co-founder of 456 Growth Media, a performance-led influencer and social commerce agency, and its creator manag",
+   "matched_keywords": [
+    "creator",
+    "influencer",
+    "social commerce",
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds",
+   "url": "https://www.netinfluencer.com/instagram-leads-e-commerce-engagement-while-calls-to-action-show-no-lift-report-finds/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-05T09:30:00+00:00",
+   "snippet": "A typical Instagram post from 72 U.S. e-commerce brands drew 293 interactions in August, compared with 8 on YouTube, according to a report from social media management platform Metricool. The report analyzed 3,234 posts published by the brands on Instagram, Facebook, TikTok and YouTube between Aug. ",
+   "matched_keywords": [
+    "instagram",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Inside the push for content compensation in the agentic era",
+   "url": "https://www.marketingbrew.com/stories/ai-agentic-content-compensation-brands-creators-publishers",
+   "source": "Marketing Brew",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-marketing-brew",
+   "published": "2026-11-05T12:00:00+00:00",
+   "snippet": "As agents throw traditional monetization methods into chaos, some industry players are evaluating how creators, brands, and publishers could be compensated.",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Measurement Gaps Hold Back Brand Spending on Podcasts, Creator Media, Survey Finds",
+   "url": "https://www.netinfluencer.com/measurement-gaps-hold-back-brand-spending-on-podcasts-creator-media-survey-finds/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-05T12:25:48+00:00",
+   "snippet": "More than half of the brand advertisers in a new Oxford Road survey named measurement gaps as one of their top three challenges holding back investment in podcasting, audio and creator media. The 57% figure leads findings in the firm’s “What Brands Want 2026” report, which also found that 59% of res",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "LinkedIn Rolls Out Consolidated Creator Analytics as It Expands Monetization Tests",
+   "url": "https://www.netinfluencer.com/linkedin-rolls-out-consolidated-creator-analytics-as-it-expands-monetization-tests/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-05T12:26:56+00:00",
+   "snippet": "LinkedIn has begun rolling out a “Post Performance Table” that puts all of a creator’s posts and their metrics in a single, exportable view. It is the latest addition to a creator dashboard the company introduced in October alongside tests of ad revenue sharing and paid consultations. The table is r",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Meta Partnership Ads and TikTok Spark Ads: Putting Creator Content Behind Paid Media",
+   "url": "https://theinfluencermarketingfactory.com/meta-partnership-ads-vs-tiktok-spark-ads/",
+   "source": "The Influencer Marketing Factory",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-the-influencer-marketing-factory",
+   "published": "2026-11-05T14:52:34+00:00",
+   "snippet": "TL;DR Meta Partnership Ads let a brand run ads on Facebook and Instagram that show both the creator’s and the brand’s names, using the creator’s post or content made for the brand. TikTok Spark Ads let a brand promote a creator’s existing TikTok post as an ad, with the creator granting access throug",
+   "matched_keywords": [
+    "creator",
+    "instagram"
+   ]
+  },
+  {
+   "title": "How to Choose a Full-Service Influencer Marketing Agency For Your Brand",
+   "url": "https://theinfluencermarketingfactory.com/choose-influencer-marketing-agency/",
+   "source": "The Influencer Marketing Factory",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-the-influencer-marketing-factory",
+   "published": "2026-11-05T14:55:19+00:00",
+   "snippet": "Choosing a full-service influencer marketing agency comes down to five things: proven strategy, creator sourcing and vetting, campaign execution, measurement you can trust, and a team that fits how your brand works. Get those right and an agency becomes an extension of your marketing team. Get them ",
+   "matched_keywords": [
+    "creator",
+    "influencer"
+   ]
+  },
+  {
+   "title": "Lazada Helps Creators Build Businesses, with One Affiliate Network Surpassing RM1 Million GMV in June 2026",
+   "url": "https://www.dagangnews.com/article/english/lazada-helps-creators-build-businesses-one-affiliate-network-surpassing-rm1-million-gmv-june-2026-77136",
+   "source": "DagangNews",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-05T16:04:13+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Holiday Influencer Marketing 2026: How to Activate Creators from Gift Ideas to Purchases",
+   "url": "https://theinfluencermarketingfactory.com/holiday-influencer-marketing-2026/",
+   "source": "The Influencer Marketing Factory",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-the-influencer-marketing-factory",
+   "published": "2026-11-05T22:21:58+00:00",
+   "snippet": "TL;DR Holiday 2026 is big and social-led. NRF forecasts US holiday sales of $1.013 trillion (up 4.2%), and Adobe expects a record $275.1 billion online. Adobe also expects affiliates (including influencers) and social media to gain the most share of online revenue this season. Creators shape the gif",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "Rakuten Advertising’s Nick Fletcher Talks Partnerships in the AI Revolution",
+   "url": "https://hellopartner.com/rakuten-advertisings-nick-fletcher-talks-partnerships-in-the-ai-revolution/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-05T09:44:09+00:00",
+   "snippet": "We spoke to Nick Fletcher, SVP, EMEA at Rakuten Advertising, about unlocking channel growth and the LLM opportunity.",
+   "matched_keywords": [
+    "llm",
+    "rakuten"
+   ]
+  },
+  {
+   "title": "TikTok Shop Details Livestream Sales Measurement Over 14 Days",
+   "url": "https://www.affiversemedia.com/tiktok-shop-brand-live-impact/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-11-05T09:48:06+00:00",
+   "snippet": "TikTok Shop has documented Brand LIVE Impact, a module for selected US brands that measures sales associated with their livestreams over 14 days, including purchases completed on their own websites....",
+   "matched_keywords": [
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Last Click is Lying to You",
+   "url": "https://hellopartner.com/last-click-is-lying-to-you/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-05T11:00:00+00:00",
+   "snippet": "San Sareen walks through the five-pillar operational playbook for building an integrated creator marketing system.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Europol busts investment scam network spanning 50 countries, seizes over 100 servers",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-investment-scam-100-servers-seized",
+   "source": "Bitdefender",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-11-05T11:25:30+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "CJ’s Dan Staples on Elevating Affiliate’s Value",
+   "url": "https://hellopartner.com/cjs-dan-staples-on-elevating-affiliates-value/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-05T12:00:00+00:00",
+   "snippet": "At PI LIVE, we caught up with CJ’s Dan Staples to delve into the ins and outs of incrementality, emerging tracking challenges, and the future of AI visibility.",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Ads Drive Consumer Demand. The Shelf Captures It",
+   "url": "https://www.adexchanger.com/content-studio/ads-drive-consumer-demand-the-shelf-captures-it/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-05T13:00:50+00:00",
+   "snippet": "Imagine you’re shopping for laundry detergent. You click to buy your preferred brand, but when your order is fulfilled, the product is out of stock. What do you do? Recent DoorDash data shows that shoppers in this scenario buy a competing brand nearly 12% of the time, while more than 40% of the time",
+   "matched_keywords": []
+  },
+  {
+   "title": "👑 Rare Beauty Campaign Reunites the Princess Protection Program",
+   "url": "https://hellopartner.com/rare-beauty-campaign-reunites-the-princess-protection-program/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-05T14:00:00+00:00",
+   "snippet": "Selena Gomez and Demi Lovato team up for a royally successful campaign.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why Liquid Death’s media chief is determined to break away from LiveRamp",
+   "url": "https://digiday.com/media-buying/why-liquid-deaths-media-chief-is-determined-to-break-away-from-liveramp/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-05T16:18:00+00:00",
+   "snippet": "In the wake of LiveRamp’s acquisition by Publicis, some marketers are auditioning alternatives to the identity graph company.",
+   "matched_keywords": []
+  },
+  {
+   "title": "AppLovin Is Back To Smashing Earnings, But Investors Are Slow To Buy",
+   "url": "https://www.adexchanger.com/platforms/applovin-is-back-to-smashing-earnings-but-investors-are-slow-to-buy/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-05T17:04:33+00:00",
+   "snippet": "AppLovin is growing at a blistering pace, but Wall Street investors remain cautious about the business. The mobile ad tech company earned just shy of $2.2 billion in Q3 this year, per the company’s earnings report after-hours on Wednesday. Of that, $1.44 billion fell straight to net income (which is",
+   "matched_keywords": []
+  },
+  {
+   "title": "How TF is the grocery store a media channel?",
+   "url": "https://digiday.com/sponsored/in-store-grocery-media/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-05T18:00:00+00:00",
+   "snippet": "This WTF guide, sponsored by Grocery TV, explores how marketers are reimagining in-store retail media to engage consumers inside the grocery store.",
+   "matched_keywords": []
+  },
+  {
+   "title": "PMA Webinar: The AI Empowered Affiliate Manager: Doing More via MCP",
+   "url": "https://thepma.org/pma-webinar-the-ai-empowered-affiliate-manager-doing-more-via-mcp/",
+   "source": "Performance Marketing Association",
+   "group": "Affiliate industry",
+   "feed_id": "src-performance-marketing-association",
+   "published": "2026-11-05T19:34:46+00:00",
+   "snippet": "As part of our continuing series of monthly affiliate marketing webinars, the PMA AI Council will host a webinar to help affiliate managers better use AI in managing affiliate programs. They will discuss and demonstrate connecting your platforms via MCP, basic and advanced reporting capabilities, an",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Creators see promise in Instagram’s long-form push, but question whether exposure is enough",
+   "url": "https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-06T05:01:00+00:00",
+   "snippet": "Instagram wants to pull long-form creators away from YouTube, but is it offering enough? Experts weigh in on the platform's pivot.",
+   "matched_keywords": [
+    "instagram",
+    "youtube"
+   ]
+  },
+  {
+   "title": "By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3",
+   "url": "https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-06T05:01:00+00:00",
+   "snippet": "Ad tech’s winners and losers emerge as CTV growth masks open-web struggles.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities",
+   "url": "https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-06T05:01:00+00:00",
+   "snippet": "Despite leaning on creators for most of the year, marketers aren’t doing it for the holiday crunch. That job still belongs to celebrities.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Digiday Media Buying Summit October Recap: Assessing the ups and challenges of AI’s spread across the media agency landscape",
+   "url": "https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-06T05:01:00+00:00",
+   "snippet": "A recap of the sessions and insights coming out of Digiday's Fall Media Buying Summit, which centered on AI's impact on the media agency world.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic",
+   "url": "https://www.adexchanger.com/daily-news-roundup/friday-06112026/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-06T05:03:22+00:00",
+   "snippet": "WPP CEO Cindy Rose recently criticized the rise of “CEO handshake” account wins. Plus: Magnite reported a 14% year-over-year revenue increase to $204.2 million in Q3. The post Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic appeared first on AdExchanger .",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Comic: For Puck’s Sake",
+   "url": "https://www.adexchanger.com/comic-strip/comic-for-pucks-sake/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-06T05:15:09+00:00",
+   "snippet": "Enjoy this weekly comic strip from AdExchanger.com that highlights the digital advertising ecosystem … The post Comic: For Puck’s Sake appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Swivel Wants To Create Agentic Infrastructure For CTV",
+   "url": "https://www.adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-06T05:45:53+00:00",
+   "snippet": "Agentic media buying is the No. 1 topic du jour in ad tech discussion circles. But how does agentic buying even work when it comes to buying TV and streaming ads? And how does that workflow differ from programmatic? The startup Swivel aims to address those questions. The post Swivel Wants To Create ",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "New boutique hotel opens in downtown with rooftop music series",
+   "url": "https://communityimpact.com/central-austin/business/new-boutique-hotel-opens-in-downtown-with-rooftop-music-series/",
+   "source": "Community Impact",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-06T06:35:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "10 Best Influencer Marketing Software in 2027: My Top Picks",
+   "url": "https://impact.com/?bylines=10-best-influencer-marketing-software-in-2027-my-top-picks",
+   "source": "impact.com",
+   "group": "Affiliate industry",
+   "feed_id": "src-impact-com",
+   "published": "2026-11-06T06:46:50+00:00",
+   "snippet": "The post 10 Best Influencer Marketing Software in 2027: My Top Picks appeared first on impact.com .",
+   "matched_keywords": [
+    "impact.com",
+    "influencer"
+   ]
+  },
+  {
+   "title": "Reap, Meitu's EveLab Insight, and Pivota Sign MOU to Explore Bringing Agentic Beauty Shopping to Life",
+   "url": "https://yellow.com/press-releases/reap-meitu-s-evelab-insight-and-pivota-sign-mou-to-explore-bringing-agentic-beauty-shopping-to-life",
+   "source": "Yellow.com",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-11-05T09:38:27+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "QuestionPro Announced the Acquisition of Contlo to Advance Agentic Commerce",
+   "url": "https://www.martechcube.com/questionpro-announced-the-acquisition-of-contlo-to-advance-agentic-commerce/",
+   "source": "MarTech Cube",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-11-05T09:47:13+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "How Google AI Mode is Transforming Website Traffic",
+   "url": "https://www.analyticsinsight.net/amp/story/latest-news/how-google-ai-mode-is-transforming-website-traffic",
+   "source": "Analytics Insight",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-05T11:04:24+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "China Blocks SoftBank’s $5.4 Billion ABB Robotics Deal",
+   "url": "https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal",
+   "source": "The Information",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-information",
+   "published": "2026-11-05T11:07:59+00:00",
+   "snippet": "China has blocked SoftBank Group’s $5.4 billion acquisition of the robotics unit of ABB, a Swiss-Swedish electrical and automation technology company. The Office of the Working Mechanism for Foreign Investment Security Review, part of China’s powerful National Development and Reform Commission, ...",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Earnings Live: What's Next For GOOG & MSFT? Paola Cardinale (Pur0Ru5Dz0)",
+   "url": "https://media.unisba.ac.id/d557ecfa/22ce2210JRYgDkx9QVxYQDc",
+   "source": "Unisba Media",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-11-05T14:48:10+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+   "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-11-05T15:33:58+00:00",
+   "snippet": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+   "matched_keywords": [
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Google Search clicks to news publishers rose 8x on Election Day",
+   "url": "https://searchengineland.com/google-search-clicks-news-publishers-election-day-500681",
+   "source": "Search Engine Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-05T16:34:33+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-11-05T18:02:27+00:00",
+   "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-11-05T19:06:12+00:00",
+   "snippet": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Data (Use and Access) Act",
+   "url": "https://ppc.land/data-use-and-access-act/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-05T21:30:51+00:00",
+   "snippet": "Data (Use and Access) Act is the UK's 2025 law that rewrites parts of UK GDPR and PECR, adds cookie consent exemptions and turns the ICO into a commission.",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Google’s AI-first Search creates challenges for schools and businesses",
+   "url": "https://www.techtarget.com/news/googles-ai-first-search-creates-challenges-for-schools-and-businesses/873939/",
+   "source": "TechTarget",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-05T22:15:59+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-11-05T22:26:50+00:00",
+   "snippet": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity ",
+   "matched_keywords": [
+    "openai",
+    "perplexity"
+   ]
+  },
+  {
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-11-06T00:37:56+00:00",
+   "snippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data ",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Amazon opens its search to outside stores as bots block AI shoppers",
+   "url": "https://ppc.land/amazon-opens-its-search-to-outside-stores-as-bots-block-ai-shoppers/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-06T07:36:19+00:00",
+   "snippet": "Amazon let outside stores list in its search for free, bot protection turned away an AI agent at 29 of 200 retailers and Google AI Mode began booking plumbers.",
+   "matched_keywords": [
+    "ai mode"
+   ]
+  },
+  {
+   "title": "KDP Nov 2026 32.000 put (KDP261120P00032000) Stock Price, News, Quote & History",
+   "url": "https://ca.finance.yahoo.com/quote/KDP261120P00032000/",
+   "source": "Yahoo! Finance Canada",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-05T04:51:57+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "KDP Jan 2028 32.000 put (KDP280121P00032000) Seasonal returns chart - Yahoo Finance",
+   "url": "https://sg.finance.yahoo.com/quote/KDP280121P00032000/seasonality/",
+   "source": "Yahoo Finance Singapore",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-05T04:53:56+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "KDP Nov 2026 32.000 put (KDP261120P00032000) interactive stock chart",
+   "url": "https://uk.finance.yahoo.com/quote/KDP261120P00032000/chart/",
+   "source": "Yahoo Finance UK",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-05T11:12:08+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Harmony Publishing Launches Free Amazon KDP Royalty Calculator to Help Self-Published Authors Price Their Books",
+   "url": "https://www.openpr.com/news/4683413/harmony-publishing-launches-free-amazon-kdp-royalty-calculator",
+   "source": "openPR.com",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-05T23:02:04+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "The Booker Prize still a reliably powerful driver in sales, say booksellers ahead of winner announcement",
+   "url": "https://www.independent.co.uk/arts-entertainment/books/news/booker-prize-sales-book-winner-shortlist-b3079935.html",
+   "source": "The Independent",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-11-06T07:05:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Thoughts on Therapy by Sebastian Fitzek",
+   "url": "https://www.reddit.com/r/books/comments/1xo8qb6/thoughts_on_therapy_by_sebastian_fitzek/",
+   "source": "r/books",
+   "group": "Reddit",
+   "feed_id": "reddit-r-books",
+   "published": "2026-11-05T03:45:22+00:00",
+   "snippet": "For context, Therapy by Sebastian Fitzek was originally published in 2006. It is written in German and was translated to English, and only just released as an English audiobook this year for the 20th anniversary. I will mark where spoilers are! First of all, this book was a PAGE-TURNER! I could not ",
+   "matched_keywords": [
+    "audiobook"
+   ]
+  },
+  {
+   "title": "Anyone knows what this means? repurposed video on the manage videos dashboard?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xoiobj/anyone_knows_what_this_means_repurposed_video_on/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-05T13:30:02+00:00",
+   "snippet": "I have never seen this. ANyon? submitted by /u/Recent_Special_6334 [link] [comments]",
+   "matched_keywords": []
+  },
+  {
+   "title": "Stealing customers' videos. Details in the comments.",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xoj7p9/stealing_customers_videos_details_in_the_comments/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-05T13:54:26+00:00",
+   "snippet": "Link video : https://www.amazon.com/live/video/004f164202a444aeb87961e93fb47c79 report store to amazon: https://affiliate-program.amazon.com/contact submitted by /u/Creepy-Art-4820 [link] [comments]",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  }
+ ]
+}

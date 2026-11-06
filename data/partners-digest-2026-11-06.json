@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-06",
+ "summary": [
+  "Rakuten Advertising’s Nick Fletcher talked partnerships in the AI/LLM era on Hello Partner.",
+  "CJ’s Dan Staples (via Hello Partner interview and LinkedIn) pushed beyond last-click to prove affiliate’s incremental value and fix tracking gaps.",
+  "Wayfair said it is using OpenAI for Business inside its systems to improve catalogue accuracy and support.",
+  "Routine retailer LinkedIn posts (Best Buy Zelda launch, Target volunteering, Wordery/Apple Books book promos) left out."
+ ],
+ "partners": [
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Advertising’s Nick Fletcher Talks Partnerships in the AI Revolution",
+     "url": "https://hellopartner.com/rakuten-advertisings-nick-fletcher-talks-partnerships-in-the-ai-revolution/",
+     "source": "Hello Partner",
+     "published": "2026-11-05T09:44:38+00:00",
+     "type": "news",
+     "why": "A major network Geniuslink integrates with is talking about how partnerships work when LLMs change discovery."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ’s Dan Staples on Elevating Affiliate’s Value",
+     "url": "https://hellopartner.com/cjs-dan-staples-on-elevating-affiliates-value/",
+     "source": "Hello Partner",
+     "published": "2026-11-05T12:00:00+00:00",
+     "type": "news",
+     "why": "CJ is arguing affiliate needs better incrementality and tracking proof — the same credit problem Geniuslink clients hit when links fail.",
+     "also": {
+      "source": "LinkedIn · CJ",
+      "url": "https://www.linkedin.com/posts/commission-junction_affiliatemarketing-incrementality-measurement-activity-7524110739603898369-DdAx",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "wayfair",
+   "name": "Wayfair",
+   "items": [
+    {
+     "title": "At Wayfair, creating a seamless shopping experience starts behind the scenes — integrating OpenAI for Business for catalogue accuracy and support",
+     "url": "https://www.linkedin.com/posts/wayfair_wayfair-boosts-catalog-accuracy-and-support-activity-7524124393464217600-F77A",
+     "source": "LinkedIn · Wayfair",
+     "published": "2026-11-05T15:04:06+00:00",
+     "type": "social",
+     "why": "A Geniuslink retail partner is putting AI into catalogue and support ops, not just the storefront."
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "items": [
+    {
+     "title": "10 Best Influencer Marketing Software in 2027: My Top Picks",
+     "url": "https://impact.com/?bylines=10-best-influencer-marketing-software-in-2027-my-top-picks",
+     "source": "impact.com",
+     "published": "2026-11-06T06:46:50+00:00",
+     "type": "blog",
+     "why": "Impact is publishing a 2027 software roundup — useful for how networks position themselves against creator tools."
+    }
+   ]
+  }
+ ]
+}

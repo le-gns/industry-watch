@@ -1,0 +1,220 @@
+{
+ "date": "2026-11-06",
+ "intro": "A busier Friday: the FTC and 22 states accuse Amazon of secretly jacking up ad prices on Black Friday and Prime Day, TikTok ships a stand-alone Shop app, and affiliate/creator measurement keeps getting a harder look.",
+ "must_reads": [
+  {
+   "title": "FTC, 22 states accuse Amazon of secretly inflating advertising prices by up to 250%",
+   "url": "https://wrnjradio.com/ftc-22-states-accuse-amazon-of-secretly-inflating-advertising-prices-by-up-to-250/",
+   "source": "WRNJ Radio",
+   "published": "2026-11-05T17:52:53+00:00",
+   "why": "Why it matters for Geniuslink: Regulators say Amazon quietly raised the cost of ads around Black Friday and Prime Day by as much as 250%. Peak shopping days are when affiliate links do the most work, so pressure on Amazon’s ad and marketplace rules shapes what sellers and creators can earn.",
+   "also": {
+    "source": "WSJ",
+    "url": "https://www.wsj.com/tech/ftc-claims-amazon-tripled-ad-prices-for-black-friday-prime-day-ae340913",
+    "paywall": true
+   }
+  },
+  {
+   "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+   "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+   "source": "TechCrunch",
+   "published": "2026-11-05T15:33:58+00:00",
+   "why": "Why it matters for Geniuslink: TikTok is splitting shopping into its own app, which means more of the path from a creator tip to a purchase may stay inside TikTok rather than going out to Amazon or other stores."
+  },
+  {
+   "title": "Amazon’s Fees and Ads Near Its Retail Sales",
+   "url": "https://www.marketplacepulse.com/articles/amazons-fees-and-ads-near-its-retail-sales",
+   "source": "Marketplace Pulse",
+   "published": "2026-11-05T17:01:59+00:00",
+   "why": "Why it matters for Geniuslink: Marketplace Pulse says Amazon now takes almost as much from seller fees and ads as it makes from selling goods itself. That squeeze on sellers is the backdrop for every Amazon affiliate and creator programme Geniuslink clients use."
+  },
+  {
+   "title": "TikTok Shop Details Livestream Sales Measurement Over 14 Days",
+   "url": "https://www.affiversemedia.com/tiktok-shop-brand-live-impact/",
+   "source": "Affiverse Media",
+   "published": "2026-11-05T09:48:06+00:00",
+   "why": "Why it matters for Geniuslink: TikTok Shop now measures livestream sales for 14 days, including buys that finish on a brand’s own site. Platforms that can prove sales beyond the livestream will pull more brand budget into in-app shopping."
+  },
+  {
+   "title": "Inside the push for content compensation in the agentic era",
+   "url": "https://www.marketingbrew.com/stories/ai-agentic-content-compensation-brands-creators-publishers",
+   "source": "Marketing Brew",
+   "published": "2026-11-05T12:00:00+00:00",
+   "why": "Why it matters for Geniuslink: As AI agents start shopping and summarising content, brands, creators and publishers are arguing about who gets paid. Any new rule for paying the person who pointed a shopper at a product sits next to how affiliate links already work."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Amazon opens its search to outside stores as bots block AI shoppers",
+     "url": "https://ppc.land/amazon-opens-its-search-to-outside-stores-as-bots-block-ai-shoppers/",
+     "source": "PPC Land",
+     "published": "2026-11-06T07:36:00+00:00",
+     "summary": "Follow-up: Amazon’s free Shop Direct workspace for outside stores, bot blocks on AI agents, and Google AI Mode starting to book plumbers."
+    },
+    {
+     "title": "Anyone knows what this means? repurposed video on the manage videos dashboard?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xoiobj/anyone_knows_what_this_means_repurposed_video_on/",
+     "source": "Reddit r/Amazon_Influencer",
+     "published": "2026-11-05T13:30:02+00:00",
+     "summary": "Amazon Influencer creators are confused by a new “repurposed video” flag in the manage-videos dashboard."
+    },
+    {
+     "title": "Stealing customers' videos. Details in the comments.",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xoj7p9/stealing_customers_videos_details_in_the_comments/",
+     "source": "Reddit r/Amazon_Influencer",
+     "published": "2026-11-05T13:54:26+00:00",
+     "summary": "Amazon Influencer creators flag brands or sellers using customer review videos without clear permission."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Creators see promise in Instagram’s long-form push, but question whether exposure is enough",
+     "url": "https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/",
+     "source": "Digiday",
+     "published": "2026-11-06T05:01:00+00:00",
+     "summary": "Creators like Instagram’s long-form push but doubt exposure alone will pull them off YouTube."
+    },
+    {
+     "title": "LinkedIn Rolls Out Consolidated Creator Analytics as It Expands Monetization Tests",
+     "url": "https://www.netinfluencer.com/linkedin-rolls-out-consolidated-creator-analytics-as-it-expands-monetization-tests/",
+     "source": "Net Influencer",
+     "published": "2026-11-05T12:26:56+00:00",
+     "summary": "LinkedIn adds an exportable Post Performance Table while testing ad revenue sharing and paid consultations."
+    },
+    {
+     "title": "Instagram Leads E-Commerce Engagement, While Calls to Action Show No Lift, Report Finds",
+     "url": "https://www.netinfluencer.com/instagram-leads-e-commerce-engagement-while-calls-to-action-show-no-lift-report-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-05T09:30:00+00:00",
+     "summary": "Metricool: a typical e-commerce Instagram post got 293 interactions vs 8 on YouTube; CTAs showed no lift."
+    },
+    {
+     "title": "Why 456 Growth’s Dan Albert Says Brands Overpay for Cheap Creator Posts",
+     "url": "https://www.netinfluencer.com/why-456-growth-dan-albert-says-brands-overpay-for-cheap-creator-posts/",
+     "source": "Net Influencer",
+     "published": "2026-11-05T06:19:00+00:00",
+     "summary": "On TikTok Shop, a retainer that keeps selling for weeks can beat a one-off “cheap” post."
+    },
+    {
+     "title": "Measurement Gaps Hold Back Brand Spending on Podcasts, Creator Media, Survey Finds",
+     "url": "https://www.netinfluencer.com/measurement-gaps-hold-back-brand-spending-on-podcasts-creator-media-survey-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-05T12:25:48+00:00",
+     "summary": "Oxford Road: 57% of brand advertisers name measurement gaps as a top barrier to podcast and creator spend."
+    },
+    {
+     "title": "Meta Partnership Ads and TikTok Spark Ads: Putting Creator Content Behind Paid Media",
+     "url": "https://theinfluencermarketingfactory.com/meta-partnership-ads-vs-tiktok-spark-ads/",
+     "source": "The Influencer Marketing Factory",
+     "published": "2026-11-05T14:52:34+00:00",
+     "summary": "How brands boost creator posts as ads on Meta vs TikTok Spark Ads."
+    },
+    {
+     "title": "Holiday Influencer Marketing 2026: How to Activate Creators from Gift Ideas to Purchases",
+     "url": "https://theinfluencermarketingfactory.com/holiday-influencer-marketing-2026/",
+     "source": "The Influencer Marketing Factory",
+     "published": "2026-11-05T22:21:58+00:00",
+     "summary": "Adobe expects affiliates (including influencers) and social to gain the most share of US online holiday revenue."
+    },
+    {
+     "title": "Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities",
+     "url": "https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/",
+     "source": "Digiday",
+     "published": "2026-11-06T05:01:00+00:00",
+     "summary": "Brands leaned on creators all year, but holiday campaigns still go to celebrities."
+    },
+    {
+     "title": "Lazada Helps Creators Build Businesses, with One Affiliate Network Surpassing RM1 Million GMV in June 2026",
+     "url": "https://www.dagangnews.com/article/english/lazada-helps-creators-build-businesses-one-affiliate-network-surpassing-rm1-million-gmv-june-2026-77136",
+     "source": "DagangNews",
+     "published": "2026-11-05T16:04:13+00:00",
+     "summary": "Lazada says one of its affiliate networks cleared RM1 million GMV in June 2026."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Last Click is Lying to You",
+     "url": "https://hellopartner.com/last-click-is-lying-to-you/",
+     "source": "Hello Partner",
+     "published": "2026-11-05T11:00:00+00:00",
+     "summary": "A five-pillar playbook for building an integrated creator marketing system beyond last-click."
+    },
+    {
+     "title": "PMA Webinar: The AI Empowered Affiliate Manager: Doing More via MCP",
+     "url": "https://thepma.org/pma-webinar-the-ai-empowered-affiliate-manager-doing-more-via-mcp/",
+     "source": "Performance Marketing Association",
+     "published": "2026-11-05T19:34:46+00:00",
+     "summary": "PMA AI Council webinar on connecting affiliate platforms via MCP and using AI for reporting."
+    },
+    {
+     "title": "Ads Drive Consumer Demand. The Shelf Captures It",
+     "url": "https://www.adexchanger.com/content-studio/ads-drive-consumer-demand-the-shelf-captures-it/",
+     "source": "AdExchanger",
+     "published": "2026-11-05T13:00:50+00:00",
+     "summary": "DoorDash data: when a preferred brand is out of stock, shoppers buy a rival nearly 12% of the time."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "QuestionPro Announced the Acquisition of Contlo to Advance Agentic Commerce",
+     "url": "https://www.martechcube.com/questionpro-announced-the-acquisition-of-contlo-to-advance-agentic-commerce/",
+     "source": "MarTech Cube",
+     "published": "2026-11-05T09:47:00+00:00",
+     "summary": "QuestionPro buys Contlo to push agentic commerce capabilities."
+    },
+    {
+     "title": "Reap, Meitu's EveLab Insight, and Pivota Sign MOU to Explore Bringing Agentic Beauty Shopping to Life",
+     "url": "https://yellow.com/press-releases/reap-meitu-s-evelab-insight-and-pivota-sign-mou-to-explore-bringing-agentic-beauty-shopping-to-life",
+     "source": "Yellow.com",
+     "published": "2026-11-05T09:38:00+00:00",
+     "summary": "Three firms sign an MOU to explore AI agents that shop for beauty products."
+    },
+    {
+     "title": "Perplexity launches its own take on AI agents for work",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+     "source": "The Verge",
+     "published": "2026-11-05T22:26:00+00:00",
+     "summary": "Perplexity’s always-on “Teammates” agents can take multiple roles inside a workspace."
+    },
+    {
+     "title": "How Google AI Mode is Transforming Website Traffic",
+     "url": "https://www.analyticsinsight.net/amp/story/latest-news/how-google-ai-mode-is-transforming-website-traffic",
+     "source": "Analytics Insight",
+     "published": "2026-11-05T11:04:00+00:00",
+     "summary": "A look at how Google AI Mode is changing traffic to publisher and retailer sites."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "The Booker Prize still a reliably powerful driver in sales, say booksellers ahead of winner announcement",
+     "url": "https://www.independent.co.uk/arts-entertainment/books/news/booker-prize-sales-book-winner-shortlist-b3079935.html",
+     "source": "The Independent",
+     "published": "2026-11-06T07:05:00+00:00",
+     "summary": "Booksellers say a Booker win still moves copies in a meaningful way."
+    },
+    {
+     "title": "Harmony Publishing Launches Free Amazon KDP Royalty Calculator to Help Self-Published Authors Price Their Books",
+     "url": "https://www.openpr.com/news/4683413/harmony-publishing-launches-free-amazon-kdp-royalty-calculator",
+     "source": "openPR.com",
+     "published": "2026-11-05T23:02:00+00:00",
+     "summary": "A free KDP royalty calculator aimed at helping indie authors set prices."
+    }
+   ]
+  }
+ ]
+}

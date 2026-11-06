@@ -1,0 +1,91 @@
+{
+ "date": "2026-11-06",
+ "summary": [
+  "Button’s CEO told Levanta’s Creator Commerce Commune that creator audiences plus retail media budgets dwarf affiliate alone ($44B creator + $71B retail media vs $18B performance creator).",
+  "Amazon launched free Uber Eats delivery for Prime members ordering through Amazon — a retail perk, not an Associates change.",
+  "Pretty Links published a full Instagram affiliate marketing guide; Bitly pushed episode 4 of its Click Worthy podcast.",
+  "Lasso, URLgenius and Amazon Associates/Influencer feeds were quiet on product news; several Reddit competitor searches were rate-limited (429)."
+ ],
+ "competitors": [
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "items": [
+    {
+     "title": "When creator audiences meet retail media budgets, the opportunity is far bigger than affiliate alone. That was the heart of our CEO Michael Jaconi’s conversation at Levanta’s Creator Commerce Commune.",
+     "url": "https://www.linkedin.com/posts/usebutton_when-creator-audiences-meet-retail-media-activity-7524131638650253313-fo78",
+     "source": "LinkedIn · Button",
+     "published": "2026-11-05T15:32:00+00:00",
+     "type": "social",
+     "why": "A deep-linking rival is pitching itself at the join between creators and retail media, not just classic affiliate."
+    },
+    {
+     "title": "Every point of friction in the mobile journey is a conversion left on the table — webinar on Driving Higher Mobile Conversions Through Personalisation and Seamless App Journeys.",
+     "url": "https://www.linkedin.com/posts/usebutton_every-point-of-friction-in-the-mobile-journey-activity-7524236186157154304-J26P",
+     "source": "LinkedIn · Button",
+     "published": "2026-11-05T22:28:00+00:00",
+     "type": "social",
+     "why": "Button keeps selling the mobile deep-link story: fewer taps between a tip and the app checkout."
+    }
+   ]
+  },
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
+     "url": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery",
+     "source": "aboutamazon.com",
+     "published": "2026-11-05T10:50:00+00:00",
+     "type": "blog",
+     "why": "Prime perks keep widening. Not an Associates change, but another reason shoppers start on Amazon."
+    }
+   ]
+  },
+  {
+   "id": "prettylinks",
+   "name": "Pretty Links Pro",
+   "items": [
+    {
+     "title": "Everything You Need to Know About Instagram Affiliate Marketing: The Complete Guide",
+     "url": "https://prettylinks.com/blog/affiliate-marketing-instagram/",
+     "source": "prettylinks.com",
+     "published": "2026-11-05T17:00:00+00:00",
+     "type": "blog",
+     "why": "A WordPress link-shortener rival is publishing how-to content aimed at Instagram affiliates."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "items": [
+    {
+     "title": "How does a brand stand out? Episode 4 of Click Worthy with Louis Grenier",
+     "url": "https://x.com/Bitly/status/2118397946370626021",
+     "source": "X @Bitly",
+     "published": "2026-11-05T17:40:03.000Z",
+     "type": "social",
+     "why": "Bitly is building a brand-content podcast rather than shipping link-product news."
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "items": [
+    {
+     "title": "Are you attending Author Nation next week? Be sure to visit D2D at Booth B2 at the Vendor Expo.",
+     "url": "https://x.com/Draft2Digital/status/2118486863015211335",
+     "source": "X @Draft2Digital",
+     "published": "2026-11-05T23:33:22.000Z",
+     "type": "social",
+     "why": "Draft2Digital (Books2Read) is on the Author Nation floor next week — a chance to see how they pitch universal book links to authors."
+    }
+   ]
+  }
+ ]
+}
