@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-09",
+ "summary": [
+  "Best Buy's holiday campaign expands creator deals (MKBHD, Dude Perfect), opens a TikTok Shop storefront for creator tagging and adds shopping through ChatGPT.",
+  "Books-A-Million and Wordery posted only routine promos on X; other partners were quiet."
+ ],
+ "partners": [
+  {
+   "id": "bestbuy",
+   "name": "Best Buy (US)",
+   "items": [
+    {
+     "title": "Best Buy is using football, TikTok creators and ChatGPT to get your holiday shopping dollars",
+     "url": "https://finance.yahoo.com/media-advertising/articles/best-buy-using-football-tiktok-100155217.html",
+     "source": "Yahoo Finance",
+     "published": "2026-11-08T10:01:55+00:00",
+     "type": "news",
+     "why": "A partner retailer is pushing creator selling into TikTok Shop and ChatGPT this holiday season."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-09",
+ "intro": "A quiet Monday after the weekend: ChatGPT is building a dashboard that shows businesses how often they get mentioned, Shopee says creator affiliates now drive one in ten visits in Singapore, and Instagram is paying some YouTubers to post long videos.",
+ "must_reads": [
+  {
+   "title": "OpenAI testing business tools to track performance within ChatGPT",
+   "url": "https://searchengineland.com/openai-testing-business-tools-to-track-performance-within-chatgpt-500841",
+   "source": "Search Engine Land",
+   "published": "2026-11-06T15:54:00+00:00",
+   "why": "Why it matters for Geniuslink: ChatGPT is testing a dashboard that counts how often a business shows up in its answers and how many clicks those answers send. AI chat is turning into a measurable traffic source, so where shoppers click through to (and which store they land on) is becoming something brands will track like search.",
+   "also": {
+    "source": "Digiday",
+    "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+    "paywall": true
+   }
+  },
+  {
+   "title": "Shopee says Singapore affiliate sales grew nearly 50 percent",
+   "url": "https://technode.global/2026/11/09/shopee-singapore-affiliate-sales-growth/",
+   "source": "TNGlobal",
+   "published": "2026-11-09T02:15:30+00:00",
+   "why": "Why it matters for Geniuslink: Shopee says affiliate sales in Singapore grew nearly 50% in a year, with 300,000+ affiliates and creator content behind one in ten visits. It is another sign that creator links are becoming a main shopping channel for big marketplaces, not a side programme (company figures, not audited)."
+  },
+  {
+   "title": "Instagram's 90-minute video push raises a bigger question: Will creators get paid?",
+   "url": "https://www.storyboard18.com/influencer-marketing/instagrams-90-minute-video-push-raises-a-bigger-question-will-creators-get-paid-114366.htm",
+   "source": "Storyboard18",
+   "published": "2026-11-09T03:12:18+00:00",
+   "why": "Why it matters for Geniuslink: Instagram is testing 90-minute videos and reportedly paying some YouTubers $50k to $500k to post there, but there is no general revenue share yet. Experts quoted expect creators to earn from sponsorships and affiliate links instead, so links in long-form content matter on more platforms."
+  },
+  {
+   "title": "Best Buy is using football, TikTok creators and ChatGPT to get your holiday shopping dollars",
+   "url": "https://finance.yahoo.com/media-advertising/articles/best-buy-using-football-tiktok-100155217.html",
+   "source": "Yahoo Finance",
+   "published": "2026-11-08T10:01:55+00:00",
+   "why": "Why it matters for Geniuslink: Best Buy's holiday plan leans on creators (MKBHD, Dude Perfect), a new TikTok Shop storefront where creators can tag its products, and shopping through ChatGPT. Big retailers are spreading across platforms and AI at once, which makes one link that works everywhere more useful."
+  },
+  {
+   "title": "As publishers await click data, Google's AI visibility push complicates the opt-out decision",
+   "url": "https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/",
+   "source": "Digiday",
+   "published": "2026-11-09T05:01:00+00:00",
+   "paywall": true,
+   "why": "Why it matters for Geniuslink: Google is building the UK-required option for publishers to opt out of AI search, while also making AI Overviews more attractive to stay in. Review and gift-guide sites that earn from affiliate links face a hard choice about traffic from Google's AI answers."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "YouTube expands custom feeds and offers new partnership options",
+     "url": "https://www.socialmediatoday.com/news/youtube-expands-custom-feeds-and-offers-new-partnership-options/874068/",
+     "source": "Social Media Today",
+     "published": "2026-11-08T21:14:53+00:00",
+     "summary": "YouTube widens AI-driven custom feeds and adds new partnership options for creators and brands."
+    },
+    {
+     "title": "Social Commerce Club's Jordan West breaks down 6 tactics behind its TikTok Shop launches",
+     "url": "https://www.netinfluencer.com/social-commerce-clubs-jordan-west-breaks-down-6-tactics-behind-its-tiktok-shop-launches/",
+     "source": "Net Influencer",
+     "published": "2026-11-08T14:45:26+00:00",
+     "summary": "A TikTok Shop agency seeds products to affiliate creators and times all their posts to one launch date."
+    },
+    {
+     "title": "Pinterest's Claudine Cheever reveals why saves count more than followers",
+     "url": "https://www.netinfluencer.com/pinterests-claudine-cheever-reveals-why-saves-count-more-than-followers/",
+     "source": "Net Influencer",
+     "published": "2026-11-08T14:59:32+00:00",
+     "summary": "Pinterest's CMO (ex-Amazon) says creators there are judged on saves, not follower counts."
+    },
+    {
+     "title": "How performance metrics are rewriting creator rate cards",
+     "url": "https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/",
+     "source": "Digiday",
+     "published": "2026-11-09T05:01:00+00:00",
+     "paywall": true,
+     "summary": "Advertisers now ask creators for cost per lead and conversions rather than follower counts."
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Meta's Muse gains self-updating tools that track prices and Instagram saves",
+     "url": "https://ppc.land/metas-muse-gains-self-updating-tools-that-track-prices-and-instagram-saves/",
+     "source": "PPC Land",
+     "published": "2026-11-08T06:47:12+00:00",
+     "summary": "Meta's AI assistant gets tools that watch prices and Marketplace listings for users and small sellers."
+    },
+    {
+     "title": "Apple is racing to make Siri more agentic",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+     "source": "The Verge",
+     "published": "2026-11-08T19:18:19+00:00",
+     "summary": "Apple is pushing to ship a Siri agent that can compete with OpenAI's and Meta's assistants."
+    },
+    {
+     "title": "WTF is the AI training opt-out policy token?",
+     "url": "https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/",
+     "source": "Digiday",
+     "published": "2026-11-09T05:01:00+00:00",
+     "paywall": true,
+     "summary": "Big AI companies back a new standard letting publishers opt out of AI training."
+    },
+    {
+     "title": "Publishers: agentic AI isn't about pricing, but whether you get any bids at all",
+     "url": "https://www.adexchanger.com/the-sell-sider/publishers-agentic-ai-isnt-about-pricing-but-whether-you-get-any-bids-at-all/",
+     "source": "AdExchanger",
+     "published": "2026-11-09T05:35:27+00:00",
+     "summary": "Ad-tech leaders expect AI agents in ad buying to have several false starts before they matter."
+    }
+   ]
+  },
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Google Demand Gen ads can now show discount tags on YouTube Shorts",
+     "url": "https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/",
+     "source": "PPC Land",
+     "published": "2026-11-08T13:24:35+00:00",
+     "summary": "Shopping ads built on a Merchant Center feed can show sale tags on Shorts, ahead of Black Friday."
+    },
+    {
+     "title": "Google Ads Search and Shopping campaigns gain channel reporting in 2027",
+     "url": "https://ppc.land/google-ads-search-and-shopping-campaigns-gain-channel-reporting-in-2027/",
+     "source": "PPC Land",
+     "published": "2026-11-08T13:31:25+00:00",
+     "summary": "Google will split Search and Shopping results by channel, counting YouTube search as YouTube."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "YouTube Shopping auto tag will get me in trouble?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xrdu84/youtube_shopping_auto_tag_will_get_me_in_trouble/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-09T00:39:15+00:00",
+     "summary": "A creator says YouTube's automatic Amazon product tags are often wrong and asks if using them breaks the rules."
+    }
+   ]
+  }
+ ]
+}

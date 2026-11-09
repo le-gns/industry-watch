@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-09",
+ "summary": [
+  "YouTube Studio now suggests products for affiliate creators to tag, showing each merchant's estimated commission rate next to the picks.",
+  "An Amazon Associates user on Reddit reports failed OneLink payments for UK and Canada commissions in October, despite correct bank details.",
+  "Lasso, URLgenius and Button/Posttap were quiet; several Reddit competitor searches were rate-limited (429) again."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Anyone had failed Amazon OneLink payments despite using the correct bank details?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xrg8v3/anyone_had_failed_amazon_onelink_payments_despite/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-09T02:39:26+00:00",
+     "type": "reddit",
+     "why": "OneLink is Amazon's own cross-store tool; payment problems for non-US stores are a real pain point for international creators."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube Studio now suggests products for affiliate creators to tag",
+     "url": "https://ppc.land/youtube-studio-now-suggests-products-for-affiliate-creators-to-tag/",
+     "source": "PPC Land",
+     "published": "2026-11-08T06:39:57+00:00",
+     "type": "news",
+     "why": "YouTube is steering creators to products and showing commission rates inside Studio, keeping more of the link choice inside its own tools."
+    }
+   ]
+  }
+ ]
+}

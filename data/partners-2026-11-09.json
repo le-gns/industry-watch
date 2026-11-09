@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T08:12:04.910407+00:00",
+ "item_count": 4,
+ "feeds_ok": 105,
+ "feeds_failed": 2,
+ "items": [
+  {
+   "title": "Best Buy is using football, TikTok creators and ChatGPT to get your holiday shopping dollars",
+   "url": "https://finance.yahoo.com/media-advertising/articles/best-buy-using-football-tiktok-100155217.html",
+   "source": "Yahoo Finance",
+   "competitor": "bestbuy",
+   "feed_id": "gn-bestbuy",
+   "type": "news",
+   "published": "2026-11-08T10:01:55+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Your next hobby (or five) is waiting for you here. Come find everything you need for your new analog hobbies at Books-A-Million!",
+   "url": "https://x.com/booksamillion/status/2119475088072286658",
+   "source": "X @booksamillion",
+   "competitor": "bam",
+   "feed_id": "x-booksamillion",
+   "type": "social",
+   "published": "2026-11-08T17:00:13.000Z",
+   "snippet": "Your next hobby (or five) is waiting for you here. Come find everything you need for your new analog hobbies at Books-A-Million!"
+  },
+  {
+   "title": "Good things happen when you give your brain something to chew on. Shop all your brainstack needs at Books-A-Million today!",
+   "url": "https://x.com/booksamillion/status/2119564909662896560",
+   "source": "X @booksamillion",
+   "competitor": "bam",
+   "feed_id": "x-booksamillion",
+   "type": "social",
+   "published": "2026-11-08T22:57:08.000Z",
+   "snippet": "Good things happen when you give your brain something to chew on. Shop all your brainstack needs at Books-A-Million today!"
+  },
+  {
+   "title": "Today, our featured cookbook is 'Savory Vs. Sweet' by Stephanie Ghitis and Shalean Ghitis.",
+   "url": "https://x.com/wordery/status/2119369343280800071",
+   "source": "X @wordery",
+   "competitor": "wordery",
+   "feed_id": "x-wordery",
+   "type": "social",
+   "published": "2026-11-08T10:00:02.000Z",
+   "snippet": "Today, our featured cookbook is 'Savory Vs. Sweet' by Stephanie Ghitis and Shalean Ghitis."
+  }
+ ]
+}
