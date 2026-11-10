@@ -1,0 +1,209 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T08:15:26.314622+00:00",
+ "item_count": 20,
+ "feeds_ok": 93,
+ "feeds_failed": 10,
+ "items": [
+  {
+   "title": "Amazon Haul’s early Haul-iday deals event: $1 flash deals, $0.11 steals, and millions of items under $10",
+   "url": "https://www.aboutamazon.com/news/retail/amazon-haul-sale-ultra-low-price-deals",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-09T08:01:00+00:00",
+   "snippet": "From November 9–14, customers can score ultra-low prices across fashion, beauty, home, electronics, and more from Amazon Haul."
+  },
+  {
+   "title": "AWS commits $100 million of AI and cloud technology to help organizations expand health services worldwide",
+   "url": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-09T14:00:07+00:00",
+   "snippet": "The AWS Health Impact Initiative gives health organizations access to AI and cloud technology to build solutions for underserved communities."
+  },
+  {
+   "title": "AWS commits $100 million of AI and cloud technology to help organizations expand health services",
+   "url": "https://x.com/amazonnews/status/2119802861110313149",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-09T14:42:40.000Z",
+   "snippet": "AWS commits $100 million of AI and cloud technology to help organizations expand health services"
+  },
+  {
+   "title": "Amazon Leo to launch 40 satellites on its first Vulcan mission",
+   "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-vulcan-satellites-launch",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-09T17:22:29+00:00",
+   "snippet": "Leo Vulcan 1 (LV-01) will carry the largest batch of Leo satellites to orbit yet and kick off a 38-launch partnership with ULA."
+  },
+  {
+   "title": "Amazon in the community: Service, community, and commitment at HQ2",
+   "url": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-09T22:42:00+00:00",
+   "snippet": "Learn how we invest in the community, help power the local economy, and support our employees in the National Capital Region."
+  },
+  {
+   "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+   "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-10T05:30:23+00:00",
+   "snippet": "Millions of deals across electronics, beauty, fashion, toys, and more drop November 19 through November 30, with new daily themed deals and double drops on Black Friday and Cyber Monday."
+  },
+  {
+   "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+   "url": "https://x.com/amazonnews/status/2120039179321270528",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-10T06:21:43.000Z",
+   "snippet": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals"
+  },
+  {
+   "title": "A change to YouTube’s inclusion on the U.S. Billboard charts",
+   "url": "https://blog.youtube/news-and-events/youtube-billboard-chart-update/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-11-09T16:00:00+00:00",
+   "snippet": "After being removed in January 2026, YouTube data is returning to U.S. Billboard charts starting in 2027."
+  },
+  {
+   "title": "YouTube Studio Adds Affiliate Product Recommendations",
+   "url": "https://www.affiversemedia.com/youtube-studio-affiliate-product-recommendations/",
+   "source": "Affiverse",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-09T16:33:08+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "holiday tip: turn on auto-tagging on YouTube Shopping now so your videos are ready to earn before the rush",
+   "url": "https://x.com/YouTubeCreators/status/2119883979239161860",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-11-09T20:05:00.000Z",
+   "snippet": "holiday tip: turn on auto-tagging on YouTube Shopping now so your videos are ready to earn before the rush"
+  },
+  {
+   "title": "YouTube Tests Recommended Products Hub For Creator Partnerships 11/10/2026",
+   "url": "https://www.mediapost.com/publications/article/419320/youtube-tests-recommended-products-hub-for-creator.html",
+   "source": "MediaPost",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-10T02:29:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Digital-First Rivals Chasing YouTube Big-Screen Gains 11/09/2026",
+   "url": "https://www.mediapost.com/publications/article/419282/digital-first-rivals-chasing-youtube-big-screen-ga.html?edition=144412",
+   "source": "MediaPost",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-10T02:29:48+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "6 Greatest Whodunnit Thriller Books Better Than Knives Out, Ranked by Goodreads",
+   "url": "https://fandomwire.com/best-whodunnit-thriller-books-better-than-knives-out-ranked/",
+   "source": "FandomWire",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-09T10:08:39+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What's the best book someone recommended recently?",
+   "url": "https://x.com/goodreads/status/2119809738116362680",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-09T15:10:00.000Z",
+   "snippet": "What's the best book someone recommended recently?"
+  },
+  {
+   "title": "Goodreads Makes Major 2026 Awards Announcement",
+   "url": "https://screenrant.com/goodreads-choice-awards-2026-voting-dates-announced/",
+   "source": "ScreenRant",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-09T17:42:07+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "I Broke Up With Goodreads and Fell in Love With The StoryGraph",
+   "url": "https://www.nytimes.com/wirecutter/reviews/storygraph-reading-tracker-review/",
+   "source": "The New York Times",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-09T17:47:05+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Goodreads' Top 15 Most Read Science Fiction Books Of 2026 (So Far), Ranked By Reviews",
+   "url": "https://www.women.com/2310406/goodreads-top-15-most-read-science-fiction-books-2026-ranked-by-reviews/",
+   "source": "Women.com",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-10T00:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Goodreads Readers Love These 5 Thanksgiving Books!",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUtVR3d1Mi1UUU1rSlJfZ1I4MXNiZEhyYUQ1eGU0RW0xYm01c0xRMDNUbzM5WlJNeGQ3dFhuRVd1MVpraUd6ZHNJZ2szR1E4MkNscHpMYmd4SmFSUlpjTzh0cmZGNDRDSS1yR0RQUW1zenBLM3kzS1pxbTNHUmZQLTJVNzl5SnVTVmxaMjdTa2labEJyVzFiUmc5SkhEWjg1V2QwZXlyLV8?oc=5",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-10T01:30:27+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Consistency is one of the biggest drivers of creator business growth, and Hollie Woodward is proof. During the holiday season, Hollie published 572 posts in jus…",
+   "url": "https://www.linkedin.com/posts/shopltk_consistency-is-one-of-the-biggest-drivers-activity-7525668872084107265-YEmZ",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-11-09T21:21:19.270000+00:00",
+   "snippet": "Consistency is one of the biggest drivers of creator business growth, and Hollie Woodward is proof. During the holiday season, Hollie published 572 posts in just 56 days, increasing her earnings by 269%. Her results highlight the power of showing up consistently, building shopping habits with your c"
+  },
+  {
+   "title": "Armenian American Creator Tania Sarin Lands on ShopMy Billboards in Los Angeles and New York",
+   "url": "https://www.thearmenianreport.com/post/armenian-american-creator-tania-sarin-lands-on-shopmy-billboards-in-los-angeles-and-new-york",
+   "source": "The Armenian Report",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-11-09T19:20:16+00:00",
+   "snippet": ""
+  }
+ ]
+}

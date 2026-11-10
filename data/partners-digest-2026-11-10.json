@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-10",
+ "summary": [
+  "Partnerize says AI visibility is becoming measurable as platforms start reporting brand mentions, impressions and clicks, and argues the next step is tying that to sales.",
+  "Rakuten Advertising opened registration for DealMaker Europe 2027 in London.",
+  "Other partners posted only routine promos or were quiet."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "AI visibility is becoming measurable. And that's a significant step forward for AI-mediated commerce.",
+     "url": "https://www.linkedin.com/posts/partnerize_ai-visibility-is-becoming-measurable-and-activity-7525587668819271683-Uqe7",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-11-09T15:58:38.903000+00:00",
+     "type": "social",
+     "why": "A big affiliate network is positioning to pay partners for sales that start in AI answers."
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Registration for DealMaker Europe 2027 is now live",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_dealmakereu27-rakutenadvertising-partnermarketing-activity-7525560881066319872-6Mlx",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-11-09T14:12:12.205000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

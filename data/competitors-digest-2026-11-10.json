@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-10",
+ "summary": [
+  "Amazon confirmed Black Friday and Cyber Monday deals run 19 to 30 November, with daily themed deals; Amazon Haul's low-price event runs 9 to 14 November.",
+  "YouTube is nudging creators to turn on Shopping auto-tagging before the holiday rush, and says videos with product tags get over 110% more product clicks than description links.",
+  "LTK shared a creator who grew holiday earnings 269% by posting 572 times in 56 days.",
+  "Lasso, URLgenius and Button/Posttap were quiet; Reddit competitor searches were rate-limited (429) again."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "Black Friday and Cyber Monday 2026: a first look at Amazon's best deals",
+     "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
+     "source": "aboutamazon.com",
+     "published": "2026-11-10T05:30:23+00:00",
+     "type": "blog",
+     "why": "Sets the dates (19 to 30 November) when Amazon creators and Associates will push the most links."
+    },
+    {
+     "title": "Amazon Haul's early Haul-iday deals event: $1 flash deals and millions of items under $10",
+     "url": "https://www.aboutamazon.com/news/retail/amazon-haul-sale-ultra-low-price-deals",
+     "source": "aboutamazon.com",
+     "published": "2026-11-09T08:01:00+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube Tests Recommended Products Hub For Creator Partnerships",
+     "url": "https://www.mediapost.com/publications/article/419320/youtube-tests-recommended-products-hub-for-creator.html",
+     "source": "MediaPost",
+     "published": "2026-11-10T02:29:36+00:00",
+     "type": "news",
+     "why": "YouTube says tagged products get over 110% more clicks than description links and plans its affiliate programme in 35 markets by end of 2026, a direct pull away from links in the description."
+    },
+    {
+     "title": "Holiday tip: turn on auto-tagging on YouTube Shopping now so your videos are ready to earn before the rush",
+     "url": "https://x.com/YouTubeCreators/status/2119883979239161860",
+     "source": "X @YouTubeCreators",
+     "published": "2026-11-09T20:05:00.000Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK: Hollie Woodward published 572 posts in 56 days and grew holiday earnings 269%",
+     "url": "https://www.linkedin.com/posts/shopltk_consistency-is-one-of-the-biggest-drivers-activity-7525668872084107265-YEmZ",
+     "source": "LinkedIn · LTK",
+     "published": "2026-11-09T21:21:19.270000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "priority": false,
+   "items": [
+    {
+     "title": "Armenian American Creator Tania Sarin Lands on ShopMy Billboards in Los Angeles and New York",
+     "url": "https://www.thearmenianreport.com/post/armenian-american-creator-tania-sarin-lands-on-shopmy-billboards-in-los-angeles-and-new-york",
+     "source": "The Armenian Report",
+     "published": "2026-11-09T19:20:16+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "items": [
+    {
+     "title": "I Broke Up With Goodreads and Fell in Love With The StoryGraph",
+     "url": "https://www.nytimes.com/wirecutter/reviews/storygraph-reading-tracker-review/",
+     "source": "The New York Times (Wirecutter)",
+     "published": "2026-11-09T17:47:05+00:00",
+     "type": "news",
+     "paywall": true
+    },
+    {
+     "title": "Goodreads Makes Major 2026 Awards Announcement",
+     "url": "https://screenrant.com/goodreads-choice-awards-2026-voting-dates-announced/",
+     "source": "ScreenRant",
+     "published": "2026-11-09T17:42:07+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}
