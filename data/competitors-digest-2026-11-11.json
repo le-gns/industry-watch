@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-11",
+ "summary": [
+  "URLgenius launched Claude and ChatGPT integrations (via MCP) so clients can build app links inside AI tools, plus Creator Trends, a daily view of products its creators are promoting.",
+  "YouTube Shopping keeps expanding abroad: Dubai launched a programme to help 1,000 creators earn commissions, and a Vietnam case study shows Shopping GMV up 326% in three months.",
+  "Skimlinks shared UK network data showing Black Friday sales value hit 4x an average October day last year; Bitly is pitching creator click tracking against a projected $37B in US creator spend.",
+  "Goodreads Choice Awards voting opened (10 to 22 Nov). Lasso, Button/Posttap and Amazon's link tools had no new link-tool news (Amazon's Black Friday dates ran yesterday)."
+ ],
+ "competitors": [
+  {
+   "id": "urlgenius",
+   "name": "URLgenius",
+   "priority": true,
+   "items": [
+    {
+     "title": "URLgenius Powers Holiday Campaigns with App Links in Claude and ChatGPT and New Creator Trends",
+     "url": "https://www.joplinglobe.com/region/national_business/urlgenius-powers-holiday-campaigns-with-app-links-in-claude-and-chatgpt-and-new-creator-trends/article_4748bc59-503c-5d92-9b07-711b7618a859.html",
+     "source": "The Joplin Globe",
+     "published": "2026-11-10T13:14:37+00:00",
+     "type": "news",
+     "why": "A direct competitor is building link creation into ChatGPT and Claude and pitching creator trend data to brands. It shows link tools racing to sit inside AI assistants.",
+     "also": {
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261110299058/en/URLgenius-Powers-Holiday-Campaigns-with-App-Links-in-Claude-and-ChatGPT-and-New-Creator-Trends",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "Dubai launches YouTube Shopping programme to help 1,000 creators earn commissions",
+     "url": "https://www.arabianbusiness.com/business/retail/dubai-launches-youtube-shopping-programme",
+     "source": "Arabian Business",
+     "published": "2026-11-11T01:02:40+00:00",
+     "type": "news",
+     "why": "YouTube is pushing its own built-in affiliate programme into new markets, which keeps more creator product links inside YouTube."
+    },
+    {
+     "title": "How Hồ Bích Trâm Grew YouTube Shopping GMV by 326% in Three Months",
+     "url": "https://anymindgroup.com/case-study/hobichtram-youtube-shopping-affiliate/",
+     "source": "AnyMind Group",
+     "published": "2026-11-11T00:07:20+00:00",
+     "type": "news"
+    },
+    {
+     "title": "Creators HQ, YouTube collaborate to launch first regional incubator to maximise creators' revenue",
+     "url": "https://www.indiasnews.net/news/279423762/creators-hq-youtube-collaborate-to-launch-first-regional-incubator-to-maximise-creators-revenue",
+     "source": "India's News.Net",
+     "published": "2026-11-10T16:30:00+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "skimlinks",
+   "name": "Skimlinks",
+   "priority": false,
+   "items": [
+    {
+     "title": "Cyber Week is just around the corner. Is your site ready? Last year, Black Friday sales value hit 4x an average October day. We dug into our UK network data to …",
+     "url": "https://www.linkedin.com/posts/skimlinks_publisher-playbook-activity-7525921678351286272-WIYr",
+     "source": "LinkedIn · Skimlinks",
+     "published": "2026-11-10T14:05:52.981000+00:00",
+     "type": "social",
+     "why": "Shows how much affiliate earnings bunch up in Cyber Week, the period when links that break or go to the wrong store cost the most."
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "US brands are spending more on creators than ever, with spend projected to hit $37B this year. 📈 That’s a major investment to put behind creators without knowin…",
+     "url": "https://www.linkedin.com/posts/bitly_12-influencer-marketing-strategies-that-work-activity-7525949178187878400-x32Q",
+     "source": "LinkedIn · Bitly",
+     "published": "2026-11-10T15:55:09.453000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "items": [
+    {
+     "title": "Voting has Begun for the 2026 Goodreads Choice Awards",
+     "url": "https://bookriot.com/2026-goodreads-choice-awards-opening-round/",
+     "source": "Book Riot",
+     "published": "2026-11-10T16:14:23+00:00",
+     "type": "news"
+    },
+    {
+     "title": "Bookclubs Launches a Goodreads Alternative: A Community for Every Reader, With or Without a Book Club",
+     "url": "https://www.einpresswire.com/article/955623204/bookclubs-launches-a-goodreads-alternative-a-community-for-every-reader-with-or-without-a-book-club",
+     "source": "EIN Presswire",
+     "published": "2026-11-10T13:30:00+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}

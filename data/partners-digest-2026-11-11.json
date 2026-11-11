@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-11",
+ "summary": [
+  "Partnerize is promoting built-in A/B testing for creative and messaging in its platform.",
+  "CJ set CJU 2027 for 13 to 16 September in Santa Barbara.",
+  "impact.com published a guide on picking creators by fit rather than follower count. Other partners posted only routine promos or were quiet."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Stop guessing what converts. Partnerize makes validating messaging effectiveness simple with A/B testing functionality that brings creative split testing direct…",
+     "url": "https://www.linkedin.com/posts/partnerize_beyond-the-guesswork-how-native-ab-testing-activity-7526007220740894720-sSjF",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-11-10T19:45:47.876000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "Don’t be sad it’s over, we're already looking ahead! Mark your calendars for CJU 2027: we'll be back in Santa Barbara, September 13-16 2027. If you haven’t alre…",
+     "url": "https://www.linkedin.com/posts/commission-junction_cju2027-performancemarketing-partnershipmarketing-activity-7525996205345083392-FXM6",
+     "source": "LinkedIn · CJ",
+     "published": "2026-11-10T19:02:01.601000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "items": [
+    {
+     "title": "Choosing the right influencer for your brand: why follower count fails",
+     "url": "https://impact.com/influencer/how-to-choose-the-right-influencer-for-your-brand/",
+     "source": "impact.com",
+     "published": "2026-11-10T11:16:01+00:00",
+     "type": "blog"
+    }
+   ]
+  }
+ ]
+}

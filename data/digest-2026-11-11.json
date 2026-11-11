@@ -1,0 +1,273 @@
+{
+ "date": "2026-11-11",
+ "intro": "A busy news day for AI search and shopping: ChatGPT now shows businesses how often it mentions them, TikTok Shop is testing a paid membership, and Google started a ranking update that runs into Black Friday week.",
+ "must_reads": [
+  {
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch",
+   "published": "2026-11-10T18:49:52+00:00",
+   "why": "Why it matters for Geniuslink: ChatGPT's new Business Hub (beta) lets companies set up verified profiles and see profile views, mentions and website clicks from ChatGPT. AI chat is turning into a place people find and click through to products, much like Google search. It's another major place links get clicked, and it now has its own stats."
+  },
+  {
+   "title": "TikTok Shop launches a paid premium tier for 1M of its top U.S. shoppers",
+   "url": "https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/",
+   "source": "Digiday",
+   "published": "2026-11-11T05:01:00+00:00",
+   "why": "Why it matters for Geniuslink: TikTok Shop Plus costs about $9.99 a month after a free trial and offers free shipping, discounts and instant refunds, like Amazon Prime. It's a sign TikTok wants shoppers to buy inside its app rather than click out to Amazon or other stores, so there's more tension between platforms over where a purchase happens."
+  },
+  {
+   "title": "Google's core update may run until three days before Black Friday",
+   "url": "https://ppc.land/googles-core-update-may-run-until-three-days-before-black-friday/",
+   "source": "PPC Land",
+   "published": "2026-11-11T07:15:40+00:00",
+   "why": "Why it matters for Geniuslink: Google's November core update started on 10 Nov and could run until 24 Nov, three days before Black Friday. Past updates hit comparison and affiliate-style sites hard. Creators and publishers who rely on search traffic may see big swings in their busiest weeks, and won't be able to tell why until after Cyber Monday."
+  },
+  {
+   "title": "IAB Launches Trusted Creator Brand Deal Initiative to Build the Infrastructure Behind the Creator Economy’s Next Phase of Growth",
+   "url": "https://www.iab.com/news/iab-launches-trusted-creator-brand-deal-initiative/",
+   "source": "Interactive Advertising Bureau",
+   "published": "2026-11-10T15:02:23+00:00",
+   "why": "Why it matters for Geniuslink: The IAB says creator ad budgets will reach about $44B this year, but there is no common way to measure, contract or pay creators. Its survey of 53 industry leaders found 67% name measurement as the top problem. It plans standard definitions (views, impressions, reach) in 2027. Better tracking of which creator drives results is the direction the whole industry is heading."
+  },
+  {
+   "title": "Google’s AI Ad Losses Are Meta’s Gain; Chatbot Ad Formats Are Starting To Multiply",
+   "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-11112026/",
+   "source": "AdExchanger",
+   "published": "2026-11-11T05:03:15+00:00",
+   "why": "Why it matters for Geniuslink: Advertisers told The Information they are moving money from Google to Meta as Google's AI Mode slows search ad growth. Meanwhile ChatGPT, Google AI Mode, Bing and Yahoo Scout are all starting to show ads inside AI answers. Paid placement is arriving in AI answers fast, so where shoppers get sent from them is going to be contested."
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Businesses gain ChatGPT click and mention counts in OpenAI's Business Hub",
+     "url": "https://ppc.land/businesses-gain-chatgpt-click-and-mention-counts-in-openais-business-hub/",
+     "source": "PPC Land",
+     "published": "2026-11-11T07:32:38+00:00",
+     "summary": "PPC Land's breakdown of what the new ChatGPT Business Hub counts (clicks, mentions, profile views) and how Business Agents tie into ChatGPT Ads."
+    },
+    {
+     "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
+     "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
+     "source": "Digiday",
+     "published": "2026-11-10T18:00:00+00:00",
+     "summary": "Digiday: OpenAI's business agents give brands a free way into ChatGPT conversations, alongside the paid ads it sells."
+    },
+    {
+     "title": "OpenAI Gives Brands Some Data About How They Appear in ChatGPT",
+     "url": "https://www.adweek.com/commerce/openai-gives-brands-some-data-about-how-they-appear-in-chatgpt/",
+     "source": "Adweek",
+     "published": "2026-11-10T13:00:00+00:00",
+     "summary": "Adweek's take: the new ChatGPT data competes with the GEO (AI search optimisation) industry.",
+     "paywall": true
+    },
+    {
+     "title": "Google's core update shifts rankings for up to 2 weeks before Black Friday",
+     "url": "https://ppc.land/googles-core-update-shifts-rankings-for-up-to-2-weeks-before-black-friday/",
+     "source": "PPC Land",
+     "published": "2026-11-10T19:25:59+00:00",
+     "summary": "PPC Land's first report on the core update starting 10 Nov."
+    },
+    {
+     "title": "Most major UK news publishers saw Google search visibility fall in 2026",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHpUd2lfZFZTeHdHcUNlVnlZXzgxdFh5eVBfUFE4bmd3RDdTQ2FFMExQV1hsOUFGNmxnYXNjd0JKSUdaMVNueldDZ3lTWm05ZDl1Y1ZaQjNEMGJ3YmFiZExWNmg3dEMxNWxEbFM0OGhsM29aNjQ5WEozY2dRRUhKOVppbklvT2ozeV93ZlFOX25VeTZmRjJDOG50UldfUFJ3NThDeVEweHdjZlUwb2RxODN5dWdwbU9vV2Zpa0RORkhGYmZmSGVxS1hIeTI?oc=5",
+     "source": "Press Gazette",
+     "published": "2026-11-10T11:06:08+00:00",
+     "summary": "Press Gazette: most major UK news publishers lost Google search visibility in 2026."
+    },
+    {
+     "title": "Week in Charts: Unilever CEO on Video Content, Fox News Ratings Tumbled in Election Run-Up, and Reddit Traffic Hit by Google AI Overviews",
+     "url": "https://videoweek.com/2026/11/10/week-in-charts-unilever-ceo-on-video-content-fox-news-ratings-tumbled-in-election-run-up-and-reddit-traffic-hit-by-google-ai-overviews/",
+     "source": "VideoWeek",
+     "published": "2026-11-10T14:00:44+00:00",
+     "summary": "Includes Reddit's traffic being hit by Google AI Overviews."
+    },
+    {
+     "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
+     "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/",
+     "source": "Digiday",
+     "published": "2026-11-11T05:01:00+00:00",
+     "summary": "Mars is preparing for AI agents doing more of the grocery shopping."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "TikTok tests shopping subscriptions",
+     "url": "https://www.socialmediatoday.com/news/tiktok-tests-shopping-subscriptions/874337/",
+     "source": "Social Media Today",
+     "published": "2026-11-10T22:46:54+00:00",
+     "summary": "Social Media Today's free write-up of TikTok Shop Plus ($9.99/month after a 30-day trial)."
+    },
+    {
+     "title": "Stan Acquires Typefully, Bringing Nearly 10,000 Paying Customers Into Its Creator Commerce Business",
+     "url": "https://www.netinfluencer.com/stan-acquires-typefully/",
+     "source": "Net Influencer",
+     "published": "2026-11-10T17:08:54+00:00",
+     "summary": "Stan (creator storefronts) buys Typefully, a social scheduling tool with nearly 10,000 paying customers. Creator commerce tools keep bundling."
+    },
+    {
+     "title": "Dubai launches YouTube Shopping programme to help 1,000 creators earn commissions",
+     "url": "https://www.arabianbusiness.com/business/retail/dubai-launches-youtube-shopping-programme",
+     "source": "Arabian Business",
+     "published": "2026-11-11T01:02:40+00:00",
+     "summary": "Dubai is launching a YouTube Shopping programme to help 1,000 creators earn commissions."
+    },
+    {
+     "title": "Creators HQ, YouTube collaborate to launch first regional incubator to maximise creators' revenue",
+     "url": "https://www.indiasnews.net/news/279423762/creators-hq-youtube-collaborate-to-launch-first-regional-incubator-to-maximise-creators-revenue",
+     "source": "India's News.Net",
+     "published": "2026-11-10T16:30:00+00:00",
+     "summary": "Creators HQ and YouTube launch a regional creator incubator in the UAE."
+    },
+    {
+     "title": "How Hồ Bích Trâm Grew YouTube Shopping GMV by 326% in Three Months",
+     "url": "https://anymindgroup.com/case-study/hobichtram-youtube-shopping-affiliate/",
+     "source": "AnyMind Group",
+     "published": "2026-11-11T00:07:20+00:00",
+     "summary": "AnyMind case study: a Vietnamese creator grew YouTube Shopping GMV 326% in three months."
+    },
+    {
+     "title": "X launches its own clipping feature to spur influencer engagement",
+     "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+     "source": "TechCrunch",
+     "published": "2026-11-11T01:02:13+00:00",
+     "summary": "X launches its own clipping feature to boost influencer engagement."
+    },
+    {
+     "title": "YouTube shares insight into EU creator concerns",
+     "url": "https://www.socialmediatoday.com/news/youtube-shares-insight-into-eu-creator-concerns/874340/",
+     "source": "Social Media Today",
+     "published": "2026-11-10T23:19:43+00:00",
+     "summary": "YouTube shares what EU creators are worried about."
+    },
+    {
+     "title": "Brands Should Hire Creators for Brand Fit First, Then Give Them Room to Shape the Work",
+     "url": "https://www.netinfluencer.com/brands-should-hire-creators-for-brand-fit-first-then-give-them-room-to-shape-the-work/",
+     "source": "Net Influencer",
+     "published": "2026-11-10T13:18:40+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "RetailMeNot App Commissions Rise 25% After Relaunch",
+     "url": "https://www.affiversemedia.com/etailmenot-app-commission-growth/",
+     "source": "Affiverse Media",
+     "published": "2026-11-10T13:36:25+00:00",
+     "summary": "RetailMeNot's app commissions up 25% after relaunch."
+    },
+    {
+     "title": "Navigating Performance Marketing Truth in the Age of Conversational AI",
+     "url": "https://www.affiversemedia.com/everflow-affiliate-attribution-conversational-ai/",
+     "source": "Affiverse Media",
+     "published": "2026-11-10T13:25:42+00:00",
+     "summary": "Everflow on affiliate attribution when shoppers come from conversational AI."
+    },
+    {
+     "title": "APMA Launches Affiliate Marketing Case Study Library",
+     "url": "https://www.affiversemedia.com/apma-affiliate-marketing-case-study-library/",
+     "source": "Affiverse Media",
+     "published": "2026-11-10T13:01:09+00:00",
+     "summary": "The APMA launches an affiliate marketing case study library."
+    },
+    {
+     "title": "Speaking the Same Language: Introducing the PMA B2B Partnerships Glossary",
+     "url": "https://thepma.org/speaking-the-same-language-introducing-the-pma-b2b-partnerships-glossary/",
+     "source": "Performance Marketing Association",
+     "published": "2026-11-10T20:40:00+00:00",
+     "summary": "The PMA publishes a B2B partnerships glossary."
+    },
+    {
+     "title": "Shopify Noses Further Into Ad Tech With Campaign Autopilot Expansion",
+     "url": "https://www.adexchanger.com/commerce/shopifyautopilot/",
+     "source": "AdExchanger",
+     "published": "2026-11-10T13:38:42+00:00",
+     "summary": "Shopify expands Campaign Autopilot: merchants pay only per sale, with ads run across Meta, Microsoft and Snapchat. A pay-per-sale model that looks a lot like affiliate."
+    },
+    {
+     "title": "Reddit Taps Qloo To Strengthen Its Predictive Targeting",
+     "url": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
+     "source": "AdExchanger",
+     "published": "2026-11-10T14:00:12+00:00"
+    },
+    {
+     "title": "🎵🎸Tune In And Turn It Up – CJ’s CEO Just Took The Mic",
+     "url": "https://hellopartner.com/tune-in-and-turn-it-up-cjs-ceo-just-took-the-mic/",
+     "source": "Hello Partner",
+     "published": "2026-11-10T14:00:00+00:00"
+    },
+    {
+     "title": "Choosing the right influencer for your brand: why follower count fails",
+     "url": "https://impact.com/influencer/how-to-choose-the-right-influencer-for-your-brand/",
+     "source": "impact.com",
+     "published": "2026-11-10T11:16:01+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Amazon's Black Friday Week sale starts Nov. 19: Everything to know",
+     "url": "https://mashable.com/tech/amazon-black-friday-2026-everything-to-know",
+     "source": "Mashable",
+     "published": "2026-11-10T06:08:31+00:00",
+     "summary": "Amazon's Black Friday Week sale runs 19-30 Nov (dates first reported yesterday)."
+    },
+    {
+     "title": "Amazon ad case: FTC alleges up to 250% surcharges on Prime Day, Black Friday",
+     "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/amazon-ad-case-ftc-alleges-up-to-250-surcharges-on-prime-day-black-friday-12798214",
+     "source": "BMI",
+     "published": "2026-11-10T08:56:31+00:00",
+     "summary": "More detail on the FTC's case alleging Amazon charged sellers up to 250% ad surcharges around Prime Day and Black Friday."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "New AI Tool Revolutionizing Amazon Book Marketing - Book Leopard",
+     "url": "https://www.globenewswire.com/news-release/2026/11/10/3399799/0/en/new-ai-tool-revolutionizing-amazon-book-marketing-book-leopard.html",
+     "source": "GlobeNewswire",
+     "published": "2026-11-10T15:00:00+00:00",
+     "summary": "Press release for an AI tool aimed at Amazon book marketing (Book Leopard). Worth knowing as another tool targeting the same authors."
+    },
+    {
+     "title": "A Court of Splintered Harmony: Why the latest mega-hit ACOTAR romantasy is dividing readers",
+     "url": "https://www.bbc.com/culture/article/20261109-a-court-of-splintered-harmony-why-the-latest-mega-hit-acotar-romantasy-is-dividing-readers",
+     "source": "BBC",
+     "published": "2026-11-10T11:00:00+00:00",
+     "summary": "BBC on why the latest big ACOTAR romantasy release is splitting readers."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Are we allowed to run ads now?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xt1nv1/are_we_allowed_to_run_ads_now/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-10T23:08:38+00:00",
+     "summary": "Amazon Influencers asking whether running ads to product links is now allowed, after seeing a large account do it on X."
+    },
+    {
+     "title": "Help, Question Please?!",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xss3td/help_question_please/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-10T16:55:30+00:00",
+     "summary": "A returning Amazon affiliate can't find the orders and earnings report they used to see, and asks if the dashboard changed."
+    }
+   ]
+  }
+ ]
+}
