@@ -1,0 +1,238 @@
+{
+ "date": "2026-11-12",
+ "intro": "A fairly quiet day. The big themes: platforms putting their own buy buttons next to reviews (Reddit), new EU rules on influencer ad labels, and fresh data showing AI shopping answers don't just favour the biggest retailers.",
+ "must_reads": [
+  {
+   "title": "Reddit's AI review pages add buy buttons but take no commission",
+   "url": "https://hellopartner.com/reddits-ai-review-pages-add-buy-buttons-but-take-no-commission/",
+   "source": "Hello Partner",
+   "published": "2026-11-11T09:17:07+00:00",
+   "why": "Why it matters for Geniuslink: Reddit now turns product threads into AI review pages with a 'buy it now' button and takes no commission. That's another big platform keeping shoppers on its own pages and sending them straight to retailers, which squeezes the review-and-link model many affiliates and creators rely on."
+  },
+  {
+   "title": "EU wants brands liable for influencer ad disclosures, even without contracts",
+   "url": "https://hellopartner.com/eu-wants-brands-liable-for-influencer-ad-disclosures-even-without-contracts/",
+   "source": "Hello Partner",
+   "published": "2026-11-11T23:48:29+00:00",
+   "why": "Why it matters for Geniuslink: The EU's proposed Digital Fairness Act would make brands and agencies responsible for creators labelling paid or gifted posts, and 'payment' is defined broadly enough to cover commissions. Disclosure rules for creator links are tightening on both sides of the Channel.",
+   "also": {
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+    "paywall": false
+   }
+  },
+  {
+   "title": "Ashley Furniture beats Walmart 66.5% to 13.4% in AI Overviews deal answers",
+   "url": "https://ppc.land/ashley-furniture-beats-walmart-66-5-to-13-4-in-ai-overviews-deal-answers/",
+   "source": "PPC Land",
+   "published": "2026-11-11T20:06:35+00:00",
+   "why": "Why it matters for Geniuslink: Semrush found Amazon, Walmart, Best Buy and Target lead fewer than a quarter of holiday shopping topics in Google's AI answers, and Gemini named Amazon a lot but never linked to amazon.com. Which store an AI recommends depends on the question and the platform, so shoppers are being sent to more places than just Amazon."
+  },
+  {
+   "title": "Spines secures $64 million to help more authors publish and reach readers worldwide",
+   "url": "https://www.ynetnews.com/business/article/s1p99kbcgg",
+   "source": "Ynetnews",
+   "published": "2026-11-11T14:22:23+00:00",
+   "why": "Why it matters for Geniuslink: Spines, an AI publishing platform, raised $64M and says 8,000+ US authors have published with it, with marketing tools and distribution to 100+ stores. A fast-growing group of self-published authors selling across many stores is exactly the audience that needs one link that works everywhere."
+  },
+  {
+   "title": "OpenAI gives brands ChatGPT traffic data, but affiliate sales remain invisible",
+   "url": "https://hellopartner.com/openai-gives-brands-chatgpt-traffic-data-but-affiliate-sales-remain-invisible/",
+   "source": "Hello Partner",
+   "published": "2026-11-11T23:36:17+00:00",
+   "why": "Why it matters for Geniuslink: Follow-up to yesterday's ChatGPT Business Hub news: brands now see ChatGPT clicks and mentions, but affiliate sales from those visits still aren't tracked. AI chat traffic is growing faster than the tools to measure who earned the sale."
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google’s AI Overviews Face Antitrust Scrutiny",
+     "url": "https://www.theregreview.org/2026/11/11/sinha-googles-ai-overviews-face-antitrust-scrutiny/",
+     "source": "The Regulatory Review",
+     "published": "2026-11-11T13:23:36+00:00",
+     "summary": "Legal analysis of the antitrust questions around Google's AI Overviews keeping clicks on Google."
+    },
+    {
+     "title": "Bing's AI-off switch for Chrome also makes Bing the default search engine",
+     "url": "https://ppc.land/bings-ai-off-switch-for-chrome-also-makes-bing-the-default-search-engine/",
+     "source": "PPC Land",
+     "published": "2026-11-12T06:10:21+00:00",
+     "summary": "Microsoft's switch to turn off AI answers in Chrome also changes the default search engine to Bing."
+    },
+    {
+     "title": "Websites may need to rethink design as AI agents become buyers",
+     "url": "https://coingeek.com/websites-may-need-to-rethink-design-as-ai-agents-become-buyers/",
+     "source": "CoinGeek",
+     "published": "2026-11-11T12:00:00+00:00"
+    },
+    {
+     "title": "Spotlight on agentic AI | The Digital Fairness Act and agentic commerce (via Passle)",
+     "url": "https://inquisitiveminds.bristows.com/post/102o9b2/spotlight-on-agentic-ai-the-digital-fairness-act-and-agentic-commerce",
+     "source": "Bristows",
+     "published": "2026-11-11T14:41:50+00:00",
+     "summary": "Law-firm note on how the EU's Digital Fairness Act could apply to AI agents that shop for people."
+    },
+    {
+     "title": "Sitecore's MarketingIQ drafts fixes when ChatGPT or Gemini gets a brand wrong",
+     "url": "https://ppc.land/sitecores-marketingiq-drafts-fixes-when-chatgpt-or-gemini-gets-a-brand-wrong/",
+     "source": "PPC Land",
+     "published": "2026-11-11T20:47:39+00:00"
+    },
+    {
+     "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+     "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+     "source": "TechCrunch",
+     "published": "2026-11-11T16:14:44+00:00"
+    },
+    {
+     "title": "The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI",
+     "url": "https://www.adexchanger.com/daily-news-roundup/the-super-bowls-prediction-market-ad-ban-stands-retailers-arent-open-to-ai/",
+     "source": "AdExchanger",
+     "published": "2026-11-12T05:03:01+00:00",
+     "summary": "Daily roundup: a survey says retailers remain wary of AI shopping agents."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Measurement Is Creator Marketing’s Biggest Problem, Survey Finds",
+     "url": "https://www.netinfluencer.com/measurement-is-creator-marketing-biggest-problem-survey-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-11T12:45:53+00:00"
+    },
+    {
+     "title": "How Marketing Leaders Can Prove ROI in the Creator Economy",
+     "url": "https://cxtoday.com/how-marketing-leaders-can-prove-roi-in-the-creator-economy",
+     "source": "CX Today",
+     "published": "2026-11-11T09:01:00+00:00"
+    },
+    {
+     "title": "Tano Secures $4M to Automate Creator Marketing Deals",
+     "url": "https://n24.com.tr/en/companies/tano-secures-4m-to-automate-creator-marketing-deals-227",
+     "source": "n24.com.tr",
+     "published": "2026-11-11T16:15:23+00:00",
+     "summary": "Tano raised $4M to automate the paperwork and payments in creator brand deals."
+    },
+    {
+     "title": "Dimension Is Building AI to Run the TikTok Shop Operations That Decide Which Sellers Break Out",
+     "url": "https://www.netinfluencer.com/dimension-is-building-ai-to-run-the-tiktok-shop-operations-that-decide-which-sellers-break-out/",
+     "source": "Net Influencer",
+     "published": "2026-11-11T12:52:05+00:00"
+    },
+    {
+     "title": "Why brands like Anthropologie are commissioning creator-created shows instead of posts",
+     "url": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/",
+     "source": "Digiday",
+     "published": "2026-11-12T05:01:00+00:00"
+    },
+    {
+     "title": "Does Influencer Gifting Still Work in the Algorithm Age?",
+     "url": "https://www.vogue.com/article/does-influencer-gifting-still-work-in-the-algorithm-age",
+     "source": "Vogue",
+     "published": "2026-11-12T05:30:00+00:00"
+    },
+    {
+     "title": "This creator is trying to turn a viral moment into a lasting advertising business",
+     "url": "https://www.marketingbrew.com/stories/brand-my-laptop-vincent-seube-ad-sales-business-strategy",
+     "source": "Marketing Brew",
+     "published": "2026-11-11T10:00:00+00:00"
+    },
+    {
+     "title": "Instagram Launches ‘Effect Builder,’ a Prompt-Based Tool for Creating AI Stories Effects",
+     "url": "https://www.netinfluencer.com/instagram-launches-effect-builder-a-prompt-based-tool-for-creating-ai-stories-effects/",
+     "source": "Net Influencer",
+     "published": "2026-11-11T12:31:54+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "TikTok Shop brings coupons and loyalty in-house with new paid membership",
+     "url": "https://hellopartner.com/tiktok-shop-brings-coupons-and-loyalty-in-house-with-new-paid-membership/",
+     "source": "Hello Partner",
+     "published": "2026-11-12T00:09:44+00:00",
+     "summary": "Follow-up to yesterday's TikTok Shop paid tier: coupons and loyalty move inside TikTok."
+    },
+    {
+     "title": "Advertising makes up 7.5% of Zilch's revenue as it eyes a listing",
+     "url": "https://hellopartner.com/advertising-makes-up-7-5-of-zilchs-revenue-as-it-eyes-a-listing/",
+     "source": "Hello Partner",
+     "published": "2026-11-12T00:46:23+00:00"
+    },
+    {
+     "title": "Maintaining Our Industry Talent in an AI World",
+     "url": "https://hellopartner.com/maintaining-our-industry-talent-in-an-ai-world/",
+     "source": "Hello Partner",
+     "published": "2026-11-11T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "Amazon Fails to Evade Class Certification Over Biometric Privacy",
+     "url": "https://news.bloomberglaw.com/business-and-practice/amazon-fails-to-evade-class-certification-over-biometric-privacy",
+     "source": "Bloomberg Law News",
+     "published": "2026-11-11T15:57:00+00:00",
+     "paywall": true
+    },
+    {
+     "title": "Amazon Prime members get 50% off Alexa devices: Echo Time, Echo Dot, Echo Studio, and more",
+     "url": "https://mashable.com/tech/amazon-alexa-devices-prime-member-early-black-friday-sale",
+     "source": "Mashable",
+     "published": "2026-11-11T19:43:57+00:00",
+     "summary": "Early Black Friday deals on Amazon devices for Prime members."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "RankForged Releases Free Amazon KDP Tools for Self-Published Authors",
+     "url": "https://www.openpr.com/news/4687904/rankforged-releases-free-amazon-kdp-tools-for-self-published",
+     "source": "openPR.com",
+     "published": "2026-11-11T21:18:03+00:00",
+     "summary": "Press release: free keyword and category tools for KDP authors."
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Has anyone else noticed their YT Shopping Income Drop after Amazon?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xtxgxz/has_anyone_else_noticed_their_yt_shopping_income/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-11T23:44:54+00:00",
+     "summary": "Amazon Influencers comparing notes on lower YouTube Shopping earnings."
+    },
+    {
+     "title": "What is the best way to tag a YT Amazon products in YouTube Shopping?",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xu1qfd/what_is_the_best_way_to_tag_a_yt_amazon_products/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-12T03:04:52+00:00"
+    },
+    {
+     "title": "Creator connections",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xu1kak/creator_connections/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-12T02:56:46+00:00"
+    },
+    {
+     "title": "Hey All, my videos have been denied for a second time to join the amazon influencer we program.",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xtf5e9/hey_all_my_videos_have_been_denied_for_a_second/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-11T11:13:39+00:00"
+    }
+   ]
+  }
+ ]
+}

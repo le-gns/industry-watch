@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-12",
+ "summary": [
+  "URLgenius is still pushing its new app links inside ChatGPT and Claude plus a Creator Trends report (first covered yesterday).",
+  "Dub added a staging workspace so brands can test partner program tracking, rewards and payouts before going live.",
+  "YouTube and Creators HQ are recruiting 1,000 Middle East creators into YouTube Shopping's affiliate programme.",
+  "Goodreads faces another 'ad-free alternative' story about The StoryGraph as its Choice Awards open.",
+  "Draft2Digital (Books2Read) is busy at Author Nation with sessions on direct reader relationships and library distribution."
+ ],
+ "competitors": [
+  {
+   "id": "urlgenius",
+   "name": "URLgenius",
+   "priority": true,
+   "items": [
+    {
+     "title": "URLgenius Launches App Links in Claude and ChatGPT and New Creator Trends",
+     "url": "https://www.martechcube.com/urlgenius-launches-app-links-in-claude-and-chatgpt-and-new-creator-trends/",
+     "source": "MarTech Cube",
+     "published": "2026-11-11T10:59:27+00:00",
+     "type": "news",
+     "why": "A direct competitor is building links that open apps from inside AI chats. AI assistants are becoming a new place where links get clicked."
+    }
+   ]
+  },
+  {
+   "id": "dub",
+   "name": "Dub.co",
+   "priority": false,
+   "items": [
+    {
+     "title": "You can now test your partner program setup in a dedicated staging workspace on Dub. This lets you: ✦ Verify conversion tracking with Stripe test mode/sandbox ✦…",
+     "url": "https://www.linkedin.com/posts/dubinc_you-can-now-test-your-partner-program-setup-activity-7526341166322044929-oZH-",
+     "source": "LinkedIn · Dub.co",
+     "published": "2026-11-11T17:52:46.707000+00:00",
+     "type": "social",
+     "why": "Link tools keep moving into running full partner programs, not just shortening links."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube and Creators HQ target 1,000 creators for shopping affiliate programme",
+     "url": "https://fastcompanyme.com/news/youtube-and-creators-hq-target-1000-creators-for-shopping-affiliate-programme/",
+     "source": "Fast Company Middle East",
+     "published": "2026-11-11T10:02:34+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "priority": false,
+   "items": [
+    {
+     "title": "Every page counts: The StoryGraph gives readers an ad-free alternative to Goodreads with detailed reading stats",
+     "url": "https://www.telegraphindia.com/amp/science-tech/every-page-counts-the-storygraph-gives-readers-an-ad-free-alternative-to-goodreads-with-detailed-reading-stats-prnt/cid/2189034",
+     "source": "Telegraph India",
+     "published": "2026-11-12T05:27:02+00:00",
+     "type": "news"
+    },
+    {
+     "title": "Our Picks from the Goodreads Choice Awards 2026 Opening Round",
+     "url": "https://www.womansworld.com/entertainment/books/2026-goodreads-choice-awards-opening-round-our-picks-in-every-genre",
+     "source": "Woman's World",
+     "published": "2026-11-11T22:40:00+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "items": [
+    {
+     "title": "If you're at Author Nation and planning your afternoon, don't miss \"Building Direct Reader Relationships when Algorithms Are Unreliable,\" hosted by Mark Leslie Lefebvre at 2:30 pm in the Platinum Room",
+     "url": "https://x.com/Draft2Digital/status/2120607762312806800",
+     "source": "X @Draft2Digital",
+     "published": "2026-11-11T20:01:04Z",
+     "type": "social"
+    },
+    {
+     "title": "Author Nation attendees: join Megan Spann in the Platinum Room at 9am for \"Beyond KU: Unlocking Library Distribution for Kindle Unlimited Authors!\"",
+     "url": "https://x.com/Draft2Digital/status/2120518188811116934",
+     "source": "X @Draft2Digital",
+     "published": "2026-11-11T14:05:08Z",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

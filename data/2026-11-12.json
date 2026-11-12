@@ -1,0 +1,863 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T08:24:28.645904+00:00",
+ "lookback_hours": 30,
+ "item_count": 75,
+ "google_news_links": 50,
+ "google_news_resolved": 41,
+ "feeds_ok": 53,
+ "feeds_failed": 20,
+ "items": [
+  {
+   "title": "Best Prime Day movie deals: Save up to 70% on digital films at Prime Video",
+   "url": "https://mashable.com/article/october-prime-day-2024-digital-movie-deals",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T05:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "Lenovo's roomy laptop backpack is on sale for a record-low price — save 20% ahead of Black Friday",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnFleFpUM0tyc0FFNzE3NElXUElLZVFJRXJyY3RjMmpHbkp6ZHlpdjJkME9WX0JtRURONmRhRUtBcGZtYUFsVWhpakk0VHkyNHRDb1hPUlVkRWhialIxZDhLLTVrc3RSczdHenlEMjFGVk94cEZkQUVBRVBVcVdNNlRENFZnU052V3VkNUJCaDBRM1I1TDlTc3RWOA?oc=5",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T09:00:24+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Veterans Day 2026 deals: Score free food from Olive Garden, Krispy Kreme, Chili’s, and more",
+   "url": "https://mashable.com/life/veterans-day-2026-free-food-deals",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T09:02:13+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Fails to Evade Class Certification Over Biometric Privacy",
+   "url": "https://news.bloomberglaw.com/business-and-practice/amazon-fails-to-evade-class-certification-over-biometric-privacy",
+   "source": "Bloomberg Law News",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-11-11T15:57:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Chad Harbach returns to the world of 'The Art of Fielding' after 15 years",
+   "url": "https://www.wbur.org/hereandnow/2026/11/11/chad-harbach-the-brightness",
+   "source": "WBUR",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-01",
+   "published": "2026-11-11T16:52:38+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Buy for way under market price",
+   "url": "https://mashable.com/life/nov-11-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T16:54:49+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Amazon Prime members get 50% off Alexa devices: Echo Time, Echo Dot, Echo Studio, and more",
+   "url": "https://mashable.com/tech/amazon-alexa-devices-prime-member-early-black-friday-sale",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T19:43:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Best Labor Day laptop deals to beat RAMageddon: Hand-picked deals on Apple, HP, and Dell",
+   "url": "https://mashable.com/tech/best-labor-day-laptop-deals-2026-live",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-11T23:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How to watch England vs. Croatia online for free",
+   "url": "https://mashable.com/entertainment/england-croatia-nations-league-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-12T07:48:54+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "URLgenius Launches App Links in Claude and ChatGPT and New Creator Trends",
+   "url": "https://www.martechcube.com/urlgenius-launches-app-links-in-claude-and-chatgpt-and-new-creator-trends/",
+   "source": "MarTech Cube",
+   "group": "Competitors",
+   "feed_id": "gnews-11",
+   "published": "2026-11-11T10:59:27+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator",
+    "urlgenius"
+   ]
+  },
+  {
+   "title": "Machar raises fresh security concerns as trial continues",
+   "url": "https://www.radiotamazuj.org/en/news/article/machar-raises-fresh-security-concerns-as-trial-continues",
+   "source": "Radio Tamazuj",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-11T12:27:55+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Does Influencer Gifting Still Work in the Algorithm Age?",
+   "url": "https://www.vogue.com/article/does-influencer-gifting-still-work-in-the-algorithm-age",
+   "source": "Vogue",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-12T05:30:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "influencer"
+   ]
+  },
+  {
+   "title": "MENA Broadcast, Media Technology & Satellite News",
+   "url": "https://www.broadcastprome.com/news/youtube-academy-and-creators-hq-launch-two-year-creator-monetisation-initiative/",
+   "source": "BroadcastPro ME",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-11T06:35:29+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "How Marketing Leaders Can Prove ROI in the Creator Economy",
+   "url": "https://cxtoday.com/how-marketing-leaders-can-prove-roi-in-the-creator-economy",
+   "source": "CX Today",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-11T09:01:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "This creator is trying to turn a viral moment into a lasting advertising business",
+   "url": "https://www.marketingbrew.com/stories/brand-my-laptop-vincent-seube-ad-sales-business-strategy",
+   "source": "Marketing Brew",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-marketing-brew",
+   "published": "2026-11-11T10:00:00+00:00",
+   "snippet": "Vincent Seube said he knew going viral wouldn’t guarantee long-term success, so he turned his quirky advertising idea into an online marketplace.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "YouTube and Creators HQ target 1,000 creators for shopping affiliate programme",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1o4WGtVNkdxTjdGZDlwMlVuVm9RTDBKNGg2UGczM3R5anhuc1VWN2pzaXo5eUJ5Y2NWZEZEc0RfNWZSM3R4Tl9nZVIyb3NNQnc5MXkwbW1oSUFKbXN2d0F2ZmhfOXBCNXNqVkxqUkhmaXF5TUE3X25HM1BHcDhQdC1zMTdZTThLaTlnb0ZXcm5WMXhaWE5CdWlNdi1kNWJjQ3ltZHpfTnFNZjJ6X3c?oc=5",
+   "source": "Fast Company Middle East",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-08",
+   "published": "2026-11-11T10:02:34+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "affiliate",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Terry Crews to Host First Clio Creator Awards as Dhar Mann, Grace Wells Earn Specialty Honors",
+   "url": "https://www.netinfluencer.com/terry-crews-to-host-first-clio-creator-awards-as-dhar-mann-grace-wells-earn-specialty-honors/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:29:29+00:00",
+   "snippet": "The Clios have named actor Terry Crews host of the inaugural Clio Creator Awards and will present specialty awards to Dhar Mann and Grace Wells at the ceremony on November 18 at the Dolby Theatre in Los Angeles. Mann, founder of Dhar Mann Studios, will receive the 2026 Clio Creator Impact Award. His",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "YouTube Data to Return to Billboard Charts in 2027 After Stream-Weighting Change",
+   "url": "https://www.netinfluencer.com/youtube-data-to-return-to-billboard-charts-in-2027-after-stream-weighting-change/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:30:43+00:00",
+   "snippet": "YouTube will resume sending its streaming data to Billboard’s U.S. charts in 2027, after Billboard agreed to narrow the gap between how it weights ad-supported and paid subscription streams. Lyor Cohen, YouTube’s Global Head of Music, announced the return in a two-line update to the platform’s Decem",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Instagram Launches ‘Effect Builder,’ a Prompt-Based Tool for Creating AI Stories Effects",
+   "url": "https://www.netinfluencer.com/instagram-launches-effect-builder-a-prompt-based-tool-for-creating-ai-stories-effects/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:31:54+00:00",
+   "snippet": "Instagram’s Edits team has introduced “Effect Builder,” a web-based tool that lets users create AI effects for Instagram Stories by describing them in text. The company said the tool requires no design or coding experience. “If you can describe it, you can build it,” Cheechee, a designer for Edits, ",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Measurement Is Creator Marketing’s Biggest Problem, Survey Finds",
+   "url": "https://www.netinfluencer.com/measurement-is-creator-marketing-biggest-problem-survey-finds/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:45:53+00:00",
+   "snippet": "Two-thirds of Creator Economy leaders (67%) surveyed by the Interactive Advertising Bureau (IAB) named measurement and attribution as what is not working in creator marketing. That is nearly twice the share that cited any other problem, according to a report the trade body published this month. The ",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Scripps Is Bringing YouTube Creators to TV With One Test: Can Each Show Be Reused Across Its Networks?",
+   "url": "https://www.netinfluencer.com/scripps-is-bringing-youtube-creators-to-tv-with-one-test-can-each-show-be-reused-across-its-networks/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:47:07+00:00",
+   "snippet": "The E.W. Scripps Company was founded in 1878 and built its business on local journalism. In October, its free streaming channel, Scripps Sports Network, began airing a series from two YouTube creators known for sports rankings and trivia games. Adam Harman, who oversees content acquisition and progr",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "Dimension Is Building AI to Run the TikTok Shop Operations That Decide Which Sellers Break Out",
+   "url": "https://www.netinfluencer.com/dimension-is-building-ai-to-run-the-tiktok-shop-operations-that-decide-which-sellers-break-out/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T12:52:05+00:00",
+   "snippet": "Ali Mirzaei says a TikTok Shop can sign the right affiliates, get strong content and run ads well and still never break out if its customer service score slips. Dimension, the Santa Monica startup he founded in 2024, sells SellerOS, an AI operating system built to handle the operational work behind ",
+   "matched_keywords": [
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Charlie Sheen Launches Weekly Interview Podcast With Fox’s Red Seat Ventures",
+   "url": "https://www.netinfluencer.com/charlie-sheen-launches-weekly-interview-podcast-with-fox-red-seat-ventures/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-11T14:00:00+00:00",
+   "snippet": "Red Seat Ventures, the creator-led media company owned by Fox Corporation, has launched “Mostly Sheenius,” a weekly interview podcast hosted by Charlie Sheen, with Michael Douglas as its first guest. The premiere episode is available November 12 at 7 a.m. ET. The show puts Sheen, one of the most int",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Tano Secures $4M to Automate Creator Marketing Deals",
+   "url": "https://n24.com.tr/en/companies/tano-secures-4m-to-automate-creator-marketing-deals-227",
+   "source": "n24.com.tr",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-11T16:15:23+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Creator Nation Hires Alicia Zhu As COO (EXCLUSIVE)",
+   "url": "https://deadline.com/2026/11/creator-nation-hires-alicia-zhu-coo-1237220565/",
+   "source": "Deadline",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-11T18:11:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "MyyShop Advances Creator Co-Creation and Learning Initiatives to Help Shape a More Inclusive Creator Economy",
+   "url": "https://www.streetinsider.com/PRNewswire/MyyShop+Advances+Creator+Co-Creation+and+Learning+Initiatives+to+Help+Shape+a+More+Inclusive+Creator+Economy/27327751.html",
+   "source": "StreetInsider",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-11T18:37:33+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "How HK Vitals uses celebrities, creators and commerce to sell collagen",
+   "url": "https://www.buzzincontent.com/insight/beyond-yami-gautam-how-hk-vitals-is-connecting-creators-content-and-commerce-to-sell-collagen-12802569",
+   "source": "Buzzincontent",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-12T04:29:35+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "In the AI era, content revenue is moving from licensing and ads to commerce",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LQ0taM1JLLVhCMmJxUVYyUUlNOEhjUjVzUFp0YTRLbmhOdXY5MTdUSTJzYXpvVDZNVW9ORGEtT3ByZjI4Q2VPOThXS0dPeDh2ZWY4eGRYbkhFb004MmhMS2xwVQ?oc=5",
+   "source": "K-EnterTech Hub",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-12T07:48:54+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Hays County Food Bank to provide 1,500 holiday meals through 20th annual campaign",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNkZiSUh2RXp5Qlc3WGRuUk8zakxLbnVPN2Zremg0X2RNTWR4VDNVOGRWMW8xT1RnY0lEV012QTBhYkNWbU1reVJ6c3JQd1JfaDN3WG9oMUlXbzZ0NThCZXRZSjZfMGk0VkxyYWxibTZab2IzQnRhYVN3ZnNyY1phYlMzMHIwcTJVSDgwUkw5SktlOGh2NzVuWFVSeXFRNDJOWEhzZjNVQXh1ZWJlY2plcGZGeENwSkZEVU82bHR4RE5iNHd5NjlLZXBpOUZwNTJzVUkxdVAzMA?oc=5",
+   "source": "Community Impact",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-11T04:34:57+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten Bank: Record first-half earnings and higher forecasts accompany a major FinTech reorganization",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPYU0zYk0xaUZQNGJVLTZ6MXNTTHNsZFZ6a3c0TEdWVHloWTRtdzBrbW5NM2FMQmQ3U0pYbkN5OGpCTEtxSVFpcHVjSGlFUkg4dVh1VlJ6eUU0dmZMaVFzR29XbEdVTFkxVVpTTTVJeGZ5UU1nTVRHYXVEQmRNcU0yWUZSWXBUalAzbzZYY05pSE1sX25NMlkwRTRlcHJtTGJBU0VkcWIyMEhqWFF6YUdLYzJYUDdVQmZaZW4xQjE1blBKSW1DelVfT0lRbm8yY053NHM2VlBmSHZSdmlzaE5wbWJqVm1MRVk3NmJJRXdNZUlJMTJOeF9Mc01TeXUwSkgxa0prYUtsZHB3N0FoYUR6WnpxWl92d3dwblhaVmtWMjc1NGR2UWh3UThVMA?oc=5",
+   "source": "TradingView",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-11T06:40:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Maintaining Our Industry Talent in an AI World",
+   "url": "https://hellopartner.com/maintaining-our-industry-talent-in-an-ai-world/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-11T09:00:00+00:00",
+   "snippet": "There is no escaping the reality that AI is not only reshaping how the affiliate channel might look down the line, but also how we work day-to-day. As a consultant working across lots of teams, I am seeing firsthand how people leverage the power of our pal Claude",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Reddit's AI review pages add buy buttons but take no commission",
+   "url": "https://hellopartner.com/reddits-ai-review-pages-add-buy-buttons-but-take-no-commission/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-11T09:17:07+00:00",
+   "snippet": "The US pages summarise what users say about 10,000 products and send shoppers to brand and retailer listings, with no affiliate revenue changing hands.",
+   "matched_keywords": [
+    "affiliate",
+    "commission"
+   ]
+  },
+  {
+   "title": "Former Pennsylvania Bank Employee Accused of Stealing $101,246 by Opening Fake Accounts in Other People’s Names for 20 Years",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWxOOEVfMVk4aWhKa0RCeXJPMlRRcmFlcVZ4Y292amlHUmpQNlRlWW5POGFLdnJteEpHTzNudGJtYlBiUXFac3lUdmdTTDVPNEZndnpFenpwTGJURlcwQk9MbkVPQWJSNzRYZndrRkRPMUczblk5Z3BiYjJlamJfSnpjZ3RnUnJGME5hWTVqNC1kWUtFZkRvUDluYzBGRWJoMXNxY0pkcmN5YmtrdktPY1V4ZUZnSXBOQW80Z3A4aWVFaTJCNEhXXzhybGlwWVF1cWlGdTZXZlpFVlZ5R0ZHTXBKTE1mc2FFeGtWejVnMW3SAfABQVVfeXFMTWFsTjhFXzFZOGloSmtEQnlyTzJUUXJhZXFWeGNvdmppR1JqUDZUZVluTzhhS3ZybXhKR08zbnRibWJQYlFxWnN5VHZnU0w1TzRGZ3Z6RXp6cExiVEZXMEJPTG5FT0FiUjc0WGZ3a0ZETzFHM25ZOWdwYmIyZWpiX0p6Y2d0Z1JyRjBOYVk1ajQtZFlLRWZEb1A5bmMwRkViaDFzcWNKZHJjeWJra3ZLT2NVeGVGZ0lwTkFvNGdwOGllRWkyQjRIV184cmxpcFlRdXFpRnU2V2ZaRVZWeUdGR01wSkxNZnNhRXhrVno1ZzFt?oc=5",
+   "source": "The Daily Hodl",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-11-11T10:20:24+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "OpenAI Launches ChatGPT Business Hub With Website Click Reporting",
+   "url": "https://www.affiversemedia.com/openai-launches-chatgpt-business-hub/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-11-11T11:43:37+00:00",
+   "snippet": "How often does ChatGPT mention your business, and how many clicks does it send to your website? OpenAI’s new Business Hub gives verified businesses a 28-day view of both, along...",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Google Begins November 2026 Core Update Ahead of Black Friday",
+   "url": "https://www.affiversemedia.com/google-november-2026-core-update/",
+   "source": "Affiverse Media",
+   "group": "Affiliate industry",
+   "feed_id": "src-affiverse-media",
+   "published": "2026-11-11T12:11:07+00:00",
+   "snippet": "Google began rolling out its November 2026 core update on November 10, just over two weeks before Black Friday. The update applies worldwide and across all languages, and Google estimates...",
+   "matched_keywords": []
+  },
+  {
+   "title": "Shoppers took longer to decide this October Prime Day: what it means for Black Friday 2026",
+   "url": "https://impact.com/affiliate/october-prime-day/",
+   "source": "impact.com",
+   "group": "Affiliate industry",
+   "feed_id": "src-impact-com",
+   "published": "2026-11-11T12:59:56+00:00",
+   "snippet": "During October’s Prime Day, partner-attributed consumer spending across 1,286 North American brands and retailers rose 8% YoY, after weeks of above-baseline clicks See how the Prime Day halo showed up in partner-driven performance, how shoppers made their purchase decisions, and what it means for yo",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "PMA Featured Member: Maropost",
+   "url": "https://thepma.org/pma-featured-member-maropost/",
+   "source": "Performance Marketing Association",
+   "group": "Affiliate industry",
+   "feed_id": "src-performance-marketing-association",
+   "published": "2026-11-11T17:07:42+00:00",
+   "snippet": "Learn more about this week’s Featured PMA Member – Platinum Maropost! What are you most excited about now that you are a PMA member? We’re excited to be part of a community of performance marketing leaders and contribute to conversations about the evolving relationship between customer data, commerc",
+   "matched_keywords": [
+    "performance marketing"
+   ]
+  },
+  {
+   "title": "New York Director Pleads Guilty in $127,000,000 Medicare and Medicaid Fraud",
+   "url": "https://dailyhodl.com/2026/11/11/new-york-director-pleads-guilty-in-127000000-medicare-and-medicaid-fraud/amp/",
+   "source": "The Daily Hodl",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-17",
+   "published": "2026-11-11T21:37:46+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "OpenAI gives brands ChatGPT traffic data, but affiliate sales remain invisible",
+   "url": "https://hellopartner.com/openai-gives-brands-chatgpt-traffic-data-but-affiliate-sales-remain-invisible/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-11T23:36:17+00:00",
+   "snippet": "OpenAI's new Business Hub gives brands visibility into ChatGPT mentions and website clicks, but stops short of tracking whether those visits lead to sales.",
+   "matched_keywords": [
+    "affiliate",
+    "openai"
+   ]
+  },
+  {
+   "title": "EU wants brands liable for influencer ad disclosures, even without contracts",
+   "url": "https://hellopartner.com/eu-wants-brands-liable-for-influencer-ad-disclosures-even-without-contracts/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-11T23:48:29+00:00",
+   "snippet": "Brands and agencies could be held responsible for influencers failing to label paid or gifted content under new EU rules, even when they have no formal contract with the creator. The European Commission published its Digital Fairness Act proposal on 11 November, setting out stricter requirements for",
+   "matched_keywords": [
+    "commission",
+    "creator",
+    "influencer"
+   ]
+  },
+  {
+   "title": "TikTok Shop brings coupons and loyalty in-house with new paid membership",
+   "url": "https://hellopartner.com/tiktok-shop-brings-coupons-and-loyalty-in-house-with-new-paid-membership/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-12T00:09:44+00:00",
+   "snippet": "$9.99-a-month pilot gives more than a million eligible US shoppers exclusive discounts, coupons and free shipping, raising questions for cashback and loyalty publishers ahead of Black Friday.",
+   "matched_keywords": [
+    "tiktok shop"
+   ]
+  },
+  {
+   "title": "Avelo Airlines launches 1st flight out of McKinney National Airport",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWIzeVVhbUFpTXFxNG1qelE4Y25nellWLTZyWWFSa0ZDQ1RyaGxicFl3SFBKTXZWWmZ4MnlrenFnVzNneU9NYk5XT0JCNVNaR3Jfb2tjdmJQTTgzRVFtZnNjWE9yVzktMXQySlJlclFwQUt2Q3NjS3JkaWlFQTItRjdkS2FjeVJkSG9LWDd2SVZqcW1xbFRwLVY5OFNCMEpHdlZ3dWZyeExvbHNObm44ZnVacVJMNk0wdGs2LQ?oc=5",
+   "source": "Community Impact",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-12T00:35:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Potential Data Breach on Japan Post's LINE Official Account Following Unauthorized Access to Dentsu Digital Service",
+   "url": "https://ascii.jp/en/elem/000/004/450/4450802/",
+   "source": "ASCII.jp",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-12T00:40:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Advertising makes up 7.5% of Zilch's revenue as it eyes a listing",
+   "url": "https://hellopartner.com/advertising-makes-up-7-5-of-zilchs-revenue-as-it-eyes-a-listing/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-12T00:46:23+00:00",
+   "snippet": "Advertising brought Zilch £11m last year, 7.5% of its revenue, and the payments app's annual report credits new affiliate partnerships for that growth. That makes Zilch both a channel brands can buy and a business that earns affiliate commissions of its own.",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Texas Health Resources hospitals in North Texas to see $1.5 million grant for suicide prevention",
+   "url": "https://communityimpact.com/allen/healthcare/texas-health-resources-hospitals-in-north-texas-to-see-1-5-million-grant-for-suicide-prevention/",
+   "source": "Community Impact",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-12T03:40:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Why brands like Anthropologie are commissioning creator-created shows instead of posts",
+   "url": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-12T05:01:00+00:00",
+   "snippet": "Brands go from booking creators to green-lighting shows.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "TwitchCon is at a crossroads as creators question its value",
+   "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-12T05:01:00+00:00",
+   "snippet": "Ahead of TwitchCon 2026, brands and creators weigh in on if the platform's big IRL event is worth the cost and potential safety issues.",
+   "matched_keywords": []
+  },
+  {
+   "title": "The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI",
+   "url": "https://www.adexchanger.com/daily-news-roundup/the-super-bowls-prediction-market-ad-ban-stands-retailers-arent-open-to-ai/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-12T05:03:01+00:00",
+   "snippet": "How will prediction markets affect the Big Game?; The agentic arms race is taking off; professional content still rules the roost. The post The Super Bowl’s Prediction Market Ad Ban Stands; Retailers Aren’t Open To AI appeared first on AdExchanger .",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "Marketers Are Writing A New Playbook For Women’s Sports",
+   "url": "https://www.adexchanger.com/marketers/marketers-are-writing-a-new-playbook-for-womens-sports/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-12T06:00:58+00:00",
+   "snippet": "Women's sports have historically been seen as an afterthought to men's – but no longer. How RAJ Sports is using data to rewrite its sports marketing strategy. The post Marketers Are Writing A New Playbook For Women’s Sports appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Websites may need to rethink design as AI agents become buyers",
+   "url": "https://coingeek.com/websites-may-need-to-rethink-design-as-ai-agents-become-buyers/",
+   "source": "CoinGeek",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-11T12:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Google’s AI Overviews Face Antitrust Scrutiny",
+   "url": "https://www.theregreview.org/2026/11/11/sinha-googles-ai-overviews-face-antitrust-scrutiny/",
+   "source": "The Regulatory Review",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-11T13:23:36+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "ai overviews"
+   ]
+  },
+  {
+   "title": "Spotlight on agentic AI | The Digital Fairness Act and agentic commerce (via Passle)",
+   "url": "https://inquisitiveminds.bristows.com/post/102o9b2/spotlight-on-agentic-ai-the-digital-fairness-act-and-agentic-commerce",
+   "source": "Bristows",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-11-11T14:41:50+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "agentic"
+   ]
+  },
+  {
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "source": "TechCrunch",
+   "group": "AI search & shopping",
+   "feed_id": "src-techcrunch",
+   "published": "2026-11-11T16:14:44+00:00",
+   "snippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+   "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+   "source": "The Verge",
+   "group": "AI search & shopping",
+   "feed_id": "src-the-verge",
+   "published": "2026-11-11T18:13:52+00:00",
+   "snippet": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
+   "matched_keywords": [
+    "commission"
+   ]
+  },
+  {
+   "title": "Ashley Furniture beats Walmart 66.5% to 13.4% in AI Overviews deal answers",
+   "url": "https://ppc.land/ashley-furniture-beats-walmart-66-5-to-13-4-in-ai-overviews-deal-answers/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-11T20:06:35+00:00",
+   "snippet": "Big four retailers lead only 23.6% of 89 holiday topics in AI Overviews, and Gemini never cites amazon.com. What decides which stores holiday shoppers see?",
+   "matched_keywords": [
+    "ai overviews",
+    "gemini"
+   ]
+  },
+  {
+   "title": "Sitecore's MarketingIQ drafts fixes when ChatGPT or Gemini gets a brand wrong",
+   "url": "https://ppc.land/sitecores-marketingiq-drafts-fixes-when-chatgpt-or-gemini-gets-a-brand-wrong/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-11T20:47:39+00:00",
+   "snippet": "Scrunch's AI answer data now feeds staged drafts for SitecoreAI customers, none published without approval. No price or date yet. Can it prove pipeline gains?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Bing's AI-off switch for Chrome also makes Bing the default search engine",
+   "url": "https://ppc.land/bings-ai-off-switch-for-chrome-also-makes-bing-the-default-search-engine/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-12T06:10:21+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Meta India’s Arun Srinivas on Instagram child safety lapses, AI for small businesses and Muse’s India launch timeline",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTF9xT0ZMOXF1QWJNcHU1bGRHWkdrcU4tMHNvVVU3YmIySzNpSWt1YXZCMFBGQ3BHd2dSeVA1YnhIX2NWWnNzcGY5bHN6c2FYYVVLVzBCSGxYbVZCUUZIZXQwVzVHWHh6aTg5dURJTmdsLXNVU3IzMkwyamVXbm1PT1hvNE01SzdDNHBkOGUtQXpyMDFOVlRmdjBuTzJPQ0hLdVhCX05tdHZzMXVIRmRaaEZvenRZMV9UeFppZzBtS1RPbUhibHVvVFlKd1dQQ2tMS3BpdjJRZE01aDhGbWFVeFczYlN2ZEVTbjBmd0stZHFGdkRRZHdLckN5RlA2THFuVmVlQ0lWNl9IYzFuTzNIVGt1ZWRzOXpCWlM2anQwaTg?oc=5",
+   "source": "The Economic Times",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-15",
+   "published": "2026-11-12T06:30:00+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "instagram"
+   ]
+  },
+  {
+   "title": "Google's Gemini can now use food and ride apps for people in 3 more countries",
+   "url": "https://ppc.land/googles-gemini-can-now-use-food-and-ride-apps-for-people-in-3-more-countries/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-12T07:57:12+00:00",
+   "snippet": "Pixel 10, Pixel 11 and Galaxy S26 owners aged 18+ in the UK, India and Japan get the beta, which runs inside a virtual phone. Who confirms the final order?",
+   "matched_keywords": [
+    "gemini"
+   ]
+  },
+  {
+   "title": "Spines secures $64 million to help more authors publish and reach readers worldwide",
+   "url": "https://www.ynetnews.com/business/article/s1p99kbcgg",
+   "source": "Ynetnews",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-11-11T14:22:23+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "RankForged Releases Free Amazon KDP Tools for Self-Published Authors",
+   "url": "https://www.openpr.com/news/4687904/rankforged-releases-free-amazon-kdp-tools-for-self-published",
+   "source": "openPR.com",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-11T21:18:03+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "ADC,RILY,LFCR,BCAT,CMT,CODI,CRDF,DXLG,DX,SCPS,CZWI,KDP,YAYO,MYE,FAST,CVSA | Stock Prices | Quote Comparison",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkxLdjA1dHp6VWQzWHhPaHVXWlU0SXg5MzdNMVplOFBVRC0zRGdtQ3IwNUY5c0IwWFQ3MjQySHJLX1oxdThqNUxBQnpHdWViNzlveWRYQ2ptcmRYZTVsV3hKNUVqam5OdGdhNndMU3FWVVNZT1lRX0JJQ0xqLTFOS1BuLU1vR2lWWm91QzFlekRGSHREMUY0ZXdyTjcxekhwc2ZrSGVvT2k0YnQ3M0Rz?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "group": "Books & publishing",
+   "feed_id": "gnews-20",
+   "published": "2026-11-12T00:26:04+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "kdp"
+   ]
+  },
+  {
+   "title": "Who Has a High Converting Men's Dating/Seduction Offer?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xta1rm/who_has_a_high_converting_mens_datingseduction/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-11T05:58:03+00:00",
+   "snippet": "Hey everyone, I'm an experienced media buyer specializing in the men's dating and seduction niche. I've been promoting dating and seduction courses for men for many years and have generated millions of dollars in profits in this market. I'm currently looking for new, high-converting affiliate offers",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "BATracker - Ad Tracker (FREE)",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xtevur/batracker_ad_tracker_free/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-11T10:58:22+00:00",
+   "snippet": "Hi everyone, Long time affiliate here (both WH & BH) I've been building BATracker (Best Ad Tracker) , a tracking platform primarily designed for affiliate marketers and media buyers running traffic for affiliate offers. Of course there are many established platforms out there, like Voluum and ClickF",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Hey All, my videos have been denied for a second time to join the amazon influencer we program.",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xtf5e9/hey_all_my_videos_have_been_denied_for_a_second/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-11T11:13:39+00:00",
+   "snippet": "Would you please take a look and give me some pointers to improve them? Thank you in advance.Here is the link to my storefront: page from laureli.collective https://a.co/d/0erSyokG submitted by /u/LaureliCollective [link] [comments]",
+   "matched_keywords": [
+    "amazon influencer",
+    "influencer"
+   ]
+  },
+  {
+   "title": "I have an old YouTube channel with 338K views. Should I turn it into a website?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xti82q/i_have_an_old_youtube_channel_with_338k_views/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-11T13:50:10+00:00",
+   "snippet": "I taught English Literature for 10 years, and a few years ago, I started a YouTube channel focused on English literature, essay writing, and exam preparation, mainly for Leaving Cert and A-Level students. I haven’t uploaded in about two years, but the channel still gets consistent traffic. Current s",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "How to buy website traffic?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xtqkni/how_to_buy_website_traffic/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-11T19:07:13+00:00",
+   "snippet": "Hi folks! I want to buy website traffic for my site but every services i have tried so far just sends bots that do nothing for my analytics. Does anyone know a legit provider where you actually get real visitors that stay on the page? You know, that browses and clicks pages, not just a single one. s",
+   "matched_keywords": []
+  },
+  {
+   "title": "Any possibilities to generate revenue from facebook page through affiliate.",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xtrh89/any_possibilities_to_generate_revenue_from/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-11T19:41:02+00:00",
+   "snippet": "Hi, I did affiliate on amazon through facebook page last year. I have 800k+ followers(Indian) on page. Is it any opportunity this days to earn money from facebook. submitted by /u/keshavdsd [link] [comments]",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Has anyone else noticed their YT Shopping Income Drop after Amazon?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xtxgxz/has_anyone_else_noticed_their_yt_shopping_income/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-11T23:44:54+00:00",
+   "snippet": "Basically title. Since tagging Amazon in a bunch of vids, I've noticed my monthly YT shopping rev has gone down considerably. Tough to AB test, but thinking of just removing them all and seeing if sales recover. submitted by /u/AdubThePointReckoner [link] [comments]",
+   "matched_keywords": []
+  },
+  {
+   "title": "Creator connections",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xu1kak/creator_connections/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-12T02:56:46+00:00",
+   "snippet": "Is there a way to access on your phone? I googled and the directions are not correct submitted by /u/Hopeful288 [link] [comments]",
+   "matched_keywords": [
+    "creator",
+    "creator connections"
+   ]
+  },
+  {
+   "title": "What is the best way to tag a YT Amazon products in YouTube Shopping?",
+   "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xu1qfd/what_is_the_best_way_to_tag_a_yt_amazon_products/",
+   "source": "r/Amazon_Influencer",
+   "group": "Reddit",
+   "feed_id": "reddit-r-amazon_influencer",
+   "published": "2026-11-12T03:04:52+00:00",
+   "snippet": "I have a hard time finding the Amazon products in there. It looks like YT doesn't see the ASIN. I have auto-tag on, but it never finds the product. I could make a lot of money if this were easier. submitted by /u/mirkojax [link] [comments]",
+   "matched_keywords": [
+    "youtube",
+    "youtube shopping"
+   ]
+  },
+  {
+   "title": "#Daily_Brief: #UN says drone strikes account for two-thirds of child casualties in #Sudan Addis Abeba — Drone strikes accounted for approximately two-thirds of children killed or injured in Sudan between January and September 2026, with an estimated 270",
+   "url": "https://www.facebook.com/AddisstandardEng/posts/daily_brief-un-says-drone-strikes-account-for-two-thirds-of-child-casualties-in-/1571600391671858/",
+   "source": "Facebook",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-11-11T13:52:14+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "AMD Miners Have Been Waiting For This! Up To 43% Faster (Pearl) LLMJob",
+   "url": "https://youtu.be/jkE7bkwGC78",
+   "source": "YouTube",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-11-11T18:01:25+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "11-11-26 🚨BREAKING! NVIDIA Under Pressure: New Jensen Huang Allegations| PC Hardware & Builds LIVE",
+   "url": "https://t.co/YhbeIUV10V",
+   "source": "Howl.Link",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-11-11T23:16:12+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Jensen Huang, the leader of Nvidia who is under investigation for an affair with a woman who U.S. intelligence determined is a Chinese spy, is also said to have had an extramarital relationship with an executive who reports to him. Read more: https://nyti.ms/4",
+   "url": "https://www.facebook.com/nytimes/posts/jensen-huang-the-leader-of-nvidia-who-is-under-investigation-for-an-affair-with-/1546330907349367/",
+   "source": "Facebook",
+   "group": "Geniuslink/brand mentions",
+   "feed_id": "gnews-14",
+   "published": "2026-11-12T03:02:05+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  }
+ ]
+}

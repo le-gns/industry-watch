@@ -1,0 +1,159 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T08:26:48.167329+00:00",
+ "item_count": 15,
+ "feeds_ok": 94,
+ "feeds_failed": 9,
+ "items": [
+  {
+   "title": "URLgenius Launches App Links in Claude and ChatGPT and New Creator Trends",
+   "url": "https://www.martechcube.com/urlgenius-launches-app-links-in-claude-and-chatgpt-and-new-creator-trends/",
+   "source": "MarTech Cube",
+   "competitor": "urlgenius",
+   "feed_id": "gn-urlgenius",
+   "type": "news",
+   "published": "2026-11-11T10:59:27+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion",
+   "url": "https://www.aboutamazon.com/news/aws/aws-south-america-chile-region-launch",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-11T15:37:45+00:00",
+   "snippet": "The Region—now operational for select customers ahead of general availability—will support thousands of jobs in Chile."
+  },
+  {
+   "title": "How we built the agents that built AWS Emulator",
+   "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-11T17:25:18+00:00",
+   "snippet": "Thousands of autonomous AI agents wrote every line of code in AWS Emulator, a new local emulator for AWS now available for download."
+  },
+  {
+   "title": "YouTube and Creators HQ target 1,000 creators for shopping affiliate programme",
+   "url": "https://fastcompanyme.com/news/youtube-and-creators-hq-target-1000-creators-for-shopping-affiliate-programme/",
+   "source": "Fast Company Middle East",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-11T10:02:34+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "pin a top comment to spark discussion and highlight key feedback in your comment section",
+   "url": "https://x.com/YouTubeCreators/status/2120626371995041927",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-11-11T21:15:01Z",
+   "snippet": "pin a top comment to spark discussion and highlight key feedback in your comment section"
+  },
+  {
+   "title": "Congratulations to Johnny Harris and Iz Harris on receiving the prestigious ICFJ Founders Award last night from the International Center for Journalists (ICFJ)!…",
+   "url": "https://www.linkedin.com/posts/youtube_congratulations-to-johnny-harris-and-iz-harris-activity-7526408458695426050-rNk3",
+   "source": "LinkedIn · YouTube",
+   "competitor": "ytshopping",
+   "feed_id": "li-ytshopping",
+   "type": "social",
+   "published": "2026-11-11T22:20:10.459000+00:00",
+   "snippet": "Congratulations to Johnny Harris and Iz Harris on receiving the prestigious ICFJ Founders Award last night from the International Center for Journalists (ICFJ)! This award is a recognition of the future of news. Celebrating independent reporting, visual journalism, and the entrepreneurship behind cr"
+  },
+  {
+   "title": "Author Nation attendees, if you're looking for a morning session, be sure to join Megan Spann in the Platinum Room at 9am where she'll be hosting \"Beyond KU: Un…",
+   "url": "https://www.linkedin.com/posts/draft2digital_author-nation-attendees-if-youre-looking-activity-7526283030236225538-bBTw",
+   "source": "LinkedIn · Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "li-books2read",
+   "type": "social",
+   "published": "2026-11-11T14:01:45.983000+00:00",
+   "snippet": "Author Nation attendees, if you're looking for a morning session, be sure to join Megan Spann in the Platinum Room at 9am where she'll be hosting \"Beyond KU: Unlocking Library Distribution for Kindle Unlimited Authors!\" Let's help you get the most from library distribution!"
+  },
+  {
+   "title": "Author Nation attendees: join Megan Spann in the Platinum Room at 9am for \"Beyond KU: Unlocking Library Distribution for Kindle Unlimited Authors!\"",
+   "url": "https://x.com/Draft2Digital/status/2120518188811116934",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-11T14:05:08Z",
+   "snippet": "Author Nation attendees: join Megan Spann in the Platinum Room at 9am for \"Beyond KU: Unlocking Library Distribution for Kindle Unlimited Authors!\""
+  },
+  {
+   "title": "Are you an author or publisher looking for a Podcast tailored to you? We've collected the episodes of our Self-Publishing Insiders Podcast into a YouTube playlist.",
+   "url": "https://x.com/Draft2Digital/status/2120577413230764366",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-11T18:00:28Z",
+   "snippet": "Are you an author or publisher looking for a Podcast tailored to you? We've collected the episodes of our Self-Publishing Insiders Podcast into a YouTube playlist."
+  },
+  {
+   "title": "If you're at Author Nation and planning your afternoon, don't miss \"Building Direct Reader Relationships when Algorithms Are Unreliable,\" hosted by Mark Leslie …",
+   "url": "https://www.linkedin.com/posts/draft2digital_if-youre-at-author-nation-and-planning-your-activity-7526373228844478464-CdUG",
+   "source": "LinkedIn · Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "li-books2read",
+   "type": "social",
+   "published": "2026-11-11T20:00:11.008000+00:00",
+   "snippet": "If you're at Author Nation and planning your afternoon, don't miss \"Building Direct Reader Relationships when Algorithms Are Unreliable,\" hosted by Mark Leslie Lefebvre at 2:30 pm in the Platinum Room!"
+  },
+  {
+   "title": "If you're at Author Nation and planning your afternoon, don't miss \"Building Direct Reader Relationships when Algorithms Are Unreliable,\" hosted by Mark Leslie Lefebvre at 2:30 pm in the Platinum Room",
+   "url": "https://x.com/Draft2Digital/status/2120607762312806800",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-11T20:01:04Z",
+   "snippet": "If you're at Author Nation and planning your afternoon, don't miss \"Building Direct Reader Relationships when Algorithms Are Unreliable,\" hosted by Mark Leslie Lefebvre at 2:30 pm in the Platinum Room!"
+  },
+  {
+   "title": "Our Picks from the Goodreads Choice Awards 2026 Opening Round",
+   "url": "https://www.womansworld.com/entertainment/books/2026-goodreads-choice-awards-opening-round-our-picks-in-every-genre",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-11T22:40:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Every page counts: The StoryGraph gives readers an ad-free alternative to Goodreads with detailed reading stats",
+   "url": "https://www.telegraphindia.com/amp/science-tech/every-page-counts-the-storygraph-gives-readers-an-ad-free-alternative-to-goodreads-with-detailed-reading-stats-prnt/cid/2189034",
+   "source": "Telegraph India",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-12T05:27:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Being polished doesn’t get remembered. Being original and raw does. On this episode of Click Worthy, Louis Grenier explains why brands should stop sanding the r…",
+   "url": "https://www.linkedin.com/posts/bitly_being-polished-doesnt-get-remembered-being-activity-7526311122774294528--WfZ",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-11-11T15:53:23.767000+00:00",
+   "snippet": "Being polished doesn’t get remembered. Being original and raw does. On this episode of Click Worthy, Louis Grenier explains why brands should stop sanding the rough edges of their marketing. Perfectly polished content blends in. People notice and share the stuff that feels human, not the flawless PD"
+  },
+  {
+   "title": "You can now test your partner program setup in a dedicated staging workspace on Dub. This lets you: ✦ Verify conversion tracking with Stripe test mode/sandbox ✦…",
+   "url": "https://www.linkedin.com/posts/dubinc_you-can-now-test-your-partner-program-setup-activity-7526341166322044929-oZH-",
+   "source": "LinkedIn · Dub.co",
+   "competitor": "dub",
+   "feed_id": "li-dub",
+   "type": "social",
+   "published": "2026-11-11T17:52:46.707000+00:00",
+   "snippet": "You can now test your partner program setup in a dedicated staging workspace on Dub. This lets you: ✦ Verify conversion tracking with Stripe test mode/sandbox ✦ Test reward structures + simulate payouts ✦ Copy rewards from staging → prod Learn more: d.to/staging"
+  }
+ ]
+}

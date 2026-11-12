@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-12",
+ "summary": [
+  "impact.com says partner-driven spend rose 8% year on year across 1,286 North American brands during October Prime Day, with shoppers taking longer to decide.",
+  "Rakuten Advertising says 225+ staff worldwide are now certified at Expert level on impact.com's platform.",
+  "Partnerize uses Singles' Day to preview a US holiday season Deloitte puts at up to $318B online.",
+  "Best Buy is promoting its new TikTok Shop store as TikTok's Black Friday campaign starts (11 to 30 Nov).",
+  "Target teamed up with influencer-led brand Dairy Boy to lift flat apparel sales."
+ ],
+ "partners": [
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "priority": false,
+   "items": [
+    {
+     "title": "Shoppers took longer to decide this October Prime Day: what it means for Black Friday 2026",
+     "url": "https://impact.com/affiliate/october-prime-day/",
+     "source": "impact.com",
+     "published": "2026-11-11T12:59:56+00:00",
+     "type": "blog",
+     "why": "Partner channels grew around Prime Day, a useful benchmark heading into Black Friday."
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "priority": false,
+   "items": [
+    {
+     "title": "🌍 We didn’t just learn impact.com. We got certified on it. ✨ 225+ Rakuten Advertising people across North America, EMEA, APAC and LATAM, from Client Services to…",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_performancemarketing-partnermarketing-activity-7526287644113244175-3CUC",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-11-11T14:20:06.018000+00:00",
+     "type": "social",
+     "why": "A major network training its whole team on another network's platform is an unusual move and worth watching."
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "priority": false,
+   "items": [
+    {
+     "title": "What Singles’ Day Reveals About Peak Shopping in the Machine-Mediated Market",
+     "url": "https://partnerize.com/resources/blog/what-singles-day-reveals-about-peak-shopping-in-the-machine-mediated-market",
+     "source": "partnerize.com",
+     "published": "2026-11-11T16:13:15+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "bestbuy",
+   "name": "Best Buy (US)",
+   "priority": false,
+   "items": [
+    {
+     "title": "Best Buy is now on TikTok Shop, bringing inspiration and shopping together in one scroll. We're one of the first big-box retailers on the platform, which means …",
+     "url": "https://www.linkedin.com/posts/best-buy_best-buy-is-now-on-tiktok-shop-bringing-activity-7526329947251134465-MfC3",
+     "source": "LinkedIn · Best Buy",
+     "published": "2026-11-11T17:08:11.872000+00:00",
+     "type": "social",
+     "why": "Big retailers selling inside TikTok means more shopping happens without ever leaving the app.",
+     "also": {
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "target",
+   "name": "Target",
+   "priority": false,
+   "items": [
+    {
+     "title": "Target Teams Up With Buzzy Influencer Brand Dairy Boy. Can Viral Partnerships Boost Its Flat Apparel Sales?",
+     "url": "https://www.inc.com/annabel-burba/target-dairy-boy-hanes-influencer-brand-gen-z/91434692",
+     "source": "Inc.com",
+     "published": "2026-11-11T20:19:22+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}
