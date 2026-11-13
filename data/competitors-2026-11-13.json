@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T08:26:40.011569+00:00",
+ "item_count": 18,
+ "feeds_ok": 94,
+ "feeds_failed": 9,
+ "items": [
+  {
+   "title": "Amazon ranks No. 1 on Forbes’ list of America’s Best Companies for 2027",
+   "url": "https://www.aboutamazon.com/news/workplace/amazon-forbes-best-companies-2027",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-12T13:30:09+00:00",
+   "snippet": "The annual ranking evaluates U.S. companies across metrics like employee sentiment, customer sentiment, and innovation. Here’s how Amazon earned the top spot."
+  },
+  {
+   "title": "The best books of 2026, according to the Amazon Editors",
+   "url": "https://www.aboutamazon.com/news/books-and-authors/best-books-of-the-year-2026",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-12T14:00:17+00:00",
+   "snippet": "Min Jin Lee’s ‘American Hagwon,’ her anticipated follow-up to ‘Pachinko,’ comes in at No. 1 from Amazon’s wide selection this year."
+  },
+  {
+   "title": "Prime Air is expanding in the UK, growing from hundreds to thousands of customers in Darlington who can get everyday essentials delivered by drone in less than two hours.",
+   "url": "https://x.com/amazonnews/status/2120909570742563070",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-12T16:00:20Z",
+   "snippet": "Prime Air is expanding in the UK, growing from hundreds to thousands of customers in Darlington who can get everyday essentials delivered by drone in less than two hours."
+  },
+  {
+   "title": "How Amazon is building an internet network 400 miles above Earth",
+   "url": "https://www.aboutamazon.com/stories/how-amazon-leo-satellite-internet-works",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-12T16:07:17+00:00",
+   "snippet": "See how Amazon's growing constellation of custom-built satellites will work together to bring internet connectivity anywhere on the planet."
+  },
+  {
+   "title": "The best books of 2026, according to the Amazon Editors",
+   "url": "https://x.com/amazonnews/status/2121020184420847833",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-12T23:19:53Z",
+   "snippet": "The best books of 2026, according to the Amazon Editors"
+  },
+  {
+   "title": "YouTube Makes Monetization Harder – New Partner Program Rules Explained",
+   "url": "https://www.cined.com/youtube-makes-monetization-harder-new-partner-program-rules-explained/",
+   "source": "CineD",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-12T06:01:32+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
+   "url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-11-12T15:00:00+00:00",
+   "snippet": "As the definitive destination for all GTAVI video content, YouTube introduces GTA-themed interactive features, 24-hour global livestream, and more."
+  },
+  {
+   "title": "For our friends at Author Nation, it's an afternoon of Mark! Find Mark Leslie Lefebvre hosting two sessions today in Bronze 4! \"Building a Sustainable Author Career by Publishing Wide\" at 2:30pm and \"",
+   "url": "https://x.com/Draft2Digital/status/2120924803456532915",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-12T17:00:52Z",
+   "snippet": "For our friends at Author Nation, it's an afternoon of Mark! Find Mark Leslie Lefebvre hosting two sessions today in Bronze 4! \"Building a Sustainable Author Career by Publishing Wide\" at 2:30pm and \"Why You Most Likely Won't Be a 7-Figure Author: And Why That's Okay\" at 4pm!"
+  },
+  {
+   "title": "We're going live with Adrienne Giordano! Be sure to tune in as we talk about avoiding author panic.",
+   "url": "https://x.com/Draft2Digital/status/2120939785422590460",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-12T18:00:24Z",
+   "snippet": "We're going live with Adrienne Giordano! Be sure to tune in as we talk about avoiding author panic."
+  },
+  {
+   "title": "Don't Panic! Working Through the Different Stages of Your Writing Process",
+   "url": "https://www.youtube.com/watch?v=oa-tzdodUKI",
+   "source": "YouTube",
+   "competitor": "books2read",
+   "feed_id": "yt-books2read",
+   "type": "social",
+   "published": "2026-11-13T06:54:20+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The 6 Best Books Released Since 2000, According to Goodreads",
+   "url": "https://collider.com/best-books-since-2000-goodreads/",
+   "source": "Collider",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-12T10:52:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "8 Fantasy Books With Over 100,000 Goodreads Ratings That Are Worth the Hype",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYk1ZMGo2djBPa29DalJBMndGSnR0Y0o4OEdJTzBYZGdsd01NT1VpOFZQb1VQSXJhWUw0Ml9PcUluWFhyQ3BPSUpjTlFYVmJnd2pSN2pQX2ZGRTVydlI4Mk1ZY1VUOUFvVEZDV0d3dGRDOEVXOVNxYkE1Z3RUbzltR0tFVHk0amc?oc=5",
+   "source": "Collider",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-12T11:42:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Goodreads Readers Love These 5 Magical Cozy Fantasy Books",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVhRTElrRDBmRWkwZHFNNG9MZlR1Ym1pNHEtWTQ1UTE0NXpKTzdqdjU5akh0TzdSbE5BMDdXbDFOaGhIeG5vZ01CSE5iaGZlVWZEcmZCSXdjNTFGR3k0YXYzZlVPTkh4TWx3ZE03clVhRWF4R1l0MGNVS3Jnc3FOWFN0dkVWSXUydkVBWUtxWXBqWVBhR1R4S0JWYlBqeGp1?oc=5",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-12T18:30:17+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Any book recs for a cozy November evening?",
+   "url": "https://x.com/goodreads/status/2121049658734633418",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-13T01:17:00Z",
+   "snippet": "Any book recs for a cozy November evening?"
+  },
+  {
+   "title": "One link, uniting an entire school. 🔗 At Sequoia High School, librarian Betsy Snow turned a single Bitly Link into an online library for 1,900 students. Since t…",
+   "url": "https://www.linkedin.com/posts/bitly_one-link-uniting-an-entire-school-at-activity-7526676200858238976-mX5q",
+   "source": "LinkedIn · Bitly",
+   "competitor": "bitly",
+   "feed_id": "li-bitly",
+   "type": "social",
+   "published": "2026-11-12T16:04:05.164000+00:00",
+   "snippet": "One link, uniting an entire school. 🔗 At Sequoia High School, librarian Betsy Snow turned a single Bitly Link into an online library for 1,900 students. Since the link was so catchy, the students turned it into a chant, and a decade later, they’re still chanting it mid-lesson. One link became the on"
+  },
+  {
+   "title": "One link united 1,900 students. They turned it into a chant and still chant it a decade later.",
+   "url": "https://x.com/Bitly/status/2120982989609836864",
+   "source": "X @Bitly",
+   "competitor": "bitly",
+   "feed_id": "x-Bitly",
+   "type": "social",
+   "published": "2026-11-12T20:52:05Z",
+   "snippet": "One link united 1,900 students. They turned it into a chant and still chant it a decade later."
+  },
+  {
+   "title": "Holiday shopping season is already taking shape, and LTK search data is showing just how early consumers are planning ahead. According to LTK data shared with G…",
+   "url": "https://www.linkedin.com/posts/shopltk_holiday-shopping-season-is-already-taking-activity-7526778602944684033-QEZB",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-11-12T22:50:59.725000+00:00",
+   "snippet": "Holiday shopping season is already taking shape, and LTK search data is showing just how early consumers are planning ahead. According to LTK data shared with Glossy, as of October 14: - Searches for “Christmas party dress” increased 75% week over week. - Searches for “Christmas outfit” increased 42"
+  },
+  {
+   "title": "someone please check on how the OG Vine creators are doing 🫩 #vine #netflix #netflixdocumentary",
+   "url": "https://www.youtube.com/shorts/OXkgJ4F9ygI",
+   "source": "YouTube",
+   "competitor": "later",
+   "feed_id": "yt-later",
+   "type": "social",
+   "published": "2026-11-12T21:52:34+00:00",
+   "snippet": ""
+  }
+ ]
+}

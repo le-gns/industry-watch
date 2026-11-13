@@ -1,0 +1,38 @@
+{
+ "date": "2026-11-13",
+ "summary": [
+  "Quiet day for partners: no affiliate program or network news.",
+  "Book retailers (Apple Books, Books-A-Million) are pushing holiday gift reads.",
+  "Impact, CJ, Rakuten, AWIN and Partnerize had nothing new."
+ ],
+ "partners": [
+  {
+   "id": "applebooks",
+   "name": "Apple Books",
+   "priority": false,
+   "items": [
+    {
+     "title": "Apple Books promotes Holly Jackson's thriller Not Quite Dead Yet",
+     "url": "https://x.com/AppleBooks/status/2120939549987918043",
+     "source": "X @AppleBooks",
+     "published": "2026-11-12T17:59:28Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "bam",
+   "name": "Books-A-Million",
+   "priority": false,
+   "items": [
+    {
+     "title": "Books-A-Million pushes Bibles as holiday gifts",
+     "url": "https://x.com/booksamillion/status/2120924672791351296",
+     "source": "X @booksamillion",
+     "published": "2026-11-12T17:00:21Z",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

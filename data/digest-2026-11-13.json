@@ -1,0 +1,212 @@
+{
+ "date": "2026-11-13",
+ "intro": "A fairly quiet day, dominated by AI shopping agents and who gets credit for the sale. Reddit feeds were rate-limited (429) again.",
+ "must_reads": [
+  {
+   "title": "Meta's Muse is coming to the UK, and affiliate pixels stay blind",
+   "url": "https://hellopartner.com/metas-muse-is-coming-to-the-uk-and-affiliate-pixels-stay-blind/",
+   "source": "Hello Partner",
+   "published": "2026-11-12T09:40:36+00:00",
+   "why": "Why it matters for Geniuslink: Meta's Muse shopping agent is heading to the UK, and Shopify says affiliate tracking pixels don't fire when Muse completes a sale on Meta. Another sign that sales started by a link can finish somewhere the link's tracking can't see."
+  },
+  {
+   "title": "IAB blueprint asks who gets credit when AI shapes a sale",
+   "url": "https://hellopartner.com/iab-blueprint-asks-who-gets-credit-when-ai-shapes-a-sale/",
+   "source": "Hello Partner",
+   "published": "2026-11-13T08:20:17+00:00",
+   "why": "Why it matters for Geniuslink: The IAB published a framework that splits sales into human-owned, AI-assisted and AI-executed. If brands adopt it, the last click stops being the only thing that counts, which changes how link-driven sales get credited."
+  },
+  {
+   "title": "Google steers Chrome users to Gemini for product details and reviews",
+   "url": "https://ppc.land/google-steers-chrome-users-to-gemini-for-product-details-and-reviews/",
+   "source": "PPC Land",
+   "published": "2026-11-12T19:41:01+00:00",
+   "why": "Why it matters for Geniuslink: Google is pushing Gemini in Chrome to summarise product pages and reviews in a side panel. The shopper's questions happen in Google's panel, not on the retailer's page, so more of the buying journey moves out of view."
+  },
+  {
+   "title": "Amazon Ads drops page-based royalty estimates from Kindle authors' reports",
+   "url": "https://ppc.land/amazon-ads-drops-page-based-royalty-estimates-from-kindle-authors-reports/",
+   "source": "PPC Land",
+   "published": "2026-11-12T21:33:33+00:00",
+   "why": "Why it matters for Geniuslink: Amazon Ads removed the page-based royalty estimate from KDP authors' ad reports and now estimates royalties per 'qualified borrow', without saying how many pages qualify. Authors measuring ad payback will see different numbers."
+  },
+  {
+   "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejBPUmllUGt5N245SWxCTTJJajRpSjdXQUNXRE9TWXFEU2dXLWZVOWpJbFozWnZiTktyaFktNU40NXczT1ZZUU1KS0RGM3lLWGRrOFM1QURUa1BubDJVV1d4RGtNR1hSai12LW5JYUdVNzFMY1lQZGx1djkwZHI4ZUFWWkVSdi05d2ZLMWhPN0lZMTVyYjlOYzFNVVpjTnJ2ZUhkYldvUjhqVHN3azBkNHhlUzBqcGlmbVNkcmxHQQ?oc=5",
+   "source": "Search Engine Journal",
+   "published": "2026-11-12T20:00:07+00:00",
+   "why": "Why it matters for Geniuslink: Search Engine Journal asks whether the affiliate model survives when checkout happens inside Google's AI Mode and Gemini. It's the same question as Muse: what happens to the referral when the AI does the buying."
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+     "source": "TechCrunch",
+     "published": "2026-11-12T19:27:45+00:00",
+     "summary": "Google is bringing its new Gemini model to Search and AI Mode for all users, aimed at complicated questions.",
+     "also": {
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Google AI Mode gains local retailer ads after Search growth slows to 12%",
+     "url": "https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/",
+     "source": "PPC Land",
+     "published": "2026-11-12T13:57:21+00:00",
+     "summary": "AI Mode now shows local retailer ads, as Google's search growth slows."
+    },
+    {
+     "title": "a16z says firms must court AI agents as agent traffic grows 8x in two months",
+     "url": "https://ppc.land/a16z-says-firms-must-court-ai-agents-as-agent-traffic-grows-8x-in-two-months/",
+     "source": "PPC Land",
+     "published": "2026-11-12T13:06:05+00:00",
+     "summary": "a16z says agent traffic to sites grew about 8x in two months."
+    },
+    {
+     "title": "Reddit's traffic is down 13%, thanks to AI Overviews",
+     "url": "https://www.indiaipo.in/news/detail/reddits-traffic-is-down-13-thanks-to-ai-overviews",
+     "source": "IndiaIPO",
+     "published": "2026-11-12T14:36:32+00:00",
+     "summary": "Reports say Reddit's traffic fell 13%, blamed on AI Overviews."
+    },
+    {
+     "title": "OpenAI Borrows Google’s Playbook and Crashes the GEO Party",
+     "url": "https://www.adweek.com/media/openai-borrows-googles-playbook-and-crashes-the-geo-party/",
+     "source": "Adweek",
+     "published": "2026-11-12T13:17:06+00:00",
+     "paywall": false
+    },
+    {
+     "title": "Google's €460m EU search fine left out the AI Mode it now pushes in Chrome",
+     "url": "https://ppc.land/googles-eur460m-eu-search-fine-left-out-the-ai-mode-it-now-pushes-in-chrome/",
+     "source": "PPC Land",
+     "published": "2026-11-12T12:59:52+00:00"
+    },
+    {
+     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "source": "TechCrunch",
+     "published": "2026-11-12T19:11:00+00:00",
+     "summary": "An AI agent that finds creators and handles brand outreach."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "The Many Ways AI Can Influence A Purchase; ‘Premium’ TV Is So Fetch",
+     "url": "https://www.adexchanger.com/daily-news-roundup/friday-13112026/",
+     "source": "AdExchanger",
+     "published": "2026-11-13T05:03:03+00:00"
+    },
+    {
+     "title": "Media Briefing: The IAB finds AI measurement standards elusive for publishers amid platform data gaps",
+     "url": "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/",
+     "source": "Digiday",
+     "published": "2026-11-12T13:30:00+00:00"
+    },
+    {
+     "title": "Yahoo becomes first licensee of ‘Spotify-like’ collective AI content licensing model",
+     "url": "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/",
+     "source": "Digiday",
+     "published": "2026-11-12T14:01:00+00:00"
+    },
+    {
+     "title": "D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
+     "url": "https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/",
+     "source": "Digiday",
+     "published": "2026-11-13T05:01:00+00:00"
+    },
+    {
+     "title": "System1 Announces Third Quarter 2026 Financial Results",
+     "url": "https://www.businesswire.com/news/home/20261112149276/en/System1-Announces-Third-Quarter-2026-Financial-Results",
+     "source": "Business Wire",
+     "published": "2026-11-12T21:05:00+00:00",
+     "summary": "System1 (a search and ad monetisation business) reported Q3 results."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "IAB moves to define creator 'views' as 66% ask for a common standard",
+     "url": "https://ppc.land/iab-moves-to-define-creator-views-as-66-ask-for-a-common-standard/",
+     "source": "PPC Land",
+     "published": "2026-11-12T08:59:51+00:00",
+     "summary": "The IAB wants one shared definition of a creator 'view'; 66% of buyers asked for one.",
+     "also": {
+      "source": "Affiverse Media",
+      "url": "https://www.affiversemedia.com/iab-creator-view-standard/",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Open Creator Rates, Conversion Data Will Make Influencer Programs Run Like Paid Ads, per Iconically’s Founders",
+     "url": "https://www.netinfluencer.com/open-creator-rates-conversion-data-will-make-influencer-programs-run-like-paid-ads-per-iconically-founders/",
+     "source": "Net Influencer",
+     "published": "2026-11-12T12:48:04+00:00"
+    },
+    {
+     "title": "Bill Simmons Ended The Ringer’s ChatGPT Sponsorship After Listeners Rejected AI Segments, per Report",
+     "url": "https://www.netinfluencer.com/bill-simmons-ended-ringer-chatgpt-sponsorship-after-listener-backlash/",
+     "source": "Net Influencer",
+     "published": "2026-11-13T04:29:21+00:00"
+    },
+    {
+     "title": "What’s Next for Facebook? 4 Changes Businesses Can’t Ignore",
+     "url": "https://www.socialmediaexaminer.com/whats-next-for-facebook-4-changes-businesses-cant-ignore/",
+     "source": "Social Media Examiner",
+     "published": "2026-11-12T11:08:51+00:00"
+    },
+    {
+     "title": "YouTube Studio now turns 16:9 podcast segments into vertical Shorts",
+     "url": "https://ppc.land/youtube-studio-now-turns-16-9-podcast-segments-into-vertical-shorts/",
+     "source": "PPC Land",
+     "published": "2026-11-12T21:53:02+00:00"
+    },
+    {
+     "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+     "url": "https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/",
+     "source": "Digiday",
+     "published": "2026-11-13T05:01:00+00:00"
+    },
+    {
+     "title": "TikTok Shop gives US sellers up to 10 reasons a product's sales fell",
+     "url": "https://ppc.land/tiktok-shop-gives-us-sellers-up-to-10-reasons-a-products-sales-fell/",
+     "source": "PPC Land",
+     "published": "2026-11-12T21:11:25+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Peggy Rothmann, ‘Good Night, Gorilla’ Author, Dies at 73",
+     "url": "https://www.reddit.com/r/books/comments/1xuubfe/peggy_rothmann_good_night_gorilla_author_dies_at/",
+     "source": "r/books",
+     "published": "2026-11-13T01:06:17+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Addvice regarding Amazon affiliate",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xuas00/addvice_regarding_amazon_affiliate/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-11-12T11:50:37+00:00"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-13",
+ "summary": [
+  "Amazon's editors published their best books of 2026 list, a big holiday driver for book links.",
+  "LTK shared holiday search data showing shoppers planning gifts and outfits earlier than usual.",
+  "CineD reports new YouTube Partner Program rules that make monetisation harder.",
+  "Draft2Digital (Books2Read) was active at Author Nation, focused on publishing wide.",
+  "Lasso, URLgenius and Button/Posttap were quiet."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon's own tools (OneLink, Associates, Influencer)",
+   "priority": true,
+   "items": [
+    {
+     "title": "The best books of 2026, according to the Amazon Editors",
+     "url": "https://www.aboutamazon.com/news/books-and-authors/best-books-of-the-year-2026",
+     "source": "aboutamazon.com",
+     "published": "2026-11-12T14:00:17+00:00",
+     "type": "blog",
+     "why": "Amazon's yearly best-books list drives a lot of holiday book buying, so expect book link traffic to follow it."
+    },
+    {
+     "title": "Amazon ranks No. 1 on Forbes’ list of America’s Best Companies for 2027",
+     "url": "https://www.aboutamazon.com/news/workplace/amazon-forbes-best-companies-2027",
+     "source": "aboutamazon.com",
+     "published": "2026-11-12T13:30:09+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "priority": false,
+   "items": [
+    {
+     "title": "LTK search data shows holiday shoppers planning early",
+     "url": "https://www.linkedin.com/posts/shopltk_holiday-shopping-season-is-already-taking-activity-7526778602944684033-QEZB",
+     "source": "LinkedIn · LTK",
+     "published": "2026-11-12T22:50:59.725000+00:00",
+     "type": "social",
+     "why": "LTK says holiday searches started early this year (e.g. 'Christmas party dress' up 75% week over week in mid-October), a sign creator shopping is starting sooner."
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "priority": false,
+   "items": [
+    {
+     "title": "YouTube Makes Monetization Harder – New Partner Program Rules Explained",
+     "url": "https://www.cined.com/youtube-makes-monetization-harder-new-partner-program-rules-explained/",
+     "source": "CineD",
+     "published": "2026-11-12T06:01:32+00:00",
+     "type": "news",
+     "why": "Stricter YouTube Partner Program rules affect which creators can earn on YouTube, including through Shopping."
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "priority": false,
+   "items": [
+    {
+     "title": "For our friends at Author Nation, it's an afternoon of Mark! Find Mark Leslie Lefebvre hosting two sessions today in Bronze 4! \"Building a Sustainable Author Career by Publishing Wide\" at 2:30pm and \"",
+     "url": "https://x.com/Draft2Digital/status/2120924803456532915",
+     "source": "X @Draft2Digital",
+     "published": "2026-11-12T17:00:52Z",
+     "type": "social"
+    },
+    {
+     "title": "Don't Panic! Working Through the Different Stages of Your Writing Process",
+     "url": "https://www.youtube.com/watch?v=oa-tzdodUKI",
+     "source": "YouTube",
+     "published": "2026-11-13T06:54:20+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Bitly: a librarian turned one Bitly link into an online library for 1,900 students",
+     "url": "https://www.linkedin.com/posts/bitly_one-link-uniting-an-entire-school-at-activity-7526676200858238976-mX5q",
+     "source": "LinkedIn · Bitly",
+     "published": "2026-11-12T16:04:05.164000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}
