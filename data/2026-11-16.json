@@ -1,0 +1,430 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T08:32:46.333855+00:00",
+ "lookback_hours": 30,
+ "item_count": 38,
+ "google_news_links": 23,
+ "google_news_resolved": 20,
+ "feeds_ok": 51,
+ "feeds_failed": 22,
+ "items": [
+  {
+   "title": "How to watch Spain vs. England online for free",
+   "url": "https://mashable.com/entertainment/spain-england-nations-league-2026-live-stream-for-free",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T10:12:40+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "20 Best Prime Day TV Deals 2026 (20 TVs Worth Waiting For) Jasmine Paolini (lnLqJ7hmL9)",
+   "url": "https://media.unisba.ac.id/5c4a9163/4e75f636rMxNXd5abU/?share=facebook&nb=1",
+   "source": "Unisba Media",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T10:46:21+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "prime day"
+   ]
+  },
+  {
+   "title": "The best early Black Friday trading card deals: Save on Pokémon, Magic: The Gathering, and Yu-Gi-Oh!",
+   "url": "https://mashable.com/life/best-early-black-friday-trading-card-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T14:51:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "The 3 best AirPods deals live before Black Friday",
+   "url": "https://mashable.com/tech/best-early-black-friday-airpods-deals-2026",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T23:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Launch day deal: You can already score $20 off the new Beats 360 at Walmart",
+   "url": "https://mashable.com/tech/beats-360-best-preorder-deal",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T23:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Sony XM4C headphones launch along with 2 budget-friendly models",
+   "url": "https://mashable.com/tech/sony-wh-1000xm4c-wh-ch530-wh-ch730n-headphones-announcements",
+   "source": "Mashable",
+   "group": "Amazon & retailer programs",
+   "feed_id": "gnews-22",
+   "published": "2026-11-15T23:00:00+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Pane na rede de controle aéreo dos EUA cancela milhares de voos e atinge companhias brasileiras",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JLXlrVEV3QnRRUjVDd2JycGloZTk4d3FVSkIyTjc4OGNtelNhWkNwclNZZVA2SFpzM0pBOUhrSzQ3d0Zfa2hjejlmM0NzMXZXaXpLSkRDMllwckVKNkxLbTdqOVREdG9ELU5taW5yYXJ0eEFIMzM1QVItVHpSZw?oc=5",
+   "source": "Latin Times",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-15T19:47:24+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Gabriella Gofis (@gabriellagofis)",
+   "url": "https://substack.com/@gabriellagofis/note/c-388343566",
+   "source": "Substack",
+   "group": "Competitors",
+   "feed_id": "gnews-13",
+   "published": "2026-11-15T20:36:37+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "CES 2027 Entertainment Tech Guide | Programs for Entertainment Tech, Media, Content and AI Companies",
+   "url": "https://www.kentertechhub.com/ces2027/",
+   "source": "K-EnterTech Hub",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-15T02:59:45+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Fronleichnam Prozession, Bozen 2025 | Processione Del Corpus Domini, Bolzano 2025 | Corpus Christi Kinsky Spurs (cHUtuDfqmG)",
+   "url": "https://media.unisba.ac.id/6473b9c5/cda5f50bXjY1BBMDDwMCHQU/?share=telegram&nb=1",
+   "source": "Unisba Media",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-25",
+   "published": "2026-11-15T05:53:52+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Pop Filter Market Forecast to 2035: Creator Economy and Home Studio Demand Drive Growth",
+   "url": "https://www.indexbox.io/blog/pop-filter-market-forecast-to-2035-creator-economy-and-home-studio-demand-drive-growth/",
+   "source": "IndexBox",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-15T11:06:05+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "H.I.G. Capital launches Waveborn to acquire creator-economy companies",
+   "url": "https://jawlah.co/en/68174",
+   "source": "jawlah.co",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-15T11:39:29+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "MrBeast Says Viewers Are “Tired of the Same Old Games” in Footage From the 500 Million Subscriber Shoot",
+   "url": "https://www.netinfluencer.com/mrbeast-says-viewers-are-tired-of-the-same-old-games-in-footage-from-the-500-million-subscriber-shoot/",
+   "source": "Net Influencer",
+   "group": "Creator economy & social platforms",
+   "feed_id": "src-net-influencer",
+   "published": "2026-11-16T01:00:00+00:00",
+   "snippet": "Jimmy Donaldson, better known as MrBeast, said viewers are tired of the repeated games on a channel that now has 520 million YouTube subscribers, in behind-the-scenes footage that creator Jon Youshaei posted to YouTube on November 10. Youshaei filmed on the set of “50 YouTube Legends Fight For $1,00",
+   "matched_keywords": [
+    "creator",
+    "youtube"
+   ]
+  },
+  {
+   "title": "H.I.G. Capital: Waveborn Launches Creator Economy Platform With Acquisition Of Jake Rosen Entertainment",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc1FMOFAtVWd3UmZzVGI5MTQ4RGNmUzMxdDFkZVhqMGFickNvc2FyZXpxTEtKQU5pcjl0dGN4TU92SHNVT2VJbmRISTV1WFZqd0lKMTJGblVvTzlWRndjUWpmd29YUjY2WTMxLURFNF9WNUxFMm5XcUxfU3NvektNT2tzNUZya1pKQXNhNmltNTMzbmsxRFZydENqVmREaDJLQ0Q0YTBMMlBFcXcwaDhhN0ZZQ3V6Tnd2NnYySHpn?oc=5",
+   "source": "Pulse 2.0",
+   "group": "Creator economy & social platforms",
+   "feed_id": "gnews-19",
+   "published": "2026-11-16T02:36:18+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Commerce Robotics Launches CommerceRobo Shopify Connect for Rakuten-Shopify Sync",
+   "url": "https://natlawreview.com/press-releases/commerce-robotics-launches-commercerobo-shopify-connect-rakuten-shopify-sync",
+   "source": "The National Law Review",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-15T10:30:10+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Media Buying Briefing: Buyers grapple with incoming Amazon reporting changes",
+   "url": "https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "snippet": "The e-commerce giant is central for many consumer brand advertisers, but measurement changes could throw a wrench into their plans for next year.",
+   "matched_keywords": []
+  },
+  {
+   "title": "How brands are banking on live shopping this holiday season",
+   "url": "https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "snippet": "More brands are gravitating toward live shopping, a growing channel that is set to play an outsized influence on shopping trends.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Substack job listing hints at a bigger advertising push in 2027",
+   "url": "https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "snippet": "A new product manager role will explore ad-related monetization, suggesting the platform could make ads a bigger part of its business.",
+   "matched_keywords": []
+  },
+  {
+   "title": "How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations",
+   "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "snippet": "Bustle Digital Group has teamed up with Profound to help brands like Pampers and Innisfree boost their visibility in AI recommendations in a new GEO-offering.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Deloitte Digital takes the holdco operating system pitch straight to the CEO",
+   "url": "https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/",
+   "source": "Digiday",
+   "group": "Affiliate industry",
+   "feed_id": "src-digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "snippet": "CEOs have never cared much for holdcos. Enterprise solutions, on the other hand, get a meeting.",
+   "matched_keywords": []
+  },
+  {
+   "title": "Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck?",
+   "url": "https://www.adexchanger.com/daily-news-roundup/big-brands-have-forgotten-how-to-advertise-how-many-ads-can-a-chatbot-chuck/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-16T05:03:31+00:00",
+   "snippet": "Classic brands aren’t doing so hot lately; Google has some ad frequency problems to solve; and Twitch is going the short-form video route. The post Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck? appeared first on AdExchanger .",
+   "matched_keywords": []
+  },
+  {
+   "title": "Now AI knows how content affiliates feel",
+   "url": "https://hellopartner.com/now-ai-knows-how-content-affiliates-feel/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-16T05:30:00+00:00",
+   "snippet": "Welcome to Data Desk, Hello Partner's brand new weekly look at five numbers shaping partnerships and the creator economy, and what they mean for your business.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "Most Retail Media Networks Shouldn’t Exist. Here’s How They Can Prove Their Worth",
+   "url": "https://www.adexchanger.com/data-driven-thinking/most-retail-media-networks-shouldnt-exist-heres-how-they-can-prove-their-worth/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-16T05:35:41+00:00",
+   "snippet": "We’re well past the point of oversaturation in ad tech. There are more than 175,000 software vendors listed on G2, over 15,000 marketing technology solutions and reportedly over 12,000 ad tech vendors in operation. Competitive intensity is real. But no tech market is more ripe for consolidation than",
+   "matched_keywords": []
+  },
+  {
+   "title": "Rakuten Mobile and JTower target 1,000 shared network sites by March 2027",
+   "url": "https://www.telecompaper.com/news/rakuten-mobile-and-jtower-target-1000-shared-network-sites-by-march-2027--1588899",
+   "source": "Telecompaper",
+   "group": "Affiliate industry",
+   "feed_id": "gnews-18",
+   "published": "2026-11-16T05:44:19+00:00",
+   "snippet": "",
+   "matched_keywords": [
+    "rakuten"
+   ]
+  },
+  {
+   "title": "Ad Tech Is Getting Better At Fixing Its Flaws Instead Of Just Calling Them Out, Says DecryptAds’ New COO Arielle Garcia",
+   "url": "https://www.adexchanger.com/programmatic/ad-tech-is-getting-better-at-fixing-its-flaws-instead-of-just-calling-them-out-says-decryptads-new-coo-arielle-garcia/",
+   "source": "AdExchanger",
+   "group": "Affiliate industry",
+   "feed_id": "src-adexchanger",
+   "published": "2026-11-16T06:00:56+00:00",
+   "snippet": "Constantly pointing out that a system is broken gets old. Eventually, you just want to roll up your sleeves and fix it yourself. Arielle Garcia has been one of digital advertising’s most outspoken voices advocating for the need for better data privacy and cybersecurity for the past decade, going bac",
+   "matched_keywords": []
+  },
+  {
+   "title": "Awin data links TopCashback to higher basket values and conversions",
+   "url": "https://hellopartner.com/awin-data-backs-topcashbacks-push-to-move-cashback-beyond-the-last-click/",
+   "source": "Hello Partner",
+   "group": "Affiliate industry",
+   "feed_id": "src-hello-partner",
+   "published": "2026-11-16T07:11:00+00:00",
+   "snippet": "The first instalment of TopCashback’s State of Cashback report finds shoppers use cashback while they are still deciding where to buy, but the full report, on incrementality, will be the real test.",
+   "matched_keywords": [
+    "awin"
+   ]
+  },
+  {
+   "title": "Google's AI search overhaul exposes a bigger problem: Measuring digital traffic",
+   "url": "https://www.storyboard18.com/how-it-works/google-search-console-tracks-ai-visibility-but-traffic-attribution-lags-ws-l-114761.htm",
+   "source": "Storyboard18",
+   "group": "AI search & shopping",
+   "feed_id": "gnews-16",
+   "published": "2026-11-15T05:01:01+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Italy fines Meta EUR805m over photo galleries as OpenAI hands agents a wallet",
+   "url": "https://ppc.land/italy-fines-meta-eur805m-over-photo-galleries-as-openai-hands-agents-a-wallet/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T07:37:42+00:00",
+   "snippet": "Italy's privacy watchdog fined Meta EUR805m over Facebook reading Android photo galleries, while OpenAI let its agents pay without seeing real card numbers.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "Satinder Sartaaj's Guzarish wins YouTube's No. 1 two months after release",
+   "url": "https://ppc.land/satinder-sartaajs-guzarish-wins-youtubes-no-1-two-months-after-release/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T19:26:34+00:00",
+   "snippet": "Views rose 51% to 42.6M in Diwali week, 76% of them from India, ending Dai Dai's latest run at No. 1. What does a slow climb show that a debut spike hides?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Amazon puts Sponsored Products ads inside Audible, free during beta",
+   "url": "https://ppc.land/amazon-puts-sponsored-products-ads-inside-audible-free-during-beta/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T19:30:47+00:00",
+   "snippet": "Active audiobook campaigns from vendors and authors run on Audible with no opt-in, reported as Other on Amazon. What happens to the numbers once billing starts?",
+   "matched_keywords": [
+    "audiobook"
+   ]
+  },
+  {
+   "title": "TikTok ties its new Premier creator partner badge to TikTok One",
+   "url": "https://ppc.land/tiktok-ties-its-new-premier-creator-partner-badge-to-tiktok-one/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T19:32:14+00:00",
+   "snippet": "Talent agencies, SaaS tools and UGC partners now sit in four creator segments with two badge tiers. What it takes to reach Premier, TikTok has not published.",
+   "matched_keywords": [
+    "creator"
+   ]
+  },
+  {
+   "title": "YouTube drops the word 'Skip' from some ad buttons in favour of 'Next'",
+   "url": "https://ppc.land/youtube-drops-the-word-skip-from-some-ad-buttons-in-favour-of-next/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T19:33:46+00:00",
+   "snippet": "Higman's example put 'Next' under a 'Fewer interruptions after this break' label. For advertisers, the question: does a tap end the ad break or cue another ad?",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Doom, Inc.: Timnit Gebru says the apocalypse is the sales pitch",
+   "url": "https://ppc.land/doom-inc-timnit-gebru-says-the-apocalypse-is-the-sales-pitch/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-15T21:28:46+00:00",
+   "snippet": "Ex-Google researcher ties OpenAI and Anthropic extinction warnings to IPOs in an 86-minute October 9 interview. Her memoir is scheduled for February 16, 2027.",
+   "matched_keywords": [
+    "openai"
+   ]
+  },
+  {
+   "title": "YouTube swaps Skip for Next on some ads as Amazon puts ads inside Audible",
+   "url": "https://ppc.land/youtube-swaps-skip-for-next-on-some-ads-as-amazon-puts-ads-inside-audible/",
+   "source": "PPC Land",
+   "group": "AI search & shopping",
+   "feed_id": "src-ppc-land",
+   "published": "2026-11-16T05:43:49+00:00",
+   "snippet": "YouTube relabelled the skip button on some ads as Next, Amazon began showing Sponsored Products inside Audible free during beta, and TikTok added a new tier.",
+   "matched_keywords": [
+    "youtube"
+   ]
+  },
+  {
+   "title": "Why are young people choosing books through TikTok?",
+   "url": "https://www.vietnam.vn/en/vi-sao-gioi-tre-chon-sach-qua-tiktok",
+   "source": "Vietnam.vn",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-11-15T10:22:42+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Inaugural Holiday Book Fair to bring local authors to Soquel church",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGp0QlBmU2wwb1lHTy1kRjdoanliT1lEZ2VnVVFKYnVjYW1KS0dRX1NaMlZZNXhVR1NqcW1ZbVVaeDRtRExSTy1IWllMVENoVUdKNEFvcTE2b1BGRzg4Tjk4ejJzRW12cG1CNHEzMTFfNE1rOWFaQXlEaXJqczdxLS1kXy11YVFiX253aHo0YnhRUlBDZmRaWG1xa2ExbXRtRXg4UklOOHczN0FGNmFEN1dGSQ?oc=5",
+   "source": "Santa Cruz Sentinel",
+   "group": "Books & publishing",
+   "feed_id": "gnews-21",
+   "published": "2026-11-15T19:01:53+00:00",
+   "snippet": "",
+   "matched_keywords": []
+  },
+  {
+   "title": "Convertri page editor alternatives?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xwv843/convertri_page_editor_alternatives/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-15T13:14:59+00:00",
+   "snippet": "Hello,im very new to affiliate marketing and wanted to ask,is there and good convertri web editor alternatives?App or website,but free? submitted by /u/No-Tennis3480 [link] [comments]",
+   "matched_keywords": [
+    "affiliate"
+   ]
+  },
+  {
+   "title": "Redirect spam with Sovrn affiliate links? Anyone?",
+   "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xxavu7/redirect_spam_with_sovrn_affiliate_links_anyone/",
+   "source": "r/Affiliatemarketing",
+   "group": "Reddit",
+   "feed_id": "reddit-r-affiliatemarketing",
+   "published": "2026-11-16T00:05:45+00:00",
+   "snippet": "Anyone else experiencing this? Some of my Sovrn affiliate links intermittently redirect to a spam site in India. I tested/reproduced the issue on multiple computers, with and without VPN, and in console (curl) and in multiple browsers. Often it works as it should. But especially when it's a new user",
+   "matched_keywords": [
+    "affiliate",
+    "sovrn"
+   ]
+  }
+ ]
+}

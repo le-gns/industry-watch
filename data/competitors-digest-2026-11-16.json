@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-16",
+ "summary": [
+  "Old Bitly short links in years-old X posts (Trump, Burger King, McDonald's) were hijacked and redirected; Bitly says it suspended the accounts and is disabling the links.",
+  "A Reddit thread asks about redirect spam showing up with Sovrn affiliate links.",
+  "Lasso, URLgenius, Button/Posttap and Amazon's own tools were quiet."
+ ],
+ "competitors": [
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "priority": false,
+   "items": [
+    {
+     "title": "Old Bitly links in Trump, Burger King and other prominent X accounts redirected to unrelated websites",
+     "url": "https://www.medianama.com/2026/11/223-old-bitly-links-x-posts-trump-burger-king-hijacked/",
+     "source": "MediaNama",
+     "published": "2026-11-16T06:04:42+00:00",
+     "type": "news",
+     "why": "Short links can be changed long after they're posted, so trust in where a link goes is a real issue for every link tool, and brands and creators will be asking who controls their old links.",
+     "also": {
+      "source": "CNN (video)",
+      "url": "https://www.cnn.com/2026/11/16/business/video/bitly-link-redirected-donald-trump-kristie-lu-stout-hnk-vrtc-digvid",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Bitly: bad actors repurposed old, inactive links; accounts suspended and links being disabled",
+     "url": "https://x.com/Bitly/status/2122045450786152588",
+     "source": "X @Bitly",
+     "published": "2026-11-15T19:13:55Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "sovrn",
+   "name": "Sovrn Compare / Sovrn Commerce",
+   "priority": false,
+   "items": [
+    {
+     "title": "Redirect spam with Sovrn affiliate links? Anyone?",
+     "url": "https://www.reddit.com/r/Affiliatemarketing/comments/1xxavu7/redirect_spam_with_sovrn_affiliate_links_anyone/",
+     "source": "r/Affiliatemarketing",
+     "published": "2026-11-16T00:05:45+00:00",
+     "type": "reddit"
+    }
+   ]
+  }
+ ]
+}

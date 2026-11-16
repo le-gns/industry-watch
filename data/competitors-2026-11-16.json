@@ -1,0 +1,129 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T08:34:06.108584+00:00",
+ "item_count": 12,
+ "feeds_ok": 92,
+ "feeds_failed": 11,
+ "items": [
+  {
+   "title": "establish a consistent upload schedule to build viewing habits and increase return audience traffic",
+   "url": "https://x.com/YouTubeCreators/status/2122011748739830243",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-11-15T17:00:00Z",
+   "snippet": "establish a consistent upload schedule to build viewing habits and increase return audience traffic"
+  },
+  {
+   "title": "Every Hunger Games Book, Ranked by Goodreads",
+   "url": "https://fandomwire.com/every-hunger-games-book-ranked-by-goodreads/",
+   "source": "FandomWire",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-15T12:02:17+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Every Hunger Games Book, Ranked by Goodreads",
+   "url": "https://www.imdb.com/news/ni66112133/?ref_=ttnw_art_perm",
+   "source": "IMDb",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-15T12:31:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "A blanket, a warm drink, and a book you can't put down",
+   "url": "https://x.com/goodreads/status/2121982554970394987",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-15T15:04:00Z",
+   "snippet": "A blanket, a warm drink, and a book you can't put down"
+  },
+  {
+   "title": "The 6 Best Books Released Since 2020, According to Goodreads",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53aUNXZUhFNnExUlVsR0NOWUpnZk1sbTVFYURYd0FJVm1CSk9yNjdBc2ZtMjBReG9uUGd4QTJlT1ZCR21DU1NFbVlnSUthdEdJNkhhUEhtM2t0SzNCdVYzQmM3Yw?oc=5",
+   "source": "Collider",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-15T17:06:13+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The 6 Best Fantasy Books Released Since 2020, According to Goodreads",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdDBYUHR1OUg0N0dBX0xfeS01aG94bHp3Y0hDMGdaemE4MGN1Rngza3hQa1FiSzBTSVZmbEY0RmE4eVJKcUhYaHJQVUFMSmRYWjM5RjB1ZXJ5WUl6VFh5eXRHVUhRZk9QWWxJdDZn?oc=5",
+   "source": "Collider",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-15T23:09:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Earlier today, we identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts. We have suspended the accounts inv",
+   "url": "https://x.com/Bitly/status/2122045450786152588",
+   "source": "X @Bitly",
+   "competitor": "bitly",
+   "feed_id": "x-Bitly",
+   "type": "social",
+   "published": "2026-11-15T19:13:55Z",
+   "snippet": "Earlier today, we identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts. We have suspended the accounts involved and are disabling the affected links. Our Trust and Safety team is working"
+  },
+  {
+   "title": "Hijacked Bitly Links Redirect Old Burger King, McDonald’s and Trump Posts",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTkxGa2lkcjdZRE53TlNUZEVMOWY4OHE1OVAyZGVhaE1sdXl3Sk5tVWx6dUdBb0NWOXFDUUNWNGxhNGNDUGdjZDJSVG1fdExZelFqc3ZObnB3MG95QU9vM3hmQ05yLThFc19ueE5XVmcxM3ZJME9CNkhMN2hTQnRMUHp6RVctS1JjVGdRa3JUN2JQbHpMSDlzYkNVVDBwY0wxckIw?oc=5",
+   "source": "news.lavx.hu",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T00:08:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Donald Trump X Links Redirected as Bitly Links Were Hijacked",
+   "url": "https://twaslnews1.twaslnews.com/7758146/",
+   "source": "شبكة تواصل الإخبارية",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T01:06:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Was Trump's X account hacked? No: old Bitly links in his posts were hijacked and redirected",
+   "url": "https://www.nacionale.com/en/articles/donald-trump-x-links-redirected-old-bitly-links-hijacked-burger-king-mcdonalds",
+   "source": "Nacionale",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T01:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Old Bitly links in Trump, Burger King X posts hijacked",
+   "url": "https://www.medianama.com/2026/11/223-old-bitly-links-x-posts-trump-burger-king-hijacked/",
+   "source": "MediaNama",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T06:04:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Trump Bitly link redirected to Epstein files Wikipedia page | CNN Business",
+   "url": "https://www.cnn.com/2026/11/16/business/video/bitly-link-redirected-donald-trump-kristie-lu-stout-hnk-vrtc-digvid",
+   "source": "CNN",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T08:09:00+00:00",
+   "snippet": ""
+  }
+ ]
+}

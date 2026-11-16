@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T08:35:25.931879+00:00",
+ "item_count": 4,
+ "feeds_ok": 101,
+ "feeds_failed": 6,
+ "items": [
+  {
+   "title": "Awin data backs TopCashback’s push to move cashback beyond the last click",
+   "url": "https://hellopartner.com/awin-data-backs-topcashbacks-push-to-move-cashback-beyond-the-last-click/",
+   "source": "Hello Partner",
+   "competitor": "awin",
+   "feed_id": "gn-awin",
+   "type": "news",
+   "published": "2026-11-16T06:00:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MarTech Interview with Matt Gilbert, Chief Executive Officer, Partnerize",
+   "url": "https://www.martechcube.com/martech-interview-with-matt-gilbert/",
+   "source": "MarTech Cube",
+   "competitor": "partnerize",
+   "feed_id": "gn-partnerize",
+   "type": "news",
+   "published": "2026-11-15T13:17:03+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Influencer Mad Sandhu Murder Case: Wanted Shooter Arrested; Amitabh Bachchan Was Next Target",
+   "url": "https://www.timesnownews.com/delhi/influencer-mad-sandhu-murder-case-wanted-shooter-arrested-bollywood-actor-amitabh-bachchan-was-next-target-article-156511293",
+   "source": "Times Now",
+   "competitor": "target",
+   "feed_id": "gn-target",
+   "type": "news",
+   "published": "2026-11-15T02:42:08+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Our final craft book this week is the perfect book to give to all craft lovers, 'Crafted' by Sally Coulthard.",
+   "url": "https://x.com/wordery/status/2121906059178610743",
+   "source": "X @wordery",
+   "competitor": "wordery",
+   "feed_id": "x-wordery",
+   "type": "social",
+   "published": "2026-11-15T10:00:02Z",
+   "snippet": "Our final craft book this week is the perfect book to give to all craft lovers, 'Crafted' by Sally Coulthard."
+  }
+ ]
+}

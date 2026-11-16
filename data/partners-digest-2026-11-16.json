@@ -1,0 +1,39 @@
+{
+ "date": "2026-11-16",
+ "summary": [
+  "Awin data says TopCashback shoppers spend more and convert better, backing the push to credit cashback beyond the last click.",
+  "Partnerize CEO Matt Gilbert gave a MarTech Cube interview.",
+  "Impact, CJ, Rakuten and the retailers had nothing new."
+ ],
+ "partners": [
+  {
+   "id": "awin",
+   "name": "AWIN",
+   "priority": false,
+   "items": [
+    {
+     "title": "Awin data backs TopCashback's push to move cashback beyond the last click",
+     "url": "https://hellopartner.com/awin-data-backs-topcashbacks-push-to-move-cashback-beyond-the-last-click/",
+     "source": "Hello Partner",
+     "published": "2026-11-16T06:00:49+00:00",
+     "type": "news",
+     "why": "Another sign the affiliate industry is moving away from 'last click takes all', which changes how every link in a buyer's journey gets credited."
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "priority": false,
+   "items": [
+    {
+     "title": "MarTech Interview with Matt Gilbert, Chief Executive Officer, Partnerize",
+     "url": "https://www.martechcube.com/martech-interview-with-matt-gilbert/",
+     "source": "MarTech Cube",
+     "published": "2026-11-15T13:17:03+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}

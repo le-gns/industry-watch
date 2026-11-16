@@ -1,0 +1,25 @@
+{
+ "posts": [
+  {
+   "handle": "Bitly",
+   "competitor": "bitly",
+   "created_at": "2026-11-15T19:13:55Z",
+   "url": "https://x.com/Bitly/status/2122045450786152588",
+   "text": "Earlier today, we identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts. We have suspended the accounts involved and are disabling the affected links. Our Trust and Safety team is working"
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-11-15T17:00:00Z",
+   "url": "https://x.com/YouTubeCreators/status/2122011748739830243",
+   "text": "establish a consistent upload schedule to build viewing habits and increase return audience traffic"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-11-15T15:04:00Z",
+   "url": "https://x.com/goodreads/status/2121982554970394987",
+   "text": "A blanket, a warm drink, and a book you can't put down"
+  }
+ ]
+}

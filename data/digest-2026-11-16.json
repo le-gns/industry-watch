@@ -1,0 +1,125 @@
+{
+ "date": "2026-11-16",
+ "intro": "A fairly quiet weekend. The big link story was old Bitly short links being hijacked (see Competitor Watch). Reddit feeds were rate-limited (429) again.",
+ "must_reads": [
+  {
+   "title": "Now AI knows how content affiliates feel (Data Desk: only 8.8% of AI-prompted visits are credited to AI)",
+   "url": "https://hellopartner.com/now-ai-knows-how-content-affiliates-feel/",
+   "source": "Hello Partner",
+   "published": "2026-11-16T06:30:00+00:00",
+   "why": "Why it matters for Geniuslink: Similarweb found shoppers were 2.5x more likely to visit a brand after an AI tool suggested it, but only 8.8% of those visits showed up as coming from the AI; most arrived via search or direct. The trip from recommendation to purchase is getting harder to see, which is exactly the gap that link-level tracking tries to fill."
+  },
+  {
+   "title": "Italy fines Meta EUR805m over photo galleries as OpenAI hands agents a wallet",
+   "url": "https://ppc.land/italy-fines-meta-eur805m-over-photo-galleries-as-openai-hands-agents-a-wallet/",
+   "source": "PPC Land",
+   "published": "2026-11-15T07:37:42+00:00",
+   "why": "Why it matters for Geniuslink: OpenAI launched ChatGPT Wallet (US Pro users first) so its agents can pay merchants, and told merchants not to block those agents. When an agent does the buying, the shopper may never click a normal link, so it's worth watching how credit for those sales gets tracked."
+  },
+  {
+   "title": "Media Buying Briefing: Buyers grapple with incoming Amazon reporting changes",
+   "url": "https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/",
+   "source": "Digiday",
+   "published": "2026-11-16T05:01:00+00:00",
+   "why": "Why it matters for Geniuslink: From 1 Jan Amazon will count display impressions only when they actually show on screen, which it estimates means about 63% fewer reported impressions (Google is doing the same in February). Big platforms are changing how they count, so year-on-year comparisons for Amazon traffic and ads will look odd early next year."
+  },
+  {
+   "title": "TikTok ties its new Premier creator partner badge to TikTok One",
+   "url": "https://ppc.land/tiktok-ties-its-new-premier-creator-partner-badge-to-tiktok-one/",
+   "source": "PPC Land",
+   "published": "2026-11-15T19:32:14+00:00",
+   "why": "Why it matters for Geniuslink: TikTok is pulling brand-creator deals deeper into its own marketplace. Each platform wants creator money to flow through its own tools, which raises the value of anything that works across all of them."
+  },
+  {
+   "title": "Amazon puts Sponsored Products ads inside Audible, free during beta",
+   "url": "https://ppc.land/amazon-puts-sponsored-products-ads-inside-audible-free-during-beta/",
+   "source": "PPC Land",
+   "published": "2026-11-15T19:30:47+00:00",
+   "why": "Why it matters for Geniuslink: Amazon is adding paid placements inside Audible, a major home for book buyers. Paid slots inside the store compete with recommendation links for the same attention, which matters for authors and book links."
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Google's AI search overhaul exposes a bigger problem: measuring digital traffic",
+     "url": "https://www.storyboard18.com/how-it-works/google-search-console-tracks-ai-visibility-but-traffic-attribution-lags-ws-l-114761.htm",
+     "source": "Storyboard18",
+     "published": "2026-11-15T05:01:01+00:00",
+     "summary": "Search Console now shows AI visibility, but attribution of the traffic still lags."
+    },
+    {
+     "title": "How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations",
+     "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/",
+     "source": "Digiday",
+     "published": "2026-11-16T05:01:00+00:00"
+    },
+    {
+     "title": "Big Brands Have Forgotten How To Advertise; How Many Ads Can A Chatbot Chuck?",
+     "url": "https://www.adexchanger.com/daily-news-roundup/big-brands-have-forgotten-how-to-advertise-how-many-ads-can-a-chatbot-chuck/",
+     "source": "AdExchanger",
+     "published": "2026-11-16T05:03:31+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Commerce Robotics launches CommerceRobo Shopify Connect for Rakuten-Shopify sync",
+     "url": "https://natlawreview.com/press-releases/commerce-robotics-launches-commercerobo-shopify-connect-rakuten-shopify-sync",
+     "source": "The National Law Review (press release)",
+     "published": "2026-11-15T10:30:10+00:00"
+    },
+    {
+     "title": "Substack job listing hints at a bigger advertising push in 2027",
+     "url": "https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/",
+     "source": "Digiday",
+     "published": "2026-11-16T05:01:00+00:00"
+    },
+    {
+     "title": "How brands are banking on live shopping this holiday season",
+     "url": "https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/",
+     "source": "Digiday",
+     "published": "2026-11-16T05:01:00+00:00"
+    },
+    {
+     "title": "Most retail media networks shouldn't exist. Here's how they can prove their worth",
+     "url": "https://www.adexchanger.com/data-driven-thinking/most-retail-media-networks-shouldnt-exist-heres-how-they-can-prove-their-worth/",
+     "source": "AdExchanger",
+     "published": "2026-11-16T05:35:41+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "H.I.G. Capital launches Waveborn to acquire creator-economy companies",
+     "url": "https://jawlah.co/en/68174",
+     "source": "jawlah.co",
+     "published": "2026-11-15T11:39:29+00:00",
+     "summary": "Private equity platform starting with the acquisition of Jake Rosen Entertainment."
+    },
+    {
+     "title": "YouTube swaps Skip for Next on some ads as Amazon puts ads inside Audible",
+     "url": "https://ppc.land/youtube-swaps-skip-for-next-on-some-ads-as-amazon-puts-ads-inside-audible/",
+     "source": "PPC Land",
+     "published": "2026-11-16T05:43:49+00:00"
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "Why are young people choosing books through TikTok?",
+     "url": "https://www.vietnam.vn/en/vi-sao-gioi-tre-chon-sach-qua-tiktok",
+     "source": "Vietnam.vn",
+     "published": "2026-11-15T10:22:42+00:00"
+    }
+   ]
+  }
+ ]
+}
