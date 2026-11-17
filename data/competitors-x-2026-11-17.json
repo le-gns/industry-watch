@@ -1,0 +1,46 @@
+{
+ "posts": [
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-11-16T15:14:56Z",
+   "url": "https://x.com/amazonnews/status/2122347694836400530",
+   "text": "Robert Pattinson is the new James Bond https://t.co/MwOZMT69wb"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-11-16T14:02:28Z",
+   "url": "https://x.com/amazonnews/status/2122329456274469332",
+   "text": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-11-17T05:32:54Z",
+   "url": "https://x.com/goodreads/status/2122563610174206365",
+   "text": "All the nominees in this year's Goodreads Choice Awards! Which books are you choosing? Vote here! #GoodreadsChoice"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-11-16T13:40:01Z",
+   "url": "https://x.com/goodreads/status/2122323807171953119",
+   "text": "What are you currently reading?"
+  },
+  {
+   "handle": "Draft2Digital",
+   "competitor": "books2read",
+   "created_at": "2026-11-16T20:31:37Z",
+   "url": "https://x.com/Draft2Digital/status/2122427391263834585",
+   "text": "If you're getting unprompted emails from industry insiders offering you business opportunities, you may be dealing with a bad actor. Dale Roberts talks about common scams targeting YouTube commenters."
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-11-16T20:00:00Z",
+   "url": "https://x.com/YouTubeCreators/status/2122419434933321746",
+   "text": "congrats to the YouTube creators and brand partnerships named finalists for the first-ever @The_Clios Creator Awards. watch live November 18 at 5pm PT."
+  }
+ ]
+}

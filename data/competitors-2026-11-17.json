@@ -1,0 +1,469 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T08:29:17.659854+00:00",
+ "item_count": 46,
+ "feeds_ok": 93,
+ "feeds_failed": 10,
+ "items": [
+  {
+   "title": "Sustainable growth starts with understanding what’s actually driving it. Our CRO Lauren Newman shared a similar idea in this Forbes Business Development Council…",
+   "url": "https://www.linkedin.com/posts/usebutton_sustainable-growth-starts-with-understanding-activity-7528153797228081152-R-1B",
+   "source": "LinkedIn · Button",
+   "competitor": "button",
+   "feed_id": "li-button",
+   "type": "social",
+   "published": "2026-11-16T17:55:31.591000+00:00",
+   "snippet": "Sustainable growth starts with understanding what’s actually driving it. Our CRO Lauren Newman shared a similar idea in this Forbes Business Development Council piece: sustainable growth comes from aligning daily actions with long-term goals, and holding yourself accountable to both. At Button, that"
+  },
+  {
+   "title": "Watch Arnold Schwarzenegger in Prime’s new holiday ad",
+   "url": "https://www.aboutamazon.com/news/retail/arnold-schwarzenegger-amazon-holiday-ad-santa",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-16T13:30:09+00:00",
+   "snippet": "“The Man with the Bag” star goes undercover as Santa Claus in New York City in Prime’s 2026 holiday ad, “Santa Schwarzenegger.”"
+  },
+  {
+   "title": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs",
+   "url": "https://www.aboutamazon.com/news/company-news/amazon-puerto-rico-delivery-station-dorado",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-16T13:30:11+00:00",
+   "snippet": "The Dorado site cuts San Juan–area delivery times from up to two weeks to about two days and adds more than 100 jobs and about 300 driver roles."
+  },
+  {
+   "title": "How DoorDash is using AWS to teach a delivery robot the rules of the road",
+   "url": "https://www.aboutamazon.com/stories/doordash-aws-autonomous-delivery-robot",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-16T14:00:06+00:00",
+   "snippet": "DoorDash Labs engineers are using Amazon Web Services to pack all the capabilities of an autonomous car into a robot a fraction of the size."
+  },
+  {
+   "title": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs",
+   "url": "https://x.com/amazonnews/status/2122329456274469332",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-16T14:02:28Z",
+   "snippet": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs"
+  },
+  {
+   "title": "Robert Pattinson is the new James Bond",
+   "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-16T15:00:15+00:00",
+   "snippet": "Denis Villeneuve is directing the Amazon MGM Studios film from a script by Steven Knight, with Amy Pascal and David Heyman producing and Tanya Lapointe executive producing."
+  },
+  {
+   "title": "Robert Pattinson is the new James Bond https://t.co/MwOZMT69wb",
+   "url": "https://x.com/amazonnews/status/2122347694836400530",
+   "source": "X @amazonnews",
+   "competitor": "amazon",
+   "feed_id": "x-amazonnews",
+   "type": "social",
+   "published": "2026-11-16T15:14:56Z",
+   "snippet": "Robert Pattinson is the new James Bond https://t.co/MwOZMT69wb"
+  },
+  {
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+   "source": "TechCrunch",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-16T17:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Instagram Will Let Creators Add Amazon Affiliate Links Directly To Their Posts And Reels",
+   "url": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+   "source": "Engadget",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-16T17:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Instagram Adds Amazon Affiliate Links to Reels and Feed Posts",
+   "url": "https://www.tokenpost.com/news/business/58629",
+   "source": "www.tokenpost.com",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-16T17:07:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Instagram Adds Amazon Affiliate Links to Reels and Feed Posts Ahead of Holiday Season",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBcXlZWFRDS2o0aUZDemlFaUlVNVU2SG1XVnoyUlJDZ0xaSGFUMlg3aTh6ZGRGQndHSGhPT0xYNFBGdnd4RjZOWHZNRFIxWVBOaFhaLXl6dHM3UjBDSXQ2UnNmamN2N0NiOFlKeGV6RDhzd1ZrcEE?oc=5",
+   "source": "BigGo Finance",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-16T17:25:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Watch the teaser trailer for ‘Beast Games’ Season 3, coming to Prime Video December 16",
+   "url": "https://www.aboutamazon.com/news/entertainment/mr-beast-prime-video-beast-games-season-three",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-16T17:47:38+00:00",
+   "snippet": "MrBeast's competition series goes global, with competitors from 196 nations battling for $5 million."
+  },
+  {
+   "title": "Instagram Finally Allows Creators Add Amazon Affiliate Links Directly to Reels and Posts",
+   "url": "https://windowsreport.com/instagram-finally-allows-creators-add-amazon-affiliate-links-directly-to-reels-and-posts/",
+   "source": "Windows Report",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-17T01:04:56+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Instagram brings Amazon affiliate links to Reels and posts with zero commission cut",
+   "url": "https://www.adgully.com/post/23902/instagram-brings-amazon-affiliate-links-to-reels-and-posts-with-zero-commission-cut",
+   "source": "Adgully",
+   "competitor": "amazon",
+   "feed_id": "gn-amazon",
+   "type": "news",
+   "published": "2026-11-17T04:02:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Inside Amazon’s new Tokyo office with views of Japan's iconic Tokyo Tower",
+   "url": "https://www.aboutamazon.com/news/amazon-offices/amazon-tokyo-office-photos",
+   "source": "aboutamazon.com",
+   "competitor": "amazon",
+   "feed_id": "rss-amazon-0",
+   "type": "blog",
+   "published": "2026-11-17T06:00:00+00:00",
+   "snippet": "Amazon's new home in Japan draws on the four seasons, garden traditions, and washi walls hand-dyed by employees."
+  },
+  {
+   "title": "Paddy Galloway dives deep with us on Video A/B, Ask Studio, and evolving over time",
+   "url": "https://blog.youtube/creator-and-artist-stories/creator-insider-paddy-galloway-youtube-ab-testing-ask-studio/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-11-16T17:30:00+00:00",
+   "snippet": "Paddy Galloway and YouTube's Amjad Hanif and Rene Ritchie explore how Dynamic Thumbnails and Video A/B testing help creators optimize retention."
+  },
+  {
+   "title": "There from the start: YouTube Music celebrates Latin artists at Latin GRAMMY® 2026",
+   "url": "https://blog.youtube/news-and-events/youtube-latin-music-las-vegas-2026/",
+   "source": "blog.youtube",
+   "competitor": "ytshopping",
+   "feed_id": "rss-ytshopping-0",
+   "type": "blog",
+   "published": "2026-11-16T18:00:00+00:00",
+   "snippet": "Discover how YouTube celebrated Latin music week in Las Vegas, honoring Sandra Jimenez, hosting Daddy Yankee, and championing breakthrough artists worldwide."
+  },
+  {
+   "title": "congrats to the YouTube creators and brand partnerships named finalists for the first-ever @The_Clios Creator Awards. watch live November 18 at 5pm PT.",
+   "url": "https://x.com/YouTubeCreators/status/2122419434933321746",
+   "source": "X @YouTubeCreators",
+   "competitor": "ytshopping",
+   "feed_id": "x-YouTubeCreators",
+   "type": "social",
+   "published": "2026-11-16T20:00:00Z",
+   "snippet": "congrats to the YouTube creators and brand partnerships named finalists for the first-ever @The_Clios Creator Awards. watch live November 18 at 5pm PT."
+  },
+  {
+   "title": "'Ultimate Shopping Companion': YouTube Shopping Lands In Australia To Improve Creator-Led Selling",
+   "url": "https://www.bandt.com.au/ultimate-shopping-companion-youtube-shopping-lands-in-australia/",
+   "source": "B&T",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T01:39:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Introducing the YouTube Shopping affiliate program in Australia",
+   "url": "https://blog.google/intl/en-au/products/connect-communicate/youtube-shopping-affiliate-program-in-australia/",
+   "source": "blog.google",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T02:17:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "YouTube Shopping launches in Australia, teaming up with Amazon",
+   "url": "https://www.mediaweek.com.au/youtube-shopping-launches-in-australia-teaming-up-with-amazon-com-au",
+   "source": "Mediaweek",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T02:47:48+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Meesho partners with YouTube Shopping to boost creator commerce across India",
+   "url": "https://www.adgully.com/post/23923/meesho-partners-with-youtube-shopping-to-boost-creator-commerce-across-india",
+   "source": "Adgully",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T06:16:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Meesho targets 2 lakh creators on YouTube Shopping; opens 30 million products for affiliate commerce",
+   "url": "http://retail.economictimes.indiatimes.com/amp/news/e-commerce/e-tailing/meesho-targets-2-lakh-creators-on-youtube-shopping-opens-30-million-products-for-affiliate-commerce/135913348",
+   "source": "ET Retail",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T06:18:10+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Meesho partners with YouTube Shopping to expand creator affiliate opportunities",
+   "url": "https://www.socialsamosa.com/industry-updates/meesho-partners-with-youtube-shopping-expand-creator-affiliate-opportunities-12816243",
+   "source": "Social Samosa",
+   "competitor": "ytshopping",
+   "feed_id": "gn-ytshopping",
+   "type": "news",
+   "published": "2026-11-17T06:40:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "If you're getting unprompted emails from industry insiders offering you business opportunities, you may be dealing with a bad actor. Dale Roberts talks about common scams targeting YouTube commenters.",
+   "url": "https://x.com/Draft2Digital/status/2122427391263834585",
+   "source": "X @Draft2Digital",
+   "competitor": "books2read",
+   "feed_id": "x-Draft2Digital",
+   "type": "social",
+   "published": "2026-11-16T20:31:37Z",
+   "snippet": "If you're getting unprompted emails from industry insiders offering you business opportunities, you may be dealing with a bad actor. Dale Roberts talks about common scams targeting YouTube commenters."
+  },
+  {
+   "title": "What are you currently reading?",
+   "url": "https://x.com/goodreads/status/2122323807171953119",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-16T13:40:01Z",
+   "snippet": "What are you currently reading?"
+  },
+  {
+   "title": "Dua Lipa’s November 2026 Service95 Book Club Pick Has Arrived—and Goodreads Readers Are Divided",
+   "url": "https://www.womansworld.com/entertainment/books/dua-lipas-november-book-club-pick-divides-goodreads-readers",
+   "source": "Woman's World",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-16T20:31:53+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "6 Best James Bond Books of All Time, Ranked by Goodreads",
+   "url": "https://fandomwire.com/best-james-bond-books-of-all-time-ranked-by-goodreads/",
+   "source": "FandomWire",
+   "competitor": "goodreads",
+   "feed_id": "gn-goodreads",
+   "type": "news",
+   "published": "2026-11-17T04:41:03+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "All the nominees in this year's Goodreads Choice Awards! Which books are you choosing? Vote here! #GoodreadsChoice",
+   "url": "https://x.com/goodreads/status/2122563610174206365",
+   "source": "X @goodreads",
+   "competitor": "goodreads",
+   "feed_id": "x-goodreads",
+   "type": "social",
+   "published": "2026-11-17T05:32:54Z",
+   "snippet": "All the nominees in this year's Goodreads Choice Awards! Which books are you choosing? Vote here! #GoodreadsChoice"
+  },
+  {
+   "title": "Trump Bitly link redirected to Epstein files Wikipedia page",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sZXFiY2hRU2RveFRLNER3a240eFBrRm1oMlFLNTlwc01BS1laX05MblhpRlpIcElXclZsXzFUX3ZRdVEwN0lRaWk1MWZlOWpacXR2UDVrekR0MG1OZjVj0gFcQVVfeXFMTnFTSmFFaFRXaDdrVk1MTWFscGxpOHBmUWtCckpZS1dYc2tjZzNfdDNobmlINFlna2ZrNHplQzhJUTAxU0doTG9KNTVuTXkzMWg4V1RrcFh3Z1dFLWE?oc=5",
+   "source": "Modern Ghana",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T08:50:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Trump Bitly link redirected to Epstein files Wikipedia page",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xU0phRWhUV2g3a1ZNTE1hbHBsaThwZlFrQnJKWUtXWHNrY2czX3QzaG5pSDRZZ2tmazR6ZUM4SVEwMVNHaExvSjU1bk15MzFoOFdUa3BYd2dXRS1h0gFcQVVfeXFMTnFTSmFFaFRXaDdrVk1MTWFscGxpOHBmUWtCckpZS1dYc2tjZzNfdDNobmlINFlna2ZrNHplQzhJUTAxU0doTG9KNTVuTXkzMWg4V1RrcFh3Z1dFLWE?oc=5",
+   "source": "Modern Ghana",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T08:50:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "McDonald’s and Burger King’s posts silently hijacked by trolls via Bitly exploit",
+   "url": "https://cybernews.com/security/mcdonalds-burger-king-bitly-links-hijacked/",
+   "source": "Cybernews",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T09:34:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "A Bitly Hijacking Turned Burger King And McDonald's 2011 Tweets Into Links to Nazi Camps And 9/11",
+   "url": "https://www.techtimes.co.uk/recreated-bitly-links-burger-king-mcdonalds-tweets-1809960",
+   "source": "www.techtimes.co.uk",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T11:57:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Old Bitly links hijacked in X posts from Trump, McDonald's, Burger King, and others",
+   "url": "https://www.techspot.com/news/114569-old-bitly-links-hijacked-x-posts-trump-mcdonald.html",
+   "source": "TechSpot",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T13:36:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Hijacked Bitly links turn old brand posts into offensive redirects",
+   "url": "https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects",
+   "source": "Malwarebytes",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T14:05:13+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "PSA: Beware of old Bitly links taking you to terrible sites",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0ptdmVOQTRCRG1MX2prdmZKT05PalIyVGRMdXBKajFaZ2dkZmRUQTlCOUhXNEZVSl9uUUI1Mm81RW4xVm02MWpGV2l4V21sNjhkcDhYdmd2ckVkWmNWaDdCNkpKUzhWVTdaeVIzMjRhYlN0Qkl3NHFFYmpEOE0zMGRtRHlQQ3dObl9fNVZLNG1GRlJvbkp3UEFfOFRlTUdGaTQ0?oc=5",
+   "source": "AppleInsider",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T15:43:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bitly Flaw Hijacks Old Trump, Burger King Links on X",
+   "url": "https://hoodline.com/2026/11/old-trump-and-burger-king-links-on-x-hijacked-now-point-to-epstein-files-nazi-camp-list/",
+   "source": "Hoodline",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T17:14:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Decade-old Bitly links were hijacked overnight, chaos ensued",
+   "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
+   "source": "PC Gamer",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T17:21:43+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Decade-old Bitly links were hijacked overnight, chaos ensued",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTQ3YkNsd2I5YmV3SmpuLXZiUlJtYjhBWVF4RVV6emJxV1V6WHE2NlZJNEJ2cFYxa2FvR3BiVXBUYWYybV9ERW9VaDRaY1AwWmthLW11b1REMTFIVXlCS2hIVHRsazNDRXZTVVQ2My1yQ3dJMGo2VUJldzVUWXYzRVQtQ0E0WlFVQUFzTDliMG40dw?oc=5",
+   "source": "Yahoo Tech",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T17:21:43+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Old Bitly Links in Posts from Trump, McDonald’s and Others Quietly Hijacked",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUI5b2dWOTVlTjFGQmdTX0F5ZjV2dmZlZEJMUF92WEQyWnlUblRIZlZRWFNoVV91Y2FRbWtLTVlvQ1k2LXhQS0p0NzdJMF8ybnhNTVlGQVBheVVYY0xYWFJmQUZJLUMwS3oweGNjcU9TNkJ3SDRJbFdsa21SRGh0bmhCQ1NuczRQaTYwbUxtdFZJZHo2NlhwWW9uc0dJMl9iZUFXcA?oc=5",
+   "source": "Gadget Review",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-16T18:28:33+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "An issue has arisen where older Bitly shortened links are being misused in social media posts by Burger King, McDonald's, and President Trump, resulting in links being rewritten to things like 'list of Nazi concentration camps.'",
+   "url": "https://gigazine.net/gsc_news/en/20261116-bitly-link/",
+   "source": "GIGAZINE",
+   "competitor": "bitly",
+   "feed_id": "gn-bitly",
+   "type": "news",
+   "published": "2026-11-17T05:59:45+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Later Hosts First Creator Summit Since Folding Mavely Into Its Brand",
+   "url": "https://www.netinfluencer.com/later-hosts-first-creator-summit-since-folding-mavely-into-its-brand/",
+   "source": "Net Influencer",
+   "competitor": "mavely",
+   "feed_id": "gn-mavely",
+   "type": "news",
+   "published": "2026-11-16T12:26:35+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Big news for LTK Creators! 🎉 LTK links are now available in Instagram Reels, feed posts and carousels through Meta’s new Add products feature. This means more w…",
+   "url": "https://www.linkedin.com/posts/shopltk_big-news-for-ltk-creators-ltk-links-activity-7528152364474830848-JSAG",
+   "source": "LinkedIn · LTK",
+   "competitor": "ltk",
+   "feed_id": "li-ltk",
+   "type": "social",
+   "published": "2026-11-16T17:49:49.997000+00:00",
+   "snippet": "Big news for LTK Creators! 🎉 LTK links are now available in Instagram Reels, feed posts and carousels through Meta’s new Add products feature. This means more ways for eligible creators to make their content shoppable, connect their audiences with the products they love and turn recommendations into"
+  },
+  {
+   "title": "Instagram Brings Amazon Affiliate Links to Reels and Feed Posts, Adds LTK and ShopMy Collections",
+   "url": "https://www.netinfluencer.com/instagram-amazon-affiliate-links-reels-feed-posts-ltk-shopmy/",
+   "source": "Net Influencer",
+   "competitor": "ltk",
+   "feed_id": "gn-ltk",
+   "type": "news",
+   "published": "2026-11-16T23:44:41+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why Trade Desk Veteran Jed Dederick Joined The Startup ShopMy To Sell Creator Marketing",
+   "url": "https://www.adexchanger.com/commerce/why-trade-desk-veteran-jed-dederick-joined-the-startup-shopmy-to-sell-creator-marketing/",
+   "source": "AdExchanger",
+   "competitor": "shopmy",
+   "feed_id": "gn-shopmy",
+   "type": "news",
+   "published": "2026-11-16T11:40:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Boost your credibility and connect deeper with your audience, all on Linktree. 🔗 up your game with Media Kit, a shareable, auto-updating one pager that sums up …",
+   "url": "https://www.linkedin.com/posts/linktree_boost-your-credibility-and-connect-deeper-activity-7528165323754164226-zmpK",
+   "source": "LinkedIn · Linktree",
+   "competitor": "linktree",
+   "feed_id": "li-linktree",
+   "type": "social",
+   "published": "2026-11-16T18:41:19.730000+00:00",
+   "snippet": "Boost your credibility and connect deeper with your audience, all on Linktree. 🔗 up your game with Media Kit, a shareable, auto-updating one pager that sums up your reach and impact, based on real data 🔗 show off your best work with new Canva connected links. You can showcase your designs front and "
+  }
+ ]
+}

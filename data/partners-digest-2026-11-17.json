@@ -1,0 +1,44 @@
+{
+ "date": "2026-11-17",
+ "summary": [
+  "Walmart Creator turned four. Walmart added Seller Collabs sampling, on-site commissions and one shared Walmart and Sam's Club Creator experience, but still shares no creator or sales numbers.",
+  "impact.com published a piece on B2B influence as the partnership economy's next step.",
+  "CJ, Rakuten, Awin, Partnerize and the bookstores had nothing new."
+ ],
+ "partners": [
+  {
+   "id": "walmart",
+   "name": "Walmart (US)",
+   "items": [
+    {
+     "title": "Walmart Creator turns four, and the creators get the Bentonville tour",
+     "url": "https://ppc.land/walmart-creator-turns-four-and-the-creators-get-the-bentonville-tour/",
+     "source": "PPC Land",
+     "published": "2026-11-16T19:30:00Z",
+     "type": "news",
+     "why": "Retailers keep building their own creator link programs, and that adds more places creators can earn."
+    },
+    {
+     "title": "Bringing Creators Home: Four Years of Walmart Creator",
+     "url": "https://corporate.walmart.com/news/2026/11/bringing-creators-home",
+     "source": "Walmart",
+     "published": "2026-11-16T17:10:00Z",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "Impact (impact.com)",
+   "items": [
+    {
+     "title": "The partnership economy's next frontier is B2B influence",
+     "url": "https://impact.com/?bylines=the-partnership-economys-next-frontier-is-b2b-influence",
+     "source": "impact.com",
+     "published": "2026-11-16T10:19:00Z",
+     "type": "blog"
+    }
+   ]
+  }
+ ]
+}

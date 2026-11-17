@@ -1,0 +1,167 @@
+{
+ "date": "2026-11-17",
+ "intro": "A one-story day: Instagram now puts Amazon affiliate links right inside Reels and feed posts. Little else of note.",
+ "must_reads": [
+  {
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+   "source": "TechCrunch",
+   "published": "2026-11-16T17:00:00Z",
+   "why": "Why it matters for Geniuslink: up to 30 products per Reel, Amazon tags added automatically even on plain product links, no Instagram cut, and Instagram says in-post links get about 2x the clicks of bio links. Platforms are building affiliate links into the app itself and tying them to one retailer. That changes where creators put links and how much they rely on a link-in-bio, and Geniuslink works across retailers and platforms."
+  },
+  {
+   "title": "APMA's new subnetwork code demands publisher-level transparency",
+   "url": "https://hellopartner.com/apmas-new-subnetwork-code-demands-publisher-level-transparency/",
+   "source": "Hello Partner",
+   "published": "2026-11-16T08:46:00Z",
+   "why": "Why it matters for Geniuslink: the UK affiliate trade body now wants every click and sale traced to one named publisher, and wants browser extensions and voucher tools declared. A sign that brands want clearer proof of who drove a sale."
+  },
+  {
+   "title": "Reddit pushes logins as Google's AI answers drain its search traffic",
+   "url": "https://betanews.com/article/google-ai-overviews-reddit-traffic/",
+   "source": "BetaNews",
+   "published": "2026-11-16T19:31:00Z",
+   "why": "Why it matters for Geniuslink: reports say Reddit traffic is down 13%, partly because of Google's AI Overviews. Even the biggest sites lose clicks when AI answers the question, so fewer shoppers reach the pages where product links sit.",
+   "also": {
+    "source": "TechStory",
+    "url": "https://techstory.in/reddits-traffic-is-down-13-partly-thanks-to-googles-ai-overviews/",
+    "paywall": false
+   }
+  },
+  {
+   "title": "HarperCollins' TikTok sales are growing. The missing figure is profit",
+   "url": "https://tomorrowspublisher.today/news/harpercollins-tiktok-sales-are-growing-the-missing-figure-is-profit-manual-2026-11-17-live-bookshops/index.html",
+   "source": "Tomorrow's Publisher",
+   "published": "2026-11-17T04:55:00Z",
+   "why": "Why it matters for Geniuslink: big publishers keep selling books inside TikTok, but whether it pays is still unclear. Book sales are spreading across more stores, which is the multi-store world booklinker is built for."
+  },
+  {
+   "title": "LinkedIn adds monetization tab to profile analytics",
+   "url": "https://www.socialmediatoday.com/news/linkedin-adds-monetization-tab-to-profile-analytics/874821/",
+   "source": "Social Media Today",
+   "published": "2026-11-16T21:26:00Z",
+   "why": "Why it matters for Geniuslink: LinkedIn is building creator earning tools too. More platforms want creators earning inside them, and each sets its own rules for links."
+  }
+ ],
+ "sections": [
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+     "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+     "source": "WIRED",
+     "published": "2026-11-16T17:00:00Z",
+     "summary": "Instagram tells Wired it doesn't expect a sudden flood of shopping content."
+    },
+    {
+     "title": "Instagram adds Amazon affiliate links",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/",
+     "source": "Social Media Today",
+     "published": "2026-11-16T21:12:00Z"
+    },
+    {
+     "title": "YouTube expands AI-powered creative chatbot to all mobile users",
+     "url": "https://www.socialmediatoday.com/news/youtube-expands-ai-powered-creative-chatbot-to-all-mobile-users/874802/",
+     "source": "Social Media Today",
+     "published": "2026-11-16T19:03:00Z"
+    },
+    {
+     "title": "YouTube Adds Estimated TV Co-Views to Public View Counts",
+     "url": "https://www.netinfluencer.com/youtube-adds-estimated-tv-co-views-to-public-view-counts/",
+     "source": "Net Influencer",
+     "published": "2026-11-16T21:33:00Z"
+    },
+    {
+     "title": "Nectar Launches AI Agent to Automate Brand Creator Programs",
+     "url": "https://www.netinfluencer.com/nectar-launches-ai-agent-to-automate-brand-creator-programs/",
+     "source": "Net Influencer",
+     "published": "2026-11-16T12:24:00Z"
+    },
+    {
+     "title": "HYDP's Stefani Stamatiou Wants Brands Out of the Campaign Loop and Into Performance-Priced Creator Programs",
+     "url": "https://www.netinfluencer.com/hydp-stefani-stamatiou-wants-brands-out-of-the-campaign-loop-and-into-performance-priced-creator-programs/",
+     "source": "Net Influencer",
+     "published": "2026-11-16T12:30:00Z"
+    },
+    {
+     "title": "What exactly counts as a creator? The industry still can't agree",
+     "url": "https://digiday.com/marketing/what-exactly-counts-as-a-creator-the-industry-still-cant-agree/",
+     "source": "Digiday",
+     "published": "2026-11-17T05:01:00Z"
+    },
+    {
+     "title": "Anatomy of an influencer marketing deal",
+     "url": "https://digiday.com/future-of-tv/anatomy-of-an-influencer-marketing-deal/",
+     "source": "Digiday",
+     "published": "2026-11-17T05:01:00Z"
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Repeat Purchase Is a Team Sport: Rethinking Affiliate After Black Friday",
+     "url": "https://www.affiversemedia.com/black-friday-repeat-purchases/",
+     "source": "Affiverse Media",
+     "published": "2026-11-16T11:40:00Z"
+    },
+    {
+     "title": "H.I.G. buys JRE to build a private equity creator agency group",
+     "url": "https://hellopartner.com/h-i-g-buys-jre-to-build-a-private-equity-creator-agency-group/",
+     "source": "Hello Partner",
+     "published": "2026-11-16T09:01:00Z",
+     "summary": "Follow-up to yesterday's Waveborn news: the first deal."
+    },
+    {
+     "title": "WeShop Launches in the U.S. with Double ShareBack Rewards and Over 750 Retailers",
+     "url": "https://www.manilatimes.net/2026/11/16/tmt-newswire/globenewswire/weshop-launches-in-the-us-kicks-off-holiday-season-with-double-shareback-rewards-and-over-750-retailers-making-shopping-more-rewarding/",
+     "source": "The Manila Times (GlobeNewswire)",
+     "published": "2026-11-16T12:16:00Z"
+    }
+   ]
+  },
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "LVMH's 17 media brands sign with OpenAI, price not on the label",
+     "url": "https://ppc.land/lvmhs-17-media-brands-sign-with-openai-price-not-on-the-label/",
+     "source": "PPC Land",
+     "published": "2026-11-16T21:29:00Z"
+    },
+    {
+     "title": "California state AG sues OpenAI over rogue agent incidents",
+     "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+     "source": "TechCrunch",
+     "published": "2026-11-16T20:07:00Z",
+     "summary": "Legal pressure on AI agents just as agent shopping is being pushed."
+    },
+    {
+     "title": "The7stars combines AI discovery, search, social, commerce and conversion in new proposition",
+     "url": "https://uk.themedialeader.com/the7stars-combines-ai-discovery-search-social-commerce-and-conversion-in-new-proposition/",
+     "source": "The Media Leader UK",
+     "published": "2026-11-16T07:00:00Z"
+    }
+   ]
+  },
+  {
+   "name": "Reddit",
+   "items": [
+    {
+     "title": "Creator Ads Meta IG",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xy8bhh/creator_ads_meta_ig/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-17T02:11:00Z"
+    },
+    {
+     "title": "Found Another Thief",
+     "url": "https://www.reddit.com/r/Amazon_Influencer/comments/1xxy19z/found_another_thief/",
+     "source": "r/Amazon_Influencer",
+     "published": "2026-11-16T19:05:00Z"
+    }
+   ]
+  }
+ ]
+}

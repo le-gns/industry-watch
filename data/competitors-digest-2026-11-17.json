@@ -1,0 +1,144 @@
+{
+ "date": "2026-11-17",
+ "summary": [
+  "Instagram's new Add products tool takes full LTK and ShopMy collection links as well as Amazon links (US and Canada), so link-in-bio and storefront players now plug straight into Reels and posts.",
+  "YouTube Shopping's affiliate program launched in Australia with Amazon.com.au, and its tags auto-localise links and currency for overseas viewers. Meesho in India is opening 30 million products to YouTube Shopping creators.",
+  "Follow-up coverage of the old Bitly link hijack spread to Malwarebytes, PC Gamer and others.",
+  "Lasso and URLgenius were quiet. Button posted only a LinkedIn thought piece, and Amazon's own news is the Instagram integration (see Industry Watch)."
+ ],
+ "competitors": [
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "items": [
+    {
+     "title": "Sustainable growth starts with understanding what's actually driving it (CRO Lauren Newman, Forbes Business Development Council)",
+     "url": "https://www.linkedin.com/posts/usebutton_sustainable-growth-starts-with-understanding-activity-7528153797228081152-R-1B",
+     "source": "LinkedIn · Button",
+     "published": "2026-11-16T17:55:00Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "items": [
+    {
+     "title": "Introducing the YouTube Shopping affiliate program in Australia",
+     "url": "https://blog.google/intl/en-au/products/connect-communicate/youtube-shopping-affiliate-program-in-australia/",
+     "source": "blog.google",
+     "published": "2026-11-17T02:17:00Z",
+     "type": "product",
+     "why": "Amazon.com.au is the launch partner, and YouTube's universal shopping tags show each viewer their local store and currency. That's link localisation built into the platform."
+    },
+    {
+     "title": "Meesho partners with YouTube Shopping to expand creator affiliate opportunities",
+     "url": "https://www.socialsamosa.com/industry-updates/meesho-partners-with-youtube-shopping-expand-creator-affiliate-opportunities-12816243",
+     "source": "Social Samosa",
+     "published": "2026-11-17T06:40:00Z",
+     "type": "news",
+     "also": {
+      "source": "ET Retail",
+      "url": "http://retail.economictimes.indiatimes.com/amp/news/e-commerce/e-tailing/meesho-targets-2-lakh-creators-on-youtube-shopping-opens-30-million-products-for-affiliate-commerce/",
+      "paywall": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "items": [
+    {
+     "title": "LTK links are now available in Instagram Reels, feed posts and carousels through Meta's new Add products feature",
+     "url": "https://www.linkedin.com/posts/shopltk_big-news-for-ltk-creators-ltk-links-activity-7528152364474830848-JSAG",
+     "source": "LinkedIn · LTK",
+     "published": "2026-11-16T17:49:00Z",
+     "type": "social"
+    },
+    {
+     "title": "Instagram Brings Amazon Affiliate Links to Reels and Feed Posts, Adds LTK and ShopMy Collections",
+     "url": "https://www.netinfluencer.com/instagram-amazon-affiliate-links-reels-feed-posts-ltk-shopmy/",
+     "source": "Net Influencer",
+     "published": "2026-11-16T23:44:00Z",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "shopmy",
+   "name": "ShopMy",
+   "items": [
+    {
+     "title": "Why Trade Desk Veteran Jed Dederick Joined The Startup ShopMy To Sell Creator Marketing",
+     "url": "https://www.adexchanger.com/commerce/why-trade-desk-veteran-jed-dederick-joined-the-startup-shopmy-to-sell-creator-marketing/",
+     "source": "AdExchanger",
+     "published": "2026-11-16T11:40:00Z",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "mavely",
+   "name": "Mavely",
+   "items": [
+    {
+     "title": "Later Hosts First Creator Summit Since Folding Mavely Into Its Brand",
+     "url": "https://www.netinfluencer.com/later-hosts-first-creator-summit-since-folding-mavely-into-its-brand/",
+     "source": "Net Influencer",
+     "published": "2026-11-16T12:26:00Z",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "bitly",
+   "name": "Bitly",
+   "items": [
+    {
+     "title": "Hijacked Bitly links turn old brand posts into offensive redirects",
+     "url": "https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects",
+     "source": "Malwarebytes",
+     "published": "2026-11-16T14:05:00Z",
+     "type": "news",
+     "why": "Follow-up to yesterday. Old short links are only as safe as the company behind them."
+    },
+    {
+     "title": "Decade-old Bitly links were hijacked overnight, chaos ensued",
+     "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
+     "source": "PC Gamer",
+     "published": "2026-11-16T17:21:00Z",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "linktree",
+   "name": "Linktree",
+   "items": [
+    {
+     "title": "Linktree promotes Media Kit, an auto-updating one-pager for creators",
+     "url": "https://www.linkedin.com/posts/linktree_boost-your-credibility-and-connect-deeper-activity-7528165323754164226-zmpK",
+     "source": "LinkedIn · Linktree",
+     "published": "2026-11-16T18:41:00Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "items": [
+    {
+     "title": "All the nominees in this year's Goodreads Choice Awards",
+     "url": "https://x.com/goodreads/status/2122563610174206365",
+     "source": "X @goodreads",
+     "published": "2026-11-17T05:32:54Z",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}
