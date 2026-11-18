@@ -1,0 +1,39 @@
+{
+ "posts": [
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-11-17T16:47:42.000Z",
+   "url": "https://x.com/amazonnews/status/2122733426918776864",
+   "text": "https://t.co/Q7S509RXJ9"
+  },
+  {
+   "handle": "amazonnews",
+   "competitor": "amazon",
+   "created_at": "2026-11-17T15:29:37.000Z",
+   "url": "https://x.com/amazonnews/status/2122713777531465986",
+   "text": "https://t.co/VUxIFiaQLy"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-11-17T13:40:00.000Z",
+   "url": "https://x.com/goodreads/status/2122686191195578752",
+   "text": "Pro tip: one of the best parts about the Goodreads Choice Awards is discovering great new books from the nominees 😁"
+  },
+  {
+   "handle": "goodreads",
+   "competitor": "goodreads",
+   "created_at": "2026-11-17T05:32:54.000Z",
+   "url": "https://x.com/goodreads/status/2122563610174206365",
+   "text": "All the nominees in this year's Goodreads Choice Awards! (Y'know, now that we can post this many images.)\n\nWhich books are you choosing? Vote here! https://t.co/sU0rg6rUIp\n\n#GoodreadsChoice #GoodreadsChoiceAwards https://t.co/dOaozMu1oY"
+  },
+  {
+   "handle": "YouTubeCreators",
+   "competitor": "ytshopping",
+   "created_at": "2026-11-17T21:05:00.000Z",
+   "url": "https://x.com/YouTubeCreators/status/2122798182010593753",
+   "text": "tags &gt; description links. in a July 2026 experiment, videos saw over 2x more clicks on products using product tags alone than using description links alone 🛍️"
+  }
+ ]
+}

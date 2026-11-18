@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-18",
+ "summary": [
+  "Partnerize's CPTO pushed the 'visibility isn't value' line: AI visibility tools don't show whether zero-click AI answers drive any sales.",
+  "Rakuten Advertising launched 'The Full Picture' report on better partnership decisions, and shared Brazil data that 92% of Gen Z notice when creators use AI.",
+  "CJ posted on how affiliate managers find their best publishers, beyond referrals and manual scrolling.",
+  "Retail partners were quiet on affiliate or creator news; most posts were Black Friday or company updates."
+ ],
+ "partners": [
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Partnerize at BRXND.ai NYC: visibility isn't value, closing the zero-click gap",
+     "url": "https://www.linkedin.com/posts/partnerize_visibility-isnt-value-closing-the-zero-click-activity-7528566391764017152-pzaU",
+     "source": "LinkedIn \u00b7 Partnerize",
+     "published": "2026-11-17T21:15:01.795000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "Rakuten Advertising launches 'The Full Picture' report: better decisions, not more data",
+     "url": "https://www.linkedin.com/posts/rakutenadvertising_partnershipmarketing-affiliatemarketing-activity-7528500724108800000--5_j",
+     "source": "LinkedIn \u00b7 Rakuten Advertising",
+     "published": "2026-11-17T16:54:05.406000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "Rakuten Advertising Brazil: 92% of Gen Z have noticed creators using AI; how to be open about it",
+     "url": "https://pt.linkedin.com/posts/rakutenadvertising_transpar%C3%AAncia-em-ia-e-confian%C3%A7a-em-criadores-activity-7528546254293880832-AehK",
+     "source": "LinkedIn \u00b7 Rakuten Advertising",
+     "published": "2026-11-17T19:55:00.648000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ: how affiliate managers find their best-performing publishers",
+     "url": "https://www.linkedin.com/posts/commission-junction_connectedcommerce-affiliate-affiliatemarketing-activity-7528502242828677121-Gupz",
+     "source": "LinkedIn \u00b7 CJ",
+     "published": "2026-11-17T17:00:07.497000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "date": "2026-11-18",
+ "summary": [
+  "YouTube says product tags got over 2x more clicks than description links in a July 2026 experiment, a clear push to keep shopping inside YouTube's own tools.",
+  "Meesho coverage keeps growing: India's marketplace is opening 30 million products to YouTube Shopping creators. More Australia launch coverage also landed.",
+  "Button's CEO argued at an ADWEEK/Pinterest event that creators are a commerce channel, not just talent. LTK shared a creator case study claiming 478% year-on-year GMV growth.",
+  "Lasso and URLgenius were quiet, and Amazon's own news was not about its affiliate tools."
+ ],
+ "competitors": [
+  {
+   "id": "button",
+   "name": "Button / Posttap",
+   "priority": true,
+   "items": [
+    {
+     "title": "ADWEEK x Pinterest 'Creator Commerce Equation' talk: CEO Michael Jaconi says creators are a commerce channel, not just talent",
+     "url": "https://www.linkedin.com/posts/usebutton_thank-you-to-adweek-and-pinterest-for-having-activity-7528539751260499968-tmua",
+     "source": "LinkedIn \u00b7 Button",
+     "published": "2026-11-17T19:29:10.204000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "items": [
+    {
+     "title": "YouTube: product tags got 2x+ more product clicks than description links (July 2026 experiment)",
+     "url": "https://x.com/YouTubeCreators/status/2122798182010593753",
+     "source": "X @YouTubeCreators",
+     "published": "2026-11-17T21:05:00.000Z",
+     "why": "YouTube is steering creators away from description links toward its own tags. Off-platform links may get less space, so the data behind which link wins matters more.",
+     "type": "social"
+    },
+    {
+     "title": "Meesho targets 2 lakh creators on YouTube Shopping; opens 30 million products for affiliate commerce",
+     "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meesho-targets-2-lakh-creators-on-youtube-shopping-opens-30-million-products-for-affiliate-commerce/135913348",
+     "source": "ET Retail",
+     "published": "2026-11-17T11:51:26+00:00",
+     "type": "news"
+    },
+    {
+     "title": "Meesho Bets on Creator-Led Commerce With YouTube Shopping Partnership",
+     "url": "https://apparelresources.com/technology-news/retail-tech/meesho-bets-creator-led-commerce-youtube-shopping-partnership/",
+     "source": "Apparel Resources",
+     "published": "2026-11-17T13:40:06+00:00",
+     "type": "news"
+    },
+    {
+     "title": "Google partners with Amazon for YouTube Shopping launch in Australia",
+     "url": "https://eftm.com/2026/11/google-partners-with-amazon-for-youtube-shopping-launch-in-australia-283508/amp",
+     "source": "EFTM",
+     "published": "2026-11-18T00:17:21+00:00",
+     "type": "news"
+    },
+    {
+     "title": "YouTube brings creator-led shopping affiliate program to Australia",
+     "url": "https://www.mi-3.com.au/18-11-2026/youtube-brings-creator-led-shopping-affiliate-program-australia",
+     "source": "Mi-3.com.au.",
+     "published": "2026-11-17T23:29:19+00:00",
+     "type": "news"
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK",
+   "items": [
+    {
+     "title": "LTK case study: two creators post 559 times in 58 days for 478% year-on-year GMV growth",
+     "url": "https://www.linkedin.com/posts/shopltk_559-posts-58-days-478-year-over-year-gmv-activity-7528606971650785280-9lD6",
+     "source": "LinkedIn \u00b7 LTK",
+     "published": "2026-11-17T23:56:16.794000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read",
+   "items": [
+    {
+     "title": "Author Nation 2026 Conference Highlights",
+     "url": "https://www.youtube.com/watch?v=qdHSue8xpGw",
+     "source": "YouTube",
+     "published": "2026-11-17T15:50:20+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "items": [
+    {
+     "title": "Goodreads Choice Award Nominee Called 'Tradwife Meets Shutter Island' Makes TIME\u2019s 2026 Must-Read Books List",
+     "url": "https://www.yahoo.com/entertainment/articles/goodreads-choice-award-nominee-called-224119027.html",
+     "source": "Yahoo",
+     "published": "2026-11-17T22:41:19+00:00",
+     "type": "news"
+    },
+    {
+     "title": "LGBTQ Books to Vote for in the 2026 Goodreads Choice Awards",
+     "url": "https://bookriot.com/lgbtq-books-2026-goodreads-choice-awards/",
+     "source": "Book Riot",
+     "published": "2026-11-17T14:53:43+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}
