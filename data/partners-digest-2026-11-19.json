@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-19",
+ "summary": [
+  "Lowe's is among the retailers (with Amazon and Shein) in coverage of Instagram's growing affiliate link tools.",
+  "CJ posted on incrementality: attribution says who got credit, incrementality asks whether the partner actually caused the sale.",
+  "Partnerize published a Q4 'Holiday Hero' playbook pointing to a projected $318B ecommerce season.",
+  "Other partners were quiet on affiliate news."
+ ],
+ "partners": [
+  {
+   "id": "lowes",
+   "name": "Lowe's",
+   "items": [
+    {
+     "title": "Instagram expands affiliate commerce tools with Amazon, Shein and Lowe's links",
+     "url": "https://tradersunion.com/news/business-wealth/show/4311017-instagram-affiliate-amazon-shein-lowes/",
+     "source": "Traders Union",
+     "published": "2026-11-18T21:57:26+00:00",
+     "type": "news",
+     "why": "Instagram's affiliate links are widening beyond Amazon to more retailers, so creators will have more stores to choose from inside the post."
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "name": "CJ Affiliate",
+   "items": [
+    {
+     "title": "CJ on incrementality: attribution tells you who got credit, incrementality tells you whether the partner drove the sale",
+     "url": "https://www.linkedin.com/posts/commission-junction_incrementality-affiliatemarketing-performancemarketing-activity-7528789130588102656-Eaj8",
+     "source": "LinkedIn · CJ",
+     "published": "2026-11-18T12:00:06.868000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "Become This Year’s Holiday Hero: Your Guide to Conquering Q4",
+     "url": "https://partnerize.com/resources/blog/become-this-years-holiday-hero-your-guide-to-conquering-q4",
+     "source": "partnerize.com",
+     "published": "2026-11-18T14:46:35+00:00",
+     "type": "blog"
+    }
+   ]
+  }
+ ]
+}

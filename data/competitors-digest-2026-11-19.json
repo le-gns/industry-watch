@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-19",
+ "summary": [
+  "Rebrandly merged with IntelligenceBank to form Radiate, joining content approval with branded links, link tracking and attribution in one company. Both brands keep selling separately.",
+  "LTK creators can now tag LTK product links straight into Instagram Reels, posts and carousels through Meta's new Add products feature.",
+  "Beacons added tools to track brand-deal exclusivity periods, contract terms and deadlines. More YouTube Shopping Australia (with Amazon) coverage landed.",
+  "Lasso, URLgenius and Amazon's own tools were quiet; Button only shared a conference soundbite."
+ ],
+ "competitors": [
+  {
+   "id": "rebrandly",
+   "name": "Rebrandly",
+   "items": [
+    {
+     "title": "IntelligenceBank and Rebrandly Merge to Form Radiate, the Content Lifecycle Company for the AI Era",
+     "url": "https://www.prnewswire.com/news-releases/intelligencebank-and-rebrandly-merge-to-form-radiate-the-content-lifecycle-company-for-the-ai-era-302943126.html",
+     "source": "PR Newswire",
+     "published": "2026-11-18T11:00:00+00:00",
+     "type": "news",
+     "why": "A link-tracking company is joining up with a content approval tool, so links become part of a bigger 'from brief to result' system. Link tools keep being bundled into larger marketing platforms."
+    },
+    {
+     "title": "Today we're announcing that Rebrandly is merging with IntelligenceBank to form Radiate, the content lifecycle platform for the AI era. For more than a decade, R…",
+     "url": "https://www.linkedin.com/posts/rebrandly_rebrandly-and-intelligencebank-merge-to-form-activity-7528823370809888769-g-Co",
+     "source": "LinkedIn · Rebrandly",
+     "published": "2026-11-18T14:16:10.373000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ltk",
+   "name": "LTK (LIKEtoKNOW.it)",
+   "items": [
+    {
+     "title": "Creator Commerce Platform LTK Extends Product Tagging To Instagram Reels, Posts",
+     "url": "https://www.netinfluencer.com/creator-commerce-platform-ltk-extends-product-tagging-to-instagram-reels-posts/",
+     "source": "Net Influencer",
+     "published": "2026-11-18T12:15:29+00:00",
+     "type": "news",
+     "why": "Creator link tools are plugging straight into Instagram's new in-post product links, a sign that the shopping link inside the post is becoming the main spot to win."
+    }
+   ]
+  },
+  {
+   "id": "beacons",
+   "name": "Beacons",
+   "items": [
+    {
+     "title": "A small but important update for creators managing brand deals: You can now track exclusivity periods, contract terms, and deadlines directly in Beacons. We've also made it easier to adjust deadlines ",
+     "url": "https://x.com/beaconsai/status/2123164891616034989",
+     "source": "X @beaconsai",
+     "published": "2026-11-18T21:22:11Z",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "ytshopping",
+   "name": "YouTube Shopping",
+   "items": [
+    {
+     "title": "YouTube shopping launches in Australia with Amazon partnership",
+     "url": "https://retailbeauty.com.au/youtube-shopping-launches-in-australia-with-amazon-partnership/",
+     "source": "Retail Beauty",
+     "published": "2026-11-19T01:25:28+00:00",
+     "type": "news"
+    }
+   ]
+  }
+ ]
+}
