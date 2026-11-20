@@ -1,0 +1,223 @@
+{
+ "date": "2026-11-20",
+ "intro": "A fairly quiet day. The big themes: AI agents getting let through websites' bot checks, creators pushing back on Instagram's Amazon links, and retailers' ad businesses growing faster than their shops.",
+ "must_reads": [
+  {
+   "title": "Google tells websites how to wave its AI agent past bot checks",
+   "url": "https://hellopartner.com/google-tells-websites-how-to-wave-its-ai-agent-past-bot-checks/",
+   "source": "Hello Partner",
+   "published": "2026-11-20T08:14:44+00:00",
+   "why": "Why it matters for Geniuslink: Google is asking sites to let its shopping/browsing agent past bot checks. When an agent, not a person, clicks a link, redirects and tracking have to work for it too, or the click and the commission can be lost."
+  },
+  {
+   "title": "Some creators are skeptical of Instagram’s new affiliate program",
+   "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+   "source": "The Verge",
+   "published": "2026-11-19T19:12:30+00:00",
+   "why": "Why it matters for Geniuslink: Creators worry the new Instagram Amazon links pay little and favour one store. That tension shows creators still want links that work across stores and platforms, not just the one a platform picks."
+  },
+  {
+   "title": "Walmart and Target's ad businesses outpace online sales as AI reshapes shopping",
+   "url": "https://hellopartner.com/walmart-and-targets-ad-businesses-outpace-online-sales-as-ai-reshapes-shopping/",
+   "source": "Hello Partner",
+   "published": "2026-11-20T08:05:42+00:00",
+   "why": "Why it matters for Geniuslink: Walmart and Target now grow ads faster than online sales, and Target's AI assistant shoppers buy at about twice the usual rate. Retailers are putting money into their own media and AI, which can shift what they pay creators and affiliates."
+  },
+  {
+   "title": "Levanta adds TikTok Shop creator affiliate management",
+   "url": "https://www.contentgrip.com/levanta-tiktok-shop-affiliates/",
+   "source": "ContentGrip",
+   "published": "2026-11-19T03:44:40+00:00",
+   "why": "Why it matters for Geniuslink: Levanta, which works on Amazon creator and brand attribution, now also manages TikTok Shop affiliates. Attribution tools are spreading across platforms, the same cross-platform space Geniuslink plays in."
+  },
+  {
+   "title": "Creator spend forecast at $116bn, affiliate commissions included",
+   "url": "https://hellopartner.com/creator-spend-forecast-at-116bn-affiliate-commissions-included/",
+   "source": "Hello Partner",
+   "published": "2026-11-19T10:31:12+00:00",
+   "why": "Why it matters for Geniuslink: A new forecast puts creator spending at $116bn, counting affiliate commissions. Affiliate is being counted as part of the creator budget, a sign the two markets are merging."
+  }
+ ],
+ "sections": [
+  {
+   "name": "AI search & shopping",
+   "items": [
+    {
+     "title": "Apple is hiring engineers to build its own AI agent",
+     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+     "source": "The Verge",
+     "published": "2026-11-19T23:13:01+00:00",
+     "summary": "Apple is hiring to build its own AI agent that can browse and use apps for you.",
+     "also": {
+      "source": "The Information",
+      "url": "https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai",
+      "paywall": true
+     }
+    },
+    {
+     "title": "Google gives Gemini the ability to use your Mac for you",
+     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "source": "TechCrunch",
+     "published": "2026-11-19T18:09:11+00:00",
+     "summary": "Gemini can now act on your Mac for you."
+    },
+    {
+     "title": "Google Puts AI Above Ads: 10 New AI Mode Ad Markets",
+     "url": "https://shattered.io/google-ai-mode-ads-10-new-countries-ai-above-search-ads/",
+     "source": "shattered.io",
+     "published": "2026-11-20T03:44:53+00:00",
+     "summary": "Google is putting ads into AI Mode in 10 more countries."
+    },
+    {
+     "title": "Google Turkey AI search measures for publishers",
+     "url": "https://www.neoteo.com/en/turkey-imposes-interim-measures-on-google-ai-search",
+     "source": "NeoTeo",
+     "published": "2026-11-20T05:04:23+00:00",
+     "summary": "Turkey's competition board put interim measures on Google's AI search to protect comparison sites and publishers.",
+     "also": {
+      "source": "Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNOTNGUW5PNFlCeGVCbkFvSFNIUGItdDg5ejVOdTE0Zk5VQ1c5WHBXU2NNOTZDVTBubmFnSHh5dlBvUm1LakRkRXZHWFFBVlV1b1M3QWJHSC1GWWxrUGc4b1JIUjBObkllWElWUzZrV3BNVEhDZzJlcG9qcU5TSktQOVVKb0ZmbnFVRDFRc2pNS1RBeTExNmxpOFB4SXlYa3hqVC1fdmlkRkN1LXVNNnZFemF2OG5GbmphUnBld1J2V0NJMjM1ZU9qRmZRUDBKSWE0V1NST2YwUUZxYkdVS1hoQVZvZEdSRjctTkRfb3BtcnF6MnlCNlVUQUJYRkZ4dHA1WGpzemxDRF9LTHREZnozU0RQYw?oc=5",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Barclays and KPMG paint different pictures of AI deal hunting",
+     "url": "https://hellopartner.com/barclays-and-kpmg-paint-different-pictures-of-ai-deal-hunting/",
+     "source": "Hello Partner",
+     "published": "2026-11-19T10:11:51+00:00",
+     "summary": "One survey says most Black Friday shoppers will use AI to find deals, another says few will."
+    },
+    {
+     "title": "Google Publishes New Guidance for Allowing Google-Agent Website Access",
+     "url": "https://www.affiversemedia.com/google-agent-website-access-guidance/",
+     "source": "Affiverse Media",
+     "published": "2026-11-19T15:30:38+00:00",
+     "summary": "The source guidance behind the Google-Agent story above."
+    }
+   ]
+  },
+  {
+   "name": "Creator economy & social platforms",
+   "items": [
+    {
+     "title": "Sociable: Instagram adds Amazon affiliate links",
+     "url": "https://www.marketingdive.com/news/sociable-instagram-adds-amazon-affiliate-links/875206/",
+     "source": "Marketing Dive",
+     "published": "2026-11-19T17:25:06+00:00",
+     "summary": "Instagram's Amazon affiliate links, plus more social news."
+    },
+    {
+     "title": "Instagram adds Stories editing",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
+     "source": "Social Media Today",
+     "published": "2026-11-19T19:24:49+00:00",
+     "summary": "Instagram Stories can now be edited after posting; affiliate links can be added too.",
+     "also": {
+      "source": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/technology/instagram-story-edit-amazon-affiliate-links-adam-mosseri-meta-enn26111903329",
+      "paywall": false
+     }
+    },
+    {
+     "title": "Millions of views, meagre commissions: Can Instagram's Amazon integration make affiliate marketing pay for creators?",
+     "url": "https://www.storyboard18.com/influencer-marketing/while-the-integration-promises-to-simplify-product-linking-and-create-additional-monetisation-opportunities-creators-say-the-commercial-appeal-of-affiliate-marketing-will-ultimately-depend-on-whether-115047.htm",
+     "source": "Storyboard18",
+     "published": "2026-11-19T03:22:52+00:00",
+     "summary": "Indian creators get millions of views but small commissions; can Instagram's Amazon tie-up fix that?"
+    },
+    {
+     "title": "TikTok Shop reports 55% growth in UK live sales, but what do creators earn?",
+     "url": "https://hellopartner.com/tiktok-shop-reports-55-growth-in-uk-live-sales-but-what-do-creators-earn/",
+     "source": "Hello Partner",
+     "published": "2026-11-20T08:25:35+00:00",
+     "summary": "TikTok Shop UK live sales up 55%, but little on what creators earn."
+    },
+    {
+     "title": "Paid Media Now Drives the Largest Share of Brand-Funded Creator Spending, Report Finds",
+     "url": "https://www.netinfluencer.com/paid-media-now-drives-the-largest-share-of-brand-funded-creator-spending-report-finds/",
+     "source": "Net Influencer",
+     "published": "2026-11-19T12:29:02+00:00",
+     "summary": "Paid boosting of creator content is now the biggest slice of brand creator spend ($52bn)."
+    },
+    {
+     "title": "Why more brands are paying creators to make their ads",
+     "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/",
+     "source": "Digiday",
+     "published": "2026-11-20T05:01:00+00:00",
+     "summary": "Brands are paying creators to make their ads."
+    },
+    {
+     "title": "Gymshark beats Nike and Adidas on creator visibility with half the creators",
+     "url": "https://hellopartner.com/gymshark-beats-nike-and-adidas-on-creator-visibility-with-half-the-creators/",
+     "source": "Hello Partner",
+     "published": "2026-11-20T07:00:00+00:00",
+     "summary": "Gymshark gets more creator visibility than Nike and Adidas with half the creators."
+    },
+    {
+     "title": "Mail Metro Media wants to be its creators' employer and their agent",
+     "url": "https://hellopartner.com/mail-metro-media-wants-to-be-its-creators-employer-and-their-agent/",
+     "source": "Hello Partner",
+     "published": "2026-11-19T10:21:45+00:00",
+     "summary": "Mail Metro Media wants to be its creators' employer and agent."
+    }
+   ]
+  },
+  {
+   "name": "Affiliate industry",
+   "items": [
+    {
+     "title": "Secret Escapes pricing probe highlights risks for affiliates and comparison sites",
+     "url": "https://hellopartner.com/secret-escapes-pricing-probe-highlights-risks-for-affiliates-and-comparison-sites/",
+     "source": "Hello Partner",
+     "published": "2026-11-19T09:57:33+00:00",
+     "summary": "A UK pricing probe into Secret Escapes; the same rules apply to affiliates and comparison sites."
+    },
+    {
+     "title": "Google Brings Tag Manager Features to Existing Google Tag Setups",
+     "url": "https://www.affiversemedia.com/google-tag-manager-unification-2026/",
+     "source": "Affiverse Media",
+     "published": "2026-11-19T12:13:39+00:00",
+     "summary": "Google brings Tag Manager features to existing Google tag setups."
+    },
+    {
+     "title": "Rakuten, Mastercard Link Travel eSIM to Agentic Pay",
+     "url": "https://wisevoter.com/world/2026/11/19/rakuten-mastercard-agentic-travel-payments",
+     "source": "Wisevoter",
+     "published": "2026-11-19T21:09:08+00:00",
+     "summary": "Rakuten and Mastercard link a travel eSIM to agent-led payments."
+    }
+   ]
+  },
+  {
+   "name": "Amazon & retailer programs",
+   "items": [
+    {
+     "title": "2026 Black Friday ads are live: The best deals from Amazon, Costco, Home Depot, Walmart, and more",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc05pLVVFb3RTdUNsdHA2SmE1REc5WEdMX1RleG1MQ0FWLVJadW9jMnlGZ2tIbk45TmVTbVdlU3h1Vm9iSEI0bF91TGtxOVpOeDNudXl4RzRDbFpyOVAyN19ybFA3bVFrOVE2OElrSFp1S1A2ZzV3ZHZfNFdDY1lDZ09xZWlicllvSjVDM2FLNA?oc=5",
+     "source": "Mashable",
+     "published": "2026-11-20T04:24:17+00:00",
+     "summary": "Black Friday ads from Amazon, Walmart, Costco and others are live."
+    }
+   ]
+  },
+  {
+   "name": "Books & publishing",
+   "items": [
+    {
+     "title": "The best Black Friday 2026 Kindle deals for BookTok must-reads (including Sunrise on the Reaping)",
+     "url": "https://www.ladbible.com/lifestyle/black-friday-amazon-kindles-066159-20261119",
+     "source": "LADbible",
+     "published": "2026-11-19T11:59:36+00:00",
+     "summary": "Kindle Black Friday deals, pitched at BookTok readers."
+    },
+    {
+     "title": "'Enemies to lovers', 'whodunit' or 'found family': how narrative tropes are driving book sales",
+     "url": "https://www.todoalicante.es/english/enemies-lovers-whodunit-found-20261119111159-nt_amp.html",
+     "source": "todoalicante.es",
+     "published": "2026-11-19T23:24:14+00:00",
+     "summary": "How tropes like 'enemies to lovers' drive book sales."
+    }
+   ]
+  }
+ ]
+}

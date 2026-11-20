@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-20",
+ "summary": [
+  "impact.com published a guide on choosing affiliate management software.",
+  "Rakuten Advertising shared Brazil research saying influencer marketing drives discovery, not only the last click.",
+  "Partnerize posted quick Q4 holiday tips. Other partners were quiet."
+ ],
+ "partners": [
+  {
+   "id": "impact",
+   "name": "impact.com",
+   "items": [
+    {
+     "title": "The affiliate management software that fits is the one that does the jobs your team can’t keep doing by hand",
+     "url": "https://impact.com/affiliate/how-to-choose-affiliate-management-software/",
+     "source": "impact.com",
+     "published": "2026-11-20T07:21:36+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "rakuten",
+   "name": "Rakuten Advertising",
+   "items": [
+    {
+     "title": "🇧🇷 Marketing de influência nunca foi feito para fechar cada venda. Novas pesquisas da Rakuten Advertising revelam que compradores: ✓ 41,2% pesquisam por mais in…",
+     "url": "https://pt.linkedin.com/posts/rakutenadvertising_marketingdeperformance-influencermarketing-activity-7529151798973100032-_G4_",
+     "source": "LinkedIn · Rakuten Advertising",
+     "published": "2026-11-19T12:01:13.749000+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "partnerize",
+   "name": "Partnerize",
+   "items": [
+    {
+     "title": "The clock is ticking on Q4, but it’s not too late to take action with quick tips that will make you this year’s holiday hero for your business! With US holiday …",
+     "url": "https://www.linkedin.com/posts/partnerize_aidriven-aiinnovation-activity-7529260988546842626-9P5t",
+     "source": "LinkedIn · Partnerize",
+     "published": "2026-11-19T19:15:06.573000+00:00",
+     "type": "social"
+    }
+   ]
+  }
+ ]
+}

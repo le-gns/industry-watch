@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-20",
+ "summary": [
+  "Draft2Digital (Books2Read) ran an Author Nation look-back and posted three more session videos on book marketing.",
+  "Sovrn and Skimlinks are both pushing publishers to get links ready for Black Friday and Cyber Week.",
+  "Skimlinks highlighted wish-list apps like Giftful as a new place where shopping starts.",
+  "More coverage of Instagram's Amazon affiliate links (first reported earlier this week). Lasso, URLgenius and Button were quiet."
+ ],
+ "competitors": [
+  {
+   "id": "amazon",
+   "name": "Amazon",
+   "priority": true,
+   "items": [
+    {
+     "title": "Instagram creators can now add Amazon affiliate links directly to Reels, posts",
+     "url": "https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/",
+     "source": "Retail Dive",
+     "published": "2026-11-19T16:40:58+00:00",
+     "type": "news",
+     "why": "Wider trade coverage of Amazon links inside Instagram; Amazon is growing where its links can live."
+    }
+   ]
+  },
+  {
+   "id": "books2read",
+   "name": "Books2Read / Draft2Digital",
+   "items": [
+    {
+     "title": "With another year of Author Nation in the books, Joseph and Suze Solari join us at the top of the hour to reflect on this year's conference.\n\nhttps://t.co/o22n40DKMp",
+     "url": "https://x.com/Draft2Digital/status/2123474048390942920",
+     "source": "X @Draft2Digital",
+     "published": "2026-11-19T17:50:40.000Z",
+     "type": "social"
+    },
+    {
+     "title": "Gratitude Is a Marketing Strategy: Book Marketing That Gives Before It Asks",
+     "url": "https://www.youtube.com/watch?v=9FYGIayp1Es",
+     "source": "YouTube",
+     "published": "2026-11-19T23:54:17+00:00",
+     "type": "social"
+    },
+    {
+     "title": "Build a Story Map to Hit Your Business Goals",
+     "url": "https://www.youtube.com/watch?v=SXtXuuq77tw",
+     "source": "YouTube",
+     "published": "2026-11-19T23:38:33+00:00",
+     "type": "social"
+    },
+    {
+     "title": "The Best of Both Worlds: Lessons from Trad and Indie Publishing",
+     "url": "https://www.youtube.com/watch?v=ZJt1k7Fio3U",
+     "source": "YouTube",
+     "published": "2026-11-19T23:46:38+00:00",
+     "type": "social"
+    }
+   ]
+  },
+  {
+   "id": "sovrn",
+   "name": "Sovrn",
+   "items": [
+    {
+     "title": "Earn More From Every Holiday Click With Sovrn Links",
+     "url": "https://www.sovrn.com/blog/earn-more-from-every-holiday-click-with-sovrn-links/",
+     "source": "sovrn.com",
+     "published": "2026-11-19T16:26:49+00:00",
+     "type": "blog",
+     "why": "Sovrn is selling its auto-links hard for the holiday peak."
+    },
+    {
+     "title": "Commerce Black Friday Deals & Trending Merchants",
+     "url": "https://www.sovrn.com/blog/black-friday-deals-trending-merchants-2/",
+     "source": "sovrn.com",
+     "published": "2026-11-19T16:00:24+00:00",
+     "type": "blog"
+    }
+   ]
+  },
+  {
+   "id": "skimlinks",
+   "name": "Skimlinks",
+   "items": [
+    {
+     "title": "Your biggest earning days of the year are coming. Make sure your content is ready for all of them! Cyber Week brings a rush of high-intent shoppers, but the opp…",
+     "url": "https://www.linkedin.com/posts/skimlinks_your-biggest-earning-days-of-the-year-are-activity-7529136620789215232-wZBu",
+     "source": "LinkedIn · Skimlinks",
+     "published": "2026-11-19T11:00:54.989000+00:00",
+     "type": "social"
+    },
+    {
+     "title": "Not in the catalog … Not in the mall … Not on Google … For this generation? Irrelevance is not being on Giftful. Wish list apps like Giftful — a Skimlinks exclu…",
+     "url": "https://www.linkedin.com/posts/skimlinks_giftful-activity-7529265297443405824-G2eA",
+     "source": "LinkedIn · Skimlinks",
+     "published": "2026-11-19T19:32:13.894000+00:00",
+     "type": "social",
+     "why": "Gift lists are another place a product link has to work."
+    }
+   ]
+  }
+ ]
+}
